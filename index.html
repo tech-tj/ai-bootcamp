@@ -44,7 +44,7 @@ body {
   background: var(--bg);
   color: var(--text);
   font-family: 'Inter', sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.6;
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
@@ -176,16 +176,16 @@ main { padding-top: var(--nav-h); }
    START SCREEN
 ═══════════════════════════════════════════════════════════ */
 .start-screen {
-  min-height: 100vh;
+  min-height: calc(100vh - var(--nav-h));
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   gap: 0;
-  padding: 40px 24px;
+  padding: 48px 24px 32px;
   text-align: center;
   background:
-    radial-gradient(ellipse 60% 50% at 50% -10%, rgba(124,109,252,0.18) 0%, transparent 70%),
+    radial-gradient(ellipse 60% 40% at 50% 0%, rgba(124,109,252,0.15) 0%, transparent 65%),
     var(--bg);
 }
 
@@ -205,26 +205,26 @@ main { padding-top: var(--nav-h); }
 .start-screen h1 {
   font-family: 'Syne', sans-serif;
   font-weight: 800;
-  font-size: clamp(36px, 5vw, 56px);
-  line-height: 1.1;
+  font-size: clamp(32px, 4vw, 52px);
+  line-height: 1.08;
   letter-spacing: -0.03em;
   color: var(--text);
   margin-bottom: 16px;
-  max-width: 700px;
+  max-width: 640px;
 }
 
 .start-screen .sub {
-  font-size: 17px;
+  font-size: 16px;
   color: var(--muted2);
-  margin-bottom: 40px;
-  max-width: 500px;
+  margin-bottom: 32px;
+  max-width: 480px;
   line-height: 1.7;
 }
 
 .start-stats {
   display: flex;
   gap: 24px;
-  margin-bottom: 48px;
+  margin-bottom: 32px;
   flex-wrap: wrap;
   justify-content: center;
 }
@@ -279,7 +279,7 @@ main { padding-top: var(--nav-h); }
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 12px;
-  margin-top: 64px;
+  margin-top: 36px;
   max-width: 720px;
   width: 100%;
 }
@@ -566,8 +566,8 @@ main { padding-top: var(--nav-h); }
 /* Phase grid */
 .phase-grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 12px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
 }
 
 .phase-card {
@@ -665,6 +665,7 @@ main { padding-top: var(--nav-h); }
   align-items: center;
   gap: 16px;
   background: var(--bg2);
+  border-left: 4px solid var(--phase-color, var(--accent));
 }
 
 .phase-view-header h2 {
@@ -711,7 +712,7 @@ main { padding-top: var(--nav-h); }
 /* Two-pane layout */
 .phase-layout {
   display: grid;
-  grid-template-columns: 340px 1fr;
+  grid-template-columns: 360px 1fr;
   height: calc(100vh - var(--nav-h) - 73px);
 }
 
@@ -734,7 +735,7 @@ main { padding-top: var(--nav-h); }
   display: flex;
   align-items: center;
   gap: 12px;
-  padding: 12px 16px;
+  padding: 14px 16px;
   border-left: 3px solid transparent;
   cursor: pointer;
   transition: background 0.1s;
@@ -780,7 +781,7 @@ main { padding-top: var(--nav-h); }
 .day-item-info { flex: 1; min-width: 0; }
 
 .day-item-title {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 500;
   color: var(--text);
   white-space: nowrap;
@@ -2257,7 +2258,7 @@ function renderPhaseView(phaseId) {
   `).join('');
 
   el.innerHTML = `
-    <div class="phase-view-header">
+    <div class="phase-view-header" style="--phase-color:${phase.color}">
       <div>
         <div class="day-item-status" style="color:${phase.color};margin-bottom:4px;font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:0.06em;text-transform:uppercase">${phase.id.toUpperCase()} · ${phase.weeks}</div>
         <h2>${escHtml(phase.title)}</h2>
@@ -2477,11 +2478,25 @@ function renderTimeline() {
   const st = State.getState();
 
   if (!st.startDate) {
+    const phasePreview = BOOTCAMP_DATA.phases.map(p => `
+      <div style="display:flex;align-items:center;gap:12px;padding:14px 0;border-bottom:1px solid var(--border)">
+        <div style="width:10px;height:10px;border-radius:50%;background:${p.color};flex-shrink:0"></div>
+        <div style="flex:1">
+          <div style="font-size:14px;font-weight:500;color:var(--text)">${escHtml(p.title)}</div>
+          <div style="font-size:12px;color:var(--muted);font-family:'IBM Plex Mono',monospace">${p.weeks} · ${p.days.length} days</div>
+        </div>
+      </div>`).join('');
     el.innerHTML = `
-      <div class="timeline-wrap">
+      <div class="timeline-wrap" style="max-width:560px;margin:0 auto;padding:48px 24px">
         <div class="view-title">Timeline</div>
-        <div class="view-sub">Start the bootcamp to see your adaptive timeline.</div>
-        <button class="btn-primary" onclick="showView('dashboard')">← Back to Dashboard</button>
+        <p style="color:var(--muted2);font-size:15px;margin:8px 0 32px;line-height:1.6">Your adaptive timeline tracks pace across all phases. Start the bootcamp to activate it — skipped days automatically extend your end date.</p>
+        <div style="background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:8px 20px;margin-bottom:32px">
+          ${phasePreview}
+        </div>
+        <div style="display:flex;gap:12px;flex-wrap:wrap">
+          <button class="btn-primary" onclick="showView('dashboard')">← Back to Dashboard</button>
+          <button class="btn-secondary" onclick="showView('dashboard');document.getElementById('start-date-input')?.focus()">Set Start Date</button>
+        </div>
       </div>`;
     return;
   }
@@ -2692,7 +2707,7 @@ function renderResources() {
   el.innerHTML = `
     <div class="resources-wrap">
       <div class="view-title">Resources</div>
-      <p class="view-sub">${totalResources} curated resources across all 4 phases</p>
+      <p class="view-sub">${totalResources} curated resources across all ${BOOTCAMP_DATA.phases.length} phases</p>
       ${groupsHtml}
     </div>
   `;
