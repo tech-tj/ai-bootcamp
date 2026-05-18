@@ -194,6 +194,26 @@ const State = (() => {
     return BOOTCAMP_DATA.phases[BOOTCAMP_DATA.phases.length - 1];
   }
 
+  function getStreak() {
+    const logs = _state.sessionLog
+      .filter(e => e.action === 'complete')
+      .map(e => e.date.split('T')[0])
+      .filter((d, i, arr) => arr.indexOf(d) === i)
+      .sort();
+    if (!logs.length) return 0;
+    const today = new Date().toISOString().split('T')[0];
+    const yesterday = new Date(Date.now() - 864e5).toISOString().split('T')[0];
+    const last = logs[logs.length - 1];
+    if (last !== today && last !== yesterday) return 0;
+    let streak = 1;
+    for (let i = logs.length - 2; i >= 0; i--) {
+      const diff = (new Date(logs[i + 1]) - new Date(logs[i])) / 864e5;
+      if (diff <= 1.5) streak++;
+      else break;
+    }
+    return streak;
+  }
+
   function getState() { return _state; }
 
   function resetAll() {
@@ -217,6 +237,7 @@ const State = (() => {
     getTimeline,
     getUpNext,
     getCurrentPhase,
+    getStreak,
     getState,
     resetAll
   };
