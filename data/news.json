@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-18T09:38:07.089002+00:00",
+  "generated": "2026-05-18T14:51:41.306373+00:00",
   "count": 120,
   "articles": [
     {
@@ -16,14 +16,16 @@
       "weight": 3
     },
     {
-      "id": "4ed1b1b76f19",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "id": "990a39ff7c1a",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "phases": [
-        "p1"
+        "p1",
+        "p3",
+        "p4"
       ],
       "category": "models",
       "weight": 3
@@ -41,21 +43,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "990a39ff7c1a",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
       ],
       "category": "models",
       "weight": 3
@@ -90,6 +77,19 @@
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "4ed1b1b76f19",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -175,19 +175,6 @@
       "weight": 3
     },
     {
-      "id": "efdc3d87f1cd",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "source": "OpenAI",
-      "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "15ea451729b2",
       "title": "What Parameter Golf taught us about AI-assisted research",
       "url": "https://openai.com/index/what-parameter-golf-taught-us",
@@ -197,6 +184,19 @@
       "phases": [
         "p3",
         "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "efdc3d87f1cd",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "source": "OpenAI",
+      "published": "2026-05-12T00:00:00+00:00",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -229,19 +229,6 @@
       "weight": 3
     },
     {
-      "id": "e3d1e8ca7a4b",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "source": "OpenAI",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "7c483a75c783",
       "title": "OpenAI Campus Network: Student club interest form",
       "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
@@ -252,6 +239,19 @@
         "p1"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "e3d1e8ca7a4b",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "source": "OpenAI",
+      "published": "2026-05-11T10:00:00+00:00",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -358,6 +358,19 @@
       "weight": 3
     },
     {
+      "id": "16251d7b149e",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-05-07T00:00:00+00:00",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "15d2a96bac2b",
       "title": "Introducing Trusted Contact in ChatGPT",
       "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
@@ -367,19 +380,6 @@
       "phases": [
         "p1",
         "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "16251d7b149e",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI",
-      "published": "2026-05-07T00:00:00+00:00",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -429,16 +429,17 @@
       "weight": 3
     },
     {
-      "id": "2d7f3b660987",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "id": "49359060f440",
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
       "source": "OpenAI",
       "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
       "phases": [
-        "p1"
+        "p1",
+        "p3"
       ],
-      "category": "models",
+      "category": "research",
       "weight": 3
     },
     {
@@ -455,17 +456,16 @@
       "weight": 3
     },
     {
-      "id": "49359060f440",
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
+      "id": "2d7f3b660987",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
       "source": "OpenAI",
       "published": "2026-05-06T00:00:00+00:00",
-      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
       "phases": [
-        "p1",
-        "p3"
+        "p1"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 3
     },
     {
@@ -512,19 +512,6 @@
       "weight": 3
     },
     {
-      "id": "2fd4f4a9abde",
-      "title": "GPT-5.5 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "source": "OpenAI",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": "",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "05d3c5cd4cae",
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "url": "https://openai.com/index/gpt-5-5-instant",
@@ -539,15 +526,14 @@
       "weight": 3
     },
     {
-      "id": "a486483449d8",
-      "title": "Advancing youth safety and wellbeing in EMEA",
-      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "id": "2fd4f4a9abde",
+      "title": "GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
       "source": "OpenAI",
-      "published": "2026-05-05T00:00:00+00:00",
-      "summary": "Explore OpenAI\u2019s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+      "published": "2026-05-05T10:00:00+00:00",
+      "summary": "",
       "phases": [
-        "p1",
-        "p4"
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -561,6 +547,20 @@
       "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads.",
       "phases": [
         "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "a486483449d8",
+      "title": "Advancing youth safety and wellbeing in EMEA",
+      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "source": "OpenAI",
+      "published": "2026-05-05T00:00:00+00:00",
+      "summary": "Explore OpenAI\u2019s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+      "phases": [
+        "p1",
+        "p4"
       ],
       "category": "models",
       "weight": 3
@@ -863,6 +863,23 @@
       "weight": 3
     },
     {
+      "id": "afb218f7b48c",
+      "title": "How to get started with Codex",
+      "url": "https://openai.com/academy/codex-how-to-start",
+      "source": "OpenAI",
+      "published": "2026-04-23T10:00:00+00:00",
+      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "fce405449565",
       "title": "Top 10 uses for Codex at work",
       "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
@@ -873,6 +890,19 @@
         "p3"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "d363d492e8c4",
+      "title": "Codex settings",
+      "url": "https://openai.com/academy/codex-settings",
+      "source": "OpenAI",
+      "published": "2026-04-23T10:00:00+00:00",
+      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -893,29 +923,12 @@
       "weight": 3
     },
     {
-      "id": "afb218f7b48c",
-      "title": "How to get started with Codex",
-      "url": "https://openai.com/academy/codex-how-to-start",
+      "id": "6e517fdbc329",
+      "title": "Automations",
+      "url": "https://openai.com/academy/codex-automations",
       "source": "OpenAI",
       "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "d363d492e8c4",
-      "title": "Codex settings",
-      "url": "https://openai.com/academy/codex-settings",
-      "source": "OpenAI",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
       "phases": [
         "p3"
       ],
@@ -950,19 +963,6 @@
         "p3"
       ],
       "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "6e517fdbc329",
-      "title": "Automations",
-      "url": "https://openai.com/academy/codex-automations",
-      "source": "OpenAI",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -1024,12 +1024,12 @@
       "weight": 3
     },
     {
-      "id": "3a63ffe19879",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "id": "23b8c7e12156",
+      "title": "Workspace agents",
+      "url": "https://openai.com/academy/workspace-agents",
       "source": "OpenAI",
       "published": "2026-04-22T10:00:00+00:00",
-      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
       "phases": [
         "p1",
         "p3"
@@ -1052,12 +1052,12 @@
       "weight": 3
     },
     {
-      "id": "23b8c7e12156",
-      "title": "Workspace agents",
-      "url": "https://openai.com/academy/workspace-agents",
+      "id": "3a63ffe19879",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
       "source": "OpenAI",
       "published": "2026-04-22T10:00:00+00:00",
-      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
       "phases": [
         "p1",
         "p3"
@@ -1132,6 +1132,36 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "184fb5875c90",
+      "title": "The Open Agent Leaderboard",
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "source": "HuggingFace",
+      "published": "2026-05-18T14:12:58+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "a6efc7256520",
+      "title": "The Download: Musk v. Altman week 3, and Trump\u2019s tech trading",
+      "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+      "source": "MIT Tech Review",
+      "published": "2026-05-18T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other\u2019s credibility. Now the jury will pick a side. In the final wee",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "4599d96ab597",
@@ -1670,35 +1700,6 @@
         "p1"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "9c35e4d5a42c",
-      "title": "ScreenSearch: Uncertainty-Aware OS Exploration",
-      "url": "https://arxiv.org/abs/2605.16024",
-      "source": "ArXiv cs.AI",
-      "published": "2026-05-18T00:00:00-04:00",
-      "summary": "arXiv:2605.16024v1 Announce Type: new Abstract: Desktop GUI agents operate under partial observability: visually similar screens can correspond to different underlying workflow states, so locally plausible actions can lead to sharply different outcomes. We frame this as a problem",
-      "phases": [
-        "p3",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "8e6dadf57665",
-      "title": "Reasoners or Translators? Contamination-aware Evaluation and Neuro-Symbolic Robustness in Tax Law",
-      "url": "https://arxiv.org/abs/2605.16052",
-      "source": "ArXiv cs.AI",
-      "published": "2026-05-18T00:00:00-04:00",
-      "summary": "arXiv:2605.16052v1 Announce Type: new Abstract: Recent advances in large language models (LLMs) have significantly enhanced automated legal reasoning. Yet, it remains unclear whether their performance reflects genuine legal reasoning ability or artifacts of data contamination. We",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
