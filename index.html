@@ -1849,17 +1849,33 @@ main { padding-top: var(--nav-h); }
 
 .news-header {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
   margin-bottom: 16px;
   flex-wrap: wrap;
   gap: 12px;
 }
 
+.news-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
 .news-filters {
   display: flex;
-  gap: 6px;
+  gap: 4px;
   flex-wrap: wrap;
+  align-items: center;
+}
+
+.news-filter-sep {
+  width: 1px;
+  height: 14px;
+  background: rgba(56,189,248,0.1);
+  margin: 0 2px;
+  display: inline-block;
 }
 
 .news-filter {
@@ -1879,6 +1895,121 @@ main { padding-top: var(--nav-h); }
   color: var(--accent);
   border-color: var(--accent);
   background: rgba(56,189,248,0.06);
+}
+
+.news-sort-btn {
+  background: rgba(56,189,248,0.04);
+  border: 1px solid rgba(56,189,248,0.15);
+  color: var(--muted);
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  padding: 5px 12px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-sort-btn:hover { color: var(--accent); border-color: rgba(56,189,248,0.35); }
+
+/* Snapshot strip */
+.news-snapshot {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+  padding: 12px 16px;
+  background: rgba(56,189,248,0.02);
+  border: 1px solid rgba(56,189,248,0.07);
+  border-radius: var(--radius);
+}
+
+.snap-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4px 14px;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: background 0.15s;
+}
+.snap-item:hover { background: rgba(56,189,248,0.06); }
+
+.snap-num {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: var(--text);
+  line-height: 1;
+}
+.snap-lbl {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: 3px;
+}
+.snap-sep { width: 1px; height: 28px; background: rgba(56,189,248,0.08); margin: 0 4px; }
+
+.snap-cat-models   .snap-num { color: #7c6dfc; }
+.snap-cat-research .snap-num { color: var(--accent); }
+.snap-cat-tools    .snap-num { color: #00c6aa; }
+.snap-cat-industry .snap-num { color: var(--pink); }
+.snap-cat-community .snap-num { color: #ff7b54; }
+
+/* Featured cards */
+.news-featured-wrap {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.news-featured-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-decoration: none;
+  background: rgba(56,189,248,0.03);
+  border: 1px solid rgba(56,189,248,0.12);
+  border-radius: var(--radius);
+  padding: 20px;
+  transition: border-color 0.15s, background 0.15s, transform 0.15s;
+  min-height: 160px;
+}
+.news-featured-card:hover {
+  border-color: rgba(56,189,248,0.28);
+  background: rgba(56,189,248,0.06);
+  transform: translateY(-1px);
+}
+.news-featured-primary {
+  border-color: rgba(56,189,248,0.18);
+  background: rgba(56,189,248,0.04);
+}
+
+.news-featured-title {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1.35;
+}
+.news-featured-primary .news-featured-title { font-size: 17px; }
+.news-featured-secondary .news-featured-title { font-size: 14px; }
+
+.news-featured-summary {
+  font-size: 13px;
+  color: var(--muted2);
+  line-height: 1.55;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.news-featured-secondary .news-featured-summary {
+  -webkit-line-clamp: 2;
+  font-size: 12px;
 }
 
 .news-grid {
@@ -1987,11 +2118,15 @@ main { padding-top: var(--nav-h); }
 }
 
 .news-meta {
-  margin-top: 10px;
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: rgba(56,189,248,0.3);
-  text-align: right;
+  color: rgba(56,189,248,0.35);
+  margin-top: 4px;
+}
+
+@media (max-width: 640px) {
+  .news-featured-wrap { grid-template-columns: 1fr; }
+  .news-controls { flex-direction: column; align-items: flex-start; }
 }
 
 /* ═══════════════════════════════════════════════════════════
@@ -2522,20 +2657,34 @@ function renderDashboard() {
       <div class="phase-grid">${phaseGridHtml}</div>
       <div class="news-section">
         <div class="news-header">
-          <div class="section-title" style="margin:0">AI World · Now</div>
-          <div class="news-filters" id="news-filters">
-            <button class="news-filter active" data-phase="all">All</button>
-            <button class="news-filter" data-phase="current">My Phase</button>
-            <button class="news-filter" data-cat="models">Models</button>
-            <button class="news-filter" data-cat="research">Research</button>
-            <button class="news-filter" data-cat="tools">Tools</button>
-            <button class="news-filter" data-cat="industry">Industry</button>
+          <div>
+            <div class="section-title" style="margin:0">AI World · Now</div>
+            <div class="news-meta" id="news-meta"></div>
+          </div>
+          <div class="news-controls">
+            <div class="news-filters" id="news-filters">
+              <button class="news-filter active" data-phase="all">All</button>
+              <button class="news-filter" data-phase="current">My Phase</button>
+              <span class="news-filter-sep"></span>
+              <button class="news-filter" data-cat="models">Models</button>
+              <button class="news-filter" data-cat="research">Research</button>
+              <button class="news-filter" data-cat="tools">Tools</button>
+              <button class="news-filter" data-cat="industry">Industry</button>
+              <span class="news-filter-sep"></span>
+              <button class="news-filter" data-date="today">Today</button>
+              <button class="news-filter" data-date="week">Week</button>
+              <button class="news-filter" data-date="all" >All time</button>
+            </div>
+            <button class="news-sort-btn" id="news-sort-btn" onclick="toggleNewsSort()">
+              <span id="news-sort-label">Newest ↓</span>
+            </button>
           </div>
         </div>
+        <div id="news-snapshot" class="news-snapshot"></div>
+        <div id="news-featured" class="news-featured-wrap"></div>
         <div class="news-grid" id="news-grid">
           <div class="news-loading">Fetching latest AI news…</div>
         </div>
-        <div class="news-meta" id="news-meta"></div>
       </div>
     </div>
   `;
@@ -2545,12 +2694,12 @@ function renderDashboard() {
 /* ─────────────────────────────────────────────────────────
    News Feed
 ───────────────────────────────────────────────────────── */
-let _newsCache = null;
-let _newsFilter = { phase: 'all', cat: null };
+let _newsCache  = null;
+let _newsFilter = { phase: 'all', cat: null, date: 'all' };
+let _newsSort   = 'newest';
 
 async function loadNews() {
   const grid = document.getElementById('news-grid');
-  const meta = document.getElementById('news-meta');
   if (!grid) return;
 
   try {
@@ -2559,48 +2708,143 @@ async function loadNews() {
       if (!res.ok) throw new Error('Feed unavailable');
       _newsCache = await res.json();
     }
-    renderNewsGrid(_newsCache);
+    renderNews();
+    const meta = document.getElementById('news-meta');
     if (meta && _newsCache.generated) {
-      const ago = timeAgo(_newsCache.generated);
-      meta.textContent = `Updated ${ago} · ${_newsCache.count} articles`;
+      meta.textContent = `Updated ${timeAgo(_newsCache.generated)} · ${_newsCache.count} articles`;
     }
   } catch (e) {
     if (grid) grid.innerHTML = `<div class="news-empty">News feed unavailable — check back soon.</div>`;
   }
 
-  // wire up filter buttons
   document.querySelectorAll('.news-filter').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.news-filter').forEach(b => b.classList.remove('active'));
+      // deactivate within same group only
+      const grp = btn.dataset.phase ? 'phase' : btn.dataset.cat ? 'cat' : 'date';
+      document.querySelectorAll(`.news-filter[data-${grp}]`).forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      if (btn.dataset.phase) _newsFilter = { phase: btn.dataset.phase, cat: null };
-      else if (btn.dataset.cat) _newsFilter = { phase: 'all', cat: btn.dataset.cat };
-      if (_newsCache) renderNewsGrid(_newsCache);
+      if      (btn.dataset.phase) _newsFilter.phase = btn.dataset.phase;
+      else if (btn.dataset.cat)   { _newsFilter.cat = btn.dataset.cat; _newsFilter.phase = 'all'; document.querySelectorAll('.news-filter[data-phase]').forEach(b => b.classList.remove('active')); }
+      else if (btn.dataset.date)  _newsFilter.date  = btn.dataset.date;
+      if (_newsCache) renderNews();
     });
   });
+
+  // default date filter active state
+  document.querySelector('.news-filter[data-date="all"]')?.classList.add('active');
 }
 
-function renderNewsGrid(data) {
+function toggleNewsSort() {
+  _newsSort = _newsSort === 'newest' ? 'oldest' : 'newest';
+  const lbl = document.getElementById('news-sort-label');
+  if (lbl) lbl.textContent = _newsSort === 'newest' ? 'Newest ↓' : 'Oldest ↑';
+  if (_newsCache) renderNews();
+}
+
+function applyNewsFilters(articles) {
+  const currentPhaseId = State.getCurrentPhase()?.id;
+  let out = [...articles];
+
+  // category / phase filter
+  if (_newsFilter.cat) {
+    out = out.filter(a => a.category === _newsFilter.cat);
+  } else if (_newsFilter.phase === 'current' && currentPhaseId) {
+    out = out.filter(a => a.phases.includes(currentPhaseId));
+  }
+
+  // date filter
+  const now = Date.now();
+  if (_newsFilter.date === 'today') {
+    out = out.filter(a => a.published && (now - new Date(a.published).getTime()) < 864e5);
+  } else if (_newsFilter.date === 'week') {
+    out = out.filter(a => a.published && (now - new Date(a.published).getTime()) < 7 * 864e5);
+  }
+
+  // sort
+  out.sort((a, b) => {
+    const ta = a.published ? new Date(a.published).getTime() : 0;
+    const tb = b.published ? new Date(b.published).getTime() : 0;
+    return _newsSort === 'newest' ? tb - ta : ta - tb;
+  });
+
+  return out;
+}
+
+function renderNews() {
+  const articles = applyNewsFilters(_newsCache.articles || []);
+  renderNewsSnapshot(_newsCache.articles || []);
+  renderNewsFeatured(articles);
+  renderNewsGrid(articles);
+}
+
+function renderNewsSnapshot(all) {
+  const snap = document.getElementById('news-snapshot');
+  if (!snap) return;
+  const cats = ['models','research','tools','industry','community'];
+  const counts = {};
+  cats.forEach(c => counts[c] = all.filter(a => a.category === c).length);
+  const now = Date.now();
+  const todayCount = all.filter(a => a.published && (now - new Date(a.published).getTime()) < 864e5).length;
+  const weekCount  = all.filter(a => a.published && (now - new Date(a.published).getTime()) < 7 * 864e5).length;
+  snap.innerHTML = `
+    <div class="snap-item"><span class="snap-num">${todayCount}</span><span class="snap-lbl">today</span></div>
+    <div class="snap-sep"></div>
+    <div class="snap-item"><span class="snap-num">${weekCount}</span><span class="snap-lbl">this week</span></div>
+    <div class="snap-sep"></div>
+    ${cats.filter(c => counts[c]).map(c => `
+      <div class="snap-item snap-cat-${c}" onclick="filterNewsByCat('${c}')">
+        <span class="snap-num">${counts[c]}</span>
+        <span class="snap-lbl">${c}</span>
+      </div>
+    `).join('<div class="snap-sep"></div>')}
+  `;
+}
+
+function filterNewsByCat(cat) {
+  _newsFilter.cat = _newsFilter.cat === cat ? null : cat;
+  _newsFilter.phase = 'all';
+  document.querySelectorAll('.news-filter[data-cat]').forEach(b => {
+    b.classList.toggle('active', b.dataset.cat === _newsFilter.cat);
+  });
+  document.querySelectorAll('.news-filter[data-phase]').forEach(b => b.classList.remove('active'));
+  if (_newsCache) renderNews();
+}
+
+function renderNewsFeatured(articles) {
+  const el = document.getElementById('news-featured');
+  if (!el) return;
+  const top = articles.slice(0, 2);
+  if (!top.length) { el.innerHTML = ''; return; }
+  el.innerHTML = top.map((a, i) => `
+    <a class="news-featured-card ${i === 0 ? 'news-featured-primary' : 'news-featured-secondary'}"
+       href="${escHtml(a.url)}" target="_blank" rel="noopener">
+      <div class="news-card-top">
+        <span class="news-source">${escHtml(a.source)}</span>
+        <span class="news-ago">${a.published ? timeAgo(a.published) : ''}</span>
+      </div>
+      <div class="news-featured-title">${escHtml(a.title)}</div>
+      ${a.summary ? `<div class="news-featured-summary">${escHtml(a.summary)}</div>` : ''}
+      <div class="news-card-footer" style="margin-top:auto">
+        <span class="news-cat news-cat-${a.category}">${a.category}</span>
+        ${a.phases.slice(0,3).map(p => `<span class="news-phase-tag">${p.toUpperCase()}</span>`).join('')}
+      </div>
+    </a>
+  `).join('');
+}
+
+function renderNewsGrid(articles) {
   const grid = document.getElementById('news-grid');
   if (!grid) return;
 
-  const currentPhaseId = State.getCurrentPhase()?.id;
-  let articles = data.articles || [];
-
-  if (_newsFilter.cat) {
-    articles = articles.filter(a => a.category === _newsFilter.cat);
-  } else if (_newsFilter.phase === 'current' && currentPhaseId) {
-    articles = articles.filter(a => a.phases.includes(currentPhaseId));
-  }
-
-  if (!articles.length) {
-    grid.innerHTML = `<div class="news-empty">No articles matching this filter yet.</div>`;
+  const rest = articles.slice(2, 32);
+  if (!rest.length && !articles.length) {
+    grid.innerHTML = `<div class="news-empty">No articles match this filter.</div>`;
     return;
   }
+  if (!rest.length) { grid.innerHTML = ''; return; }
 
-  grid.innerHTML = articles.slice(0, 30).map(a => {
+  grid.innerHTML = rest.map(a => {
     const ago  = a.published ? timeAgo(a.published) : '';
-    const tags = a.phases.map(p => `<span class="news-phase-tag">${p.toUpperCase()}</span>`).join('');
     return `
       <a class="news-card" href="${escHtml(a.url)}" target="_blank" rel="noopener">
         <div class="news-card-top">
@@ -2611,7 +2855,7 @@ function renderNewsGrid(data) {
         ${a.summary ? `<div class="news-summary">${escHtml(a.summary)}</div>` : ''}
         <div class="news-card-footer">
           <span class="news-cat news-cat-${a.category}">${a.category}</span>
-          ${tags}
+          ${a.phases.slice(0,3).map(p => `<span class="news-phase-tag">${p.toUpperCase()}</span>`).join('')}
         </div>
       </a>
     `;
@@ -2621,9 +2865,9 @@ function renderNewsGrid(data) {
 function timeAgo(iso) {
   const diff = Date.now() - new Date(iso).getTime();
   const m = Math.floor(diff / 60000);
-  if (m < 60)   return `${m}m ago`;
+  if (m < 60)  return `${m}m ago`;
   const h = Math.floor(m / 60);
-  if (h < 24)   return `${h}h ago`;
+  if (h < 24)  return `${h}h ago`;
   const d = Math.floor(h / 24);
   return `${d}d ago`;
 }
