@@ -3144,14 +3144,34 @@ async function loadNews() {
       const grp = btn.dataset.phase ? 'phase' : btn.dataset.cat ? 'cat' : 'date';
       activeView.querySelectorAll(`.news-filter[data-${grp}]`).forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      if      (btn.dataset.phase) _newsFilter.phase = btn.dataset.phase;
-      else if (btn.dataset.cat)   { _newsFilter.cat = btn.dataset.cat; _newsFilter.phase = 'all'; activeView.querySelectorAll('.news-filter[data-phase]').forEach(b => b.classList.remove('active')); }
-      else if (btn.dataset.date)  _newsFilter.date  = btn.dataset.date;
+      if (btn.dataset.phase) {
+        _newsFilter.phase = btn.dataset.phase;
+        _newsFilter.cat = null;
+        activeView.querySelectorAll('.news-filter[data-cat]').forEach(b => b.classList.remove('active'));
+      } else if (btn.dataset.cat) {
+        _newsFilter.cat = btn.dataset.cat;
+        _newsFilter.phase = 'all';
+        activeView.querySelectorAll('.news-filter[data-phase]').forEach(b => b.classList.remove('active'));
+      } else if (btn.dataset.date) {
+        _newsFilter.date = btn.dataset.date;
+      }
       if (_newsCache) renderNews();
     });
   });
 
-  activeView?.querySelector('.news-filter[data-date="all"]')?.classList.add('active');
+  syncFilterUI();
+}
+
+function syncFilterUI() {
+  const av = document.querySelector('.view.active');
+  if (!av) return;
+  av.querySelectorAll('.news-filter').forEach(b => b.classList.remove('active'));
+  if (_newsFilter.cat) {
+    av.querySelector(`.news-filter[data-cat="${_newsFilter.cat}"]`)?.classList.add('active');
+  } else {
+    av.querySelector(`.news-filter[data-phase="${_newsFilter.phase}"]`)?.classList.add('active');
+  }
+  av.querySelector(`.news-filter[data-date="${_newsFilter.date}"]`)?.classList.add('active');
 }
 
 function populateTicker() {
