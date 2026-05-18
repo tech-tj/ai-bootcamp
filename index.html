@@ -36,7 +36,6 @@ textarea, input { font-family: inherit; }
   --red2:    rgba(244,63,94,0.10);
   --pink:    #f43f5e;
   --nav-h:   56px;
-  --ticker-h: 30px;
   --radius:  8px;
   --radius-sm: 5px;
 }
@@ -145,7 +144,7 @@ nav {
 }
 
 /* ─── Main + views ───────────────────────────────────────── */
-main { padding-top: calc(var(--nav-h) + var(--ticker-h)); }
+main { padding-top: var(--nav-h); }
 
 .view { display: none; }
 .view.active { display: block; }
@@ -2133,80 +2132,6 @@ main { padding-top: calc(var(--nav-h) + var(--ticker-h)); }
 /* ═══════════════════════════════════════════════════════════
    NEWS TICKER
 ═══════════════════════════════════════════════════════════ */
-.news-ticker {
-  position: fixed;
-  top: var(--nav-h);
-  left: 0; right: 0;
-  height: var(--ticker-h);
-  background: rgba(2,2,7,0.94);
-  backdrop-filter: blur(20px);
-  border-bottom: 1px solid rgba(56,189,248,0.06);
-  display: flex;
-  align-items: center;
-  overflow: hidden;
-  z-index: 190;
-}
-.ticker-badge {
-  font-family: 'Space Mono', monospace;
-  font-size: 9px;
-  color: var(--accent);
-  background: rgba(56,189,248,0.06);
-  border-right: 1px solid rgba(56,189,248,0.10);
-  padding: 0 12px;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  white-space: nowrap;
-  letter-spacing: 0.08em;
-  flex-shrink: 0;
-  text-transform: uppercase;
-}
-.ticker-live-dot {
-  width: 5px; height: 5px;
-  border-radius: 50%;
-  background: var(--red);
-  box-shadow: 0 0 5px var(--red);
-  animation: tickerPulse 2s infinite;
-}
-@keyframes tickerPulse {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.55; transform: scale(0.8); }
-}
-.ticker-scroll-wrap {
-  flex: 1;
-  overflow: hidden;
-  mask-image: linear-gradient(to right, transparent 0%, black 4%, black 96%, transparent 100%);
-}
-.ticker-track {
-  display: flex;
-  animation: tickerScroll 40s linear infinite;
-  white-space: nowrap;
-}
-.ticker-track:hover { animation-play-state: paused; }
-.ticker-item {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  padding: 0 22px;
-  border-right: 1px solid rgba(56,189,248,0.05);
-  font-size: 11px;
-  color: rgba(226,232,240,0.55);
-  text-decoration: none;
-  transition: color 0.15s;
-}
-.ticker-item:hover { color: rgba(226,232,240,0.9); }
-.ticker-item-src {
-  font-family: 'Space Mono', monospace;
-  font-size: 9px;
-  color: var(--accent);
-  text-transform: uppercase;
-  flex-shrink: 0;
-}
-@keyframes tickerScroll {
-  0%   { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
 
 /* ═══════════════════════════════════════════════════════════
    AI UPDATES NAV BUTTON
@@ -2229,6 +2154,10 @@ main { padding-top: calc(var(--nav-h) + var(--ticker-h)); }
   background: linear-gradient(135deg, rgba(56,189,248,0.2), rgba(244,63,94,0.14)) !important;
   border-color: var(--accent) !important;
   color: var(--text) !important;
+}
+@keyframes tickerPulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.55; transform: scale(0.8); }
 }
 .nav-updates-dot {
   width: 6px; height: 6px;
@@ -2257,7 +2186,7 @@ main { padding-top: calc(var(--nav-h) + var(--ticker-h)); }
 .dashboard-split {
   display: grid;
   grid-template-columns: 360px 1fr;
-  height: calc(100vh - var(--nav-h) - var(--ticker-h));
+  height: calc(100vh - var(--nav-h));
   overflow: hidden;
 }
 
@@ -2608,18 +2537,6 @@ main { padding-top: calc(var(--nav-h) + var(--ticker-h)); }
   </a>
 </nav>
 
-<!-- ─── Scrolling News Ticker ─────────────────────────── -->
-<div class="news-ticker" id="news-ticker">
-  <div class="ticker-badge">
-    <div class="ticker-live-dot"></div>
-    Live
-  </div>
-  <div class="ticker-scroll-wrap">
-    <div class="ticker-track" id="ticker-track">
-      <span class="ticker-item"><span class="ticker-item-src">AI Bootcamp</span> <span>Loading latest AI news…</span></span>
-    </div>
-  </div>
-</div>
 
 <main>
   <!-- Dashboard / Start -->
@@ -3132,7 +3049,7 @@ async function loadNews() {
     if (meta && _newsCache.generated) {
       meta.textContent = `Updated ${timeAgo(_newsCache.generated)} · ${_newsCache.count} articles across ${new Set((_newsCache.articles||[]).map(a=>a.source)).size} sources`;
     }
-    populateTicker();
+
     updateUpdatesBadge();
   } catch (e) {
     if (grid) grid.innerHTML = `<div class="news-empty">News feed unavailable — check back soon.</div>`;
@@ -3174,19 +3091,6 @@ function syncFilterUI() {
   av.querySelector(`.news-filter[data-date="${_newsFilter.date}"]`)?.classList.add('active');
 }
 
-function populateTicker() {
-  const track = document.getElementById('ticker-track');
-  if (!track || !_newsCache) return;
-  const items = (_newsCache.articles || []).slice(0, 14);
-  if (!items.length) return;
-  const html = [...items, ...items].map(a => `
-    <a class="ticker-item" href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer">
-      <span class="ticker-item-src">${escHtml(a.source)}</span>
-      <span>${escHtml(a.title.length > 72 ? a.title.substring(0, 72) + '…' : a.title)}</span>
-    </a>
-  `).join('');
-  track.innerHTML = html;
-}
 
 function updateUpdatesBadge() {
   const badge = document.getElementById('nav-updates-badge');
