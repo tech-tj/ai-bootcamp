@@ -2499,6 +2499,88 @@ main { padding-top: var(--nav-h); }
   gap: 8px;
   justify-content: flex-end;
 }
+
+/* ═══════════════════════════════════════════════════════════
+   MOBILE RESPONSIVE
+═══════════════════════════════════════════════════════════ */
+@media (max-width: 768px) {
+
+  /* Nav — horizontally scrollable, hide github text */
+  nav {
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0 10px;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  nav::-webkit-scrollbar { display: none; }
+  .nav-logo { margin-right: 8px; font-size: 13px; }
+  .nav-btn { padding: 5px 7px; font-size: 11px; }
+  .nav-github-text { display: none; }
+
+  /* Main padding */
+  main { padding-top: var(--nav-h); }
+
+  /* Dashboard split — stack vertically */
+  .dashboard-split {
+    grid-template-columns: 1fr;
+    height: auto;
+    overflow: visible;
+  }
+  .split-left {
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+    overflow-y: visible;
+    padding: 16px 14px 20px;
+  }
+  .split-right { overflow-y: visible; }
+  .split-news-panel { padding: 16px 14px 40px; }
+
+  /* News controls */
+  .news-controls { flex-direction: column; align-items: flex-start; gap: 8px; }
+  .news-filters { flex-wrap: wrap; }
+  .news-featured-wrap { grid-template-columns: 1fr; }
+  .news-grid { grid-template-columns: 1fr; }
+  .news-snapshot { flex-wrap: wrap; gap: 10px; }
+  .snap-item { min-width: 60px; }
+
+  /* Phase grid — 2 col on mobile */
+  .phase-grid { grid-template-columns: repeat(2, 1fr); }
+
+  /* Timeline date cards — 1 col */
+  .date-cards { grid-template-columns: 1fr; }
+
+  /* Frontier grid — 1 col */
+  .frontier-grid { grid-template-columns: 1fr; }
+
+  /* Stat grid (landing/phase) — 2x2 */
+  .stat-grid { grid-template-columns: repeat(2, 1fr); }
+
+  /* Landing hero */
+  .hero { padding: 32px 20px 20px; }
+  .hero h1 { font-size: 26px; }
+  .hero p { font-size: 14px; }
+  .deliverables-grid { grid-template-columns: repeat(2, 1fr); }
+
+  /* Phase day list */
+  .day-item { padding: 12px 14px; }
+
+  /* Modal */
+  .modal-box { margin: 16px; width: calc(100% - 32px); padding: 20px 16px; }
+
+  /* AI Updates full view */
+  .news-full-wrap { padding: 16px 14px 40px; }
+
+  /* Resources */
+  .resources-group { padding: 0 14px 24px; }
+}
+
+@media (max-width: 480px) {
+  .phase-grid { grid-template-columns: 1fr; }
+  .deliverables-grid { grid-template-columns: 1fr; }
+  .split-stat-grid { grid-template-columns: 1fr 1fr; }
+  .hero h1 { font-size: 22px; }
+}
 </style>
 </head>
 <body>
