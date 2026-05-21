@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-21T02:05:07.294027+00:00",
+  "generated": "2026-05-21T08:54:20.101275+00:00",
   "count": 120,
   "articles": [
     {
@@ -50,6 +50,19 @@
       "weight": 3
     },
     {
+      "id": "ae68796c79fe",
+      "title": "The next phase of OpenAI\u2019s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "source": "OpenAI",
+      "published": "2026-05-20T00:00:00+00:00",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 3
+    },
+    {
       "id": "a23c5621227e",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
@@ -73,19 +86,6 @@
         "p1"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "ae68796c79fe",
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "source": "OpenAI",
-      "published": "2026-05-20T00:00:00+00:00",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
       "weight": 3
     },
     {
@@ -255,25 +255,27 @@
       "weight": 3
     },
     {
-      "id": "4ed1b1b76f19",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "id": "990a39ff7c1a",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "phases": [
-        "p1"
+        "p1",
+        "p3",
+        "p4"
       ],
       "category": "models",
       "weight": 3
     },
     {
-      "id": "d93b94d20e7f",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "id": "ca8d7bccf4af",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "phases": [
         "p1",
         "p2",
@@ -285,16 +287,14 @@
       "weight": 3
     },
     {
-      "id": "990a39ff7c1a",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
+      "id": "4ed1b1b76f19",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
       "phases": [
-        "p1",
-        "p3",
-        "p4"
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -317,12 +317,12 @@
       "weight": 3
     },
     {
-      "id": "ca8d7bccf4af",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "id": "d93b94d20e7f",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
       "phases": [
         "p1",
         "p2",
@@ -413,20 +413,6 @@
       "weight": 3
     },
     {
-      "id": "818b51bc8be5",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
-      "source": "OpenAI",
-      "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "efdc3d87f1cd",
       "title": "How NVIDIA engineers and researchers build with Codex",
       "url": "https://openai.com/index/nvidia",
@@ -449,6 +435,20 @@
       "phases": [
         "p3",
         "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "818b51bc8be5",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
+      "source": "OpenAI",
+      "published": "2026-05-12T00:00:00+00:00",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "phases": [
+        "p1",
+        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -596,6 +596,19 @@
       "weight": 3
     },
     {
+      "id": "16251d7b149e",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-05-07T00:00:00+00:00",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "15d2a96bac2b",
       "title": "Introducing Trusted Contact in ChatGPT",
       "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
@@ -605,19 +618,6 @@
       "phases": [
         "p1",
         "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "16251d7b149e",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI",
-      "published": "2026-05-07T00:00:00+00:00",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -667,39 +667,12 @@
       "weight": 3
     },
     {
-      "id": "49359060f440",
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "source": "OpenAI",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
       "id": "54dff98022e0",
       "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
       "url": "https://openai.com/index/singular-bank",
       "source": "OpenAI",
       "published": "2026-05-06T00:00:00+00:00",
       "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "b18ba1c70db3",
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
-      "source": "OpenAI",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
       "phases": [
         "p1"
       ],
@@ -720,6 +693,33 @@
       "weight": 3
     },
     {
+      "id": "b18ba1c70db3",
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "url": "https://openai.com/index/uber",
+      "source": "OpenAI",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "49359060f440",
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "source": "OpenAI",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 3
+    },
+    {
       "id": "5f907f4d68cc",
       "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
@@ -732,19 +732,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "2fd4f4a9abde",
-      "title": "GPT-5.5 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "source": "OpenAI",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": "",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -764,12 +751,38 @@
       "weight": 3
     },
     {
+      "id": "2fd4f4a9abde",
+      "title": "GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "source": "OpenAI",
+      "published": "2026-05-05T10:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "2c0d932a3bc4",
       "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
       "url": "https://openai.com/index/mrc-supercomputer-networking",
       "source": "OpenAI",
       "published": "2026-05-05T10:00:00+00:00",
       "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "3938b1e238f6",
+      "title": "New ways to buy ChatGPT ads",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "source": "OpenAI",
+      "published": "2026-05-05T00:00:00+00:00",
+      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads.",
       "phases": [
         "p1"
       ],
@@ -786,19 +799,6 @@
       "phases": [
         "p1",
         "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "3938b1e238f6",
-      "title": "New ways to buy ChatGPT ads",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "source": "OpenAI",
-      "published": "2026-05-05T00:00:00+00:00",
-      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1075,6 +1075,19 @@
       "weight": 3
     },
     {
+      "id": "3aa1538062af",
+      "title": "Introducing GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "source": "OpenAI",
+      "published": "2026-04-23T11:00:00+00:00",
+      "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "915b6ff115f0",
       "title": "GPT-5.5 System Card",
       "url": "https://openai.com/index/gpt-5-5-system-card",
@@ -1088,14 +1101,27 @@
       "weight": 3
     },
     {
-      "id": "3aa1538062af",
-      "title": "Introducing GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "id": "d363d492e8c4",
+      "title": "Codex settings",
+      "url": "https://openai.com/academy/codex-settings",
       "source": "OpenAI",
-      "published": "2026-04-23T11:00:00+00:00",
-      "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "published": "2026-04-23T10:00:00+00:00",
+      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
       "phases": [
-        "p1"
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "6e517fdbc329",
+      "title": "Automations",
+      "url": "https://openai.com/academy/codex-automations",
+      "source": "OpenAI",
+      "published": "2026-04-23T10:00:00+00:00",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "phases": [
+        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -1113,19 +1139,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "6e517fdbc329",
-      "title": "Automations",
-      "url": "https://openai.com/academy/codex-automations",
-      "source": "OpenAI",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "phases": [
-        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -1161,23 +1174,6 @@
       "weight": 3
     },
     {
-      "id": "df10955916ed",
-      "title": "Working with Codex",
-      "url": "https://openai.com/academy/working-with-codex",
-      "source": "OpenAI",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "79ea493d001a",
       "title": "Plugins and skills",
       "url": "https://openai.com/academy/codex-plugins-and-skills",
@@ -1191,14 +1187,18 @@
       "weight": 3
     },
     {
-      "id": "d363d492e8c4",
-      "title": "Codex settings",
-      "url": "https://openai.com/academy/codex-settings",
+      "id": "df10955916ed",
+      "title": "Working with Codex",
+      "url": "https://openai.com/academy/working-with-codex",
       "source": "OpenAI",
       "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
       "phases": [
-        "p3"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -1232,20 +1232,6 @@
       "weight": 3
     },
     {
-      "id": "3a63ffe19879",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "source": "OpenAI",
-      "published": "2026-04-22T10:00:00+00:00",
-      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "ff43ae6fb48b",
       "title": "Introducing workspace agents in ChatGPT",
       "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
@@ -1266,6 +1252,20 @@
       "source": "OpenAI",
       "published": "2026-04-22T10:00:00+00:00",
       "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "3a63ffe19879",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "source": "OpenAI",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
       "phases": [
         "p1",
         "p3"
@@ -1302,45 +1302,11 @@
       "weight": 3
     },
     {
-      "id": "a835a1c19b54",
-      "title": "Green steel startup Boston Metal is doubling down on critical metals",
-      "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
-      "source": "MIT Tech Review",
-      "published": "2026-05-20T13:00:00+00:00",
-      "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.&#160;&#160; The company has been known largely for its efforts to clean up steel production, an industry that&#8217;s responsible for about 8%",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "industry",
-      "weight": 2
-    },
-    {
-      "id": "5f48f1a129a3",
-      "title": "The Download: fully artificial chicken eggs and why Musk lost",
-      "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
-      "source": "MIT Tech Review",
-      "published": "2026-05-20T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip\u2014or ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
       "id": "4e96c9e7f7a4",
       "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
       "url": "https://arxiv.org/abs/2605.18801",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.18801v1 Announce Type: new Abstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, including training, tuning, alignment, in-context learning, etc., and why, remain",
       "phases": [
         "p1",
@@ -1355,7 +1321,7 @@
       "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
       "url": "https://arxiv.org/abs/2605.18818",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.18818v1 Announce Type: new Abstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running models at production scale. To close that gap, we present a microservice architectu",
       "phases": [
         "p1",
@@ -1369,7 +1335,7 @@
       "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
       "url": "https://arxiv.org/abs/2605.18937",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.18937v1 Announce Type: new Abstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex, potentially hindering insights. In this study, we assess the potential of large",
       "phases": [
         "p4"
@@ -1382,7 +1348,7 @@
       "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
       "url": "https://arxiv.org/abs/2605.19008",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19008v1 Announce Type: new Abstract: Modern language-model training is increasingly exposed to instability, degraded runs, and wasted compute, especially under aggressive learning-rate, scale, and runtime-stress conditions. This paper introduces Learn-by-Wire Guard (LB",
       "phases": [
         "p1",
@@ -1399,7 +1365,7 @@
       "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
       "url": "https://arxiv.org/abs/2605.19010",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19010v1 Announce Type: new Abstract: Natural language to SQL (NL2SQL) conversion is an important problem for researchers and enterprises due to the ubiquitous importance of relational databases in broad-ranging practical problems. Despite the rapid advancements in the ",
       "phases": [
         "p1",
@@ -1413,7 +1379,7 @@
       "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
       "url": "https://arxiv.org/abs/2605.19031",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19031v1 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) have demonstrated an exceptional ability to learn complex functions on clean, low-dimensional data but struggle to maintain performance on noisy and imperfect real-world datasets. In contrast, conve",
       "phases": [
         "p1",
@@ -1430,7 +1396,7 @@
       "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
       "url": "https://arxiv.org/abs/2605.19035",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19035v1 Announce Type: new Abstract: The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and execution. As these agents transition from isolated operation to collaborative ecosystems, we witness the ",
       "phases": [
         "p1",
@@ -1444,7 +1410,7 @@
       "title": "Interference-Aware Multi-Task Unlearning",
       "url": "https://arxiv.org/abs/2605.19042",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19042v1 Announce Type: new Abstract: Machine unlearning aims to remove the contribution of designated training data from a trained model while preserving performance on the remaining data. Existing work mainly focuses on single-task settings, whereas modern models ofte",
       "phases": [
         "p5"
@@ -1457,7 +1423,7 @@
       "title": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
       "url": "https://arxiv.org/abs/2605.19093",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19093v1 Announce Type: new Abstract: System prompts are a central control mechanism in modern AI systems, shaping behavior across conversations, tasks, and user populations. Yet they are difficult to tune when feedback is available only as aggregate metrics rather than",
       "phases": [
         "p1",
@@ -1471,7 +1437,7 @@
       "title": "DecisionBench: A Benchmark for Emergent Delegation in Long-Horizon Agentic Workflows",
       "url": "https://arxiv.org/abs/2605.19099",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19099v1 Announce Type: new Abstract: We introduce DecisionBench, a benchmark substrate for emergent delegation in long-horizon agentic workflows. The substrate fixes a task suite (GAIA, tau-bench, BFCL multi-turn), a peer-model pool (11 models, 7 vendor families), a de",
       "phases": [
         "p3",
@@ -1485,7 +1451,7 @@
       "title": "POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents",
       "url": "https://arxiv.org/abs/2605.19127",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19127v1 Announce Type: new Abstract: LLM agents increasingly have access to private user data and act on the user's behalf when interacting with third-party systems. The user defines what may and must not be shared, and the agent must robustly follow that intent even w",
       "phases": [
         "p1",
@@ -1500,7 +1466,7 @@
       "title": "Learning to Hand Off: Provably Convergent Workflow Learning under Interface Constraints",
       "url": "https://arxiv.org/abs/2605.19140",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19140v1 Announce Type: new Abstract: We study workflow learning in a setting where specialized agents hand off control through a shared artifact, each agent observes only a local function of that artifact and its own private state, and no centralized learner accesses j",
       "phases": [
         "p3"
@@ -1513,7 +1479,7 @@
       "title": "Progressive Autonomy as Preference Learning: A Formalization of Trust Calibration for Agentic Tool Use",
       "url": "https://arxiv.org/abs/2605.19151",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19151v1 Announce Type: new Abstract: We formalize trust calibration for agentic tool use (deciding when an automated agent's proposed action may execute autonomously versus require human approval) as a preference-learning problem. A policy gateway maintains a Gaussian-",
       "phases": [
         "p3"
@@ -1526,7 +1492,7 @@
       "title": "How Far Are We From True Auto-Research?",
       "url": "https://arxiv.org/abs/2605.19156",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19156v1 Announce Type: new Abstract: Recent auto-research systems can produce complete papers, but feasibility is not the same as quality, and the field still lacks a systematic study of how good agent-generated papers actually are. We introduce ResearchArena, a minima",
       "phases": [
         "p3"
@@ -1539,7 +1505,7 @@
       "title": "Discoverable Agent Knowledge -- A Formal Framework for Agentic KG Affordances (Extended Version)",
       "url": "https://arxiv.org/abs/2605.19186",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19186v1 Announce Type: new Abstract: Two decades ago, the Semantic Web Services community was asked how agents with different ontological commitments could discover, compose, and invoke web services coherently. The response was OWL-S and WSMO: formally grounded capabil",
       "phases": [
         "p3"
@@ -1552,7 +1518,7 @@
       "title": "Hallucination as Exploit: Evidence-Carrying Multimodal Agents",
       "url": "https://arxiv.org/abs/2605.19192",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19192v1 Announce Type: new Abstract: Multimodal agents use screenshots, documents, and webpages to choose tool calls. When a false visual claim triggers a click, email, extraction, or transfer, hallucination becomes an authorization failure rather than an answer-qualit",
       "phases": [
         "p1",
@@ -1568,7 +1534,7 @@
       "title": "Not all uncertainty is alike: volatility, stochasticity, and exploration",
       "url": "https://arxiv.org/abs/2605.19215",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19215v1 Announce Type: new Abstract: Adaptive decision-making in biological and artificial intelligence requires balancing the exploitation of known outcomes with the exploration of uncertain alternatives. Although prior work suggests that uncertainty generally promote",
       "phases": [
         "p5"
@@ -1581,7 +1547,7 @@
       "title": "SimGym: A Framework for A/B Test Simulation in E-Commerce with Traffic-Grounded VLM Agents",
       "url": "https://arxiv.org/abs/2605.19219",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19219v1 Announce Type: new Abstract: A/B testing remains the gold standard for evaluating modifications to e-commerce storefronts, yet it diverts traffic, requires weeks to reach statistical significance, and risks degrading user experience. We present SimGym, a framew",
       "phases": [
         "p3",
@@ -1595,7 +1561,7 @@
       "title": "Can Large Language Models Revolutionize Survey Research? Experiments with Disaster Preparedness Responses",
       "url": "https://arxiv.org/abs/2605.19229",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19229v1 Announce Type: new Abstract: Survey research faces mounting structural challenges: declining response rates, sample bias, block-wise missingness among at-risk respondents, and AI-assisted fraudulent completions in online panels. Large language models (LLMs) hav",
       "phases": [
         "p1",
@@ -1609,7 +1575,7 @@
       "title": "Causal Evidence for Attention Head Imbalance in Modality Conflict Hallucination",
       "url": "https://arxiv.org/abs/2605.19250",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19250v1 Announce Type: new Abstract: Modality-conflict hallucination occurs when multimodal large language models (MLLMs) prioritize erroneous textual premises over contradictory visual evidence. To understand why visual evidence fails to prevail during generation, we ",
       "phases": [
         "p1",
@@ -1623,7 +1589,7 @@
       "title": "AQuaUI: Visual Token Reduction for GUI Agents with Adaptive Quadtrees",
       "url": "https://arxiv.org/abs/2605.19260",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19260v1 Announce Type: new Abstract: Large Multimodal Models (LMMs) have recently emerged as promising backbones for GUI-agent models, where high-resolution GUI screenshots are introduced to the prompts at each iteration step. However, these screenshots exhibit highly ",
       "phases": [
         "p1",
@@ -1637,7 +1603,7 @@
       "title": "Swimming with Whales: Analysis of Power Imbalances in Stake-Weighted Governance",
       "url": "https://arxiv.org/abs/2605.19264",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19264v1 Announce Type: new Abstract: Voting methods weighted by stakes are the fundamental governance paradigm in Proof-of-Stake (PoS) blockchains. Such a paradigm is known to be prone to power distortions: a few users possessing large stakes may completely control dec",
       "phases": [
         "p5"
@@ -1650,7 +1616,7 @@
       "title": "MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization",
       "url": "https://arxiv.org/abs/2605.19330",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19330v1 Announce Type: new Abstract: LLM agents organize behavior through skills - structured natural-language specifications governing how an agent reasons, retrieves, and responds. Unlike monolithic prompts, skills are multi-field artifacts subject to hard platform c",
       "phases": [
         "p1",
@@ -1664,7 +1630,7 @@
       "title": "Agentic Trading: When LLM Agents Meet Financial Markets",
       "url": "https://arxiv.org/abs/2605.19337",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19337v1 Announce Type: new Abstract: A growing body of work explores how Large Language Models (LLMs) can be embedded in trading systems as agents that perceive market information, retrieve context, reason about decisions, emit tradable actions, and adapt under market ",
       "phases": [
         "p1",
@@ -1678,7 +1644,7 @@
       "title": "Generative Recursive Reasoning",
       "url": "https://arxiv.org/abs/2605.19376",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19376v2 Announce Type: new Abstract: How should future neural reasoning systems implement extended computation? Recursive Reasoning Models (RRMs) offer a promising alternative to autoregressive sequence extension by performing iterative latent-state refinement with sha",
       "phases": [
         "p3"
@@ -1691,7 +1657,7 @@
       "title": "PRISM: A Benchmark for Programmatic Spatial-Temporal Reasoning",
       "url": "https://arxiv.org/abs/2605.19382",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19382v1 Announce Type: new Abstract: Programmatic video generation through code offers geometric precision and temporal coherence beyond pixel-level diffusion models, yet rigorously evaluating whether language models can produce spatially correct animated outputs remai",
       "phases": [
         "p1",
@@ -1706,11 +1672,39 @@
       "title": "Conflict-Resilient Multi-Agent Reasoning via Signed Graph Modeling",
       "url": "https://arxiv.org/abs/2605.19418",
       "source": "ArXiv cs.AI",
-      "published": "2026-05-20T00:00:00-04:00",
+      "published": "2026-05-21T00:00:00-04:00",
       "summary": "arXiv:2605.19418v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) have demonstrated strong reasoning and decision-making capabilities that consistently surpass those of single LLM agents. However, their performance often suffers from naive aggregation mechanisms",
       "phases": [
         "p1",
         "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "d6cb054f8b54",
+      "title": "What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents",
+      "url": "https://arxiv.org/abs/2605.19447",
+      "source": "ArXiv cs.AI",
+      "published": "2026-05-21T00:00:00-04:00",
+      "summary": "arXiv:2605.19447v1 Announce Type: new Abstract: Reinforcement learning can train LLM agents from sparse task rewards, but long-horizon credit assignment remains challenging: a single success-or-failure signal must be distributed across many actions. Existing methods rely on traje",
+      "phases": [
+        "p1",
+        "p3",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "bb3252440bf2",
+      "title": "Generative Auto-Bidding with Unified Modeling and Exploration",
+      "url": "https://arxiv.org/abs/2605.19457",
+      "source": "ArXiv cs.AI",
+      "published": "2026-05-21T00:00:00-04:00",
+      "summary": "arXiv:2605.19457v1 Announce Type: new Abstract: Automated bidding is central to modern digital advertising. Early rule-based methods lacked adaptability, while subsequent Reinforcement Learning approaches modeled bidding as a Markov Decision Process but struggled with long-term d",
+      "phases": [
+        "p5"
       ],
       "category": "models",
       "weight": 2
