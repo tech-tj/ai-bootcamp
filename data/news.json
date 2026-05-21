@@ -1,7 +1,24 @@
 {
-  "generated": "2026-05-20T20:00:40.760510+00:00",
+  "generated": "2026-05-21T02:05:07.294027+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "58130303da4c",
+      "title": "We\u2019re announcing new community investments in Missouri.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "source": "Google AI",
+      "published": "2026-05-20T20:40:00+00:00",
+      "summary": "We\u2019re helping build the state\u2019s next-generation workforce and investing in energy programs.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "industry",
+      "weight": 3
+    },
     {
       "id": "c1e2764b80c5",
       "title": "100 things we announced at I/O 2026",
@@ -39,6 +56,19 @@
       "source": "OpenAI",
       "published": "2026-05-20T00:00:00+00:00",
       "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "95e072c6616e",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "source": "OpenAI",
+      "published": "2026-05-20T00:00:00+00:00",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "phases": [
         "p1"
       ],
@@ -225,23 +255,6 @@
       "weight": 3
     },
     {
-      "id": "afc8cde3e2c8",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "4ed1b1b76f19",
       "title": "A new personal finance experience in ChatGPT",
       "url": "https://openai.com/index/personal-finance-chatgpt",
@@ -255,12 +268,12 @@
       "weight": 3
     },
     {
-      "id": "ca8d7bccf4af",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "id": "d93b94d20e7f",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
       "phases": [
         "p1",
         "p2",
@@ -287,12 +300,29 @@
       "weight": 3
     },
     {
-      "id": "d93b94d20e7f",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "id": "afc8cde3e2c8",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "ca8d7bccf4af",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "phases": [
         "p1",
         "p2",
@@ -383,6 +413,20 @@
       "weight": 3
     },
     {
+      "id": "818b51bc8be5",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
+      "source": "OpenAI",
+      "published": "2026-05-12T00:00:00+00:00",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "efdc3d87f1cd",
       "title": "How NVIDIA engineers and researchers build with Codex",
       "url": "https://openai.com/index/nvidia",
@@ -405,20 +449,6 @@
       "phases": [
         "p3",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "818b51bc8be5",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
-      "source": "OpenAI",
-      "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -651,12 +681,12 @@
       "weight": 3
     },
     {
-      "id": "2d7f3b660987",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "id": "54dff98022e0",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
       "source": "OpenAI",
       "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
       "phases": [
         "p1"
       ],
@@ -677,12 +707,12 @@
       "weight": 3
     },
     {
-      "id": "54dff98022e0",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
+      "id": "2d7f3b660987",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
       "source": "OpenAI",
       "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
       "phases": [
         "p1"
       ],
@@ -707,6 +737,19 @@
       "weight": 3
     },
     {
+      "id": "2fd4f4a9abde",
+      "title": "GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "source": "OpenAI",
+      "published": "2026-05-05T10:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "05d3c5cd4cae",
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "url": "https://openai.com/index/gpt-5-5-instant",
@@ -716,19 +759,6 @@
       "phases": [
         "p1",
         "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "2fd4f4a9abde",
-      "title": "GPT-5.5 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "source": "OpenAI",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": "",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1045,6 +1075,19 @@
       "weight": 3
     },
     {
+      "id": "915b6ff115f0",
+      "title": "GPT-5.5 System Card",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "source": "OpenAI",
+      "published": "2026-04-23T11:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "3aa1538062af",
       "title": "Introducing GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5",
@@ -1058,14 +1101,18 @@
       "weight": 3
     },
     {
-      "id": "915b6ff115f0",
-      "title": "GPT-5.5 System Card",
-      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "id": "afb218f7b48c",
+      "title": "How to get started with Codex",
+      "url": "https://openai.com/academy/codex-how-to-start",
       "source": "OpenAI",
-      "published": "2026-04-23T11:00:00+00:00",
-      "summary": "",
+      "published": "2026-04-23T10:00:00+00:00",
+      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
       "phases": [
-        "p1"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -1084,14 +1131,18 @@
       "weight": 3
     },
     {
-      "id": "79ea493d001a",
-      "title": "Plugins and skills",
-      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "id": "c476e67cc64b",
+      "title": "What is Codex?",
+      "url": "https://openai.com/academy/what-is-codex",
       "source": "OpenAI",
       "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
       "phases": [
-        "p3"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "tools",
       "weight": 3
@@ -1127,18 +1178,14 @@
       "weight": 3
     },
     {
-      "id": "c476e67cc64b",
-      "title": "What is Codex?",
-      "url": "https://openai.com/academy/what-is-codex",
+      "id": "79ea493d001a",
+      "title": "Plugins and skills",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
       "source": "OpenAI",
       "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
       "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
+        "p3"
       ],
       "category": "tools",
       "weight": 3
@@ -1154,40 +1201,6 @@
         "p3"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "afb218f7b48c",
-      "title": "How to get started with Codex",
-      "url": "https://openai.com/academy/codex-how-to-start",
-      "source": "OpenAI",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "85f0e7dc4dd5",
-      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-      "source": "Google AI",
-      "published": "2026-04-23T09:00:00+00:00",
-      "summary": "Google has been a proud part of Austria\u2019s landscape for years, and today, we\u2019re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility \u2026",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "industry",
       "weight": 3
     },
     {
@@ -1214,6 +1227,20 @@
       "phases": [
         "p1",
         "p2"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "3a63ffe19879",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "source": "OpenAI",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "phases": [
+        "p1",
+        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -1247,20 +1274,6 @@
       "weight": 3
     },
     {
-      "id": "3a63ffe19879",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "source": "OpenAI",
-      "published": "2026-04-22T10:00:00+00:00",
-      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "756db9243c71",
       "title": "Introducing OpenAI Privacy Filter",
       "url": "https://openai.com/index/introducing-openai-privacy-filter",
@@ -1286,19 +1299,6 @@
         "p3"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "a85b09f82963",
-      "title": "Scaling Codex to enterprises worldwide",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "source": "OpenAI",
-      "published": "2026-04-21T00:00:00+00:00",
-      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
       "weight": 3
     },
     {
@@ -1679,7 +1679,7 @@
       "url": "https://arxiv.org/abs/2605.19376",
       "source": "ArXiv cs.AI",
       "published": "2026-05-20T00:00:00-04:00",
-      "summary": "arXiv:2605.19376v1 Announce Type: new Abstract: How should future neural reasoning systems implement extended computation? Recursive Reasoning Models (RRMs) offer a promising alternative to autoregressive sequence extension by performing iterative latent-state refinement with sha",
+      "summary": "arXiv:2605.19376v2 Announce Type: new Abstract: How should future neural reasoning systems implement extended computation? Recursive Reasoning Models (RRMs) offer a promising alternative to autoregressive sequence extension by performing iterative latent-state refinement with sha",
       "phases": [
         "p3"
       ],
