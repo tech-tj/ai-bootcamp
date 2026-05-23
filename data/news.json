@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-23T08:04:37.538562+00:00",
+  "generated": "2026-05-23T12:57:03.207491+00:00",
   "count": 120,
   "articles": [
     {
@@ -1117,135 +1117,6 @@
       "weight": 3
     },
     {
-      "id": "3aa1538062af",
-      "title": "Introducing GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5",
-      "source": "OpenAI",
-      "published": "2026-04-23T11:00:00+00:00",
-      "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "915b6ff115f0",
-      "title": "GPT-5.5 System Card",
-      "url": "https://openai.com/index/gpt-5-5-system-card",
-      "source": "OpenAI",
-      "published": "2026-04-23T11:00:00+00:00",
-      "summary": "",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "d363d492e8c4",
-      "title": "Codex settings",
-      "url": "https://openai.com/academy/codex-settings",
-      "source": "OpenAI",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "afb218f7b48c",
-      "title": "How to get started with Codex",
-      "url": "https://openai.com/academy/codex-how-to-start",
-      "source": "OpenAI",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "79ea493d001a",
-      "title": "Plugins and skills",
-      "url": "https://openai.com/academy/codex-plugins-and-skills",
-      "source": "OpenAI",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-      "phases": [
-        "p3"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "df10955916ed",
-      "title": "Working with Codex",
-      "url": "https://openai.com/academy/working-with-codex",
-      "source": "OpenAI",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "fce405449565",
-      "title": "Top 10 uses for Codex at work",
-      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-      "source": "OpenAI",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-      "phases": [
-        "p3"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "c476e67cc64b",
-      "title": "What is Codex?",
-      "url": "https://openai.com/academy/what-is-codex",
-      "source": "OpenAI",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "6e517fdbc329",
-      "title": "Automations",
-      "url": "https://openai.com/academy/codex-automations",
-      "source": "OpenAI",
-      "published": "2026-04-23T10:00:00+00:00",
-      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "503a5ba4d23d",
       "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
       "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
@@ -1716,6 +1587,141 @@
       "summary": "arXiv:2605.22138v1 Announce Type: new Abstract: How should an agent decide when and how to plan? A dominant approach builds agents as reactive policies with adaptive computation (e.g., chain-of-thought), trained end-to-end expecting planning to emerge implicitly. Without control ",
       "phases": [
         "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "3bda220b0d8f",
+      "title": "Ratchet: A Minimal Hygiene Recipe for Self-Evolving LLM Agents",
+      "url": "https://arxiv.org/abs/2605.22148",
+      "source": "ArXiv cs.AI",
+      "published": "2026-05-23T00:00:00-04:00",
+      "summary": "arXiv:2605.22148v1 Announce Type: new Abstract: Self-evolving skill libraries, pioneered by Voyager, let frozen LLM agents accumulate reusable knowledge without weight updates, yet recent evaluation shows that LLM-authored skills deliver $+0.0$pp over no-skill baselines while hum",
+      "phases": [
+        "p1",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "0dbd80d3c9cb",
+      "title": "IdleSpec: Exploiting Idle Time via Speculative Planning for LLM Agents",
+      "url": "https://arxiv.org/abs/2605.22154",
+      "source": "ArXiv cs.AI",
+      "published": "2026-05-23T00:00:00-04:00",
+      "summary": "arXiv:2605.22154v1 Announce Type: new Abstract: Large language model (LLM)-based agents solve complex tasks by leveraging multi-step reasoning with iterative tool calls and environment interactions, which incur idle time while waiting for observations. Despite the prevalence of i",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "73cb2dcbaf0b",
+      "title": "ST-SimDiff: Balancing Spatiotemporal Similarity and Difference for Efficient Video Understanding with MLLMs",
+      "url": "https://arxiv.org/abs/2605.22158",
+      "source": "ArXiv cs.AI",
+      "published": "2026-05-23T00:00:00-04:00",
+      "summary": "arXiv:2605.22158v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) face significant computational overhead when processing long videos due to the massive number of visual tokens required. To improve efficiency, existing methods primarily reduce redundancy by",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "d865c4c06435",
+      "title": "Adapting the Interface, Not the Model: Runtime Harness Adaptation for Deterministic LLM Agents",
+      "url": "https://arxiv.org/abs/2605.22166",
+      "source": "ArXiv cs.AI",
+      "published": "2026-05-23T00:00:00-04:00",
+      "summary": "arXiv:2605.22166v1 Announce Type: new Abstract: LLM agents are shaped not only by their language models, but also by the runtime harness that mediates observation, tool use, action execution, feedback interpretation, and trajectory control. While existing agent adaptation methods",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "c0eb687c28d3",
+      "title": "Measuring Cross-Modal Synergy: A Benchmark for VLM Explainability",
+      "url": "https://arxiv.org/abs/2605.22168",
+      "source": "ArXiv cs.AI",
+      "published": "2026-05-23T00:00:00-04:00",
+      "summary": "arXiv:2605.22168v1 Announce Type: new Abstract: Vision-Language Models (VLMs) map complex visual inputs to semantic spaces, but interpreting the cross-modal reasoning of VLMs currently relies on post-hoc explainers evaluated via unimodal perturbation metrics. We expose a limitati",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "f6bd8b83fbc0",
+      "title": "LLM-Metrics: Measuring Research Impact Through Large Language Model Memory",
+      "url": "https://arxiv.org/abs/2605.22176",
+      "source": "ArXiv cs.AI",
+      "published": "2026-05-23T00:00:00-04:00",
+      "summary": "arXiv:2605.22176v1 Announce Type: new Abstract: Citation counts remain the dominant metric for assessing research impact, yet they suffer from well-documented limitations: temporal lag, disciplinary bias, and Matthew effects. Here we propose LLM-Metrics, a research-impact assessm",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "3711d13ef39b",
+      "title": "Skill Weaving: Efficient LLM Improvement via Modular Skillpacks",
+      "url": "https://arxiv.org/abs/2605.22205",
+      "source": "ArXiv cs.AI",
+      "published": "2026-05-23T00:00:00-04:00",
+      "summary": "arXiv:2605.22205v1 Announce Type: new Abstract: Large language models increasingly require specialization across diverse domains, yet existing approaches struggle to balance multi-domain capacities with strict memory and inference constraints. In this work, we introduce SkillWeav",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "075d54aa9d13",
+      "title": "CLORE: Content-Level Optimization for Reasoning Efficiency",
+      "url": "https://arxiv.org/abs/2605.22211",
+      "source": "ArXiv cs.AI",
+      "published": "2026-05-23T00:00:00-04:00",
+      "summary": "arXiv:2605.22211v1 Announce Type: new Abstract: Reinforcement learning post-training has improved the reasoning ability of large language models, but often produces unnecessarily long, repetitive, or semantically opaque reasoning traces. Existing efficient reasoning methods mainl",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "3acce687c9c7",
+      "title": "Towards a compositional semantics for quantitative confidence assessment in assurance arguments",
+      "url": "https://arxiv.org/abs/2605.22213",
+      "source": "ArXiv cs.AI",
+      "published": "2026-05-23T00:00:00-04:00",
+      "summary": "arXiv:2605.22213v1 Announce Type: new Abstract: Assurance arguments provide a clear and structured way to explain why stakeholders should trust that a system satisfies certain properties, yet widely used notations, e.g.Goal Structuring Notation (GSN), typically lack an operationa",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "research",
       "weight": 2
