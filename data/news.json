@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-24T08:14:57.728580+00:00",
+  "generated": "2026-05-24T12:56:48.920330+00:00",
   "count": 120,
   "articles": [
     {
@@ -1521,6 +1521,93 @@
       "weight": 2
     },
     {
+      "id": "5dc44e8fa1fc",
+      "title": "Working on a cgo-free CUDA binding in Go for ML stuff Week 3 - open source [P]",
+      "url": "t3_1tmb4qw",
+      "source": "r/ML",
+      "published": "2026-05-24T12:41:07+00:00",
+      "summary": "At our work we use CUDA in Rust since the company switched to it recently. Rust has pretty good Driver API bindings but it made me wonder why the hell we cant have something decent in Go without cgo. I mostly build ML tools in the last month and Go is my main language for pretty ",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "dad06d696649",
+      "title": "PapersWithCode new features - week 1 [P]",
+      "url": "t3_1tmawv5",
+      "source": "r/ML",
+      "published": "2026-05-24T12:31:12+00:00",
+      "summary": "Hi, Niels here from the open-source team at Hugging Face. It&#39;s been one week since I launched paperswithcode.co , a revival of the website we all loved. It allows us to keep track of the state-of-the-art (SOTA) across various domains of AI, from agents to computer vision and ",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "ebd4356df852",
+      "title": "Qwen Plays \u0336p\u0336\u0336o\u0336\u0336k\u0336\u0336e\u0336\u0336m\u0336\u0336o\u0336\u0336n\u0336 ? / QWEN PLAYS DCSS! - qwen3.6-35b-a3b@q4_k_xl plays open source roguelike adventure DCSS (and does a decent job)",
+      "url": "t3_1tm9nx3",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T11:31:24+00:00",
+      "summary": "Hi, (TLDR.): Qwen in its MTP version has tool call bugs and outputs everything into tool/thinking blocks - mangeling the output - canceling the +speed with repeated wrong tool calls! DCSS works well with non MTP qwen even on smaller qwants. im Testing the new MTP models and thoug",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "bf7e1795bd15",
+      "title": "gemma 4 e2b quality degrades after ~30-40 continuous inferences on 4gb vram?",
+      "url": "t3_1tm9ao9",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T11:12:45+00:00",
+      "summary": "running gemma e2b via llama-server for continuous background tasks on a 1650 4gb. works great initially but after maybe 30-40 calls the outputs start getting noticeably worse \u2014 shorter responses, missing fields in json output, sometimes just empty. restarting llama-server fixes i",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "6a76318391b8",
+      "title": "How I do use the recent llama.cpp native tools to do web rag a.k.a. web_fetch (or anything else for the matter) directly from inside the llama-server's webui",
+      "url": "t3_1tm93ng",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T11:02:32+00:00",
+      "summary": "As some other fellow lllmers I&#39;ve discovered few days ago that the amazing llama.cpp project has just added native tools functionalities into the server. After having enabled the relative options into llama-server and played a bit with the most harmless of them all, get_datet",
+      "phases": [
+        "p1",
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "56dd6c84875b",
+      "title": "What would 2x RTX 3060 12GB get me?",
+      "url": "t3_1tm8902",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T10:16:32+00:00",
+      "summary": "TLDR: I\u2019m considering buying 2 RTX 3060 12GB as opposed to single 24GB card to gain experience and need to know what can be realistically accomplished with this setup. Sorry in advance, I know you guys are probably tired of these kinds of post but I wanted to shoot my shot at ask",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "0a333fd5acb7",
       "title": "Why not dynamic active parameters (and other questions for the knowledgeable)",
       "url": "t3_1tm5mi2",
@@ -1586,19 +1673,6 @@
       "weight": 1
     },
     {
-      "id": "0a52711f3ee7",
-      "title": "Expedia ML Scientist II interview experience anyone ? [D]",
-      "url": "t3_1tm0q92",
-      "source": "r/ML",
-      "published": "2026-05-24T03:29:47+00:00",
-      "summary": "I have an Initial Technical Screen interview (45 Mins) coming up for ML Scientist II: Agentic AI role, and wanted to know what to expect. Would really appreciate any info. Haven&#39;t found much information on this interview experience. Thanks! &#32; submitted by &#32; /u/Leather",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "8fcdc8cc4aff",
       "title": "TTS Benchmark Comparison (all known TTS up until May 2026)",
       "url": "t3_1tm0k2l",
@@ -1606,38 +1680,6 @@
       "published": "2026-05-24T03:21:29+00:00",
       "summary": "I was tired of not having a proper TTS related benchmark that I can use and test for personal projects, so I had to make one. Hopefully this helps those looking for running local TTS tools. Has Windows and Mac results already. Linux will be tested shortly (have a 5900XT and 3090 ",
       "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "66aa1635c365",
-      "title": "Anyone down to test this? Just uploaded a model using rys",
-      "url": "t3_1tm0eb4",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T03:14:03+00:00",
-      "summary": "Anyone down to test this? Just uploaded a uploaded a model with rys, looks pretty fun. https://huggingface.co/EidosL/Qwopus3.6-27B-v2-MTP-Q5_K_M-rys68.gguf Hey guys, just dropped this thing called rys and it seems like a blast. I&#39;m currently running some tests on my end to se",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "d8064d245bcf",
-      "title": "Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA [D]",
-      "url": "t3_1tm0cqg",
-      "source": "r/ML",
-      "published": "2026-05-24T03:11:52+00:00",
-      "summary": "I benchmarked vision-capable LLMs (the &quot;just attach the PDF and let the model read it&quot; pattern) against OCR-based pipelines on 30 long, image-heavy PDFs from MMLongBench-Doc ( https://github.com/mayubo2333/MMLongBench-Doc ). There were 171 questions in total, using Clau",
-      "phases": [
-        "p1",
-        "p2",
         "p4"
       ],
       "category": "models",
@@ -1673,51 +1715,12 @@
       "weight": 1
     },
     {
-      "id": "6d4adce41c36",
-      "title": "Performance When Offloading Large Models to System RAM?",
-      "url": "t3_1tlztgj",
+      "id": "c8baeaeb7aa7",
+      "title": "minor speed bump for MTP with Qwen3.6-27B-MTP Q6_K_XL",
+      "url": "t3_1tlxvzc",
       "source": "r/LocalLLaMA",
-      "published": "2026-05-24T02:46:46+00:00",
-      "summary": "I noticed for people running large models, or those that would be cost prohibitive to have all in GPU VRAM, I noticed that the dominate strategy is one GPU with a large pool of system DRAM to offload the weights, as per GB VRAM is always more expensive than normal DDR5. However, ",
-      "phases": [
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "93461776b157",
-      "title": "llampart 1.0.0 - I released a standalone local web UI for llama-server with translations, extended settings and a polished conversation sidebar",
-      "url": "t3_1tlwoho",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T00:19:41+00:00",
-      "summary": "Hi everyone, I\u2019ve just published the first public release of llampart 1.0.0 : https://github.com/mchowy-troll/llampart llampart is a standalone local web UI designed to work with `llama-server`. It started from the `llama-ui` work in the `llama.cpp` project, but over time I custo",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "a3d6544fd471",
-      "title": "Local model doing accounting tasks",
-      "url": "t3_1tluvwg",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-23T23:00:28+00:00",
-      "summary": "So I&#39;ve been using qwen 3.6 27b for monthly closes, bank recs, payable and receivables. Built a simple sql lite database it manages. Anyhow, wanted to post I integrated Claude skills and the https://github.com/anthropics/financial-services repo. It works well. Just wanted to ",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "cd1a6f96d965",
-      "title": "llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)",
-      "url": "t3_1tluma3",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-23T22:48:30+00:00",
-      "summary": "https://preview.redd.it/24uvk7o4sy2h1.png?width=1440&amp;format=png&amp;auto=webp&amp;s=542570e3057b6f44c1e7e8d92130f575fb69cfa2 https://preview.redd.it/l4bbm7o4sy2h1.png?width=1440&amp;format=png&amp;auto=webp&amp;s=3dc0edd978da23fecf81e86a269a06de643247d1 I was messing around w",
+      "published": "2026-05-24T01:16:14+00:00",
+      "summary": "I&#39;m on Macbook M5 Max with 128GB RAM Running a test in openwebui using llama-server (llama.cpp): unsloth/Qwen3.6-27B-UD-Q6_K_XL.gguf (non MTP): 19tps unsloth/Qwen3.6-27B-UD-Q6_K_XL.gguf (MTP): 22.3tps So nothing like the massive improvements I hear about. Possibly my own sett",
       "phases": [
         "p1"
       ],
