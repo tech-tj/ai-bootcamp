@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-24T12:56:48.920330+00:00",
+  "generated": "2026-05-24T18:59:01.705405+00:00",
   "count": 120,
   "articles": [
     {
@@ -1521,6 +1521,128 @@
       "weight": 2
     },
     {
+      "id": "80827a8496f3",
+      "title": "Is NVIDIA still the default best choice for local LLMs in 2026?",
+      "url": "t3_1tmkaua",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T18:34:33+00:00",
+      "summary": "&#32; submitted by &#32; /u/pmv143 [link] &#32; [comments]",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "ba32553f4842",
+      "title": "Need Help Choosing a Harness for Qwen 3.6 27B",
+      "url": "t3_1tmjyce",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T18:21:54+00:00",
+      "summary": "I&#39;ve burned a week trying to customize my agent manually - building my own front end - but I&#39;ve gotten to the point where I&#39;m just exhausted and willing to try a harness, but need the right one. I read posts all the time, but I have a specific use case, so I&#39;m rea",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "d9fbd09696d3",
+      "title": "X-Post of lightweight wheely robots. How / what are they running as the brains? Local? IoT-Style? Networked?",
+      "url": "t3_1tmjlqh",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T18:09:24+00:00",
+      "summary": "&#32; submitted by &#32; /u/Mchanger [link] &#32; [comments]",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "c61248610377",
+      "title": "OCR, granite-docling-258m vs granite-docling-2stage-258m: has anyone actually noticed any improvements?",
+      "url": "t3_1tmiz7j",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T17:46:37+00:00",
+      "summary": "IBM&#39;s granite-docling-2stage-258m granite-docling-2stage-258m Granite Docling 2stage builds upon the Granite Docling, but introduces a key modifications: it builds a dynamic prompt that precomputes layout objects found within a page, making it more robust on out of distributi",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "b4e430543852",
+      "title": "Qwopus 3.6",
+      "url": "t3_1tmisn3",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T17:40:01+00:00",
+      "summary": "Has anyone tried it yet? What&#39;s it good at? &#32; submitted by &#32; /u/Perfect-Flounder7856 [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "d25b0ded8724",
+      "title": "BitCPM-CANN: Native 1.58-Bit Large Language Model Training on Ascend NPU",
+      "url": "t3_1tmf63y",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T15:24:26+00:00",
+      "summary": "Paper: https://github.com/OpenBMB/MiniCPM/blob/main/docs/BitCPM_CANN.pdf Abstract We present BitCPM-CANN, a systematic family-level study of 1.58-bit (ternary) quantization-aware training (QAT) on the Huawei Ascend NPU platform. To address two practical gaps for extreme low-bit L",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "cc02fa408023",
+      "title": "GPU VRAM only for small models with llama.cpp: is it possible?",
+      "url": "t3_1tmeknt",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T15:02:03+00:00",
+      "summary": "I&#39;m still in my learning process and so far I&#39;ve been able to make satisfying use of my setup (4070 with 12GB VRAM + 32GB RAM and iGPU for my GUI). I&#39;ve been able to run both Gemma4 26B and Qwen 3.6 35B MoEs up to high quants with large context and have about 40 t/s w",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "1ea0a4184271",
+      "title": "Thermocompute constant time inference [P]",
+      "url": "t3_1tmebju",
+      "source": "r/ML",
+      "published": "2026-05-24T14:52:23+00:00",
+      "summary": "I invented thermocompute! It makes machine learning super fast! &#32; submitted by &#32; /u/arcco96 [link] &#32; [comments]",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "6e90c8e9225d",
+      "title": "Qwen3.6-35B-A3B vs Gemma4-26B-A4B",
+      "url": "t3_1tmbola",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T13:05:37+00:00",
+      "summary": "Just wondering how are people&#39;s experience with both these models! I&#39;ve had some nice results with Qwen but Gemma4 runs so much faster here. I&#39;m using a Radeon 9070 XT and always latest llama.cpp. &#32; submitted by &#32; /u/MarcCDB [link] &#32; [comments]",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "5dc44e8fa1fc",
       "title": "Working on a cgo-free CUDA binding in Go for ML stuff Week 3 - open source [P]",
       "url": "t3_1tmb4qw",
@@ -1564,19 +1686,6 @@
       "weight": 1
     },
     {
-      "id": "bf7e1795bd15",
-      "title": "gemma 4 e2b quality degrades after ~30-40 continuous inferences on 4gb vram?",
-      "url": "t3_1tm9ao9",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T11:12:45+00:00",
-      "summary": "running gemma e2b via llama-server for continuous background tasks on a 1650 4gb. works great initially but after maybe 30-40 calls the outputs start getting noticeably worse \u2014 shorter responses, missing fields in json output, sometimes just empty. restarting llama-server fixes i",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "6a76318391b8",
       "title": "How I do use the recent llama.cpp native tools to do web rag a.k.a. web_fetch (or anything else for the matter) directly from inside the llama-server's webui",
       "url": "t3_1tm93ng",
@@ -1603,126 +1712,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "0a333fd5acb7",
-      "title": "Why not dynamic active parameters (and other questions for the knowledgeable)",
-      "url": "t3_1tm5mi2",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T07:48:13+00:00",
-      "summary": "Why do we have to choose between MoE or Dense models? Wouldn&#39;t it be possible to have a model where the user can select the number of active parameters? If the user chooses them all, it is dense. So based on a task, a user could decide how many active parameters it needs. Or ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "91461b4e56f6",
-      "title": "Choosing an abliterated version of Gemma 4 31B and 26B-A4B",
-      "url": "t3_1tm5c92",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T07:31:55+00:00",
-      "summary": "The only thread was 2 months ago, when the model had just dropped. Since then, more versions from different authors have appeared, and users have had time to test them. Which version are you running now? More importantly \u2013 which version caused you problems? Currently I&#39;m usin",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "27d75078922e",
-      "title": "Qwen3.6-35B-A3B-Uncensored-Genesis-APEX-MTP",
-      "url": "t3_1tm3toi",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T06:08:22+00:00",
-      "summary": "Here model: https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-V2-APEX-MTP-GGUF Safetensors: https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-V2-FP8-Safetensors Testing results in Open Code on hardware (Beelink gtr9 pro + Strix Halo) done b",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "8993df392f35",
-      "title": "I built a local GUI for the TradingAgents framework \u2014 works with Ollama",
-      "url": "t3_1tm2ct0",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T04:51:09+00:00",
-      "summary": "https://preview.redd.it/i90oxxk7n03h1.png?width=1898&amp;format=png&amp;auto=webp&amp;s=7d219c804fda7dfe122b84fcdb6d0d6883818c68 A while back I came across TradingAgents \u2014 a really cool multi-agent LLM stock analysis framework where like a dozen &quot;agents&quot; (market analyst",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "8fcdc8cc4aff",
-      "title": "TTS Benchmark Comparison (all known TTS up until May 2026)",
-      "url": "t3_1tm0k2l",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T03:21:29+00:00",
-      "summary": "I was tired of not having a proper TTS related benchmark that I can use and test for personal projects, so I had to make one. Hopefully this helps those looking for running local TTS tools. Has Windows and Mac results already. Linux will be tested shortly (have a 5900XT and 3090 ",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "50dce7bee15e",
-      "title": "Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA",
-      "url": "t3_1tm0800",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T03:05:31+00:00",
-      "summary": "I benchmarked vision-capable LLMs (the &quot;just attach the PDF and let the model read it&quot; pattern) against OCR-based pipelines on 30 long, image-heavy PDFs from MMLongBench-Doc ( https://github.com/mayubo2333/MMLongBench-Doc ). There were 171 questions in total, using Clau",
-      "phases": [
-        "p1",
-        "p2",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "55a72cbf6726",
-      "title": "Is there any reason for an uncensored model if you have no interest in roleplaying?",
-      "url": "t3_1tlzvfs",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T02:49:19+00:00",
-      "summary": "My rag I&#39;ve been building is much in response to having a LLM that I feel more confident in knowing where the knowledge base is coming from especially after the Open AI deal with the Pentagon. So, when I saw &quot;uncensored&quot; heretic models, I thought that was the main u",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "c8baeaeb7aa7",
-      "title": "minor speed bump for MTP with Qwen3.6-27B-MTP Q6_K_XL",
-      "url": "t3_1tlxvzc",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T01:16:14+00:00",
-      "summary": "I&#39;m on Macbook M5 Max with 128GB RAM Running a test in openwebui using llama-server (llama.cpp): unsloth/Qwen3.6-27B-UD-Q6_K_XL.gguf (non MTP): 19tps unsloth/Qwen3.6-27B-UD-Q6_K_XL.gguf (MTP): 22.3tps So nothing like the massive improvements I hear about. Possibly my own sett",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 1
