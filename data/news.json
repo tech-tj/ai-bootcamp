@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-24T18:59:01.705405+00:00",
+  "generated": "2026-05-25T02:11:52.738412+00:00",
   "count": 120,
   "articles": [
     {
@@ -1104,19 +1104,6 @@
       "weight": 3
     },
     {
-      "id": "0edf8674fcb1",
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "source": "Google AI",
-      "published": "2026-04-24T19:00:00+00:00",
-      "summary": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "503a5ba4d23d",
       "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
       "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
@@ -1521,6 +1508,201 @@
       "weight": 2
     },
     {
+      "id": "89576aa1522b",
+      "title": "how to install llamacpp the better way to wrapping it in python ui (CPU use only) ?",
+      "url": "t3_1tmtyv6",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-25T01:07:13+00:00",
+      "summary": "i want the best installation that fit my use and my low-compute H.W , i want to run small to above small llm like &quot;qwen&quot; 2b ,4b and 27b , and &quot;gemma&quot; 31B. rely completely on only old CPU 4th.gen i7 with that few 32gb &#39;slow&#39; ddr3. i will use llamacpp as",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "db7d4892fcd3",
+      "title": "Sponsio: Deterministic Contract Layer for LLM Agents [P]",
+      "url": "t3_1tmtv1g",
+      "source": "r/ML",
+      "published": "2026-05-25T01:02:20+00:00",
+      "summary": "We&#39;ve been trying to put LangGraph agents into production for a while. The thing that kept biting us was tool-call boundary enforcement: stuff like &quot;must call X before Y&quot;, &quot;max N retries&quot;, &quot;approval gate before destructive action&quot;. Worked fine in",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "3856827182cc",
+      "title": "Please help with tensor dock [d]",
+      "url": "t3_1tmt47h",
+      "source": "r/ML",
+      "published": "2026-05-25T00:28:42+00:00",
+      "summary": "Anyone have any idea what I should do. This is my email to tensor dock. I developed corporate GPU benchmarking software so I need a cloud PC that can benchmark 5090 Consumer cards and 4090 Consumer cards. It worked absolutely amazing for six hours yesterday on the 4090 full deskt",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "bee05359a517",
+      "title": "\"AI solved one of math's greatest challenges, but it cannot add two numbers reliably?!\" [D]",
+      "url": "t3_1tmrd2z",
+      "source": "r/ML",
+      "published": "2026-05-24T23:12:53+00:00",
+      "summary": "Suppose your friend, a mathematician, woke up from a 5-year coma. How would you explain this to him? Do we even have an explanation other than &quot;it is what it is&quot;? EDIT: Lots of comments that are basically paraphrasing &quot;it is what it is&quot;, or denying the discrep",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "4cd85f7aee43",
+      "title": "hipEngine: Fast Native Qwen 3.6 Inference for RDNA3 (Strix Halo, 7900 XTX)",
+      "url": "t3_1tmq4s6",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T22:21:21+00:00",
+      "summary": "A few weeks ago, after finishing FastDMS , I started toying around writing some RDNA3 kernels again to see how fast I could get Qwen 3.6 MoE running. It turned out well enough, so over the past couple weeks, I turned those experiments into hipEngine , a new open source (AGPLv3) R",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "b9b364ec4b43",
+      "title": "MergeNB: An intuitive merge conflict resolver built for Jupyter notebooks in VS Code [P]",
+      "url": "t3_1tmq1eb",
+      "source": "r/ML",
+      "published": "2026-05-24T22:17:41+00:00",
+      "summary": "I used to work heavily with Jupyter Notebooks + git + VS Code in a collaborative research setting and found nbdime to be somewhat buggy/a hassle to work with in general. So, in typical side project fashion ( relevant xkcd ) I&#39;ve been working on MergeNB quite a bit over the la",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "7265935703b7",
+      "title": "Qwen 3.6 27B MTP speed on 3080ti (getting 4.5 t/s)",
+      "url": "t3_1tmpxmd",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T22:13:31+00:00",
+      "summary": "Using LM Studio with 3080ti (12gb of VRAM) and 128gb of ddr4. Model version: Qwen 3.6 27B MTP UD q4_k_xl Is this my hardware limit? Is there anyway to speed this up using the current hardware? &#32; submitted by &#32; /u/yehiaserag [link] &#32; [comments]",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "4e0debd5f5aa",
+      "title": "How do ML practitioners select hyperparameters, architectures, etc for self-supervised representation learning when the loss is non-monotonic? [D]",
+      "url": "t3_1tmprdm",
+      "source": "r/ML",
+      "published": "2026-05-24T22:06:09+00:00",
+      "summary": "Non-contrastive SSL methods like BYOL/JEPA/data2vec seem promising, but I have no idea what is being learned, or how well; it\u2019s models all the way down. Maybe I\u2019ve got supervised tasks for which I\u2019d like to see transfer, and I can evaluate linear probe/KNN results during training",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "002ee46b1e3b",
+      "title": "Could Open Models be trained to secretly go rogue?",
+      "url": "t3_1tmpqrv",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T22:05:31+00:00",
+      "summary": "I was discussing with some other folks how safe is to use open weights models from China and the topic of &quot;trojan horse&quot; came up. We know that, at least with current architecture, models can&#39;t run code on their own. They are entirely dependent on tools and harnesses",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "e69cba342e7d",
+      "title": "Generative Recursive Education: Creating Custom Interactive Textbooks on the Fly.",
+      "url": "t3_1tmoxio",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T21:32:35+00:00",
+      "summary": "&#32; submitted by &#32; /u/Ryoiki-Tokuiten [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "773bb0656e7b",
+      "title": "magic incantation to get llama-bench to work with MTP ?",
+      "url": "t3_1tmlp1n",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T19:26:55+00:00",
+      "summary": "It does not like anything I have tried, including what works with llama-server. is it not built to work with speculative decoding? &#32; submitted by &#32; /u/jdchmiel [link] &#32; [comments]",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "b5c663c8ddd6",
+      "title": "Can someone help me understand MCP?",
+      "url": "t3_1tmlmmo",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T19:24:17+00:00",
+      "summary": "They just seem like tool calls and skills, but from a link somehow? Like.. I don\u2019t get it. Is it private? That\u2019s why I haven\u2019t tried it yet lol &#32; submitted by &#32; /u/Borkato [link] &#32; [comments]",
+      "phases": [
+        "p3"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "63c847cceb82",
+      "title": "What frontend do you guys use?",
+      "url": "t3_1tmllua",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T19:23:23+00:00",
+      "summary": "I\u2019m using vim lmao with a custom made plugin for completing text, so I was curious what yall use. Llama-server seems like a sensible default but it seems limited &#32; submitted by &#32; /u/Borkato [link] &#32; [comments]",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "2d6d22102777",
+      "title": "qwen3.6-35b-a3b-mtp running on GTX 1060 6GB",
+      "url": "t3_1tml97m",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-24T19:10:26+00:00",
+      "summary": "I have this old 10-year old Dell T5810 workstation with 32GB ddr3(?) memory and a E5-2698v3 (16 cores 32 threads), a GTX 1060 6GB that&#39;s used for mining back in the old days (paid itself back many times over). I managed to get the model running with LMStudio in Windows(!). My",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "80827a8496f3",
       "title": "Is NVIDIA still the default best choice for local LLMs in 2026?",
       "url": "t3_1tmkaua",
@@ -1529,189 +1711,6 @@
       "summary": "&#32; submitted by &#32; /u/pmv143 [link] &#32; [comments]",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "ba32553f4842",
-      "title": "Need Help Choosing a Harness for Qwen 3.6 27B",
-      "url": "t3_1tmjyce",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T18:21:54+00:00",
-      "summary": "I&#39;ve burned a week trying to customize my agent manually - building my own front end - but I&#39;ve gotten to the point where I&#39;m just exhausted and willing to try a harness, but need the right one. I read posts all the time, but I have a specific use case, so I&#39;m rea",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "d9fbd09696d3",
-      "title": "X-Post of lightweight wheely robots. How / what are they running as the brains? Local? IoT-Style? Networked?",
-      "url": "t3_1tmjlqh",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T18:09:24+00:00",
-      "summary": "&#32; submitted by &#32; /u/Mchanger [link] &#32; [comments]",
-      "phases": [
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "c61248610377",
-      "title": "OCR, granite-docling-258m vs granite-docling-2stage-258m: has anyone actually noticed any improvements?",
-      "url": "t3_1tmiz7j",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T17:46:37+00:00",
-      "summary": "IBM&#39;s granite-docling-2stage-258m granite-docling-2stage-258m Granite Docling 2stage builds upon the Granite Docling, but introduces a key modifications: it builds a dynamic prompt that precomputes layout objects found within a page, making it more robust on out of distributi",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "b4e430543852",
-      "title": "Qwopus 3.6",
-      "url": "t3_1tmisn3",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T17:40:01+00:00",
-      "summary": "Has anyone tried it yet? What&#39;s it good at? &#32; submitted by &#32; /u/Perfect-Flounder7856 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "d25b0ded8724",
-      "title": "BitCPM-CANN: Native 1.58-Bit Large Language Model Training on Ascend NPU",
-      "url": "t3_1tmf63y",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T15:24:26+00:00",
-      "summary": "Paper: https://github.com/OpenBMB/MiniCPM/blob/main/docs/BitCPM_CANN.pdf Abstract We present BitCPM-CANN, a systematic family-level study of 1.58-bit (ternary) quantization-aware training (QAT) on the Huawei Ascend NPU platform. To address two practical gaps for extreme low-bit L",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "cc02fa408023",
-      "title": "GPU VRAM only for small models with llama.cpp: is it possible?",
-      "url": "t3_1tmeknt",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T15:02:03+00:00",
-      "summary": "I&#39;m still in my learning process and so far I&#39;ve been able to make satisfying use of my setup (4070 with 12GB VRAM + 32GB RAM and iGPU for my GUI). I&#39;ve been able to run both Gemma4 26B and Qwen 3.6 35B MoEs up to high quants with large context and have about 40 t/s w",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "1ea0a4184271",
-      "title": "Thermocompute constant time inference [P]",
-      "url": "t3_1tmebju",
-      "source": "r/ML",
-      "published": "2026-05-24T14:52:23+00:00",
-      "summary": "I invented thermocompute! It makes machine learning super fast! &#32; submitted by &#32; /u/arcco96 [link] &#32; [comments]",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "6e90c8e9225d",
-      "title": "Qwen3.6-35B-A3B vs Gemma4-26B-A4B",
-      "url": "t3_1tmbola",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T13:05:37+00:00",
-      "summary": "Just wondering how are people&#39;s experience with both these models! I&#39;ve had some nice results with Qwen but Gemma4 runs so much faster here. I&#39;m using a Radeon 9070 XT and always latest llama.cpp. &#32; submitted by &#32; /u/MarcCDB [link] &#32; [comments]",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "5dc44e8fa1fc",
-      "title": "Working on a cgo-free CUDA binding in Go for ML stuff Week 3 - open source [P]",
-      "url": "t3_1tmb4qw",
-      "source": "r/ML",
-      "published": "2026-05-24T12:41:07+00:00",
-      "summary": "At our work we use CUDA in Rust since the company switched to it recently. Rust has pretty good Driver API bindings but it made me wonder why the hell we cant have something decent in Go without cgo. I mostly build ML tools in the last month and Go is my main language for pretty ",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "dad06d696649",
-      "title": "PapersWithCode new features - week 1 [P]",
-      "url": "t3_1tmawv5",
-      "source": "r/ML",
-      "published": "2026-05-24T12:31:12+00:00",
-      "summary": "Hi, Niels here from the open-source team at Hugging Face. It&#39;s been one week since I launched paperswithcode.co , a revival of the website we all loved. It allows us to keep track of the state-of-the-art (SOTA) across various domains of AI, from agents to computer vision and ",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "ebd4356df852",
-      "title": "Qwen Plays \u0336p\u0336\u0336o\u0336\u0336k\u0336\u0336e\u0336\u0336m\u0336\u0336o\u0336\u0336n\u0336 ? / QWEN PLAYS DCSS! - qwen3.6-35b-a3b@q4_k_xl plays open source roguelike adventure DCSS (and does a decent job)",
-      "url": "t3_1tm9nx3",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T11:31:24+00:00",
-      "summary": "Hi, (TLDR.): Qwen in its MTP version has tool call bugs and outputs everything into tool/thinking blocks - mangeling the output - canceling the +speed with repeated wrong tool calls! DCSS works well with non MTP qwen even on smaller qwants. im Testing the new MTP models and thoug",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "6a76318391b8",
-      "title": "How I do use the recent llama.cpp native tools to do web rag a.k.a. web_fetch (or anything else for the matter) directly from inside the llama-server's webui",
-      "url": "t3_1tm93ng",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T11:02:32+00:00",
-      "summary": "As some other fellow lllmers I&#39;ve discovered few days ago that the amazing llama.cpp project has just added native tools functionalities into the server. After having enabled the relative options into llama-server and played a bit with the most harmless of them all, get_datet",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "56dd6c84875b",
-      "title": "What would 2x RTX 3060 12GB get me?",
-      "url": "t3_1tm8902",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-24T10:16:32+00:00",
-      "summary": "TLDR: I\u2019m considering buying 2 RTX 3060 12GB as opposed to single 24GB card to gain experience and need to know what can be realistically accomplished with this setup. Sorry in advance, I know you guys are probably tired of these kinds of post but I wanted to shoot my shot at ask",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 1
