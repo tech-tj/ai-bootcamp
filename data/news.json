@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-26T09:33:27.942360+00:00",
+  "generated": "2026-05-26T14:36:56.939661+00:00",
   "count": 120,
   "articles": [
     {
@@ -97,11 +97,15 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
       "source": "Google AI",
       "published": "2026-05-20T19:30:00+00:00",
-      "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
+      "summary": "We've been busy! Here\u2019s a rundown of the top announcements, launches and demos at I/O 2026.",
       "phases": [
-        "p1"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
-      "category": "models",
+      "category": "tools",
       "weight": 3
     },
     {
@@ -1117,6 +1121,40 @@
       "weight": 3
     },
     {
+      "id": "252791d1de8b",
+      "title": "Import AI 458: Reckoning with the future; and a singularity story",
+      "url": "https://jack-clark.net/2026/05/26/import-ai-458-reckoning-with-the-future-and-a-singularity-story/",
+      "source": "Import AI",
+      "published": "2026-05-26T12:32:03+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. This issue consists of a lengthy essay based on a speech I recently gave, and a fictional story attempting to th",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "25ecfa04a09c",
+      "title": "The Download: puncturing the AI jobs panic",
+      "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+      "source": "MIT Tech Review",
+      "published": "2026-05-26T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI\u2019s threat to white-collar jobs, there\u2019s still scant ev",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "7400dc01b3a1",
       "title": "A reality check on the AI jobs hysteria",
       "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
@@ -1692,34 +1730,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "102c3fcc34b6",
-      "title": "HyperGuide: Hyperbolic Guidance for Efficient Multi-Step Reasoning in Large Language Models",
-      "url": "https://arxiv.org/abs/2605.24140",
-      "source": "ArXiv cs.AI",
-      "published": "2026-05-26T00:00:00-04:00",
-      "summary": "arXiv:2605.24140v1 Announce Type: new Abstract: Multi-step reasoning remains a central challenge for large language models: single-pass generation is efficient but lacks accuracy; tree-search methods explore multiple paths but are computation-heavy. We address this gap by distill",
-      "phases": [
-        "p1",
-        "p3",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "075ac1f4b216",
-      "title": "Neuro-Inspired Inverse Learning for Planning and Control",
-      "url": "https://arxiv.org/abs/2605.24152",
-      "source": "ArXiv cs.AI",
-      "published": "2026-05-26T00:00:00-04:00",
-      "summary": "arXiv:2605.24152v1 Announce Type: new Abstract: We present a neuro-inspired framework for embodied planning and control. Building on three principles that enable fast and highly effective goal-directed behavior in the mammalian brain - paired forward/inverse internal models, open",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
