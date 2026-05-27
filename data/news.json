@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-27T14:52:22.497943+00:00",
+  "generated": "2026-05-27T19:57:26.454685+00:00",
   "count": 120,
   "articles": [
     {
@@ -12,6 +12,23 @@
       "phases": [
         "p1",
         "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "1c77cec1ddad",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "source": "OpenAI",
+      "published": "2026-05-27T00:00:00+00:00",
+      "summary": "Ahead of global elections, we\u2019re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -47,6 +64,19 @@
       "weight": 3
     },
     {
+      "id": "740545d72e85",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI",
+      "published": "2026-05-22T00:00:00+00:00",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f2261073b77c",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -57,19 +87,6 @@
         "p1",
         "p3",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "740545d72e85",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "phases": [
-        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -140,16 +157,16 @@
       "weight": 3
     },
     {
-      "id": "a23c5621227e",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "id": "ae68796c79fe",
+      "title": "The next phase of OpenAI\u2019s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "source": "OpenAI",
       "published": "2026-05-20T00:00:00+00:00",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
       "phases": [
         "p1"
       ],
-      "category": "models",
+      "category": "research",
       "weight": 3
     },
     {
@@ -166,16 +183,16 @@
       "weight": 3
     },
     {
-      "id": "ae68796c79fe",
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "id": "a23c5621227e",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "source": "OpenAI",
       "published": "2026-05-20T00:00:00+00:00",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "phases": [
         "p1"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 3
     },
     {
@@ -345,16 +362,18 @@
       "weight": 3
     },
     {
-      "id": "990a39ff7c1a",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
+      "id": "d93b94d20e7f",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
       "phases": [
         "p1",
+        "p2",
         "p3",
-        "p4"
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -377,14 +396,16 @@
       "weight": 3
     },
     {
-      "id": "4ed1b1b76f19",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "id": "990a39ff7c1a",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "phases": [
-        "p1"
+        "p1",
+        "p3",
+        "p4"
       ],
       "category": "models",
       "weight": 3
@@ -407,18 +428,14 @@
       "weight": 3
     },
     {
-      "id": "d93b94d20e7f",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "id": "4ed1b1b76f19",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
       "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -503,14 +520,15 @@
       "weight": 3
     },
     {
-      "id": "efdc3d87f1cd",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
+      "id": "818b51bc8be5",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
       "source": "OpenAI",
       "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
       "phases": [
-        "p1"
+        "p1",
+        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -530,15 +548,14 @@
       "weight": 3
     },
     {
-      "id": "818b51bc8be5",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
+      "id": "efdc3d87f1cd",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
       "source": "OpenAI",
       "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
       "phases": [
-        "p1",
-        "p3"
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -686,6 +703,19 @@
       "weight": 3
     },
     {
+      "id": "16251d7b149e",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-05-07T00:00:00+00:00",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "15d2a96bac2b",
       "title": "Introducing Trusted Contact in ChatGPT",
       "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
@@ -695,19 +725,6 @@
       "phases": [
         "p1",
         "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "16251d7b149e",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI",
-      "published": "2026-05-07T00:00:00+00:00",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -757,26 +774,12 @@
       "weight": 3
     },
     {
-      "id": "49359060f440",
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
+      "id": "54dff98022e0",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
       "source": "OpenAI",
       "published": "2026-05-06T00:00:00+00:00",
-      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "2d7f3b660987",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "source": "OpenAI",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
       "phases": [
         "p1"
       ],
@@ -797,12 +800,26 @@
       "weight": 3
     },
     {
-      "id": "54dff98022e0",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
+      "id": "49359060f440",
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
       "source": "OpenAI",
       "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "2d7f3b660987",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "source": "OpenAI",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
       "phases": [
         "p1"
       ],
@@ -1050,6 +1067,20 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "6c6d47b51097",
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks \u2014 by Artificial Analysis and IBM",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "source": "HuggingFace",
+      "published": "2026-05-27T17:20:29+00:00",
+      "summary": "",
+      "phases": [
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "58acaee1daba",
@@ -1689,34 +1720,6 @@
         "p4"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "69bda58536b0",
-      "title": "LELA: An End-to-end LLM-based Entity Linking Framework with Zero-shot Domain Adaptation",
-      "url": "https://arxiv.org/abs/2605.26956",
-      "source": "ArXiv cs.AI",
-      "published": "2026-05-27T00:00:00-04:00",
-      "summary": "arXiv:2605.26956v1 Announce Type: new Abstract: Entity linking is a key component of many downstream NLP systems, yet existing approaches are often tied to the specific target knowledge bases and domains, limiting their real world application. In this paper, we extend LELA, a mod",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "9f399ded11ee",
-      "title": "Generating Robust Portfolios of Optimization Models using Large Language Models",
-      "url": "https://arxiv.org/abs/2605.27013",
-      "source": "ArXiv cs.AI",
-      "published": "2026-05-27T00:00:00-04:00",
-      "summary": "arXiv:2605.27013v1 Announce Type: new Abstract: Mathematical optimization is a powerful tool for structured decision-making across domains such as resource allocation and planning. Formulating optimization models faithful to reality, though, remains a significant bottleneck as it",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
