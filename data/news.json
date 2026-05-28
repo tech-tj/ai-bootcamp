@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-28T09:42:55.237063+00:00",
+  "generated": "2026-05-28T15:23:57.793825+00:00",
   "count": 120,
   "articles": [
     {
@@ -197,19 +197,6 @@
       "weight": 3
     },
     {
-      "id": "ae68796c79fe",
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "source": "OpenAI",
-      "published": "2026-05-20T00:00:00+00:00",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
       "id": "95e072c6616e",
       "title": "How Ramp engineers accelerate code review with Codex",
       "url": "https://openai.com/index/ramp",
@@ -220,6 +207,19 @@
         "p1"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "ae68796c79fe",
+      "title": "The next phase of OpenAI\u2019s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "source": "OpenAI",
+      "published": "2026-05-20T00:00:00+00:00",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
       "weight": 3
     },
     {
@@ -389,46 +389,12 @@
       "weight": 3
     },
     {
-      "id": "ca8d7bccf4af",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "d93b94d20e7f",
       "title": "How business operations teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
       "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "afc8cde3e2c8",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "phases": [
         "p1",
         "p2",
@@ -463,6 +429,40 @@
       "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
       "phases": [
         "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "afc8cde3e2c8",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "ca8d7bccf4af",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -547,20 +547,6 @@
       "weight": 3
     },
     {
-      "id": "15ea451729b2",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "source": "OpenAI",
-      "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "phases": [
-        "p3",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "818b51bc8be5",
       "title": "AutoScout24 scales engineering with AI-powered workflows",
       "url": "https://openai.com/index/autoscout24",
@@ -570,6 +556,20 @@
       "phases": [
         "p1",
         "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "15ea451729b2",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "source": "OpenAI",
+      "published": "2026-05-12T00:00:00+00:00",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "phases": [
+        "p3",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -601,19 +601,6 @@
       "weight": 3
     },
     {
-      "id": "e3d1e8ca7a4b",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "source": "OpenAI",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "7c483a75c783",
       "title": "OpenAI Campus Network: Student club interest form",
       "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
@@ -624,6 +611,19 @@
         "p1"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "e3d1e8ca7a4b",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "source": "OpenAI",
+      "published": "2026-05-11T10:00:00+00:00",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -801,12 +801,12 @@
       "weight": 3
     },
     {
-      "id": "b18ba1c70db3",
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
+      "id": "2d7f3b660987",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
       "source": "OpenAI",
       "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
       "phases": [
         "p1"
       ],
@@ -827,12 +827,12 @@
       "weight": 3
     },
     {
-      "id": "2d7f3b660987",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "id": "b18ba1c70db3",
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "url": "https://openai.com/index/uber",
       "source": "OpenAI",
       "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
       "phases": [
         "p1"
       ],
@@ -871,20 +871,6 @@
       "weight": 3
     },
     {
-      "id": "05d3c5cd4cae",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "source": "OpenAI",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "2fd4f4a9abde",
       "title": "GPT-5.5 Instant System Card",
       "url": "https://openai.com/index/gpt-5-5-instant-system-card",
@@ -911,14 +897,15 @@
       "weight": 3
     },
     {
-      "id": "3938b1e238f6",
-      "title": "New ways to buy ChatGPT ads",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "id": "05d3c5cd4cae",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
       "source": "OpenAI",
-      "published": "2026-05-05T00:00:00+00:00",
-      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads.",
+      "published": "2026-05-05T10:00:00+00:00",
+      "summary": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
       "phases": [
-        "p1"
+        "p1",
+        "p4"
       ],
       "category": "models",
       "weight": 3
@@ -933,6 +920,19 @@
       "phases": [
         "p1",
         "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "3938b1e238f6",
+      "title": "New ways to buy ChatGPT ads",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "source": "OpenAI",
+      "published": "2026-05-05T00:00:00+00:00",
+      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1066,6 +1066,49 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "7e0a41b09086",
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "source": "MIT Tech Review",
+      "published": "2026-05-28T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What\u2019s next? Solar and battery company Solv Energy went public in February, hitting a $6 ",
+      "phases": [
+        "p2"
+      ],
+      "category": "industry",
+      "weight": 2
+    },
+    {
+      "id": "7ed1b16dcb9b",
+      "title": "Climate tech companies are going public. What\u2019s next?",
+      "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+      "source": "MIT Tech Review",
+      "published": "2026-05-28T10:00:00+00:00",
+      "summary": "This year, there\u2019s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stoc",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "industry",
+      "weight": 2
+    },
+    {
+      "id": "2c6e5bbca2bc",
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "source": "MIT Tech Review",
+      "published": "2026-05-28T09:51:11+00:00",
+      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. \u201cI can&#82",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "e98ac8bdc8c1",
@@ -1687,49 +1730,6 @@
         "p4"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "3a404a276290",
-      "title": "A Unified Framework for the Evaluation of LLM Agentic Capabilities",
-      "url": "https://arxiv.org/abs/2605.27898",
-      "source": "ArXiv cs.AI",
-      "published": "2026-05-28T00:00:00-04:00",
-      "summary": "arXiv:2605.27898v1 Announce Type: new Abstract: As LLMs are increasingly deployed as agents, reliable assessment of their agentic capabilities has become essential. However, reported benchmark scores often jointly reflect model capability and the implementation choices each bench",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "32ebd08bb13e",
-      "title": "SKILLC: Learning Autonomous Skill Internalization in LLM Agents via Contrastive Credit Assignment",
-      "url": "https://arxiv.org/abs/2605.27899",
-      "source": "ArXiv cs.AI",
-      "published": "2026-05-28T00:00:00-04:00",
-      "summary": "arXiv:2605.27899v1 Announce Type: new Abstract: Structured skill prompts improve exploration in long-horizon agentic reinforcement learning (RL). Skill-augmented RL methods retain external skills at inference, while skill-internalization RL methods withdraw them during training t",
-      "phases": [
-        "p1",
-        "p3",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "af7d1285da22",
-      "title": "Dr-CiK: A Testbed for Foresight-Driven Agents",
-      "url": "https://arxiv.org/abs/2605.27904",
-      "source": "ArXiv cs.AI",
-      "published": "2026-05-28T00:00:00-04:00",
-      "summary": "arXiv:2605.27904v1 Announce Type: new Abstract: Time series forecasting in real-world settings often depends not only on historical observations, but also on external context that must be actively discovered from noisy, heterogeneous information sources. Yet existing context-aide",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
