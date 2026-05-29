@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-28T20:03:34.108262+00:00",
+  "generated": "2026-05-29T02:02:24.864418+00:00",
   "count": 120,
   "articles": [
     {
@@ -11,6 +11,19 @@
       "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
       "phases": [
         "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "6b1fa8ae684f",
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "source": "OpenAI",
+      "published": "2026-05-28T12:00:00+00:00",
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "phases": [
+        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -211,19 +224,6 @@
       "weight": 3
     },
     {
-      "id": "ae68796c79fe",
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "source": "OpenAI",
-      "published": "2026-05-20T00:00:00+00:00",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
       "id": "95e072c6616e",
       "title": "How Ramp engineers accelerate code review with Codex",
       "url": "https://openai.com/index/ramp",
@@ -247,6 +247,19 @@
         "p1"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "ae68796c79fe",
+      "title": "The next phase of OpenAI\u2019s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "source": "OpenAI",
+      "published": "2026-05-20T00:00:00+00:00",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
       "weight": 3
     },
     {
@@ -416,23 +429,6 @@
       "weight": 3
     },
     {
-      "id": "ca8d7bccf4af",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "990a39ff7c1a",
       "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
       "url": "https://openai.com/index/databricks",
@@ -484,6 +480,23 @@
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
       "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "ca8d7bccf4af",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "phases": [
         "p1",
         "p2",
@@ -574,6 +587,20 @@
       "weight": 3
     },
     {
+      "id": "15ea451729b2",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "source": "OpenAI",
+      "published": "2026-05-12T00:00:00+00:00",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "phases": [
+        "p3",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "efdc3d87f1cd",
       "title": "How NVIDIA engineers and researchers build with Codex",
       "url": "https://openai.com/index/nvidia",
@@ -601,20 +628,6 @@
       "weight": 3
     },
     {
-      "id": "15ea451729b2",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "source": "OpenAI",
-      "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "phases": [
-        "p3",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "45f994a15450",
       "title": "How ChatGPT adoption broadened in early 2026",
       "url": "https://openai.com/signals/research/2026q1-update",
@@ -623,19 +636,6 @@
       "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "e3d1e8ca7a4b",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "source": "OpenAI",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "phases": [
-        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -651,6 +651,19 @@
         "p1"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "e3d1e8ca7a4b",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "source": "OpenAI",
+      "published": "2026-05-11T10:00:00+00:00",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -841,6 +854,20 @@
       "weight": 3
     },
     {
+      "id": "49359060f440",
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "source": "OpenAI",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 3
+    },
+    {
       "id": "54dff98022e0",
       "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
       "url": "https://openai.com/index/singular-bank",
@@ -867,20 +894,6 @@
       "weight": 3
     },
     {
-      "id": "49359060f440",
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "source": "OpenAI",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
       "id": "5f907f4d68cc",
       "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
@@ -898,6 +911,19 @@
       "weight": 3
     },
     {
+      "id": "2c0d932a3bc4",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "source": "OpenAI",
+      "published": "2026-05-05T10:00:00+00:00",
+      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "05d3c5cd4cae",
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "url": "https://openai.com/index/gpt-5-5-instant",
@@ -907,19 +933,6 @@
       "phases": [
         "p1",
         "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "2c0d932a3bc4",
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "source": "OpenAI",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1711,19 +1724,6 @@
         "p3"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "0d285718de70",
-      "title": "AIBuildAI-2: A Knowledge-Enhanced Agent for Automatically Building AI Models",
-      "url": "https://arxiv.org/abs/2605.27873",
-      "source": "ArXiv cs.AI",
-      "published": "2026-05-28T00:00:00-04:00",
-      "summary": "arXiv:2605.27873v1 Announce Type: new Abstract: AI models underpin data-centric applications from image and text processing to scientific discovery in biology, physics, and chemistry. Yet developing them remains heavily manual, requiring practitioners to design architectures, bui",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
