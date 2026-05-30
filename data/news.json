@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-30T08:14:32.857946+00:00",
+  "generated": "2026-05-30T13:00:27.452108+00:00",
   "count": 120,
   "articles": [
     {
@@ -1569,29 +1569,12 @@
       "weight": 2
     },
     {
-      "id": "ac0247705bde",
-      "title": "made a local voice AI for windows you can talk to in any language. open source, bring your own key",
-      "url": "t3_1trt8e3",
+      "id": "5f144794d57b",
+      "title": "\"What are you good at?\"",
+      "url": "t3_1trz9uj",
       "source": "r/LocalLLaMA",
-      "published": "2026-05-30T07:36:07+00:00",
-      "summary": "been building this on and off for a while and finally got it to a point where i&#39;m not embarrassed to share it, so here goes. it&#39;s called Shadow AI. basically a voice-first AI companion that runs on your own windows machine. you just talk to it and it talks back, no typing",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "497a49ff0862",
-      "title": "I have 2x PC's. One with a 5090 and one with a 4080. Is there an easy way to use both together networked?",
-      "url": "t3_1trssqv",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T07:11:28+00:00",
-      "summary": "I have a 5090 PC with 64 gb DDR5 and a 4080 build with 192gb DDR5. I have heard methods of networking multiple PC&#39;s together, but is there a simple client that does this easily? If not, then can someone explain why there isn&#39;t one available yet? I mean something like LMSt",
+      "published": "2026-05-30T12:57:50+00:00",
+      "summary": "Qwen, the best AI I for one am thoroughly impressed with Qwen 3.5 :) Was installing OpenWebUI and testing it just with Qwen3.5 9B, and this gave me a small chuckle. &#32; submitted by &#32; /u/Full_Dimension_3495 [link] &#32; [comments]",
       "phases": [
         "p1",
         "p2",
@@ -1603,12 +1586,12 @@
       "weight": 1
     },
     {
-      "id": "f368799b9a5c",
-      "title": "Got Really lucky and need your advice",
-      "url": "t3_1trrjjo",
+      "id": "3049c2d42d4b",
+      "title": "Qwen 3.6 coding choice\u201327B vs 35B quants",
+      "url": "t3_1tryukc",
       "source": "r/LocalLLaMA",
-      "published": "2026-05-30T06:02:55+00:00",
-      "summary": "So, I got the chance to get either a rig of like 8 RTX PRO 6000s or the GB300. Which should I take? Its gonna be used by like 10 people, but im the primary user. Edit: Thought I&#39;d add some context: The RTX6000s would be PCIe Boards. So if I shard the model across the GPU then",
+      "published": "2026-05-30T12:38:29+00:00",
+      "summary": "I&#39;ve been using Qwen 3.6 35BA3B for a while in Q8_0 quant, KV Q8_0 as well. I&#39;m trying to explore Qwen 2.6 27B. Any tips on which quant to use? Context size is 262144 Q4KM with full KV quant (fp16) Q6K with Q8_0 KV quant Stick with 35BA3B Q8_0, it&#39;s better. View Poll ",
       "phases": [
         "p1",
         "p2",
@@ -1620,12 +1603,29 @@
       "weight": 1
     },
     {
-      "id": "03c56c22df57",
-      "title": "Requesting reduction in reviewer load for NeuRIPS? [D]",
-      "url": "t3_1trqnbn",
+      "id": "722ad7b56ec2",
+      "title": "125 tok/s for Qwen3.6 q4xl on 2x 4060ti is insane perf/dollar",
+      "url": "t3_1tryp2q",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-30T12:31:19+00:00",
+      "summary": "Under $1000 for 32gb vram from 2023, and ~300 watts draw... and this thing is outperforming the latest pick-your-vendor $5k mini pcs from 2026. So.. next question is can I make it squeeze 150 t/s with the same q4xl on cuda 13.3 this weekend. Anyone try it yet? &#32; submitted by ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "b2959a59f670",
+      "title": "Before we spend months processing open-source robotics datasets, tell us why this is a bad idea [D]",
+      "url": "t3_1tryf0a",
       "source": "r/ML",
-      "published": "2026-05-30T05:17:07+00:00",
-      "summary": "I didn&#39;t submit any but did place bids on some papers. I got assigned four papers. I have a bit of travel coming up and I don&#39;t think I will be able to do justice to as many the papers, especially in the rebuttal period. Is this the standard reviewing load? In other commu",
+      "published": "2026-05-30T12:18:33+00:00",
+      "summary": "Ps. Not pitching anything; Just trying to understand where reality differs from the narrative. We&#39;re a couple of ML students, mostly worked on ML/software before, but over the last few months we&#39;ve been playing with VLAs, robot datasets, and trying to understand where the",
       "phases": [
         "p1",
         "p2",
@@ -1637,43 +1637,12 @@
       "weight": 1
     },
     {
-      "id": "c5ac1c37c6fd",
-      "title": "this new Moss tts 1.5 is damn good with voice cloning",
-      "url": "t3_1trq8kq",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T04:56:07+00:00",
-      "summary": "https://huggingface.co/spaces/OpenMOSS-Team/MOSS-TTS-v1.5 I prefer this over fish audio s2 pro because fish audio dont allow commercial use Long Cat DiT 3.5 is also a another good model. &#32; submitted by &#32; /u/9r4n4y [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "35e7bcd6614e",
-      "title": "Event like spiking neuron lib that fits into the CPU cache [P]",
-      "url": "t3_1trq5o3",
+      "id": "a9a5988850c5",
+      "title": "Query about non-archival workshop at CVPR-2026 [R]",
+      "url": "t3_1trwork",
       "source": "r/ML",
-      "published": "2026-05-30T04:51:53+00:00",
-      "summary": "I benchmarked it against PyTorch with a Wikipedia dataset. I heavily used Gemini Flash 3.5 to build out my vision https://huggingface.co/etoxin/neuronguard-wikipedia-classifier &#32; submitted by &#32; /u/Logical_Prompt_3543 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "d5fc6cc64921",
-      "title": "Graduating Without a PhD Internship [D]",
-      "url": "t3_1trn6ye",
-      "source": "r/ML",
-      "published": "2026-05-30T02:27:22+00:00",
-      "summary": "In early 2022, I was deciding between PhD offers. The deal maker was a prospective supervisor telling me that through their connections with big tech, I would be able to do a PhD internship each summer, which was one of my main goals for the PhD. During my first and second years,",
+      "published": "2026-05-30T10:52:37+00:00",
+      "summary": "My paper was recently accepted to a workshop at CVPR-2026 as non-archival acceptance. Is it mandatory for me to register to the conference as I won&#39;t be able to attend(visa issues), but my friend will be there in the conference and can present on my behalf. I have few questio",
       "phases": [
         "p1",
         "p2",
@@ -1681,79 +1650,113 @@
         "p4",
         "p5"
       ],
-      "category": "models",
+      "category": "research",
       "weight": 1
     },
     {
-      "id": "95efe33f924b",
-      "title": "All DGX Spark clones side by side in one image",
-      "url": "t3_1trms2k",
+      "id": "173ae1ee0cb6",
+      "title": "Fulloch V2: 100% Local Voice Assistant for Home Assistant & Obsidian (Runs on 16GB VRAM)",
+      "url": "t3_1trw5ym",
       "source": "r/LocalLLaMA",
-      "published": "2026-05-30T02:08:06+00:00",
-      "summary": "not really sure who needs this... but someone asked so i obliged Model Width(mm) Height(mm) Length(mm) Weight(kg) NVIDIA DGX Spark 150 50.5 150 1.2 Dell Pro Max 150 51* 150 1.31* HP ZGX Nano G1n 150 54.5* 150 1.25* Lenovo ThinkStation PGX 150 50.5 150 1.2 MSI EdgeXpert 151* 52* 1",
-      "phases": [
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "de145ea889ea",
-      "title": "Is he crazy to say that?",
-      "url": "t3_1trlzvw",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T01:31:19+00:00",
-      "summary": "&#32; submitted by &#32; /u/pmv143 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "b5dbdc54ab97",
-      "title": "I compared all specs of the major GPUs/machines that are being used here, because bandwidth is not everything. Some of ya'll need a reality check.",
-      "url": "t3_1trkze4",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T00:44:34+00:00",
-      "summary": "Clarification: This post was meant to curb the old and new Mac recommendations to new members/buyers, not to insult people with existing machines that are perfectly fine for their usecase. Edit: OKAY GUYS Pro 6k exists too, understood. Extended table below: Device Price used FP16",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "f7a2f55c6e3c",
-      "title": "Anyone using Flash Attention 2 (ai-bond) on their V100's? How is the performance?",
-      "url": "t3_1trjm6a",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-29T23:44:27+00:00",
-      "summary": "I just Installed Flash Attention 2 from here: https://github.com/ai-bond/flash-attention-v100 &quot; I did some basic benchmarks and I am getting from 4x-7x memory utilization. However, benchmarks don&#39;t always translate to real world scenarios. **I have noticed that the think",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "3d70fd779d87",
-      "title": "Are there more easy techniques than --tensor-split to fill VRAM in llama.cpp?",
-      "url": "t3_1trh4p9",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-29T22:02:11+00:00",
-      "summary": "Using 4 GPUs with llama.cpp, with MoE models mainly, I try to fit as much in VRAM as I can. --fit does a terrible job and always causes oom by trying to put way too much on 1 gpu or stupid things like that, so I do --ngl 999 and --n-cpu-moe and adjust till I get enough into vram,",
+      "published": "2026-05-30T10:23:41+00:00",
+      "summary": "Hey everyone, following up on my r/LocalLLaMA post from a while back, I have spent some time testing how far I can push my 5060ti as a personal voice assistant. The stack is Qwen3.5-9B GGUF Q5_K_M, Qwen3-1.7B ASR, and Qwen3-1.7B TTS, delivering fast, real-time responses with acou",
       "phases": [
         "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "a0578311ac03",
+      "title": "Why do the output layer weights become word vectors in Word2Vec? [D]",
+      "url": "t3_1trvuxb",
+      "source": "r/ML",
+      "published": "2026-05-30T10:06:32+00:00",
+      "summary": "I&#39;m trying to understand the intuition behind Word2Vec training using a neural network. In Word2Vec (CBOW or Skip-gram), we often hear that the weight matrices learned during training contain the vector representations (embeddings) of words. However, I don&#39;t understand wh",
+      "phases": [
+        "p2",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "09ecedf47722",
+      "title": "Gryphe/Pantheon-Reasoning-27B \u00b7 Hugging Face",
+      "url": "t3_1trvo30",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-30T09:56:03+00:00",
+      "summary": "from Gryphe: An experiment in bringing reasoning capability to the Pantheon roleplay series in the form of an uncensored dense Qwen 3.6 27B. This specific model can be thought of as a successor to both the Pantheon series and the one-time Codex release since I used such a large v",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "ef0c23f2b966",
+      "title": "Open source : Turning vocal imitations into sound effects. (New UX for sound generation)",
+      "url": "t3_1trve9e",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-30T09:40:08+00:00",
+      "summary": "Hello guys I want to introduce my new project! Have you ever needed a specific sound while making a video or a game? You know exactly what it sounds like in your head, but have no idea how to search for it. That\u2019s why sound design meetings at game studios often turn into people m",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "ba0bcbe1b758",
+      "title": "What I learned building a debugger for PyTorch training loops and how it changed how I think about failure diagnosis [D]",
+      "url": "t3_1trui0b",
+      "source": "r/ML",
+      "published": "2026-05-30T08:48:55+00:00",
+      "summary": "Hey r/ML , I spent the last few months building a tool that hooks into PyTorch training loops to automatically detect and localize failures (vanishing gradients, exploding gradients, data anomalies). Along the way, I learned some things about training failure diagnosis that might",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "19a24ec60d8e",
+      "title": "Project Blackwell: It Will Work, Eventually \u2014 Making an RTX Pro 6000 Run in a Dell R730 at 650K Context",
+      "url": "t3_1trtvlz",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-30T08:12:57+00:00",
+      "summary": "# Project Blackwell-R730: It Will Work, Eventually How a 2016-era Dell PowerEdge R730, an RTX Pro 6000 Blackwell, firmware archaeology, SlimSAS chaos, and unreasonable persistence turned into a 650k-context local AI box. **AI was also used extensively during the debugging process",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "1e12c590e947",
+      "title": "Keeping multi-GPU rigs cool?",
+      "url": "t3_1trst5s",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-30T07:12:06+00:00",
+      "summary": "As a newbie to building computers, been having issues trying to figure out how to cool my rig. The problem is that as the heat gets shunted upwards, each card gets hotter than the last (eg 31C -&gt; 38C -&gt; 42C -&gt; 44C. At load during things like video generation, the hottest",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 1
