@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-31T02:12:05.465948+00:00",
+  "generated": "2026-05-31T08:33:00.729786+00:00",
   "count": 120,
   "articles": [
     {
@@ -1569,6 +1569,142 @@
       "weight": 2
     },
     {
+      "id": "afe69c95caab",
+      "title": "Use any model and any provider with the official OpenAI Codex Desktop App, without modifying its code, and continue to use the official models in parallel?",
+      "url": "t3_1tspigk",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T08:27:44+00:00",
+      "summary": "All in the title. The official OpenAI Codex Desktop App only accepts models that are from OpenAI and from a curated list. But there is a trick, you can make it think you are using the official OpenAI servers and models by just impersonating the model name and using another one. T",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "d1636b8ef70e",
+      "title": "I built mlx-Chronos \u2014 a community benchmark leaderboard for local LLM engines on Apple Silicon (oMLX, Rapid-MLX, mlx-lm, Ollama) [P]",
+      "url": "t3_1tsphfn",
+      "source": "r/ML",
+      "published": "2026-05-31T08:26:02+00:00",
+      "summary": "Hey! I&#39;m a CS student and I got tired of not being able to compare MLX inference engines properly \u2014 every benchmark out there is either made by the engine&#39;s own developers, runs on an M3 Ultra nobody has, or just shows tok/s with zero context. So I built mlx-Chronos \u2014 a s",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "d8d2f192b9aa",
+      "title": "Should I buy this RTX 2060 12GB graphics card at around $260 for AI purpose ?",
+      "url": "t3_1tsp869",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T08:11:22+00:00",
+      "summary": "I\u2019m interested in running Gemma 4 model/s for text only . It runs smooth even on my laptop but gets crazy hot. Initially wanted to buy an 8 GB card. But I find this price for 12 GB good. (Maybe I can run some image generation models too. But its not important.) It has 6 Month Man",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "db60185e725b",
+      "title": "Made a program using LocalLLM based on llama.cpp for fellow Book Lovers!",
+      "url": "t3_1tslzyc",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T05:12:21+00:00",
+      "summary": "TL;DR: I built an Ebook reader embedded with a compact translation model. Hi! I know this post has a promotional nature, but it contains a concept that I believe readers who love books will appreciate, so please take a look. While talking to an AI developer from an English-speaki",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "11efa414f623",
+      "title": "mudler/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-MTP-GGUF just released !",
+      "url": "t3_1tslv3b",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T05:05:10+00:00",
+      "summary": "Description of the module: I host 30+ free APEX MoE quantizations as independent research. My only local hardware is an NVIDIA DGX Spark (122 GB unified memory) \u2014 enough for ~30-50B-class MoEs, but bigger ones (200B+) require rented compute on H100/H200/Blackwell, typically $20-1",
+      "phases": [
+        "p1",
+        "p3",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "8153b0611ef7",
+      "title": "Best small model right now (~4B params) that is good with agentic tasks for personal assistant?",
+      "url": "t3_1tskbf9",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T03:47:28+00:00",
+      "summary": "Looking for suggestions. I have been experimenting with gemma-4-E2B and gemma-4-E4B but the tool calling has been not the best? My tasks are just things like: Update calendar Get my schedule Send a WA message at 4PM etc. Any suggestions? If it helps, here are my server params: ./",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "9554f76ae591",
+      "title": "It's funny how everything changes, yet somehow stays the same.",
+      "url": "t3_1tsjgol",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T03:06:02+00:00",
+      "summary": "&#32; submitted by &#32; /u/bigattichouse [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "1febad08c3f5",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "url": "t3_1tsipvv",
+      "source": "r/ML",
+      "published": "2026-05-31T02:30:27+00:00",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you&#39;re looking for] For Those looking for jobs please use this template Want to be Hired: [Location], Salary Expectatio",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "b8f965c7ba6a",
+      "title": "Dell confirms XPS laptop with NVIDIA N1X at Computex ( basically a DGX Spark GB10 for consumers with Windows )",
+      "url": "t3_1tsifgs",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T02:16:31+00:00",
+      "summary": "&#32; submitted by &#32; /u/fallingdowndizzyvr [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "d52d3e546b09",
       "title": "Bayesian Opt. GPs vs Linear models and Neural Networks for parameter optimizations [R]",
       "url": "t3_1tsi17b",
@@ -1611,139 +1747,6 @@
       "summary": "Except for HP which I had to guesstimate from some Chinese guy&#39;s pic at a showcase because the ZGX Fury AI Station G1N&#39;s official page is locked down. Same reason why I didn&#39;t include Nvidia&#39;s Most underrated LLM system of 2026 and nothing comes close Assuming bud",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "83189c6888ee",
-      "title": "Benchmarked inference engines for M1 Max 64gb-results & analysis",
-      "url": "t3_1tsh5i6",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T01:14:27+00:00",
-      "summary": "I&#39;m a hobbyist on a budget, and am using a M1 Max MacBook Pro for local inference, with Hermes Agent. I&#39;ve endlessly researched which inference engines to use, and there&#39;s probably no right answer. This caught my attention today: https://www.reddit.com/r/LocalLLM/comm",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "de2054b9febc",
-      "title": "How do I try to run Gemma 4 31B at Q8 quantization? Only seeing Q4_K_M on Ollama",
-      "url": "t3_1tsfhon",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T23:56:28+00:00",
-      "summary": "Just got my new PC up and running and want to test some local models. I&#39;m a complete noob but I&#39;ve managed to install ollama. Im on Fedora Linux. &#32; submitted by &#32; /u/JayoTree [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "22cb3c2834d8",
-      "title": "[PSA] 5060ti 16GB for $300.99. 5070ti 16GB for $699.99. Best Buy in store clearance.",
-      "url": "t3_1tse423",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T22:55:07+00:00",
-      "summary": "The 5060ti 16GB(SKU 6630626) has been on clearance for a couple of weeks in Best Buy stores for $419.99. A couple of days ago, it dropped to $300.99. The 5070ti 16GB(SKU 6620367) has been on clearance for $699.99. Not all stores will have these prices. Some still have the 5060ti ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "ad280b843767",
-      "title": "Someone out there likely needs this",
-      "url": "t3_1tsd41n",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T22:11:43+00:00",
-      "summary": "&#32; submitted by &#32; /u/Signal_Ad657 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "9549e0362f4f",
-      "title": "Cost Analysis of my $6.4k Local LLM Server",
-      "url": "t3_1tsbl9j",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T21:09:05+00:00",
-      "summary": "I haven&#39;t seen any of these done, so I just wanted to share my experience in case it is useful for anyone. The purpose of this post is to show total cost of ownership of my local llm server versus API equivalent. Before you look at the final numbers, note that most people do ",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "6e18b9a682e1",
-      "title": "Running Qwen 3.6 35b MoE With Zoo Code On M1 Max is Amazing! Fully local, battery-powered coding powerhouse!",
-      "url": "t3_1tsasg2",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T20:36:41+00:00",
-      "summary": "&#32; submitted by &#32; /u/L064N [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "bf3dd6b50e7d",
-      "title": "Has anyone experimented with stabilizing low quant models with lower temp and top p?",
-      "url": "t3_1ts94t8",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T19:31:19+00:00",
-      "summary": "I was thinking about trying some bigger models out on my 80GB VRAM setup, but everything MoE is too slow with CPU offload. Otherwise there aren&#39;t many models that are purpose built for 80GB VRAM. Most of the bigger models require using a heavily quantized version. As I was lo",
-      "phases": [
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "58d23cb12c9d",
-      "title": "Parallax: Parameterized Local Linear Attention for Language Modeling",
-      "url": "t3_1ts79rg",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T18:18:05+00:00",
-      "summary": "Large Language Models (LLMs) have become the central paradigm in artificial intelligence, yet the core computational primitive of attention has remained structurally unchanged. Local Linear Attention (LLA) is an attention mechanism derived from nonparametric statistics in the tes",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "44829b214533",
-      "title": "nvidia/Qwen3.6-35B-A3B-NVFP4 \u00b7 Hugging Face",
-      "url": "t3_1ts6j6j",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T17:49:08+00:00",
-      "summary": "The NVIDIA Qwen3.6-35B-A3B-NVFP4 model is the quantized version of Alibaba&#39;s Qwen3.6-35B-A3B model, which is an auto-regressive language model that uses an optimized transformer architecture. For more information, please check here . The NVIDIA Qwen3.6-35B-A3B-NVFP4 model is ",
-      "phases": [
-        "p1",
-        "p5"
       ],
       "category": "models",
       "weight": 1
