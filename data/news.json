@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-31T13:10:10.397469+00:00",
+  "generated": "2026-05-31T19:00:27.814339+00:00",
   "count": 120,
   "articles": [
     {
@@ -1569,12 +1569,52 @@
       "weight": 2
     },
     {
-      "id": "586f2936afb5",
-      "title": "Anyone using OpenClaw/Hermes with third-party skills?",
-      "url": "t3_1tsurbc",
+      "id": "f09b986374f0",
+      "title": "what is fastest method to run qwen27b on old i7-4770k?",
+      "url": "t3_1tt2uck",
       "source": "r/LocalLLaMA",
-      "published": "2026-05-31T13:01:25+00:00",
-      "summary": "Hi everyone, I\u2019m posting on behalf of a friend who works with a university research team. She is looking for interview participants to understand user experience with OpenClaw/Hermes involving third-party skills. The interview will take 30 minutes to 1 hour over Zoom, and partici",
+      "published": "2026-05-31T18:14:09+00:00",
+      "summary": "after useless -hallucination- talks here and there , i found better to ask a direct question may someone help: i need to rn qwen27b Q8 -Q8 no less- on i7-4770k+32GbRAM+64Gbswap , what is fastest -for my HW- method to achieve this ? &#32; submitted by &#32; /u/BeautyxArt [link] &#",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "3bc8d02fedea",
+      "title": "How do I improve my T/S",
+      "url": "t3_1tt0r3d",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T16:56:57+00:00",
+      "summary": "I have a laptop with 5070 Ti (12GB VRAM), 32Gb of ram, Intel core ultra 9 275HX and Windows 11 amd I am using llama-server. I see people with 6 GB of VRAM running MoEs with 30-40 t/s but I cannot push my Qwen3.6-35B-A3B-Q6\\_K\\_P above 37 t/s and I need your advice. My current com",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "4cf8e99ecb1d",
+      "title": "Qwen3.6-35B vs Gemma4-26B on 7900 XTX",
+      "url": "t3_1tszlsa",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T16:13:21+00:00",
+      "summary": "Ran a fair comparison between Qwen3.6-35B-A3B and Gemma4-26B-A4B on my Radeon 7900 XTX. Both reasoning-enabled at matching 32K budgets, no output caps, six generic real-world prompts (meeting notes, incident postmortem, log triage to JSON, code review, a build-vs-buy decision, a ",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "403029a547c7",
+      "title": "(YT) PewDiePie released his harness/webui",
+      "url": "t3_1tsz4ji",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T15:55:38+00:00",
+      "summary": "At the very least it&#39;s interesting to have a non-programmer&#39;s take on this (though he did study mechanical engineering and did some web development iirc) https://pewdiepie-archdaemon.github.io/odysseus/ &#32; submitted by &#32; /u/Dany0 [link] &#32; [comments]",
       "phases": [
         "p1",
         "p2",
@@ -1582,16 +1622,43 @@
         "p4",
         "p5"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 1
     },
     {
-      "id": "8e6bb54e8a9e",
-      "title": "Built an AI Accelerator and opensourced it. [P]",
-      "url": "t3_1tsuogs",
+      "id": "1001b84009c9",
+      "title": "We might have a winner with the upcoming N1X",
+      "url": "t3_1tsyzeb",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T15:50:08+00:00",
+      "summary": "https://www.notebookcheck.net/Nvidia-s-N1X-and-N1-processors-leak-in-full-ahead-of-launch.1311497.0.html 16 channel ddr5 memory is going to give us best of both world,light the memory bandwidth is going to be great than 500GB/S Edit: didn\u2019t realize lpddr5 is 16-bit wide per chann",
+      "phases": [
+        "p3"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "c681e584fc91",
+      "title": "Has anyone tried fine-tuning on framework-specific toolsets?",
+      "url": "t3_1tsyqxh",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T15:41:04+00:00",
+      "summary": "One setback of smaller local models seems to be their reliability in calling tools for the harness they&#39;re plugged into. I personally tried out Gemma 4 with Hermes Agent, and Gemma kept ignoring Hermes&#39; tools - for example, it kept trying to call the &#39;google-search&#3",
+      "phases": [
+        "p3",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "03a476728036",
+      "title": "I built a tool to browse and plan CVPR workshop/tutorial days [P]",
+      "url": "t3_1tsy7rz",
       "source": "r/ML",
-      "published": "2026-05-31T12:58:16+00:00",
-      "summary": "There is a huge gap in open source AI accelerators, so I implemented mine . Popular and well known ones are already legacy and doesn&#39;t support contemporary operations like Attention. Here is what makes mine special: Attention mechanism smelted directly into silicon Prototyped",
+      "published": "2026-05-31T15:21:00+00:00",
+      "summary": "Hi everyone, as someone attending CVPR, one thing that always frustrated me was managing the workshop and tutorial days. The information is technically all there, but in practice it is scattered across dozens of workshop websites, PDFs, schedules, and program pages. I often found",
       "phases": [
         "p1",
         "p2",
@@ -1600,6 +1667,37 @@
         "p5"
       ],
       "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "828e3d4d4797",
+      "title": "Added an old 2070 Super to my rig and I can't go back...worse, now I need more",
+      "url": "t3_1tsxul2",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T15:07:07+00:00",
+      "summary": "Context: I built a new system last year November before everything went to shit. I spent like 5k for a 5090, 9800X3D and 96GB RAM. Recently (last 2-3 months) I&#39;m heavily working on my local setup. Ditched Windows, went Ubuntu &gt; Manjaro &gt; CachyOS (now) and I&#39;m basica",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "47b552c42fe3",
+      "title": "13 abliterated Gemma 4 E2B variants, 44 GPU hours, Benchmark and Comparison - Abliterlitics",
+      "url": "t3_1tsvs3j",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T13:44:34+00:00",
+      "summary": "I compared 13 abliterated variants of Gemma 4 E2B across weight analysis, KL divergence, HarmBench safety, and 8 benchmark tasks. 44 GPU hours on a single RTX 5090. Here is what actually works and what destroys capabilities. coder3101&#39;s variant achieves 96% ASR with capabilit",
+      "phases": [
+        "p4",
+        "p5"
+      ],
+      "category": "models",
       "weight": 1
     },
     {
@@ -1637,23 +1735,6 @@
       "weight": 1
     },
     {
-      "id": "2fe271a40ea8",
-      "title": "Tier-3 ISE final year(2026 batch) with ongoing ML research (EMSE/Q1/NeurIPS/A* target), trying to understand real impact in India [D]",
-      "url": "t3_1tstp6k",
-      "source": "r/ML",
-      "published": "2026-05-31T12:14:13+00:00",
-      "summary": "I went through a bunch of older posts here about research vs dev roles, but most of them were either very general or not really in a similar situation, so posting this. I\u2019m a final year ISE student from a tier-3 college. Over the past 1.5\u20132 years I\u2019ve been focusing quite a bit on",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
       "id": "57e480549a62",
       "title": "How would you model this \"strand\" clustering problem? [P]",
       "url": "t3_1tst8w4",
@@ -1666,98 +1747,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "4fdc2b4dfaa8",
-      "title": "Diffusion in prod: how are you handling spiky GPU load and cold starts?",
-      "url": "t3_1tsso35",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T11:23:49+00:00",
-      "summary": "We keep running into the same wall scaling diffusion workloads: pipelines that are fine at 100 requests fall apart at 10k. Cold starts quietly kill conversion, GPU costs compound with every model update, and multi-tenancy gets tricky fast. Curious how others are handling this in ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "11fee5631247",
-      "title": "DeepSWE benchmarks indicate that DeepSeek v4 Pro only passes 8% of tasks",
-      "url": "t3_1tsse9i",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T11:09:57+00:00",
-      "summary": "Is this accurate? I use DS v4 in OpenCode and find it nearly on par with Sonnet 4.6, so I&#39;m surprised the score is so low. https://preview.redd.it/u9ccy5h8hg4h1.png?width=2042&amp;format=png&amp;auto=webp&amp;s=1a7ccb98d449a07c87621703d1af2851fdbd4afe https://deepswe.datacurv",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "912a99674775",
-      "title": "Stepfun 3.7 Flash is very good",
-      "url": "t3_1tss9nq",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T11:03:22+00:00",
-      "summary": "If you can fit Stepfun 3.7 Flash into RAM, try it! It&#39;s feeling close to GLM 5.1 quality in terms of aesthetics, and around 80% in terms of 3D world understanding. However since it&#39;s only 25% of the params of GLM 5.1, and it has built in vision, it&#39;s feeling like noth",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "55b2be2198f2",
-      "title": "MiMo 2.5 Q6 vs DS 3.2 Q8 vs GLM 5.1 Q8",
-      "url": "t3_1tss22r",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T10:52:49+00:00",
-      "summary": "For 2 months or so I had been using GLM Q5, recently upgraded to Q8, which was an improvement. Use case is Fiction I finally got around to trying DS 3.2 after months of not. good in a different way (starting to naturally get longer responses with the same inputs), creative, but t",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "f0098589fb3e",
-      "title": "Flash Attention for llama.cpp on RDNA3: 47% less KV VRAM than Vulkan f16 K, KLD almost losselss on F16 K / q4_0 V. Part 1.",
-      "url": "t3_1tss1ca",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T10:51:44+00:00",
-      "summary": "The normal tradeoff in llama.cpp attention is: quantize your KV cache and lose quality, or keep fp16 and burn VRAM. On RDNA3 there&#39;s a third option(from now on)!Pack four 8-bit K values into a single 32-bit and feed them directly to the GPU&#39;s native `sudot4` dot-product i",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "3c3d3dfd6cf0",
-      "title": "toggle button for llama.cp web chat for QWEN3.6",
-      "url": "t3_1tsrpn4",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T10:34:24+00:00",
-      "summary": "https://preview.redd.it/od6suf6j7g4h1.png?width=619&amp;format=png&amp;auto=webp&amp;s=d31fb903ea68f58e3a641bfd275d59eeb5cce445 Missing a button in llama-serve webchat to toggle reasoning on/off like in LM Studio? This is a snippet that runs in https://www.tampermonkey.net/ a bro",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "models",
       "weight": 1
