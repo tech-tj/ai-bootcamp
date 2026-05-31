@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-30T18:57:13.976089+00:00",
+  "generated": "2026-05-31T02:12:05.465948+00:00",
   "count": 120,
   "articles": [
     {
@@ -1569,14 +1569,154 @@
       "weight": 2
     },
     {
-      "id": "ab7c7b164f4f",
-      "title": "For those creating personal assistants locally - how has short/long term memory impacted your experience?",
-      "url": "t3_1ts7wk8",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T18:43:17+00:00",
-      "summary": "With the release of Qwen 3.5 27B, I created my first truly autonomous agent. That alone completely blows my mind. I can give her tasks and go make dinner and come back and she&#39;s made an app for me. She knows how to work through problems on her own, search the internet for doc",
+      "id": "d52d3e546b09",
+      "title": "Bayesian Opt. GPs vs Linear models and Neural Networks for parameter optimizations [R]",
+      "url": "t3_1tsi17b",
+      "source": "r/ML",
+      "published": "2026-05-31T01:57:20+00:00",
+      "summary": "Hi, Relatively new to deep learning. I wanted some opinions on which of these approaches might be best for time series data and spectral analysis. I currently use a GP and it works pretty well, but I\u2019m wondering what the computational tradeoffs and so forth might be. Any ideas? &",
       "phases": [
-        "p3"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "1ce49db72e7f",
+      "title": "My home data center",
+      "url": "t3_1tshmxa",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T01:37:56+00:00",
+      "summary": "System 1: Threadripper 3960x 24c 4x 3090 ti 128gb ddr4 System 2: Xeon 8352 36c 4x 5070 ti 128gb ddr4 System 3: Intel 14700k 24c 64gb ddr5 5090 System 4: Ryzen 5950x 16c 64gb ddr4 2x 5070 ti The first system uses two PSUs to handle the almost 2000w full load of the 3090s. Was nerv",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "f5da0704922c",
+      "title": "All DGX Station GB300 OEM systems side-by-side in one image (roughly actual size)",
+      "url": "t3_1tshdcy",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T01:25:01+00:00",
+      "summary": "Except for HP which I had to guesstimate from some Chinese guy&#39;s pic at a showcase because the ZGX Fury AI Station G1N&#39;s official page is locked down. Same reason why I didn&#39;t include Nvidia&#39;s Most underrated LLM system of 2026 and nothing comes close Assuming bud",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "83189c6888ee",
+      "title": "Benchmarked inference engines for M1 Max 64gb-results & analysis",
+      "url": "t3_1tsh5i6",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T01:14:27+00:00",
+      "summary": "I&#39;m a hobbyist on a budget, and am using a M1 Max MacBook Pro for local inference, with Hermes Agent. I&#39;ve endlessly researched which inference engines to use, and there&#39;s probably no right answer. This caught my attention today: https://www.reddit.com/r/LocalLLM/comm",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "de2054b9febc",
+      "title": "How do I try to run Gemma 4 31B at Q8 quantization? Only seeing Q4_K_M on Ollama",
+      "url": "t3_1tsfhon",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-30T23:56:28+00:00",
+      "summary": "Just got my new PC up and running and want to test some local models. I&#39;m a complete noob but I&#39;ve managed to install ollama. Im on Fedora Linux. &#32; submitted by &#32; /u/JayoTree [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "22cb3c2834d8",
+      "title": "[PSA] 5060ti 16GB for $300.99. 5070ti 16GB for $699.99. Best Buy in store clearance.",
+      "url": "t3_1tse423",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-30T22:55:07+00:00",
+      "summary": "The 5060ti 16GB(SKU 6630626) has been on clearance for a couple of weeks in Best Buy stores for $419.99. A couple of days ago, it dropped to $300.99. The 5070ti 16GB(SKU 6620367) has been on clearance for $699.99. Not all stores will have these prices. Some still have the 5060ti ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "ad280b843767",
+      "title": "Someone out there likely needs this",
+      "url": "t3_1tsd41n",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-30T22:11:43+00:00",
+      "summary": "&#32; submitted by &#32; /u/Signal_Ad657 [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "9549e0362f4f",
+      "title": "Cost Analysis of my $6.4k Local LLM Server",
+      "url": "t3_1tsbl9j",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-30T21:09:05+00:00",
+      "summary": "I haven&#39;t seen any of these done, so I just wanted to share my experience in case it is useful for anyone. The purpose of this post is to show total cost of ownership of my local llm server versus API equivalent. Before you look at the final numbers, note that most people do ",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "6e18b9a682e1",
+      "title": "Running Qwen 3.6 35b MoE With Zoo Code On M1 Max is Amazing! Fully local, battery-powered coding powerhouse!",
+      "url": "t3_1tsasg2",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-30T20:36:41+00:00",
+      "summary": "&#32; submitted by &#32; /u/L064N [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "bf3dd6b50e7d",
+      "title": "Has anyone experimented with stabilizing low quant models with lower temp and top p?",
+      "url": "t3_1ts94t8",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-30T19:31:19+00:00",
+      "summary": "I was thinking about trying some bigger models out on my 80GB VRAM setup, but everything MoE is too slow with CPU offload. Otherwise there aren&#39;t many models that are purpose built for 80GB VRAM. Most of the bigger models require using a heavily quantized version. As I was lo",
+      "phases": [
+        "p5"
       ],
       "category": "models",
       "weight": 1
@@ -1606,141 +1746,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "81f5fa20a528",
-      "title": "Fine tuning on DGX spark vs 4x 3090?",
-      "url": "t3_1ts4on0",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T16:37:18+00:00",
-      "summary": "hey, my research direction don\u2019t focus on inference or eval benchmarks. specifically, it\u2019s mech interp research direction, analyzing how models do computation etc i dont have GPU, mostly using cloud GPUs loaned by third parties. i saved up some scholarship money by spending less ",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "2810a7c473ea",
-      "title": "Workshop submission for main conference paper under review [D]",
-      "url": "t3_1ts2m9n",
-      "source": "r/ML",
-      "published": "2026-05-30T15:14:36+00:00",
-      "summary": "I have an ECCV paper main conf. Can I submit the same to a workshop at some other place happening before ECCV? The other workshop (non archival) will be after the final decisions of eccv come. Under any result in eccv- acceptance or rejection, how will this affect it? Im not the ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "bf0a81818cc3",
-      "title": "STT -> LLM -> TTS pipeline",
-      "url": "t3_1ts0jjb",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T13:51:10+00:00",
-      "summary": "Hey guys, I\u2019m trying to learn about how to better create a STT LLM TTS pipeline. My current setup is running a 3090 on Ubuntu. I use llama.cpp to run Qwen 3.6 27B Q4 with pi-agent for tool calling, and I just run everything in the terminal, I haven\u2019t really bothered with chat sty",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "372f185df3a6",
-      "title": "anybody got llama-swap working answering concurrent requests for a single model?",
-      "url": "t3_1ts072f",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T13:36:39+00:00",
-      "summary": "EDIT : Solved. Works after the update, thanks everyone. been trying this out for a bit, I have qwen 3.6 35b a3b running via this config: qwen-36-35b-a3b: aliases: - qwen-a3b cmd: | env __GLX_VENDOR_LIBRARY_NAME=nvidia __NV_PRIME_RENDER_OFFLOAD=1 DRI_PRIME=1 \\ llama-server \\ -m &q",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "4bf0d8139139",
-      "title": "Can't get over 250TPS on RTX5090 with Qwen3.5-4B",
-      "url": "t3_1ts049w",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T13:33:27+00:00",
-      "summary": "My main model is qwen3.6-27b-mtp and I&#39;m getting around 100tps and 2500tps prefill, which is great. I&#39;ve tried adding a second small model for auxiliary tasks, and even when it&#39;s the only model running, it doesn&#39;t go over 200-250tps. I&#39;m building llama.cpp and",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "3049c2d42d4b",
-      "title": "Qwen 3.6 coding choice\u201327B vs 35B quants",
-      "url": "t3_1tryukc",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T12:38:29+00:00",
-      "summary": "I&#39;ve been using Qwen 3.6 35BA3B for a while in Q8_0 quant, KV Q8_0 as well. I&#39;m trying to explore Qwen 2.6 27B. Any tips on which quant to use? Context size is 262144 Q4KM with full KV quant (fp16) Q6K with Q8_0 KV quant Stick with 35BA3B Q8_0, it&#39;s better. Edit: Some",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "722ad7b56ec2",
-      "title": "125 tok/s for Qwen3.6 q4xl on 2x 4060ti is insane perf/dollar",
-      "url": "t3_1tryp2q",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-30T12:31:19+00:00",
-      "summary": "Under $1000 for 32gb vram from 2023, and ~300 watts draw... and this thing is outperforming the latest pick-your-vendor $5k mini pcs from 2026. So.. next question is can I make it squeeze 150 t/s with the same q4xl on cuda 13.3 this weekend. Anyone try it yet? **Edit** llamacpp i",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "b2959a59f670",
-      "title": "Before we spend months processing open-source robotics datasets, tell us why this is a bad idea [D]",
-      "url": "t3_1tryf0a",
-      "source": "r/ML",
-      "published": "2026-05-30T12:18:33+00:00",
-      "summary": "Ps. Not pitching anything; Just trying to understand where reality differs from the narrative We&#39;re a couple of ML students, mostly worked on ML/software before, but over the last few months we&#39;ve been playing with VLAs, robot datasets, and trying to understand where the ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "a9a5988850c5",
-      "title": "Query about non-archival workshop at CVPR-2026 [R]",
-      "url": "t3_1trwork",
-      "source": "r/ML",
-      "published": "2026-05-30T10:52:37+00:00",
-      "summary": "My paper was recently accepted to a workshop at CVPR-2026 as non-archival acceptance. Is it mandatory for me to register to the conference as I won&#39;t be able to attend(visa issues), but my friend will be there in the conference and can present on my behalf. I have few questio",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 1
     }
   ]
