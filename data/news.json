@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-01T02:33:52.288702+00:00",
+  "generated": "2026-06-01T11:05:49.227067+00:00",
   "count": 120,
   "articles": [
     {
@@ -1136,12 +1136,38 @@
       "weight": 3
     },
     {
-      "id": "7fb6b43cfe6d",
-      "title": "The Download: unlocking lithium and controlling Ebola",
-      "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
-      "source": "MIT Tech Review",
-      "published": "2026-05-29T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a new extraction process could unlock the world\u2019s lithium A new method for extracting lithium could cut costs and emissions fr",
+      "id": "c07a24378dfe",
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "source": "HuggingFace",
+      "published": "2026-06-01T04:44:55+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "268f441a63da",
+      "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+      "url": "https://arxiv.org/abs/2605.30512",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30512v1 Announce Type: new Abstract: Generating physics diagrams from text requires strict adherence to physical laws. While current generative models produce visually plausible outputs, they systematically hallucinate force vectors, ignore conservation laws, and viola",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "9e8797235255",
+      "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+      "url": "https://arxiv.org/abs/2605.30542",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30542v1 Announce Type: new Abstract: World models for embodied AI must be physically viable: constructed to answer intervention queries by representing the physical structure governing action outcomes, rather than merely predicting future observations. Existing observa",
       "phases": [
         "p1",
         "p2",
@@ -1153,12 +1179,167 @@
       "weight": 2
     },
     {
-      "id": "80a1eb6be6d0",
-      "title": "The deadly Ebola outbreak is proving difficult to control",
-      "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
-      "source": "MIT Tech Review",
-      "published": "2026-05-29T11:19:52+00:00",
-      "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit:",
+      "id": "1cc51a1d87ca",
+      "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
+      "url": "https://arxiv.org/abs/2605.30563",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30563v1 Announce Type: new Abstract: Factored tasks are a classical planning representation that extends SAS+ with limited forms of disjunctive preconditions, conditional effects, and angelic nondeterminism. This allows for a more compact representation of tasks than t",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "bf74cd9ca250",
+      "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
+      "url": "https://arxiv.org/abs/2605.30570",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30570v1 Announce Type: new Abstract: We investigate the application of MAP-Elites (a well-known quality diversity algorithm) to design levels for First-Person Shooter (FPS) games. We consider two well-known map representations (All-Black and Grid-Graph) and introduce t",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "5712a926c16f",
+      "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
+      "url": "https://arxiv.org/abs/2605.30576",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30576v1 Announce Type: new Abstract: Exploration in reinforcement learning for autonomous driving is inherently unsafe: agents must experience novel behaviors to learn, yet exploration can lead to collisions or off-road driving. We propose an uncertainty-aware framewor",
+      "phases": [
+        "p3",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "ca6ec70b9df6",
+      "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+      "url": "https://arxiv.org/abs/2605.30621",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30621v1 Announce Type: new Abstract: LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories and tools, that shape task execution without changing model parameters. Harness self-evolution adapts such",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "85b2e0e66ca6",
+      "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
+      "url": "https://arxiv.org/abs/2605.30637",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30637v1 Announce Type: new Abstract: Clinical decision-making (CDM) is central to real-world clinical workflows, where clinicians infer diagnoses, select treatments, or anticipate future health outcomes under incomplete evidence. LLMs are increasingly used to support t",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "0420ceff79d1",
+      "title": "Structure-Induced Information for Rerooting Levin Tree Search",
+      "url": "https://arxiv.org/abs/2605.30664",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30664v1 Announce Type: new Abstract: Subgoal-based policy tree search, which uses a policy to guide search, is effective for complex single-agent deterministic problems but often relies on explicit subgoal generation that can incur substantial overhead and hinders scal",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "f178f0e5929c",
+      "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
+      "url": "https://arxiv.org/abs/2605.30680",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30680v1 Announce Type: new Abstract: Healthcare mechanisms are inseparable from the strategic provider response they induce: existing healthcare AI benchmarks hold this response fixed and so cannot evaluate mechanisms by the equilibrium they produce. We recast hospital",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "7b52e4995638",
+      "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
+      "url": "https://arxiv.org/abs/2605.30738",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30738v1 Announce Type: new Abstract: Generalization across agentic tool-calling environments remains a central challenge for reliable agentic reasoning systems. Although large language models achieve strong results on individual benchmarks, their ability to compose rea",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "8afd9a27e189",
+      "title": "Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.30747",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30747v1 Announce Type: new Abstract: Logical rules constitute a cornerstone of knowledge graph (KG) reasoning, valued for their interpretability and ability to model relational patterns. However, existing rule mining methods predominantly focus on simple chain-like rul",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "0f2400d6c6a9",
+      "title": "Learning Agent-Compatible Context Management for Long-Horizon Tasks",
+      "url": "https://arxiv.org/abs/2605.30785",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30785v1 Announce Type: new Abstract: LLM agents increasingly face long-horizon tasks such as web search and deep research in real-world applications, where accumulated context can cause long-context degradation and reasoning failures. Prior work mitigates this through ",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "7bc0f88fe916",
+      "title": "PReMISE: Policy Rubrics as Measurement Specifications for LLM Judges",
+      "url": "https://arxiv.org/abs/2605.30803",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30803v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate open-ended responses, but their scores depend strongly on the rubrics that condition them. A vague rubric asking for a response to be ``helpful and factual'' can reward polished answers t",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "fdc215524136",
+      "title": "Planner-Centric Reinforcement Learning for Deep Research with Structure-Aware Reward",
+      "url": "https://arxiv.org/abs/2605.30824",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30824v1 Announce Type: new Abstract: Deep research tasks require LLMs to plan what to investigate, retrieve evidence, and synthesize long-form answers across multiple branches of inquiry. Existing training paradigms either rely on short-form verifiable QA as a proxy or",
       "phases": [
         "p1"
       ],
@@ -1166,98 +1347,111 @@
       "weight": 2
     },
     {
-      "id": "f706a3b8d9c5",
-      "title": "How the Pope\u2019s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-      "source": "MIT Tech Review",
-      "published": "2026-05-29T10:00:00+00:00",
-      "summary": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral.\u201d Magnifica Humanitas (\u201cMagnificent Humanity\u201d) is a clarion call to all people to act with courage and s",
+      "id": "e4636219077c",
+      "title": "SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning",
+      "url": "https://arxiv.org/abs/2605.30832",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30832v1 Announce Type: new Abstract: Recent advances in Large Reasoning Models have significantly improved chain-of-thought (CoT) capabilities via reinforcement learning (RL). However, generated reasoning chains frequently suffer from structural redundancy (i.e., \\emph",
       "phases": [
-        "p2"
+        "p3"
       ],
       "category": "models",
       "weight": 2
     },
     {
-      "id": "442e91c104b6",
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
-      "source": "HuggingFace",
-      "published": "2026-05-29T00:00:00+00:00",
-      "summary": "",
+      "id": "1e3eca18a501",
+      "title": "COMPASS: Cognitive MCTS-Guided Process Alignment for Safe Search Agents",
+      "url": "https://arxiv.org/abs/2605.30838",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30838v1 Announce Type: new Abstract: LLM-powered search agents enable multi-step reasoning and tool use. However, these capabilities introduce retrieval-induced safety degradation, as harmful intents may decompose into seemingly innocuous sub-queries that lead to unsaf",
       "phases": [
         "p1",
         "p2",
         "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "5549a01e041a",
-      "title": "How a new extraction process could unlock the world\u2019s lithium",
-      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
-      "source": "MIT Tech Review",
-      "published": "2026-05-28T18:01:00+00:00",
-      "summary": "Researchers say they\u2019ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones.&#160; The research was p",
-      "phases": [
-        "p2"
+        "p4"
       ],
       "category": "research",
       "weight": 2
     },
     {
-      "id": "7e0a41b09086",
-      "title": "The Download: climate tech goes public and the AI Hype Index returns",
-      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
-      "source": "MIT Tech Review",
-      "published": "2026-05-28T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What\u2019s next? Solar and battery company Solv Energy went public in February, hitting a $6 ",
-      "phases": [
-        "p2"
-      ],
-      "category": "industry",
-      "weight": 2
-    },
-    {
-      "id": "7ed1b16dcb9b",
-      "title": "Climate tech companies are going public. What\u2019s next?",
-      "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
-      "source": "MIT Tech Review",
-      "published": "2026-05-28T10:00:00+00:00",
-      "summary": "This year, there\u2019s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stoc",
+      "id": "43e965aa7f18",
+      "title": "Distilling LLM Feedback for Lean Theorem Proving",
+      "url": "https://arxiv.org/abs/2605.30861",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30861v1 Announce Type: new Abstract: Post-training for reasoning models typically combines supervised fine-tuning with reinforcement learning from verifiable rewards, most commonly with GRPO. However, this algorithm suffers from sparse rewards, limited exploration, and",
       "phases": [
         "p1",
-        "p2",
         "p3",
-        "p4",
         "p5"
       ],
-      "category": "industry",
+      "category": "research",
       "weight": 2
     },
     {
-      "id": "2c6e5bbca2bc",
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-      "source": "MIT Tech Review",
-      "published": "2026-05-28T09:51:11+00:00",
-      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. \u201cI can&#82",
+      "id": "259bae045394",
+      "title": "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling",
+      "url": "https://arxiv.org/abs/2605.30898",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30898v1 Announce Type: new Abstract: In real-world deployments of large language models (LLMs), balancing inference quality and computational cost has become a central challenge. Existing approaches tackle this trade-off along two largely independent dimensions: model ",
       "phases": [
-        "p2"
+        "p1",
+        "p5"
       ],
       "category": "models",
       "weight": 2
     },
     {
-      "id": "6c6d47b51097",
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks \u2014 by Artificial Analysis and IBM",
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "source": "HuggingFace",
-      "published": "2026-05-27T17:20:29+00:00",
-      "summary": "",
+      "id": "3073acd1e3b5",
+      "title": "BilliardPhys-Bench: Benchmarking Physical Reasoning and Visual Dynamics of Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2605.30900",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30900v1 Announce Type: new Abstract: Current multimodal models handle static image recognition well, but intuitive physical reasoning remains a weakness. Predicting how objects will move and interact from a single image is still difficult for these systems. We present ",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "415ac6f6e242",
+      "title": "A Persona-Based Evaluation Framework for Pluralistic Alignment in Generative AI",
+      "url": "https://arxiv.org/abs/2605.31021",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31021v1 Announce Type: new Abstract: Current alignment paradigms for generative artificial intelligence rely predominantly on monolithic benchmarking frameworks that reduce the plurality of human judgment to aggregated statistical baselines, thereby obscuring cultural,",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "33f809c5de28",
+      "title": "HADT: A Heterogeneous Multi-Agent Differential Transformer for Autonomous Earth Observation Satellite Cluster",
+      "url": "https://arxiv.org/abs/2605.31023",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31023v1 Announce Type: new Abstract: This work addresses the problem of autonomous resource management in heterogeneous satellite cluster conducting Earth Observation (EO) missions including optical and Synthetic Aperture Radar (SAR) satellites. In autonomous operation",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "46afba900bab",
+      "title": "GraphARC: A Comprehensive Benchmark for Graph-Based Abstract Reasoning",
+      "url": "https://arxiv.org/abs/2605.31031",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31031v1 Announce Type: new Abstract: Relational reasoning lies at the heart of intelligence, but existing benchmarks are typically confined to formats such as grids or text. We introduce GraphARC, a benchmark for abstract reasoning on graph-structured data. GraphARC ge",
       "phases": [
         "p3",
         "p4"
@@ -1266,12 +1460,40 @@
       "weight": 2
     },
     {
-      "id": "58acaee1daba",
-      "title": "The Download: keeping up with AI, and the future of IVF",
-      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
-      "source": "MIT Tech Review",
-      "published": "2026-05-27T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what\u2019s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of n",
+      "id": "627a174aae74",
+      "title": "Vector Linking via Cross-Model Local Isometric Consistency",
+      "url": "https://arxiv.org/abs/2605.31100",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31100v1 Announce Type: new Abstract: We study Vector Linking: given two embedding clouds produced by different black-box encoders over partially overlapping datasets, recover cross-model object correspondences using only vectors. Empirically and theoretically, we show ",
+      "phases": [
+        "p2"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "02a44a2671ff",
+      "title": "LLM-FACETS: A Privacy-Preserving Framework for Evaluating LLM Transparency and Accountability",
+      "url": "https://arxiv.org/abs/2605.31167",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31167v1 Announce Type: new Abstract: Assessing whether Large Language Models outputs are factually grounded, epistemically calibrated, and methodologically reproducible is a prerequisite for responsible AI deployment. Yet auditing LLMs remains inaccessible to non-techn",
+      "phases": [
+        "p1",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "d03e3899b61f",
+      "title": "Formalizing and falsifying causal pathways of rare events",
+      "url": "https://arxiv.org/abs/2605.31254",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31254v1 Announce Type: new Abstract: Building on recent formalizations of root cause analysis for rare events (``outliers'') in structural equation models, we propose a formal definition of a causal pathway and discuss its testable implications. We identify conditions ",
       "phases": [
         "p1",
         "p2",
@@ -1283,233 +1505,195 @@
       "weight": 2
     },
     {
-      "id": "7cdcfd616873",
-      "title": "Reachy Mini goes fully local",
-      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "source": "HuggingFace",
-      "published": "2026-05-27T00:00:00+00:00",
-      "summary": "",
+      "id": "bf88e7a3d4ff",
+      "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
+      "url": "https://arxiv.org/abs/2605.31264",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31264v1 Announce Type: new Abstract: LLM agents are increasingly expected not only to complete isolated tasks, but also to carry bounded representations of human expertise, judgment, and interaction style. Building such person-grounded agents remains difficult because ",
       "phases": [
         "p1",
-        "p2",
         "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "3b3971cee4f2",
-      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-      "url": "https://huggingface.co/blog/delta-weight-sync",
-      "source": "HuggingFace",
-      "published": "2026-05-27T00:00:00+00:00",
-      "summary": "",
-      "phases": [
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "b920d871e577",
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-      "source": "MIT Tech Review",
-      "published": "2026-05-26T14:54:10+00:00",
-      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can\u2019t suppor",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "tools",
-      "weight": 2
-    },
-    {
-      "id": "252791d1de8b",
-      "title": "Import AI 458: Reckoning with the future; and a singularity story",
-      "url": "https://jack-clark.net/2026/05/26/import-ai-458-reckoning-with-the-future-and-a-singularity-story/",
-      "source": "Import AI",
-      "published": "2026-05-26T12:32:03+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. This issue consists of a lengthy essay based on a speech I recently gave, and a fictional story attempting to th",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
         "p5"
       ],
       "category": "research",
       "weight": 2
     },
     {
-      "id": "25ecfa04a09c",
-      "title": "The Download: puncturing the AI jobs panic",
-      "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-      "source": "MIT Tech Review",
-      "published": "2026-05-26T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI\u2019s threat to white-collar jobs, there\u2019s still scant ev",
+      "id": "95d570dfcea0",
+      "title": "Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation",
+      "url": "https://arxiv.org/abs/2605.31278",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31278v1 Announce Type: new Abstract: Reliable evaluation of agentic systems requires unbiased estimates with valid uncertainty, but standard practice navigates between costly human annotation and biased LLM-as-judge proxies. Prediction-powered inference (PPI) combines ",
       "phases": [
         "p1",
-        "p2",
         "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "37be5f050c29",
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "url": "https://huggingface.co/blog/agent-glossary",
-      "source": "HuggingFace",
-      "published": "2026-05-25T00:00:00+00:00",
-      "summary": "",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "503a5ba4d23d",
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "source": "HuggingFace",
-      "published": "2026-05-23T00:02:03+00:00",
-      "summary": "",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "d58891a38c35",
-      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-      "source": "HuggingFace",
-      "published": "2026-05-22T15:25:59+00:00",
-      "summary": "",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "63751fb3a376",
-      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "source": "HuggingFace",
-      "published": "2026-05-19T18:38:09+00:00",
-      "summary": "",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "e05bf9ebf2f8",
-      "title": "Introducing the Ettin Reranker Family",
-      "url": "https://huggingface.co/blog/ettin-reranker",
-      "source": "HuggingFace",
-      "published": "2026-05-19T00:00:00+00:00",
-      "summary": "",
-      "phases": [
-        "p2"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "210dad3ca6f9",
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "source": "HuggingFace",
-      "published": "2026-05-18T15:12:46+00:00",
-      "summary": "",
-      "phases": [
-        "p2"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "75f5a4c5aec4",
-      "title": "Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment",
-      "url": "https://jack-clark.net/2026/05/18/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
-      "source": "Import AI",
-      "published": "2026-05-18T13:31:17+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe now Stuxnet before Stuxnet:\u2026Fast16 bugs software likely used in weapons programs\u2026Here\u2019s a fascinating ",
-      "phases": [
         "p4"
       ],
       "category": "research",
       "weight": 2
     },
     {
-      "id": "3d30727982c4",
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context \u2014 Best Sub-100M Retrieval Quality",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "source": "HuggingFace",
-      "published": "2026-05-14T18:55:01+00:00",
-      "summary": "",
+      "id": "90e6c43a5db9",
+      "title": "TraceGraph: Shared Decision Landscapes for Diagnosing and Improving Agent Trajectories",
+      "url": "https://arxiv.org/abs/2605.31308",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31308v1 Announce Type: new Abstract: Agent benchmarks increasingly record rich interaction trajectories, yet evaluation often reduces each rollout to a pass rate or reward score. We introduce TraceGraph, a graph-based framework that turns released multi-model agent tra",
       "phases": [
-        "p2",
+        "p3",
         "p4"
       ],
       "category": "models",
       "weight": 2
     },
     {
-      "id": "c2fad0632e54",
-      "title": "Unlocking asynchronicity in continuous batching",
-      "url": "https://huggingface.co/blog/continuous_async",
-      "source": "HuggingFace",
-      "published": "2026-05-14T00:00:00+00:00",
-      "summary": "",
+      "id": "636ce8c7bc73",
+      "title": "Diagnosing Failure Modes of Shared-State Collaboration in Resource-Constrained Visual Agents",
+      "url": "https://arxiv.org/abs/2605.31354",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31354v1 Announce Type: new Abstract: Modular visual reasoning systems increasingly rely on shared working memory for multi-step collaboration, yet the failure dynamics of intermediate state evolution in low-capacity regimes remain underexplored. We study failure modes ",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "e406fa336c5d",
+      "title": "Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration",
+      "url": "https://arxiv.org/abs/2605.31365",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31365v1 Announce Type: new Abstract: Recent advances in Multimodal Large Language Models (MLLMs) have led to promising progress in web agents. However, existing web agents often rely on handcrafted execution pipelines or expensive expert trajectories, limiting their ad",
       "phases": [
         "p1",
-        "p2",
         "p3",
-        "p4",
         "p5"
       ],
       "category": "models",
       "weight": 2
     },
     {
-      "id": "3bee7290591a",
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "source": "HuggingFace",
-      "published": "2026-05-11T23:18:26+00:00",
-      "summary": "",
+      "id": "cfa741efe150",
+      "title": "HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2605.31370",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31370v1 Announce Type: new Abstract: Abductive reasoning over knowledge graphs aims to generate logical hypotheses that explain observed entities or facts. Existing controllable hypothesis generation methods allow users to guide this process with explicit conditions, b",
       "phases": [
-        "p1"
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "1d2bb5520a96",
+      "title": "FAM-Bench: A Multimodal Benchmark for Condition-Aware Food-as-Medicine Reasoning",
+      "url": "https://arxiv.org/abs/2605.31410",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31410v1 Announce Type: new Abstract: Food-as-Medicine requires models to reason beyond what a dish is or what nutrition it contains: they must decide whether a concrete food choice is appropriate for a specific health condition. Existing food AI benchmarks primarily ev",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
       ],
       "category": "models",
       "weight": 2
     },
     {
-      "id": "abbd13211cbf",
-      "title": "Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer",
-      "url": "https://jack-clark.net/2026/05/11/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/",
-      "source": "Import AI",
-      "published": "2026-05-11T12:46:12+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe now Regulate? Don\u2019t regulate. There\u2019s a third way: Radical Optionality:\u2026Governments should invest in t",
+      "id": "889f52f35262",
+      "title": "Answer-Set-Programming-based Abstractions for Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.31444",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31444v1 Announce Type: new Abstract: Reinforcement Learning (RL) enables autonomous agents to learn policies from experience, but realistic problems often involve enormous state spaces, making learning and generalisation challenging. Abstraction and approximation are t",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "88988739dd4f",
+      "title": "AutoSci: A Memory-Centric Agentic System for the Full Scientific Research Lifecycle",
+      "url": "https://arxiv.org/abs/2605.31468",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31468v1 Announce Type: new Abstract: Scientific research has traditionally been human-intensive, requiring researchers to coordinate literature, ideas, experiments, manuscripts, and review responses across long project cycles. The rise of LLM-based scientific agents cr",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "67cc393f62d8",
+      "title": "LinTree: Improving LLM Reasoning with Explicitly Structured Search Histories",
+      "url": "https://arxiv.org/abs/2605.31492",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31492v1 Announce Type: new Abstract: Large language models (LLMs) often solve reasoning problems by generating intermediate traces that explore and revise partial solutions. From a search perspective, these traces can be viewed as linearized search trees, where the mod",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "8493da69d81e",
+      "title": "Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumentation",
+      "url": "https://arxiv.org/abs/2605.31581",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.31581v1 Announce Type: new Abstract: The same arguments often need to be evaluated under different external regimes. An agent with influence over the regime has a strategic lever that standard formalisms do not directly capture. We introduce context-dependent argumenta",
+      "phases": [
+        "p3",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "880ad71069c9",
+      "title": "TRINE: A Token-Aware, Runtime-Adaptive FPGA Inference Engine for Multimodal AI",
+      "url": "https://arxiv.org/abs/2603.22867",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2603.22867v1 Announce Type: cross Abstract: Multimodal stacks that mix ViTs, CNNs, GNNs, and transformer NLP strain embedded platforms because their compute/memory patterns diverge and hard real-time targets leave little slack. TRINE is a single-bitstream FPGA accelerator a",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "7fbe3c667af0",
+      "title": "When LLM Reward Design Fails: Diagnostic-Driven Refinement for Sparse Structured RL",
+      "url": "https://arxiv.org/abs/2605.28918",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.28918v1 Announce Type: cross Abstract: For sparse, structured reinforcement-learning tasks with semantic reward-function interfaces, LLM-generated reward shaping is better framed as debugging than one-shot generation. We study PPO-trained agents using MiniGrid as core ",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "1713bd66b63a",
+      "title": "Gradient-Free Training of Spiking Neural Networks via Low-Rank Evolution Strategies",
+      "url": "https://arxiv.org/abs/2605.30361",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30361v1 Announce Type: cross Abstract: Spiking Neural Networks (SNNs) offer compelling energy efficiency on neuromorphic hardware, yet their training remains challenging because the discrete spike threshold is non-differentiable. Surrogate-gradient methods sidestep thi",
       "phases": [
         "p1",
         "p2",
@@ -1521,26 +1705,12 @@
       "weight": 2
     },
     {
-      "id": "11e756df6b84",
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "source": "HuggingFace",
-      "published": "2026-05-06T19:06:55+00:00",
-      "summary": "",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "6491f8c1211c",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "source": "HuggingFace",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "",
+      "id": "7148f10a5e74",
+      "title": "XOResNet: Exclusive-OR Meta-Residuals Facilitate Deep Spiking Neural Networks Learning",
+      "url": "https://arxiv.org/abs/2605.30362",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-01T00:00:00-04:00",
+      "summary": "arXiv:2605.30362v1 Announce Type: cross Abstract: Spiking neural networks (SNNs) hold promise for demonstrating superior learning and representation capabilities in deep models. Given the tremendous success of ResNet in deep learning, it would naturally follow to train deep SNNs ",
       "phases": [
         "p1",
         "p2",
@@ -1550,195 +1720,6 @@
       ],
       "category": "models",
       "weight": 2
-    },
-    {
-      "id": "c38e45e764ee",
-      "title": "Import AI 455: Automating AI Research",
-      "url": "https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/",
-      "source": "Import AI",
-      "published": "2026-05-04T12:32:09+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe now AI systems are about to start building themselves. What does that mean? I\u2019m writing this post because when I loo",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "196e9e54d6b4",
-      "title": "Use HTML as the primary chat language of your LLM's so they can make interactive content",
-      "url": "t3_1tter4t",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-01T02:20:57+00:00",
-      "summary": "A day or two back I posted about how you can use HTML directly as the output for your agent&#39;s chat . Many people mentioned that there was no point as with mermaid or graphviz agents can already draw diagrams, or that markdown was technically a superset of HTML (not that I&#39",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "0ee8e5d6e8e6",
-      "title": "What\u2019s the actual focus in World Models right now? [R]",
-      "url": "t3_1ttei2r",
-      "source": "r/ML",
-      "published": "2026-06-01T02:09:02+00:00",
-      "summary": "Hey everyone, I&#39;m trying to get back into the loop on world models. The last time I followed SSL closely, the buzz was all about Barlow Twins and DINO, but now everything just looks like scaled-up video generation from big industry labs. What is the actual academic research c",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "59355106035a",
-      "title": "I bolted an 8-arm reasoning MoE onto a frozen 1.4B Mamba backbone on a single RTX 3060. Here\u2019s the mechanistic autopsy of what broke and what worked.",
-      "url": "t3_1ttefnc",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-01T02:05:46+00:00",
-      "summary": "I built Mamba-Titan-1.4B-Reasoning (a 2.54B parameter MoE) entirely on a 12GB VRAM budget. I froze a 1.4B pure-PyTorch Mamba-1 backbone, grafted on 8 trainable expert arms at the mid-network level, and trained it on DeepSeek CoT traces to teach it latent reasoning. Along the way,",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "8ade3deb5fab",
-      "title": "Built a fun weekend project: An MCP server for generating Mandelbrot visualizations",
-      "url": "t3_1tte2cu",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-01T01:49:06+00:00",
-      "summary": "I&#39;ve always liked fractals, so I wanted to see how well an LLM could explore the Mandelbrot set if it had proper tools to inspect and generate renders. The server gives models access to: Rendering tools for Mandelbrot images Presets for interesting regions (Seahorse Valley, E",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "191a78e733bb",
-      "title": "when you spend 5 days fine-tuning a model and it still confidently makes things up",
-      "url": "t3_1ttdrli",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-01T01:34:59+00:00",
-      "summary": "&#32; submitted by &#32; /u/Chapper_App [link] &#32; [comments]",
-      "phases": [
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "f25bdf7243be",
-      "title": "MiniMax M3 - Coding & Agentic Frontier, 1M Context, Multimodal",
-      "url": "t3_1ttdiq0",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-01T01:23:45+00:00",
-      "summary": "&#32; submitted by &#32; /u/dryadofelysium [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "c8ad5b34d736",
-      "title": "Get you some GPUs, it's not worth the hacks around lack of RAM",
-      "url": "t3_1ttboo2",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-01T00:01:21+00:00",
-      "summary": "https://preview.redd.it/w356ddr8ak4h1.png?width=550&amp;format=png&amp;auto=webp&amp;s=f04238bf0d44f6defe58698c75f08d6c2581d4c2 https://preview.redd.it/nalt9p8mak4h1.png?width=550&amp;format=png&amp;auto=webp&amp;s=b8fb2f366f176eab0003a5cc53e4736664d25659 If you can, get you some",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "9c85d078c4bd",
-      "title": "Semantic Step Prediction: Multi-Step Latent Forecasting in LLM Reasoning Trajectories via Step Sampling",
-      "url": "t3_1ttalm9",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T23:14:03+00:00",
-      "summary": "&#32; submitted by &#32; /u/Thrumpwart [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "d653818cc918",
-      "title": "UAI Results are out [R]",
-      "url": "t3_1tt9xbt",
-      "source": "r/ML",
-      "published": "2026-05-31T22:45:36+00:00",
-      "summary": "You can\u2019t see AC comments yet, but you can see the Accept/Reject consoles. My paper (with scores of 8,6,3) got rejected. &#32; submitted by &#32; /u/GeeseChen [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "1960a81e7fa1",
-      "title": "GPU Prices. Buy now, or buy later?",
-      "url": "t3_1tt9r8j",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T22:38:16+00:00",
-      "summary": "If the Community could sound off on this, I&#39;d be grateful. Do you think GPU prices are going to stop skyrocketing? Is this FOMO and hype driving the adoption of local inference? I wonder if this mass-market adoption will last for years? Is it a long-term trend? If I wait 6 mo",
-      "phases": [
-        "p1"
-      ],
-      "category": "community",
-      "weight": 1
-    },
-    {
-      "id": "abd2cce074ab",
-      "title": "G7 agrees on shared language around open-source AI and open weights AI",
-      "url": "t3_1tt7t1x",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T21:19:02+00:00",
-      "summary": "Basically stuff we already knew here, but now governments understand it too. I found the news here: https://www.phoronix.com/news/G7-On-Open-Source-AI &#32; submitted by &#32; /u/Kahvana [link] &#32; [comments]",
-      "phases": [
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "69392dca8125",
-      "title": "Arabic ASR model struggling to converge during training [D]",
-      "url": "t3_1tt7jt2",
-      "source": "r/ML",
-      "published": "2026-05-31T21:08:58+00:00",
-      "summary": "i&#39;m trying to train an ASR model using the LibriSpeech recipe from SpeechBrain (without the language model) on a 100-hour dataset of dialectal Arabic speech. the model architecture uses a Conformer-small encoder and a Transformer decoder, with a total of around 13M parameters",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 1
     }
   ]
 }
