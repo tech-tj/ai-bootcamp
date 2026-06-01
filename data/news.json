@@ -1,7 +1,33 @@
 {
-  "generated": "2026-06-01T17:13:37.382928+00:00",
+  "generated": "2026-06-01T21:20:09.128735+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "4be325886964",
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "source": "Google AI",
+      "published": "2026-06-01T16:00:00+00:00",
+      "summary": "Learn how Googlers used AI to produce Google I/O 2026.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "890b25eddf68",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "source": "OpenAI",
+      "published": "2026-06-01T12:00:00+00:00",
+      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "bb0319888f69",
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
@@ -129,20 +155,6 @@
       "weight": 3
     },
     {
-      "id": "78758b8ec5bc",
-      "title": "OpenAI\u2019s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "source": "OpenAI",
-      "published": "2026-05-28T00:00:00+00:00",
-      "summary": "Explore OpenAI\u2019s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
       "id": "702fb607570e",
       "title": "MUFG aims to become AI-native with OpenAI",
       "url": "https://openai.com/index/mufg",
@@ -154,6 +166,20 @@
         "p3"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "78758b8ec5bc",
+      "title": "OpenAI\u2019s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "source": "OpenAI",
+      "published": "2026-05-28T00:00:00+00:00",
+      "summary": "Explore OpenAI\u2019s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "tools",
       "weight": 3
     },
     {
@@ -245,6 +271,19 @@
       "weight": 3
     },
     {
+      "id": "740545d72e85",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI",
+      "published": "2026-05-22T00:00:00+00:00",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f2261073b77c",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -255,19 +294,6 @@
         "p1",
         "p3",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "740545d72e85",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "phases": [
-        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -351,12 +377,12 @@
       "weight": 3
     },
     {
-      "id": "a23c5621227e",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "id": "95e072c6616e",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
       "source": "OpenAI",
       "published": "2026-05-20T00:00:00+00:00",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "phases": [
         "p1"
       ],
@@ -364,12 +390,12 @@
       "weight": 3
     },
     {
-      "id": "95e072c6616e",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
+      "id": "a23c5621227e",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "source": "OpenAI",
       "published": "2026-05-20T00:00:00+00:00",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "phases": [
         "p1"
       ],
@@ -543,51 +569,6 @@
       "weight": 3
     },
     {
-      "id": "ca8d7bccf4af",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "4ed1b1b76f19",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "990a39ff7c1a",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "d93b94d20e7f",
       "title": "How business operations teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
@@ -617,6 +598,51 @@
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "ca8d7bccf4af",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "990a39ff7c1a",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "4ed1b1b76f19",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -701,20 +727,6 @@
       "weight": 3
     },
     {
-      "id": "15ea451729b2",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "source": "OpenAI",
-      "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "phases": [
-        "p3",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "818b51bc8be5",
       "title": "AutoScout24 scales engineering with AI-powered workflows",
       "url": "https://openai.com/index/autoscout24",
@@ -724,6 +736,20 @@
       "phases": [
         "p1",
         "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "15ea451729b2",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "source": "OpenAI",
+      "published": "2026-05-12T00:00:00+00:00",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "phases": [
+        "p3",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -755,19 +781,6 @@
       "weight": 3
     },
     {
-      "id": "7c483a75c783",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "source": "OpenAI",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
       "id": "e3d1e8ca7a4b",
       "title": "How enterprises are scaling AI",
       "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
@@ -778,6 +791,19 @@
         "p3"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "7c483a75c783",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "source": "OpenAI",
+      "published": "2026-05-11T10:00:00+00:00",
+      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
       "weight": 3
     },
     {
@@ -884,19 +910,6 @@
       "weight": 3
     },
     {
-      "id": "16251d7b149e",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI",
-      "published": "2026-05-07T00:00:00+00:00",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "15d2a96bac2b",
       "title": "Introducing Trusted Contact in ChatGPT",
       "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
@@ -906,6 +919,19 @@
       "phases": [
         "p1",
         "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "16251d7b149e",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-05-07T00:00:00+00:00",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -955,26 +981,12 @@
       "weight": 3
     },
     {
-      "id": "49359060f440",
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
+      "id": "54dff98022e0",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
       "source": "OpenAI",
       "published": "2026-05-06T00:00:00+00:00",
-      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "2d7f3b660987",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "source": "OpenAI",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
       "phases": [
         "p1"
       ],
@@ -995,16 +1007,30 @@
       "weight": 3
     },
     {
-      "id": "54dff98022e0",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
+      "id": "2d7f3b660987",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
       "source": "OpenAI",
       "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
       "phases": [
         "p1"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "49359060f440",
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "source": "OpenAI",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
       "weight": 3
     },
     {
@@ -1025,6 +1051,19 @@
       "weight": 3
     },
     {
+      "id": "2c0d932a3bc4",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "source": "OpenAI",
+      "published": "2026-05-05T10:00:00+00:00",
+      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "05d3c5cd4cae",
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "url": "https://openai.com/index/gpt-5-5-instant",
@@ -1034,19 +1073,6 @@
       "phases": [
         "p1",
         "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "2c0d932a3bc4",
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "source": "OpenAI",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1101,23 +1127,6 @@
       "phases": [
         "p1",
         "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "d6be253d5160",
-      "title": "The latest AI news we announced in April 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "source": "Google AI",
-      "published": "2026-05-04T17:00:00+00:00",
-      "summary": "Here are Google\u2019s latest AI updates from April 2026",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -1711,20 +1720,6 @@
         "p3"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "67cc393f62d8",
-      "title": "LinTree: Improving LLM Reasoning with Explicitly Structured Search Histories",
-      "url": "https://arxiv.org/abs/2605.31492",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-01T00:00:00-04:00",
-      "summary": "arXiv:2605.31492v1 Announce Type: new Abstract: Large language models (LLMs) often solve reasoning problems by generating intermediate traces that explore and revise partial solutions. From a search perspective, these traces can be viewed as linearized search trees, where the mod",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
