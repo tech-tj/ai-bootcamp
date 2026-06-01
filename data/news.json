@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-31T19:00:27.814339+00:00",
+  "generated": "2026-06-01T02:33:52.288702+00:00",
   "count": 120,
   "articles": [
     {
@@ -184,6 +184,20 @@
       "weight": 3
     },
     {
+      "id": "919d46e19bc3",
+      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "source": "OpenAI",
+      "published": "2026-05-27T00:00:00+00:00",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "1c77cec1ddad",
       "title": "Election information and safeguards in 2026",
       "url": "https://openai.com/index/election-safeguards-2026",
@@ -196,20 +210,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "919d46e19bc3",
-      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "source": "OpenAI",
-      "published": "2026-05-27T00:00:00+00:00",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -245,6 +245,19 @@
       "weight": 3
     },
     {
+      "id": "740545d72e85",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI",
+      "published": "2026-05-22T00:00:00+00:00",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f2261073b77c",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -255,19 +268,6 @@
         "p1",
         "p3",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "740545d72e85",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "phases": [
-        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -351,19 +351,6 @@
       "weight": 3
     },
     {
-      "id": "ae68796c79fe",
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "source": "OpenAI",
-      "published": "2026-05-20T00:00:00+00:00",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
       "id": "95e072c6616e",
       "title": "How Ramp engineers accelerate code review with Codex",
       "url": "https://openai.com/index/ramp",
@@ -374,6 +361,19 @@
         "p1"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "ae68796c79fe",
+      "title": "The next phase of OpenAI\u2019s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "source": "OpenAI",
+      "published": "2026-05-20T00:00:00+00:00",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
       "weight": 3
     },
     {
@@ -543,18 +543,16 @@
       "weight": 3
     },
     {
-      "id": "d93b94d20e7f",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "id": "990a39ff7c1a",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "phases": [
         "p1",
-        "p2",
         "p3",
-        "p4",
-        "p5"
+        "p4"
       ],
       "category": "models",
       "weight": 3
@@ -566,6 +564,23 @@
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
       "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "afc8cde3e2c8",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "phases": [
         "p1",
         "p2",
@@ -590,33 +605,18 @@
       "weight": 3
     },
     {
-      "id": "afc8cde3e2c8",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "id": "d93b94d20e7f",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
       "phases": [
         "p1",
         "p2",
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "990a39ff7c1a",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
       ],
       "category": "models",
       "weight": 3
@@ -955,32 +955,6 @@
       "weight": 3
     },
     {
-      "id": "2d7f3b660987",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "source": "OpenAI",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "54dff98022e0",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "source": "OpenAI",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "49359060f440",
       "title": "How frontier firms are pulling ahead",
       "url": "https://openai.com/index/introducing-b2b-signals",
@@ -1008,6 +982,32 @@
       "weight": 3
     },
     {
+      "id": "54dff98022e0",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
+      "source": "OpenAI",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "2d7f3b660987",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "source": "OpenAI",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "5f907f4d68cc",
       "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
@@ -1020,6 +1020,19 @@
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "2c0d932a3bc4",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "source": "OpenAI",
+      "published": "2026-05-05T10:00:00+00:00",
+      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1047,19 +1060,6 @@
       "phases": [
         "p1",
         "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "2c0d932a3bc4",
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "source": "OpenAI",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1569,186 +1569,175 @@
       "weight": 2
     },
     {
-      "id": "f09b986374f0",
-      "title": "what is fastest method to run qwen27b on old i7-4770k?",
-      "url": "t3_1tt2uck",
+      "id": "196e9e54d6b4",
+      "title": "Use HTML as the primary chat language of your LLM's so they can make interactive content",
+      "url": "t3_1tter4t",
       "source": "r/LocalLLaMA",
-      "published": "2026-05-31T18:14:09+00:00",
-      "summary": "after useless -hallucination- talks here and there , i found better to ask a direct question may someone help: i need to rn qwen27b Q8 -Q8 no less- on i7-4770k+32GbRAM+64Gbswap , what is fastest -for my HW- method to achieve this ? &#32; submitted by &#32; /u/BeautyxArt [link] &#",
+      "published": "2026-06-01T02:20:57+00:00",
+      "summary": "A day or two back I posted about how you can use HTML directly as the output for your agent&#39;s chat . Many people mentioned that there was no point as with mermaid or graphviz agents can already draw diagrams, or that markdown was technically a superset of HTML (not that I&#39",
       "phases": [
-        "p4"
+        "p1",
+        "p3"
       ],
       "category": "models",
       "weight": 1
     },
     {
-      "id": "3bc8d02fedea",
-      "title": "How do I improve my T/S",
-      "url": "t3_1tt0r3d",
+      "id": "0ee8e5d6e8e6",
+      "title": "What\u2019s the actual focus in World Models right now? [R]",
+      "url": "t3_1ttei2r",
+      "source": "r/ML",
+      "published": "2026-06-01T02:09:02+00:00",
+      "summary": "Hey everyone, I&#39;m trying to get back into the loop on world models. The last time I followed SSL closely, the buzz was all about Barlow Twins and DINO, but now everything just looks like scaled-up video generation from big industry labs. What is the actual academic research c",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "59355106035a",
+      "title": "I bolted an 8-arm reasoning MoE onto a frozen 1.4B Mamba backbone on a single RTX 3060. Here\u2019s the mechanistic autopsy of what broke and what worked.",
+      "url": "t3_1ttefnc",
       "source": "r/LocalLLaMA",
-      "published": "2026-05-31T16:56:57+00:00",
-      "summary": "I have a laptop with 5070 Ti (12GB VRAM), 32Gb of ram, Intel core ultra 9 275HX and Windows 11 amd I am using llama-server. I see people with 6 GB of VRAM running MoEs with 30-40 t/s but I cannot push my Qwen3.6-35B-A3B-Q6\\_K\\_P above 37 t/s and I need your advice. My current com",
+      "published": "2026-06-01T02:05:46+00:00",
+      "summary": "I built Mamba-Titan-1.4B-Reasoning (a 2.54B parameter MoE) entirely on a 12GB VRAM budget. I froze a 1.4B pure-PyTorch Mamba-1 backbone, grafted on 8 trainable expert arms at the mid-network level, and trained it on DeepSeek CoT traces to teach it latent reasoning. Along the way,",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "8ade3deb5fab",
+      "title": "Built a fun weekend project: An MCP server for generating Mandelbrot visualizations",
+      "url": "t3_1tte2cu",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-01T01:49:06+00:00",
+      "summary": "I&#39;ve always liked fractals, so I wanted to see how well an LLM could explore the Mandelbrot set if it had proper tools to inspect and generate renders. The server gives models access to: Rendering tools for Mandelbrot images Presets for interesting regions (Seahorse Valley, E",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "191a78e733bb",
+      "title": "when you spend 5 days fine-tuning a model and it still confidently makes things up",
+      "url": "t3_1ttdrli",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-01T01:34:59+00:00",
+      "summary": "&#32; submitted by &#32; /u/Chapper_App [link] &#32; [comments]",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "f25bdf7243be",
+      "title": "MiniMax M3 - Coding & Agentic Frontier, 1M Context, Multimodal",
+      "url": "t3_1ttdiq0",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-01T01:23:45+00:00",
+      "summary": "&#32; submitted by &#32; /u/dryadofelysium [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "c8ad5b34d736",
+      "title": "Get you some GPUs, it's not worth the hacks around lack of RAM",
+      "url": "t3_1ttboo2",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-01T00:01:21+00:00",
+      "summary": "https://preview.redd.it/w356ddr8ak4h1.png?width=550&amp;format=png&amp;auto=webp&amp;s=f04238bf0d44f6defe58698c75f08d6c2581d4c2 https://preview.redd.it/nalt9p8mak4h1.png?width=550&amp;format=png&amp;auto=webp&amp;s=b8fb2f366f176eab0003a5cc53e4736664d25659 If you can, get you some",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "9c85d078c4bd",
+      "title": "Semantic Step Prediction: Multi-Step Latent Forecasting in LLM Reasoning Trajectories via Step Sampling",
+      "url": "t3_1ttalm9",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T23:14:03+00:00",
+      "summary": "&#32; submitted by &#32; /u/Thrumpwart [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "d653818cc918",
+      "title": "UAI Results are out [R]",
+      "url": "t3_1tt9xbt",
+      "source": "r/ML",
+      "published": "2026-05-31T22:45:36+00:00",
+      "summary": "You can\u2019t see AC comments yet, but you can see the Accept/Reject consoles. My paper (with scores of 8,6,3) got rejected. &#32; submitted by &#32; /u/GeeseChen [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "1960a81e7fa1",
+      "title": "GPU Prices. Buy now, or buy later?",
+      "url": "t3_1tt9r8j",
+      "source": "r/LocalLLaMA",
+      "published": "2026-05-31T22:38:16+00:00",
+      "summary": "If the Community could sound off on this, I&#39;d be grateful. Do you think GPU prices are going to stop skyrocketing? Is this FOMO and hype driving the adoption of local inference? I wonder if this mass-market adoption will last for years? Is it a long-term trend? If I wait 6 mo",
       "phases": [
         "p1"
       ],
-      "category": "models",
+      "category": "community",
       "weight": 1
     },
     {
-      "id": "4cf8e99ecb1d",
-      "title": "Qwen3.6-35B vs Gemma4-26B on 7900 XTX",
-      "url": "t3_1tszlsa",
+      "id": "abd2cce074ab",
+      "title": "G7 agrees on shared language around open-source AI and open weights AI",
+      "url": "t3_1tt7t1x",
       "source": "r/LocalLLaMA",
-      "published": "2026-05-31T16:13:21+00:00",
-      "summary": "Ran a fair comparison between Qwen3.6-35B-A3B and Gemma4-26B-A4B on my Radeon 7900 XTX. Both reasoning-enabled at matching 32K budgets, no output caps, six generic real-world prompts (meeting notes, incident postmortem, log triage to JSON, code review, a build-vs-buy decision, a ",
+      "published": "2026-05-31T21:19:02+00:00",
+      "summary": "Basically stuff we already knew here, but now governments understand it too. I found the news here: https://www.phoronix.com/news/G7-On-Open-Source-AI &#32; submitted by &#32; /u/Kahvana [link] &#32; [comments]",
       "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "403029a547c7",
-      "title": "(YT) PewDiePie released his harness/webui",
-      "url": "t3_1tsz4ji",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T15:55:38+00:00",
-      "summary": "At the very least it&#39;s interesting to have a non-programmer&#39;s take on this (though he did study mechanical engineering and did some web development iirc) https://pewdiepie-archdaemon.github.io/odysseus/ &#32; submitted by &#32; /u/Dany0 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
         "p5"
       ],
       "category": "models",
       "weight": 1
     },
     {
-      "id": "1001b84009c9",
-      "title": "We might have a winner with the upcoming N1X",
-      "url": "t3_1tsyzeb",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T15:50:08+00:00",
-      "summary": "https://www.notebookcheck.net/Nvidia-s-N1X-and-N1-processors-leak-in-full-ahead-of-launch.1311497.0.html 16 channel ddr5 memory is going to give us best of both world,light the memory bandwidth is going to be great than 500GB/S Edit: didn\u2019t realize lpddr5 is 16-bit wide per chann",
-      "phases": [
-        "p3"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "c681e584fc91",
-      "title": "Has anyone tried fine-tuning on framework-specific toolsets?",
-      "url": "t3_1tsyqxh",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T15:41:04+00:00",
-      "summary": "One setback of smaller local models seems to be their reliability in calling tools for the harness they&#39;re plugged into. I personally tried out Gemma 4 with Hermes Agent, and Gemma kept ignoring Hermes&#39; tools - for example, it kept trying to call the &#39;google-search&#3",
-      "phases": [
-        "p3",
-        "p5"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "03a476728036",
-      "title": "I built a tool to browse and plan CVPR workshop/tutorial days [P]",
-      "url": "t3_1tsy7rz",
+      "id": "69392dca8125",
+      "title": "Arabic ASR model struggling to converge during training [D]",
+      "url": "t3_1tt7jt2",
       "source": "r/ML",
-      "published": "2026-05-31T15:21:00+00:00",
-      "summary": "Hi everyone, as someone attending CVPR, one thing that always frustrated me was managing the workshop and tutorial days. The information is technically all there, but in practice it is scattered across dozens of workshop websites, PDFs, schedules, and program pages. I often found",
+      "published": "2026-05-31T21:08:58+00:00",
+      "summary": "i&#39;m trying to train an ASR model using the LibriSpeech recipe from SpeechBrain (without the language model) on a 100-hour dataset of dialectal Arabic speech. the model architecture uses a Conformer-small encoder and a Transformer decoder, with a total of around 13M parameters",
       "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
+        "p1"
       ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "828e3d4d4797",
-      "title": "Added an old 2070 Super to my rig and I can't go back...worse, now I need more",
-      "url": "t3_1tsxul2",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T15:07:07+00:00",
-      "summary": "Context: I built a new system last year November before everything went to shit. I spent like 5k for a 5090, 9800X3D and 96GB RAM. Recently (last 2-3 months) I&#39;m heavily working on my local setup. Ditched Windows, went Ubuntu &gt; Manjaro &gt; CachyOS (now) and I&#39;m basica",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "47b552c42fe3",
-      "title": "13 abliterated Gemma 4 E2B variants, 44 GPU hours, Benchmark and Comparison - Abliterlitics",
-      "url": "t3_1tsvs3j",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T13:44:34+00:00",
-      "summary": "I compared 13 abliterated variants of Gemma 4 E2B across weight analysis, KL divergence, HarmBench safety, and 8 benchmark tasks. 44 GPU hours on a single RTX 5090. Here is what actually works and what destroys capabilities. coder3101&#39;s variant achieves 96% ASR with capabilit",
-      "phases": [
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "d067c6a792d3",
-      "title": "When are ICML openreviews made public? [R]",
-      "url": "t3_1tsuk34",
-      "source": "r/ML",
-      "published": "2026-05-31T12:52:47+00:00",
-      "summary": "First time, so no idea. &#32; submitted by &#32; /u/camelCasedUser [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "9a4d6acc50fc",
-      "title": "DIY Local 2x DGX Spark cluster cooler with automatic temperature controlled fan.",
-      "url": "t3_1tsufmm",
-      "source": "r/LocalLLaMA",
-      "published": "2026-05-31T12:47:15+00:00",
-      "summary": "I\u2019ve found that DGX Sparks can get pretty warm when you cluster them together. You are forced to keep them close together because the ConnectX-7 cable made for these is extremely short )like less than a foot). I have both a DGX Spark Founder\u2019s Edition and a GIGABYTE AI TOP Atom (",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "57e480549a62",
-      "title": "How would you model this \"strand\" clustering problem? [P]",
-      "url": "t3_1tst8w4",
-      "source": "r/ML",
-      "published": "2026-05-31T11:53:03+00:00",
-      "summary": "https://preview.redd.it/llqlupnwng4h1.png?width=2188&amp;format=png&amp;auto=webp&amp;s=7fae5860babaffa1c8bfdcb1468b374eb38ac55d I&#39;m currently building a computer vision application. I&#39;ve managed to successfully train a YOLO model to detect the object I&#39;m interested i",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
+      "category": "research",
       "weight": 1
     }
   ]
