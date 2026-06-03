@@ -1,7 +1,21 @@
 {
-  "generated": "2026-06-03T16:13:45.797308+00:00",
+  "generated": "2026-06-03T20:45:47.812603+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "1a654943dc71",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "source": "OpenAI",
+      "published": "2026-06-03T13:15:00+00:00",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "a799e1e611d4",
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
@@ -17,6 +31,34 @@
         "p5"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "b918a5525a80",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "source": "OpenAI",
+      "published": "2026-06-03T10:00:00+00:00",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "985e9a4f3bc7",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "source": "OpenAI",
+      "published": "2026-06-03T10:00:00+00:00",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -369,19 +411,6 @@
       "weight": 3
     },
     {
-      "id": "740545d72e85",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "phases": [
-        "p2"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "f2261073b77c",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -392,6 +421,19 @@
         "p1",
         "p3",
         "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "740545d72e85",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI",
+      "published": "2026-05-22T00:00:00+00:00",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "phases": [
+        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -475,19 +517,6 @@
       "weight": 3
     },
     {
-      "id": "a23c5621227e",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "source": "OpenAI",
-      "published": "2026-05-20T00:00:00+00:00",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "ae68796c79fe",
       "title": "The next phase of OpenAI\u2019s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -498,6 +527,19 @@
         "p1"
       ],
       "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "a23c5621227e",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "source": "OpenAI",
+      "published": "2026-05-20T00:00:00+00:00",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -680,12 +722,12 @@
       "weight": 3
     },
     {
-      "id": "afc8cde3e2c8",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "id": "d93b94d20e7f",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "source": "OpenAI",
       "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
       "phases": [
         "p1",
         "p2",
@@ -714,6 +756,23 @@
       "weight": 3
     },
     {
+      "id": "afc8cde3e2c8",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "990a39ff7c1a",
       "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
       "url": "https://openai.com/index/databricks",
@@ -724,23 +783,6 @@
         "p1",
         "p3",
         "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "d93b94d20e7f",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -839,19 +881,6 @@
       "weight": 3
     },
     {
-      "id": "efdc3d87f1cd",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "source": "OpenAI",
-      "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "818b51bc8be5",
       "title": "AutoScout24 scales engineering with AI-powered workflows",
       "url": "https://openai.com/index/autoscout24",
@@ -861,6 +890,19 @@
       "phases": [
         "p1",
         "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "efdc3d87f1cd",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "source": "OpenAI",
+      "published": "2026-05-12T00:00:00+00:00",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -879,19 +921,6 @@
       "weight": 3
     },
     {
-      "id": "7c483a75c783",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "source": "OpenAI",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
       "id": "e3d1e8ca7a4b",
       "title": "How enterprises are scaling AI",
       "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
@@ -902,6 +931,19 @@
         "p3"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "7c483a75c783",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "source": "OpenAI",
+      "published": "2026-05-11T10:00:00+00:00",
+      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
       "weight": 3
     },
     {
@@ -1093,19 +1135,6 @@
       "weight": 3
     },
     {
-      "id": "54dff98022e0",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "source": "OpenAI",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "b18ba1c70db3",
       "title": "Uber uses OpenAI to help people earn smarter and book faster",
       "url": "https://openai.com/index/uber",
@@ -1132,26 +1161,12 @@
       "weight": 3
     },
     {
-      "id": "05d3c5cd4cae",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
+      "id": "54dff98022e0",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
       "source": "OpenAI",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "2fd4f4a9abde",
-      "title": "GPT-5.5 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "source": "OpenAI",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": "",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
       "phases": [
         "p1"
       ],
@@ -1172,12 +1187,25 @@
       "weight": 3
     },
     {
-      "id": "a486483449d8",
-      "title": "Advancing youth safety and wellbeing in EMEA",
-      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "id": "2fd4f4a9abde",
+      "title": "GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
       "source": "OpenAI",
-      "published": "2026-05-05T00:00:00+00:00",
-      "summary": "Explore OpenAI\u2019s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+      "published": "2026-05-05T10:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "05d3c5cd4cae",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "source": "OpenAI",
+      "published": "2026-05-05T10:00:00+00:00",
+      "summary": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
       "phases": [
         "p1",
         "p4"
@@ -1199,6 +1227,20 @@
       "weight": 3
     },
     {
+      "id": "a486483449d8",
+      "title": "Advancing youth safety and wellbeing in EMEA",
+      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "source": "OpenAI",
+      "published": "2026-05-05T00:00:00+00:00",
+      "summary": "Explore OpenAI\u2019s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "c41f5455f6cb",
       "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
       "url": "https://openai.com/index/openai-pwc-finance-collaboration",
@@ -1211,6 +1253,23 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "75963495a8d1",
+      "title": "How virtual power plants could provide energy for data centers",
+      "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-03T16:51:38+00:00",
+      "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "6e68da9f855d",
@@ -1647,64 +1706,6 @@
       "phases": [
         "p1",
         "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "0464ded8e887",
-      "title": "Think-Before-Speak: From Internal Evaluation to Public Expression in Multi-Agent Social Simulation",
-      "url": "https://arxiv.org/abs/2606.03137",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-03T00:00:00-04:00",
-      "summary": "arXiv:2606.03137v1 Announce Type: new Abstract: LLM-based multi-agent simulation offers a promising way to study social interaction, deliberation, and collective opinion dynamics. However, many existing dialogue simulation frameworks represent interaction mainly as observable tur",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "ba83aff63a7f",
-      "title": "GTBench: A Curriculum-Grounded Benchmark for Evaluating LLMs as Mathematical Research Assistants in Graph Theory",
-      "url": "https://arxiv.org/abs/2606.03144",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-03T00:00:00-04:00",
-      "summary": "arXiv:2606.03144v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as self-study assistants in technical disciplines, yet their reliability as mathematical reasoning assistants remains poorly understood. We introduce GTBench, a curriculum-grounded ",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "094ce1be1553",
-      "title": "ClinicalMC: A Benchmark for Multi-Course Clinical Decision-Making with Large Language Models",
-      "url": "https://arxiv.org/abs/2606.03157",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-03T00:00:00-04:00",
-      "summary": "arXiv:2606.03157v1 Announce Type: new Abstract: Large language models (LLMs) have been widely adopted in healthcare, yet they still encounter significant challenges in complex clinical decision-making scenarios. Existing benchmarks primarily assess LLM performance in single-cours",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c106e419bf0b",
-      "title": "MedCUA-Bench: A Screenshot-Only Benchmark for Clinical Computer-Use Agents",
-      "url": "https://arxiv.org/abs/2606.03203",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-03T00:00:00-04:00",
-      "summary": "arXiv:2606.03203v1 Announce Type: new Abstract: Computer-use agents could automate repetitive screen-based clinical work, but their reliability in medical graphical user interfaces remains largely unvalidated. Existing benchmarks focus on general web or desktop tasks and underrep",
-      "phases": [
-        "p3",
-        "p4"
       ],
       "category": "models",
       "weight": 2
