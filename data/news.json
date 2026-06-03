@@ -1,7 +1,24 @@
 {
-  "generated": "2026-06-03T10:31:19.168637+00:00",
+  "generated": "2026-06-03T16:13:45.797308+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "a799e1e611d4",
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "source": "Google AI",
+      "published": "2026-06-03T13:00:00+00:00",
+      "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
     {
       "id": "fa84d034356c",
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
@@ -1115,23 +1132,6 @@
       "weight": 3
     },
     {
-      "id": "5f907f4d68cc",
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "source": "Google AI",
-      "published": "2026-05-05T16:00:00+00:00",
-      "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "05d3c5cd4cae",
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "url": "https://openai.com/index/gpt-5-5-instant",
@@ -1211,6 +1211,40 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "6e68da9f855d",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "source": "HuggingFace",
+      "published": "2026-06-03T12:55:11+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "3f1f21c2a2d7",
+      "title": "The Download: Trump\u2019s new AI order, and smart glasses for warfare",
+      "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-03T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump si",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "e8cffe63eeb0",
@@ -1671,33 +1705,6 @@
       "phases": [
         "p3",
         "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "dbde24e565bb",
-      "title": "Effect of Demographic Bias on Skin Lesion Classification",
-      "url": "https://arxiv.org/abs/2606.03214",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-03T00:00:00-04:00",
-      "summary": "arXiv:2606.03214v1 Announce Type: new Abstract: In this study, we evaluate the performance of skin lesion classification using ResNet-based convolutional models, focusing on the impact of demographic bias in training data, particularly variations in patient sex and age. We use li",
-      "phases": [
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e527d464e334",
-      "title": "Perceive Before Reasoning: A Pre-Reasoning Perception Framework for Efficient and Reliable Proactive Mobile Agents",
-      "url": "https://arxiv.org/abs/2606.03236",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-03T00:00:00-04:00",
-      "summary": "arXiv:2606.03236v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have substantially advanced mobile agents, yet proactive mobile assistance remains challenging because agents must decide \\emph{when} to intervene before determining \\emph{how} to assist. Exi",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "models",
       "weight": 2
