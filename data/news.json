@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-06T08:22:07.218899+00:00",
+  "generated": "2026-06-06T13:05:00.149033+00:00",
   "count": 120,
   "articles": [
     {
@@ -1084,45 +1084,21 @@
       "weight": 3
     },
     {
-      "id": "6a3f232352e8",
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "source": "OpenAI",
-      "published": "2026-05-07T13:00:00+00:00",
-      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "b655fa9f550b",
-      "title": "Parloa builds service agents customers want to talk to",
-      "url": "https://openai.com/index/parloa",
-      "source": "OpenAI",
-      "published": "2026-05-07T11:00:00+00:00",
-      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "id": "620bd0643edb",
+      "title": "Persona Atlas: Mapping How Famous Minds Think",
+      "url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
+      "source": "HuggingFace",
+      "published": "2026-06-06T11:42:01+00:00",
+      "summary": "",
       "phases": [
         "p1",
         "p2",
-        "p3"
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "5f067b79c230",
-      "title": "Advancing voice intelligence with new models in the API",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "source": "OpenAI",
-      "published": "2026-05-07T10:00:00+00:00",
-      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
       "id": "1f16d91e2c4d",
@@ -1724,6 +1700,36 @@
         "p5"
       ],
       "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "b75dfbddf5b3",
+      "title": "AdaMEM: Test-Time Adaptive Memory for Language Agents",
+      "url": "https://arxiv.org/abs/2606.05684",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-06T00:00:00-04:00",
+      "summary": "arXiv:2606.05684v1 Announce Type: new Abstract: A central challenge for language agents is utilizing past experience to adapt to dynamic test-time conditions. While recent work demonstrates the promise of agentic memory mechanisms, most systems restrict retrieval to episode initi",
+      "phases": [
+        "p2",
+        "p3",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "7a6d8ad40be3",
+      "title": "PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation",
+      "url": "https://arxiv.org/abs/2606.05697",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-06T00:00:00-04:00",
+      "summary": "arXiv:2606.05697v1 Announce Type: new Abstract: User interface (UI) and user experience (UX) evaluation is central to product development, yet reliable feedback still relies on recruiting human participants or running online A/B tests, making early-stage iteration slow and costly",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "research",
       "weight": 2
     }
   ]
