@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-07T08:42:40.222538+00:00",
+  "generated": "2026-06-07T13:17:29.476096+00:00",
   "count": 120,
   "articles": [
     {
@@ -1070,32 +1070,14 @@
       "weight": 3
     },
     {
-      "id": "09a84312cc4b",
-      "title": "Running Codex safely at OpenAI",
-      "url": "https://openai.com/index/running-codex-safely",
-      "source": "OpenAI",
-      "published": "2026-05-08T12:30:00+00:00",
-      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "ec2b897e7367",
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "id": "609f9c068cb2",
+      "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
       "source": "HuggingFace",
-      "published": "2026-06-06T19:02:33+00:00",
+      "published": "2026-06-07T11:38:54+00:00",
       "summary": "",
       "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
+        "p1"
       ],
       "category": "models",
       "weight": 2
@@ -1583,6 +1565,130 @@
       "weight": 2
     },
     {
+      "id": "f8e3d9fbd0d7",
+      "title": "llama.cpp Gemma4 MTP support merged!",
+      "url": "t3_1tzbcyp",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-07T12:53:17+00:00",
+      "summary": "&#32; submitted by &#32; /u/pinkyellowneon [link] &#32; [comments]",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "7749491d74a3",
+      "title": "llama : add Gemma4 MTP by am17an \u00b7 Pull Request #23398 \u00b7 ggml-org/llama.cpp",
+      "url": "t3_1tzbcsj",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-07T12:53:05+00:00",
+      "summary": "now your personal local Gemma will be faster than ever &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "5d868ece0e94",
+      "title": "Need some guidance toying with local models",
+      "url": "t3_1tzaw60",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-07T12:31:35+00:00",
+      "summary": "Hi, so I have a pretty low-end laptop regarding running LLMs locally (NVIDIA GeForce RTX 3050 with 4GB VRAM, AMD Ryzen 7 5800H and 16GB DDR4) and while I&#39;m not looking for anything to realistically work with, I&#39;d be interested in how could I toy with something like gemma4",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "4ce5dd2fe786",
+      "title": "Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ",
+      "url": "t3_1tza4ji",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-07T11:54:15+00:00",
+      "summary": "Full benchmark results and in-depth analysis are available in the articles: KV Cache Quantization Benchmarks for Long Context and KVarN KV Cache: Implementation and Benchmarks . BeeLlama.cpp (my llama.cpp fork) was used as inference engine due to support of additional types: KVar",
+      "phases": [
+        "p1",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "82c1cc9bd3b7",
+      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+      "source": "Ars Technica",
+      "published": "2026-06-07T11:08:30+00:00",
+      "summary": "How accurate does an AI system need to be?",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "fa7c14cb2422",
+      "title": "Dockerized Nemotron 3.5 ASR \u2014 Switched from Parakeet, better multilingual support + streaming (4.5x realtime speed on cpu)",
+      "url": "t3_1tz958s",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-07T11:02:06+00:00",
+      "summary": "I was originally using Parakeet for my speech recognition pipeline but decided to give Nemotron 3.5 a shot. After testing it on some multilingual audio clips, it&#39;s been working great so far. What sold me: - Better language support (40+ locales from one model) - Native streami",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "8fd4c6ded7bd",
+      "title": "Clustering 3x Jetson Nano Orin Supers",
+      "url": "t3_1tz7s8n",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-07T09:45:30+00:00",
+      "summary": "Hey everyone! Recently, I released a blog on how to setup a cluster out of your Raspberry Pi 4bs and Mac minis for distributed training and inference Now its time to do the same with Jetson Nano Orin Super! Why ? - 1024 CUDA Cores (Ampere) - 8GB unified memory LPDDR5 - 6x ARM Cor",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "57989a5ce8c4",
+      "title": "Gemma 4 31B QAT GGUF loads with MTP branch, but outputs repeated - any working recipe?",
+      "url": "t3_1tz71hz",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-07T09:02:07+00:00",
+      "summary": "I\u2019m trying to run: unsloth/gemma-4-31B-it-qat-GGUF gemma-4-31B-it-qat-UD-Q4_K_XL.gguf on an RTX 5090 32GB using llama.cpp Gemma 4 MTP PR branch. Main model loads. Without the MTP assistant head, /v1/chat/completions returns repeated &lt;unused49&gt;. I also tried the public MTP a",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "067d6a401f18",
+      "title": "Research collection of Arxiv whitepapers [R]",
+      "url": "t3_1tz7014",
+      "source": "r/ML",
+      "published": "2026-06-07T08:59:58+00:00",
+      "summary": "I read and collected Arxiv whitepapers starting after the launch of ChatGPT. I copied and pasted excerpts into Word to track them. Then migrated to Obsidian. That vault of some 1700 papers is now online. I figured it was time to see if others would find the collection useful. My ",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
       "id": "e8c1f58f00e0",
       "title": "Open models to win \u270c",
       "url": "t3_1tz6h86",
@@ -1594,6 +1700,20 @@
         "p2",
         "p3",
         "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "73f3bd2e0cc5",
+      "title": "How to compare Original vs QAT Gemma 4 31B Q4 quants",
+      "url": "t3_1tz5nbn",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-07T07:37:36+00:00",
+      "summary": "I just came across the following post, where a user found some confusing divergence results between Q4 quants of the original and QAT models with a Q8/unquantized reference of the original model. https://www.reddit.com/r/LocalLLaMA/comments/1tyxu55/gemma_4_31b_qat_q4_vs_standard_",
+      "phases": [
+        "p1",
         "p5"
       ],
       "category": "models",
@@ -1613,20 +1733,6 @@
       "weight": 1
     },
     {
-      "id": "4445e99509e7",
-      "title": "Dense vs MoE quantization resiliance",
-      "url": "t3_1tz3wiy",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T05:57:19+00:00",
-      "summary": "Which one is more resiliant to quantization? Especially at 4-bit? My experience:i tried gemma4 26b a4b with Ud-q5_k_xl quant and i got loop around 45k context. At 6-bit the looping issue is fixed. (Llamacpp default sample settings) I also tried qwen 3.5 4b model and it looped in ",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "fac5da92b447",
       "title": "Cool stuff to do with NVIDIA RTX 6000 PRO 96GB VRAM",
       "url": "t3_1tz2p8h",
@@ -1635,118 +1741,6 @@
       "summary": "I have been a C++ dev for 3 years as long as have done PyTorch in my free time (not that good in the latter). Now, I was lucky enough to get a brand new GPU from a colleague. What are some cool side projects I can build to learn tons about ML and inference/infra? Please don&#39;t",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "3c01ee896207",
-      "title": "Alternatives to ChromaDB for easy RAG search",
-      "url": "t3_1tz2akk",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T04:30:42+00:00",
-      "summary": "I&#39;m disappointed that ChromaDB&#39;s local, free &quot;single node&quot; version is still getting second-class, hand-me-down features while the &quot;distributed&quot; version (a SaaS offering, unsurprisingly) gets built in hybrid search, BM25, etc. I tried to give the benefi",
-      "phases": [
-        "p2"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "1acb6d9d2439",
-      "title": "5 Months Later: open-deepthink Now Has Full Knowledge Distillation Mode",
-      "url": "t3_1tz0zwy",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T03:24:48+00:00",
-      "summary": "Hey r/LocalLLaMA , Some of you might remember when I posted about this project back around September last year (it was called local-deepthink then). The core idea was to move past the usual flat multi-agent setups and instead build something that creates depth . It already ran gr",
-      "phases": [
-        "p1",
-        "p3",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "f7423f19d8ab",
-      "title": "I can't wait for all the x250 sample distills of Mythos and GPT-5.6",
-      "url": "t3_1tyzh4f",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T02:09:25+00:00",
-      "summary": "Just kidding. Are there any distills that actually improve a model&#39;s quality? I remember the Qwen R1 8B distill improved the model, but since then, I don&#39;t remember ever using a distilled model that was better than the base model. Unless Mythos (or GPT-5.6) is some magica",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "a8ddc3e2a23b",
-      "title": "ML reading group to read recent interesting and trending papers from ICML/ICLR/NeurIPS [D]",
-      "url": "t3_1tyy0vj",
-      "source": "r/ML",
-      "published": "2026-06-07T00:58:14+00:00",
-      "summary": "Hi, I am a PhD student and trying to run a ML reading group focused on interpretability and robustness every weekend. Its always nice to hear different takes and opinions on a paper and this discussion group could serve the purpose. If you are a fellow PhD student or a ML researc",
-      "phases": [
-        "p4"
-      ],
-      "category": "community",
-      "weight": 1
-    },
-    {
-      "id": "912180a58e44",
-      "title": "Gemma4 12B - Experiences?",
-      "url": "t3_1tyxyzi",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T00:55:40+00:00",
-      "summary": "Anyone check out the new Gemma4 12B that dropped 3 days ago? Integrated vision and audio recognition, no mmpro needed plus tool use. Q4 quant is like 8gb RAM. Crazy fast and great quality for it&#39;s size. No, it&#39;s not as good as a 27B or 31B. But it&#39;s damn close. Curiou",
-      "phases": [
-        "p3"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "1c30d969cecd",
-      "title": "Gemma 4 31B QAT Q4 vs standard Q4 \u2014 Top1 KLD benchmark results have me confused. Someone please explain or poke holes in this.",
-      "url": "t3_1tyxu55",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T00:49:07+00:00",
-      "summary": "Edited - After digging into this some more and reviewing unsloth post for better understanding, the divergence APPEARS to stem from I did not use the BF16 QAT model as the &quot;reference&quot; model.... The QAT vs standard Q4 comparison in our benchmark is not apples-to-apples .",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "b4ce29f86a4e",
-      "title": "dvlt.cu: inference engine written from scratch in CUDA/C++ for NVIDIA's DVLT 3D transformer model",
-      "url": "t3_1tyu79c",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-06T22:04:08+00:00",
-      "summary": "Im into both HPC and 3D reconstruction, so I built this as a side project. dvlt.cu is a single 5MB binary: - No python, torch, TF, ONNX, llama.cpp, vLLM, or huggingface runtime - Nearly no dependencies: only cuBLASLt (shipped with libcuda ) + cuTLASS ( header only lib ) - mmap&#3",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "46f5d11c2a4f",
-      "title": "QAT MTP Heads Upload + PARALLEL=2 Fix + 12B 2-slot Bench",
-      "url": "t3_1tyto0j",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-06T21:41:16+00:00",
-      "summary": "Title: Gemma 4 QAT MTP assistant heads now public on HuggingFace + PARALLEL=2 crash fix + 12B 2-slot bench (Strix Halo / Vulkan) Three things in one update: the converted QAT-matched draft heads are now uploaded for anyone to use, we found and fixed the PARALLEL=2 crash in both t",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 1
