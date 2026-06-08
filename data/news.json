@@ -1,7 +1,20 @@
 {
-  "generated": "2026-06-08T15:24:33.354665+00:00",
+  "generated": "2026-06-08T19:59:34.448410+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "f4ee2a7a3a8a",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "source": "OpenAI",
+      "published": "2026-06-08T00:00:00+00:00",
+      "summary": "OpenAI launches the Economic Research Exchange to study AI\u2019s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 3
+    },
     {
       "id": "752c96ffbdef",
       "title": "The latest AI news we announced in May 2026",
@@ -109,20 +122,6 @@
       "weight": 3
     },
     {
-      "id": "985e9a4f3bc7",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "source": "OpenAI",
-      "published": "2026-06-03T10:00:00+00:00",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "b918a5525a80",
       "title": "A blueprint for democratic governance of frontier AI",
       "url": "https://openai.com/index/frontier-safety-blueprint",
@@ -134,6 +133,20 @@
         "p4"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "985e9a4f3bc7",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "source": "OpenAI",
+      "published": "2026-06-03T10:00:00+00:00",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -486,6 +499,19 @@
       "weight": 3
     },
     {
+      "id": "740545d72e85",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI",
+      "published": "2026-05-22T00:00:00+00:00",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f2261073b77c",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -496,19 +522,6 @@
         "p1",
         "p3",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "740545d72e85",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "phases": [
-        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -799,6 +812,23 @@
       "weight": 3
     },
     {
+      "id": "ca8d7bccf4af",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "d93b94d20e7f",
       "title": "How business operations teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
@@ -824,23 +854,6 @@
       "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "ca8d7bccf4af",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -942,14 +955,15 @@
       "weight": 3
     },
     {
-      "id": "efdc3d87f1cd",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
+      "id": "15ea451729b2",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "source": "OpenAI",
       "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
       "phases": [
-        "p1"
+        "p3",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -969,15 +983,14 @@
       "weight": 3
     },
     {
-      "id": "15ea451729b2",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "id": "efdc3d87f1cd",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
       "source": "OpenAI",
       "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
       "phases": [
-        "p3",
-        "p5"
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -996,19 +1009,6 @@
       "weight": 3
     },
     {
-      "id": "7c483a75c783",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "source": "OpenAI",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
       "id": "e3d1e8ca7a4b",
       "title": "How enterprises are scaling AI",
       "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
@@ -1019,6 +1019,19 @@
         "p3"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "7c483a75c783",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "source": "OpenAI",
+      "published": "2026-05-11T10:00:00+00:00",
+      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
       "weight": 3
     },
     {
@@ -1051,23 +1064,6 @@
       ],
       "category": "tools",
       "weight": 3
-    },
-    {
-      "id": "afff2a249bff",
-      "title": "The crash that vanished: control and emergence in a five-model economy",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
-      "source": "HuggingFace",
-      "published": "2026-06-08T13:10:48+00:00",
-      "summary": "",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
     },
     {
       "id": "e31bfd75ce35",
