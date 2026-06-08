@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-07T19:03:58.945566+00:00",
+  "generated": "2026-06-08T02:33:05.771972+00:00",
   "count": 120,
   "articles": [
     {
@@ -1053,14 +1053,18 @@
       "weight": 3
     },
     {
-      "id": "609f9c068cb2",
-      "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
-      "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+      "id": "347aba1d7069",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
       "source": "HuggingFace",
-      "published": "2026-06-07T11:38:54+00:00",
+      "published": "2026-06-07T19:44:27+00:00",
       "summary": "",
       "phases": [
-        "p1"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 2
@@ -1548,6 +1552,155 @@
       "weight": 2
     },
     {
+      "id": "558aa1bbf819",
+      "title": "Best Local TTS solution",
+      "url": "t3_1tzv1uz",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-08T02:17:19+00:00",
+      "summary": "So I have been testing a bunch of different solutions for local TTS - nothing so far comes close to elevenlabs for dynamic ability, voices, cloning. I\u2019d like to have a phone-compatible setup. So far the best I can find for edge devices is moss-nano and kokoro. Free/cloud so far :",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "f01ffab8e716",
+      "title": "For those using Google Colab, what features did you wish it had? [D]",
+      "url": "t3_1tztu76",
+      "source": "r/ML",
+      "published": "2026-06-08T01:19:29+00:00",
+      "summary": "Hi everyone, I&#39;m an undergraduate student and ML researcher at UC Berkeley. My colleagues and I are working on a project that hopes to fix some of the problems users face with Colab. What are the features you wish it had as an ML professional, researcher, or enthusiast? What&",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "3dddc213bad8",
+      "title": "Galaxy Z Fold6 as a local inference node \u2014 llama.cpp/Vulkan, homelab telemetry, SHA-256 model verification",
+      "url": "t3_1tzsjoe",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-08T00:19:06+00:00",
+      "summary": "Built a small Android app called Pocket Node that runs llama.cpp inference on-device. Here&#39;s what it actually does and what it doesn&#39;t. **What it does** * Loads a GGUF model (SmolLM3 Q4_0, ~1.1B params) directly on the Fold6 * Uses the Vulkan/OpenCL backend via llama.cpp ",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "91d1f14f2cbf",
+      "title": "how to run gemma-4-12b-it-qat-w4a16-ct in vllm or any version quantized of the model",
+      "url": "t3_1tzshf1",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-08T00:16:20+00:00",
+      "summary": "when running by using transformers it runs by using vllm some weird error come up plese can any body share the command of running it on vllm ? &#32; submitted by &#32; /u/SavingsWeather1659 [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "c8724877a8ca",
+      "title": "What's your experience with Gemma4 QAT?",
+      "url": "t3_1tzsdxm",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-08T00:11:55+00:00",
+      "summary": "Hey everyone! Not a native speaker, so please correct my english where I make mistakes, (can only learn from it!). While it&#39;s been out only for just a while, I wanted to post about it because it&#39;s been such a joy. So, to say upfront: I use Qwen3.6 27B for programming, Gem",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "70a8dc684d70",
+      "title": "Is Gemma 4 12b good for coding?",
+      "url": "t3_1tzr759",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-07T23:18:01+00:00",
+      "summary": "How are you using it? Quantized? At what quantization level? On what hardware? Thank you for the information. &#32; submitted by &#32; /u/Intelligent-Taste-36 [link] &#32; [comments]",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "cd7ea05d67ac",
+      "title": "llama-server router: a model pinned to one GPU still grabs a CUDA context on every card, so it OOMs when my others are full. Am I missing a flag or is this just how it is?",
+      "url": "t3_1tzo5lb",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-07T21:09:42+00:00",
+      "summary": "Running into something annoying with llama-server in router mode (`--models-preset`) and I can&#39;t tell if I&#39;m missing a flag or if this is just how it works. My rig is 2x 3090, 2x 4060 Ti (one&#39;s unplugged at the moment, riser got repurposed) and a 5060 Ti. I run a sing",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "b4a5c624b21d",
+      "title": "Qwen 3.6 27B on DeepSWE",
+      "url": "t3_1tzmq5y",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-07T20:13:48+00:00",
+      "summary": "Overview: It scored 2% (1.79% rounded up) It is 18/20th place scoring above Haiku 4.5 and Minimax M2.7 Full benchmark took 70 hours Average time per task 32m Average output tokens per task: 44k Perspectives: It scored suspiciously similar to 3.6 Plus and it really gets me wonderi",
+      "phases": [
+        "p1",
+        "p2",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "c2a0db949a28",
+      "title": "2-bit QAT model releases",
+      "url": "t3_1tzlt37",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-07T19:38:31+00:00",
+      "summary": "So far model releases that take advantage of Quantization Aware Training (QAT) have been focused on 4-bit. I\u2019m curious what could be accomplished with a larger MoE model around 120b up to 400b. Obviously the model could not approach 8/16 bit performance, but perhaps this could be",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "bfc43106ebbb",
+      "title": "MTP and QTA - what is the relation?",
+      "url": "t3_1tzkyuw",
+      "source": "r/LocalLLaMA",
+      "published": "2026-06-07T19:06:33+00:00",
+      "summary": "I&#39;m an old guy and I hate when things change so fast surrounded by noise and breaking news! MTP, I know what the acronym means and where it excels. Gemma4 31b dense is my target. Unsloth, Google, GUFF, tensors... too many overlapped informations. I hate when I see no clear pa",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "9dea6087ee6f",
       "title": "NVFP4 on llama.cpp?",
       "url": "t3_1tzjahj",
@@ -1598,152 +1751,6 @@
         "p2",
         "p3",
         "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "750207e803a4",
-      "title": "Guys, it just happened",
-      "url": "t3_1tzfr6z",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T15:51:52+00:00",
-      "summary": "My x99 just died. F &#32; submitted by &#32; /u/robertpro01 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "32a37c7d4879",
-      "title": "Budget llm for chatting and analysing pdf documents",
-      "url": "t3_1tzfodp",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T15:48:47+00:00",
-      "summary": "My dad and I want an llm that can scan pdfs and get the useful data out of it at a reasonable speed and be able to chat with it about those documents. What kind of hardware would be best for this and what kind of power usage would a machine like this use? The budget we are curren",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "602ae0bc1604",
-      "title": "Qwen3.6 35B-A3B on a Laptop: My Zero to One Moment",
-      "url": "t3_1tzernu",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T15:13:30+00:00",
-      "summary": "Hi everyone, I&#39;m new here - because I only have a laptop and I only just realized local models are actually good enough now. So I&#39;d like to share my experience, in case it helps others, and also to learn from the more experienced people here. This is the first model that ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "a33d56813765",
-      "title": "How are you all managing multiple MCP servers on startup?",
-      "url": "t3_1tzeir9",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T15:03:48+00:00",
-      "summary": "Hello! I&#39;m using openCode and loading a bunch of different MCP servers at startup. This starts becoming a mess, it eats up tokens and pollutes the context window before I even type a single prompt. How are you all handling this locally? Are you using a proxy/hub to route ever",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "industry",
-      "weight": 1
-    },
-    {
-      "id": "326635b801c0",
-      "title": "A handy llama-server launcher with easy model and configuration customisation",
-      "url": "t3_1tzdbwr",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T14:16:33+00:00",
-      "summary": "I wanted something that I could easily configure to manage a set of sensible defaults, that supports multiple llama-server binaries, with per-model over-rides, and command line over-rides. The utility is here: https://github.com/stew675/start-llama I know that llama-server has it",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "5016453e1868",
-      "title": "What\u2019s your most unusual non-LLM AI you actually use daily?",
-      "url": "t3_1tzbxsm",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T13:18:32+00:00",
-      "summary": "What\u2019s your most unusual or underrated non-LLM AI tool you actually use daily (weird, niche, or non-obvious stuff), and what do you swear by that most people don\u2019t talk about? &#32; submitted by &#32; /u/HitarthSurana [link] &#32; [comments]",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "f8e3d9fbd0d7",
-      "title": "llama.cpp Gemma4 MTP support merged!",
-      "url": "t3_1tzbcyp",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T12:53:17+00:00",
-      "summary": "&#32; submitted by &#32; /u/pinkyellowneon [link] &#32; [comments]",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "4ce5dd2fe786",
-      "title": "Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ",
-      "url": "t3_1tza4ji",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T11:54:15+00:00",
-      "summary": "Full benchmark results and in-depth analysis are available in the articles: KV Cache Quantization Benchmarks for Long Context and KVarN KV Cache: Implementation and Benchmarks . BeeLlama.cpp (my llama.cpp fork) was used as inference engine due to support of additional types: KVar",
-      "phases": [
-        "p1",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "82c1cc9bd3b7",
-      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-      "source": "Ars Technica",
-      "published": "2026-06-07T11:08:30+00:00",
-      "summary": "How accurate does an AI system need to be?",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "fa7c14cb2422",
-      "title": "Dockerized Nemotron 3.5 ASR \u2014 Switched from Parakeet, better multilingual support + streaming (4.5x realtime speed on cpu)",
-      "url": "t3_1tz958s",
-      "source": "r/LocalLLaMA",
-      "published": "2026-06-07T11:02:06+00:00",
-      "summary": "I was originally using Parakeet for my speech recognition pipeline but decided to give Nemotron 3.5 a shot. After testing it on some multilingual audio clips, it&#39;s been working great so far. What sold me: - Better language support (40+ locales from one model) - Native streami",
-      "phases": [
         "p5"
       ],
       "category": "models",
