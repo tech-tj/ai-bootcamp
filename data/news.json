@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-10T09:38:03.866961+00:00",
+  "generated": "2026-06-10T14:49:34.218272+00:00",
   "count": 120,
   "articles": [
     {
@@ -586,19 +586,6 @@
       "weight": 3
     },
     {
-      "id": "740545d72e85",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "phases": [
-        "p2"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "f2261073b77c",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -609,6 +596,19 @@
         "p1",
         "p3",
         "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "740545d72e85",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI",
+      "published": "2026-05-22T00:00:00+00:00",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "phases": [
+        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -679,19 +679,6 @@
       "weight": 3
     },
     {
-      "id": "ae68796c79fe",
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "source": "OpenAI",
-      "published": "2026-05-20T00:00:00+00:00",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
       "id": "95e072c6616e",
       "title": "How Ramp engineers accelerate code review with Codex",
       "url": "https://openai.com/index/ramp",
@@ -702,6 +689,19 @@
         "p1"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "ae68796c79fe",
+      "title": "The next phase of OpenAI\u2019s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "source": "OpenAI",
+      "published": "2026-05-20T00:00:00+00:00",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
       "weight": 3
     },
     {
@@ -899,40 +899,6 @@
       "weight": 3
     },
     {
-      "id": "afc8cde3e2c8",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "d93b94d20e7f",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "ca8d7bccf4af",
       "title": "How sales teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
@@ -958,6 +924,40 @@
       "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
       "phases": [
         "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "d93b94d20e7f",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "afc8cde3e2c8",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -1042,14 +1042,15 @@
       "weight": 3
     },
     {
-      "id": "efdc3d87f1cd",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
+      "id": "15ea451729b2",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "source": "OpenAI",
       "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
       "phases": [
-        "p1"
+        "p3",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -1069,15 +1070,14 @@
       "weight": 3
     },
     {
-      "id": "15ea451729b2",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "id": "efdc3d87f1cd",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
       "source": "OpenAI",
       "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
       "phases": [
-        "p3",
-        "p5"
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1096,30 +1096,21 @@
       "weight": 3
     },
     {
-      "id": "7c483a75c783",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "source": "OpenAI",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "id": "1076dadb61ed",
+      "title": "The Download: the \u201csteroid olympics\u201d and a safer Mythos",
+      "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-10T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The \u201csteroid olympics\u201d were a circus\u2014and a window into our culture \u2014Amit Katwala A couple of weeks ago, at a $50 million arena bui",
       "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "e3d1e8ca7a4b",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "source": "OpenAI",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "phases": [
-        "p3"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
       "id": "ea2ec57ecc63",
@@ -1127,7 +1118,7 @@
       "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
       "source": "MIT Tech Review",
       "published": "2026-06-10T09:00:00+00:00",
-      "summary": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills. A whole galaxy&#160; of steroids, metabolic modulators, and sy",
+      "summary": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills. A whole galaxy of steroids, metabolic modulators, and syntheti",
       "phases": [
         "p1",
         "p2",
@@ -1710,6 +1701,23 @@
         "p4"
       ],
       "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "da8059542fa1",
+      "title": "Large-scale semantic mapping of learner agency and autonomy reveals what measurement and generative AI research overlook",
+      "url": "https://arxiv.org/abs/2606.10881",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-10T00:00:00-04:00",
+      "summary": "arXiv:2606.10881v1 Announce Type: new Abstract: Learner agency and autonomy are foundational to personal development, yet a pervasive \"jingle-jangle\" fallacy (i.e. identical terms denoting different constructs, distinct terms denoting identical ones) has substantially hindered cu",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
       "weight": 2
     }
   ]
