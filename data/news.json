@@ -1,7 +1,54 @@
 {
-  "generated": "2026-06-09T19:54:39.931822+00:00",
+  "generated": "2026-06-10T02:09:32.313612+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "de0a2342d5aa",
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "url": "https://openai.com/index/nextdoor",
+      "source": "OpenAI",
+      "published": "2026-06-09T12:00:00+00:00",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "fbb449340331",
+      "title": "What Codex unlocks for Notion",
+      "url": "https://openai.com/index/notion",
+      "source": "OpenAI",
+      "published": "2026-06-09T10:00:00+00:00",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "65edefcb4544",
+      "title": "Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "source": "OpenAI",
+      "published": "2026-06-09T00:00:00+00:00",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "c39ad57d6bd7",
       "title": "Confidential submission of draft S-1 to the SEC",
@@ -149,20 +196,6 @@
       "weight": 3
     },
     {
-      "id": "b918a5525a80",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "source": "OpenAI",
-      "published": "2026-06-03T10:00:00+00:00",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
       "id": "985e9a4f3bc7",
       "title": "OpenAI public policy agenda",
       "url": "https://openai.com/index/public-policy-agenda",
@@ -174,6 +207,20 @@
         "p4"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "b918a5525a80",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "source": "OpenAI",
+      "published": "2026-06-03T10:00:00+00:00",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "tools",
       "weight": 3
     },
     {
@@ -410,20 +457,6 @@
       "weight": 3
     },
     {
-      "id": "702fb607570e",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "source": "OpenAI",
-      "published": "2026-05-28T00:00:00+00:00",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "78758b8ec5bc",
       "title": "OpenAI\u2019s Frontier Governance Framework",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
@@ -435,6 +468,20 @@
         "p4"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "702fb607570e",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "source": "OpenAI",
+      "published": "2026-05-28T00:00:00+00:00",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -465,6 +512,20 @@
       "weight": 3
     },
     {
+      "id": "919d46e19bc3",
+      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "source": "OpenAI",
+      "published": "2026-05-27T00:00:00+00:00",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "1c77cec1ddad",
       "title": "Election information and safeguards in 2026",
       "url": "https://openai.com/index/election-safeguards-2026",
@@ -477,20 +538,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "919d46e19bc3",
-      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "source": "OpenAI",
-      "published": "2026-05-27T00:00:00+00:00",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -526,6 +573,19 @@
       "weight": 3
     },
     {
+      "id": "740545d72e85",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI",
+      "published": "2026-05-22T00:00:00+00:00",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f2261073b77c",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -536,19 +596,6 @@
         "p1",
         "p3",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "740545d72e85",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "phases": [
-        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -619,6 +666,19 @@
       "weight": 3
     },
     {
+      "id": "a23c5621227e",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "source": "OpenAI",
+      "published": "2026-05-20T00:00:00+00:00",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "ae68796c79fe",
       "title": "The next phase of OpenAI\u2019s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -638,19 +698,6 @@
       "source": "OpenAI",
       "published": "2026-05-20T00:00:00+00:00",
       "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "a23c5621227e",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "source": "OpenAI",
-      "published": "2026-05-20T00:00:00+00:00",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "phases": [
         "p1"
       ],
@@ -837,23 +884,6 @@
       "weight": 3
     },
     {
-      "id": "d93b94d20e7f",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "afc8cde3e2c8",
       "title": "How data science teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
@@ -898,6 +928,23 @@
         "p1",
         "p3",
         "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "d93b94d20e7f",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "source": "OpenAI",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -982,6 +1029,19 @@
       "weight": 3
     },
     {
+      "id": "efdc3d87f1cd",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "source": "OpenAI",
+      "published": "2026-05-12T00:00:00+00:00",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "15ea451729b2",
       "title": "What Parameter Golf taught us about AI-assisted research",
       "url": "https://openai.com/index/what-parameter-golf-taught-us",
@@ -1005,19 +1065,6 @@
       "phases": [
         "p1",
         "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "efdc3d87f1cd",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "source": "OpenAI",
-      "published": "2026-05-12T00:00:00+00:00",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1102,6 +1149,23 @@
       "phases": [
         "p3",
         "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "2428838e44d4",
+      "title": "Introducing North Mini Code: Cohere\u2019s First Model For Developers",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "source": "HuggingFace",
+      "published": "2026-06-09T15:56:23+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 2
@@ -1647,62 +1711,6 @@
       "summary": "arXiv:2606.08098v1 Announce Type: new Abstract: Majority voting over sampled answers is the dominant unsupervised aggregator for multi-sample LLM inference. We show that piping the signals every sample carries into a delegation-based aggregator (Propagational Proxy Voting, PPV) y",
       "phases": [
         "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "08ac2fd88b75",
-      "title": "PACE: Anytime-Valid Acceptance Tests for Self-Evolving Agents",
-      "url": "https://arxiv.org/abs/2606.08106",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-09T00:00:00-04:00",
-      "summary": "arXiv:2606.08106v1 Announce Type: new Abstract: Self-evolving agents improve by repeatedly proposing changes to their own prompts, skills, or workflows and keeping those that score higher on a small held-out set. Almost all effort has gone into the proposer that generates candida",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "444c9bc21247",
-      "title": "Think Before You Act: Intention-Guided Reasoning for LLM-Based Location Prediction",
-      "url": "https://arxiv.org/abs/2606.08122",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-09T00:00:00-04:00",
-      "summary": "arXiv:2606.08122v1 Announce Type: new Abstract: Predicting a user's next Point-of-Interest (POI) based on their historical check-in records is a fundamental task in location-based services. While recent methods incorporating large language models have shown strong reasoning capab",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "3b15b3c6b43b",
-      "title": "Cross-LLM Consistency in Inference: Evidence from Shared Interactions",
-      "url": "https://arxiv.org/abs/2606.08129",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-09T00:00:00-04:00",
-      "summary": "arXiv:2606.08129v1 Announce Type: new Abstract: Large language models (LLMs) differ in architecture, training data, and optimization procedures, yet they may still develop similar internal inference patterns. In this paper, we examine this hypothesis using interaction-based expla",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "89f499429ec6",
-      "title": "SAGE: An LLM-driven Self Reflective Agentic Framework for Fraud Detection",
-      "url": "https://arxiv.org/abs/2606.08146",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-09T00:00:00-04:00",
-      "summary": "arXiv:2606.08146v1 Announce Type: new Abstract: Fraud detection in payment, e-commerce, and telecommunications systems requires accuracy at the individual level, robustness under severe class imbalance, and ease of understanding for risk managers. Existing methods fall at least o",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
       ],
       "category": "research",
       "weight": 2
