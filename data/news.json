@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-13T08:45:02.808978+00:00",
+  "generated": "2026-06-13T13:21:51.788351+00:00",
   "count": 120,
   "articles": [
     {
@@ -1099,19 +1099,6 @@
       "weight": 3
     },
     {
-      "id": "09ab76a12173",
-      "title": "Work with Codex from anywhere",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "source": "OpenAI",
-      "published": "2026-05-14T13:00:00+00:00",
-      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "446830a5c044",
       "title": "olmo-eval: An evaluation workbench for the model development loop",
       "url": "https://huggingface.co/blog/allenai/olmo-eval",
@@ -1643,6 +1630,36 @@
       "weight": 2
     },
     {
+      "id": "0ad15313818b",
+      "title": "Anomaly Detection vs Classification for Visually Similar Cancer vs Mimics? [P]",
+      "url": "t3_1u4obgy",
+      "source": "r/ML",
+      "published": "2026-06-13T11:18:43+00:00",
+      "summary": "I&#39;m working on a paper and would love some input on model choice. Suppose you&#39;re trying to detect a specific type of cancer, but the negative samples are visually and morphologically very similar (i.e., \u201cmimics\u201d of the cancer). In this setting, would it make more sense to",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "25d12494686d",
+      "title": "Unprofessional Coauthor Behavior with Hallucinated References [D]",
+      "url": "t3_1u4m3lz",
+      "source": "r/ML",
+      "published": "2026-06-13T09:07:27+00:00",
+      "summary": "Just thought I&#39;d highlight this issue to the ML community, since I recently had this problem arise and it might be useful for some. I had a coauthor who I knew was somewhat untrustworthy when it came to LLM use. This coauthor added some last-minute new references to the paper",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
       "id": "cac8f1268c5c",
       "title": "PaddleOCR (v3/v4/v5/v6) implemented in C++ with ncnn [P]",
       "url": "t3_1u4hy2x",
@@ -1741,23 +1758,6 @@
       "source": "r/ML",
       "published": "2026-06-12T06:35:14+00:00",
       "summary": "Results are almost here. Good luck to everyone waiting for the final decision \ud83d\ude42 &#32; submitted by &#32; /u/Sea_Muscle_4281 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "b10e6bd98be6",
-      "title": "Post-docs in ML [D]",
-      "url": "t3_1u390q5",
-      "source": "r/ML",
-      "published": "2026-06-11T19:33:36+00:00",
-      "summary": "Are there any websites listing post-doc job opening in machine learning? Currently I&#39;m using LInkedIn to search for these. When I was a math post-doc, everyone used &quot;MathJobs.org&quot; to find jobs. Is there a similar website for machine learning? Thanks. &#32; submitted",
       "phases": [
         "p1",
         "p2",
