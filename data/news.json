@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-13T19:05:50.877063+00:00",
+  "generated": "2026-06-14T02:31:53.970859+00:00",
   "count": 120,
   "articles": [
     {
@@ -1011,94 +1011,6 @@
       "weight": 3
     },
     {
-      "id": "afc8cde3e2c8",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "ca8d7bccf4af",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how sales teams can use ChatGPT Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "4ed1b1b76f19",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "d93b94d20e7f",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "990a39ff7c1a",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "source": "OpenAI",
-      "published": "2026-05-15T00:00:00+00:00",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "73eb815ab647",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "source": "OpenAI",
-      "published": "2026-05-14T20:30:00+00:00",
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-      "phases": [
-        "p3"
-      ],
-      "category": "industry",
-      "weight": 3
-    },
-    {
       "id": "446830a5c044",
       "title": "olmo-eval: An evaluation workbench for the model development loop",
       "url": "https://huggingface.co/blog/allenai/olmo-eval",
@@ -1616,6 +1528,48 @@
       "weight": 2
     },
     {
+      "id": "d4eb9b5856b5",
+      "title": "Help me test: do modern retrieval systems mostly retrieve consensus rather than truth? [D]",
+      "url": "t3_1u5927r",
+      "source": "r/ML",
+      "published": "2026-06-14T02:31:13+00:00",
+      "summary": "I&#39;ve been thinking about a retrieval failure mode that I don&#39;t see discussed very often. Most retrieval systems are evaluated on whether they retrieve relevant information. But what happens when the relevant information is wrong? Or more specifically: What happens when tr",
+      "phases": [
+        "p2",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "3f200a84032c",
+      "title": "The Verifier Tax: Horizon-Dependent Safety\u2013Success Tradeoffs in Tool-Using LLM Agents [R]",
+      "url": "t3_1u58mkq",
+      "source": "r/ML",
+      "published": "2026-06-14T02:09:43+00:00",
+      "summary": "We recently presented a paper at ACM CAIS 2026 on safety evaluation for tool-using LLM agents. The core issue is that task completion alone can be misleading: an agent may complete a task while violating a safety or policy constraint. We separate outcomes into safe success , unsa",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "51966858da3e",
+      "title": "I\u2019m building a free bilingual machine-learning notebook course \u2014 looking for feedback on structure and coverage [R]",
+      "url": "t3_1u4zbld",
+      "source": "r/ML",
+      "published": "2026-06-13T19:07:17+00:00",
+      "summary": "Hi everyone, I\u2019m building an open-source machine-learning tutorial repository in Jupyter Notebook format: https://github.com/mohammadijoo/Machine_Learning_Tutorials The course is bilingual: English and Persian/Farsi versions are organized in parallel. The goal is to make a practi",
+      "phases": [
+        "p2"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
       "id": "0ad15313818b",
       "title": "Anomaly Detection vs Classification for Visually Similar Cancer vs Mimics? [P]",
       "url": "t3_1u4obgy",
@@ -1630,19 +1584,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "25d12494686d",
-      "title": "Unprofessional Coauthor Behavior with Hallucinated References [D]",
-      "url": "t3_1u4m3lz",
-      "source": "r/ML",
-      "published": "2026-06-13T09:07:27+00:00",
-      "summary": "Just thought I&#39;d highlight this issue to the ML community, since I recently had this problem arise and it might be useful for some. I had a coauthor who I knew was somewhat untrustworthy when it came to LLM use. This coauthor added some last-minute new references to the paper",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
       "weight": 1
     },
     {
@@ -1767,6 +1708,62 @@
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "ed20c3cd2c81",
+      "title": "Is Symbolic Regression still a thing, given LLMs' performance? [D]",
+      "url": "t3_1u2yqnu",
+      "source": "r/ML",
+      "published": "2026-06-11T13:13:32+00:00",
+      "summary": "I&#39;ve been teaching myself about Symbolic Regression (SR), which looks like a super exciting field. (A great intro resource below [1]). But then I was wondering: given LLMs&#39; increasingly-growing power in generating code, which is in a way very similar to Symbolic Regressio",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "9f4923ed15b2",
+      "title": "[P] Extreme Imbalance Data from 100K dataset only have 56 failure [P]",
+      "url": "t3_1u2ut7s",
+      "source": "r/ML",
+      "published": "2026-06-11T10:04:19+00:00",
+      "summary": "as in the title, my goal is to predicting failure and RUL of machine, dataset is timestamp and when machine is failure it will labeled with 1 that only have 56 https://preview.redd.it/plbydmenmm6h1.png?width=1205&amp;format=png&amp;auto=webp&amp;s=2fefe3cc2e3fe554b81c9e0b4012c534",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "00b2ee16c1f5",
+      "title": "Adaptive Tokenisation Via Temporal Redundancy Masking And Latent Inpainting [R]",
+      "url": "t3_1u2u9bb",
+      "source": "r/ML",
+      "published": "2026-06-11T09:32:34+00:00",
+      "summary": "link - https://arxiv.org/abs/2606.06158 Abstract : Adaptive video tokenisation seeks to dynamically allocate token budgets based on the underlying visual complexity of a sequence. Current continuous-regime approaches achieve this via iterative binarised searches or trained neural",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "42bb1a47d0fb",
+      "title": "Anthropic walks back policy on silent nerfing for AI/ML, will notify users [N]",
+      "url": "t3_1u2tk0i",
+      "source": "r/ML",
+      "published": "2026-06-11T08:51:10+00:00",
+      "summary": "From Wired: \u201cWe\u2019re changing Fable 5\u2019s safeguards for frontier LLM development to make them visible.\u201d Anthropic said in a statement to WIRED. \u201cWe made the wrong tradeoff and we apologize for not getting the balance right.\u201d Anthropic now says it\u2019s changing course, and that Claude F",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 1
