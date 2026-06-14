@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T13:25:04.089585+00:00",
-  "count": 110,
+  "generated": "2026-06-14T19:06:30.471372+00:00",
+  "count": 120,
   "articles": [
     {
       "id": "31e268b2c07a",
@@ -60,6 +60,23 @@
       "weight": 3
     },
     {
+      "id": "f5fdb80fa91a",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 3
+    },
+    {
       "id": "8926e37d73b8",
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva",
@@ -84,23 +101,6 @@
         "p3"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "f5fdb80fa91a",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 3
     },
     {
@@ -713,6 +713,19 @@
       "weight": 3
     },
     {
+      "id": "740545d72e85",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI",
+      "published": "2026-05-22T00:00:00+00:00",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f2261073b77c",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -723,19 +736,6 @@
         "p1",
         "p3",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "740545d72e85",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "phases": [
-        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -1011,6 +1011,19 @@
       "weight": 3
     },
     {
+      "id": "446830a5c044",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "source": "HuggingFace",
+      "published": "2026-06-12T15:56:10+00:00",
+      "summary": "",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "2ad84e39a253",
       "title": "The Download: \u201creprogramming\u201d aging, and the hidden sense of interoception",
       "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
@@ -1157,6 +1170,23 @@
       "weight": 2
     },
     {
+      "id": "9a812e42d024",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "source": "HuggingFace",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "1076dadb61ed",
       "title": "The Download: the \u201csteroid olympics\u201d and a safer Mythos",
       "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
@@ -1174,6 +1204,53 @@
       "weight": 2
     },
     {
+      "id": "2428838e44d4",
+      "title": "Introducing North Mini Code: Cohere\u2019s First Model For Developers",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "source": "HuggingFace",
+      "published": "2026-06-09T15:56:23+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "6d8d3867b1f2",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "source": "HuggingFace",
+      "published": "2026-06-09T10:46:19+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "eb3e2d9f4685",
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "source": "HuggingFace",
+      "published": "2026-06-09T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 2
+    },
+    {
       "id": "e31bfd75ce35",
       "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
       "url": "https://jack-clark.net/2026/06/08/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
@@ -1184,6 +1261,120 @@
         "p1"
       ],
       "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "4cd526a0df04",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "source": "HuggingFace",
+      "published": "2026-06-08T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "tools",
+      "weight": 2
+    },
+    {
+      "id": "16b629a3fac6",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "source": "HuggingFace",
+      "published": "2026-06-04T18:57:45+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "4da7ced3f30a",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "source": "HuggingFace",
+      "published": "2026-06-04T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "6e68da9f855d",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "source": "HuggingFace",
+      "published": "2026-06-03T12:55:11+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "951093ddfc86",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "source": "HuggingFace",
+      "published": "2026-06-03T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "tools",
+      "weight": 2
+    },
+    {
+      "id": "c9edca228384",
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "source": "HuggingFace",
+      "published": "2026-06-02T14:13:23+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "3cf2c3be558d",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "source": "HuggingFace",
+      "published": "2026-06-01T15:45:17+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "287852ed7fbc",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "source": "HuggingFace",
+      "published": "2026-06-01T13:51:18+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
       "weight": 2
     },
     {
@@ -1204,6 +1395,53 @@
       "weight": 2
     },
     {
+      "id": "442e91c104b6",
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "url": "https://huggingface.co/blog/torch-profiler",
+      "source": "HuggingFace",
+      "published": "2026-05-29T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "7cdcfd616873",
+      "title": "Reachy Mini goes fully local",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "source": "HuggingFace",
+      "published": "2026-05-27T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "3b3971cee4f2",
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "url": "https://huggingface.co/blog/delta-weight-sync",
+      "source": "HuggingFace",
+      "published": "2026-05-27T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "252791d1de8b",
       "title": "Import AI 458: Reckoning with the future; and a singularity story",
       "url": "https://jack-clark.net/2026/05/26/import-ai-458-reckoning-with-the-future-and-a-singularity-story/",
@@ -1221,6 +1459,62 @@
       "weight": 2
     },
     {
+      "id": "37be5f050c29",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "source": "HuggingFace",
+      "published": "2026-05-25T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "63751fb3a376",
+      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "source": "HuggingFace",
+      "published": "2026-05-19T18:38:09+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "e05bf9ebf2f8",
+      "title": "Introducing the Ettin Reranker Family",
+      "url": "https://huggingface.co/blog/ettin-reranker",
+      "source": "HuggingFace",
+      "published": "2026-05-19T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "210dad3ca6f9",
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "source": "HuggingFace",
+      "published": "2026-05-18T15:12:46+00:00",
+      "summary": "",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "75f5a4c5aec4",
       "title": "Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment",
       "url": "https://jack-clark.net/2026/05/18/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
@@ -1232,6 +1526,23 @@
       ],
       "category": "research",
       "weight": 2
+    },
+    {
+      "id": "643fa6bded71",
+      "title": "ICML registration [D]",
+      "url": "t3_1u5r5la",
+      "source": "r/ML",
+      "published": "2026-06-14T17:27:26+00:00",
+      "summary": "Hello everyone! I am trying to figure out if a main conference registration gives you access to the expo (companies booth) and the expo talks? Expo are happening on July 6th the same day as tutorials. But for tutorials you need to be registered. Do you also need to have a tutoria",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
     },
     {
       "id": "a4d4bb4e280c",
@@ -1316,6 +1627,40 @@
       "published": "2026-06-13T02:51:47+00:00",
       "summary": "A direct optimization test was conducted on a neural network for MNIST image classification. The network features a 784-32-10 architecture with a total of 25,450 continuous parameters (weights and biases). Instead of employing backpropagation or gradient information, the paramete",
       "phases": [
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "0ae2fb8f6083",
+      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
+      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+      "source": "Ars Technica",
+      "published": "2026-06-12T18:45:40+00:00",
+      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "industry",
+      "weight": 1
+    },
+    {
+      "id": "75f5b737d0fc",
+      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
+      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+      "source": "Ars Technica",
+      "published": "2026-06-12T16:51:38+00:00",
+      "summary": "Even moderately sized data centers can have an outsized local impact.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
         "p4",
         "p5"
       ],
@@ -1424,205 +1769,6 @@
         "p1"
       ],
       "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "42bb1a47d0fb",
-      "title": "Anthropic walks back policy on silent nerfing for AI/ML, will notify users [N]",
-      "url": "t3_1u2tk0i",
-      "source": "r/ML",
-      "published": "2026-06-11T08:51:10+00:00",
-      "summary": "From Wired: \u201cWe\u2019re changing Fable 5\u2019s safeguards for frontier LLM development to make them visible.\u201d Anthropic said in a statement to WIRED. \u201cWe made the wrong tradeoff and we apologize for not getting the balance right.\u201d Anthropic now says it\u2019s changing course, and that Claude F",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "4685be939822",
-      "title": "ACL ARR May 2026 Reviewer paper distributions [D]",
-      "url": "t3_1u2soc6",
-      "source": "r/ML",
-      "published": "2026-06-11T07:58:03+00:00",
-      "summary": "ACL ARR May 2026 reviews are due on July 2. I do not see any reviewer assignement as of today. Will the review period be just 2 weeks in that case? Anyone got papers assigned for reviewing? &#32; submitted by &#32; /u/Impossible-Garden612 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "8e104e54fd05",
-      "title": "ICMI 2026 Reviews [D]",
-      "url": "t3_1u2mzek",
-      "source": "r/ML",
-      "published": "2026-06-11T02:54:12+00:00",
-      "summary": "Did anyone else submit to ACM ICMI 2026? The reviews were recently released, and this is my first time submitting to ICMI, so I&#39;m not very familiar with the acceptance patterns. I submitted a long paper and received the following overall ratings: 4 (Probably Accept), 3 (Borde",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "a4d0366deee4",
-      "title": "Pyrecall open source tool for detecting catastrophic forgetting during LLM fine-tuning[P]",
-      "url": "t3_1u2hjye",
-      "source": "r/ML",
-      "published": "2026-06-10T22:49:52+00:00",
-      "summary": "Surprised there&#39;s no real tooling for this given how much research exists on continual learning. Built pyrecall to fill the gap. Snapshots skill scores before/after fine-tuning, flags regressions, rolls back LoRA adapters by name. Fully local, no external APIs. v0.1.0, MIT, p",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "1e69923d32f5",
-      "title": "Analysis of the results of the \"Transforming autoencoders\" architecture mentioned by Hilton, for my dissertation. [r]",
-      "url": "t3_1u2fgx1",
-      "source": "r/ML",
-      "published": "2026-06-10T21:26:34+00:00",
-      "summary": "Hello everyone, tomorrow I have a meeting with my dissertation supervisor and I wanted to have a dissertation proposal ready. Initially, I moved forward with the following proposal: &quot;Interpreting the Routing Dynamics of Capsule Networks for Explainable AI.&quot; My first app",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "ee1bd76d4e30",
-      "title": "Routing LLMs by task verifiability: a small experiment (n=120, 3 models) inspired by Karpathy's framework [D]",
-      "url": "t3_1u2c04u",
-      "source": "r/ML",
-      "published": "2026-06-10T19:18:55+00:00",
-      "summary": "Full disclosure: this is directional, not a paper. n=120 tasks, one internal evaluator, not peer reviewed. I work at an LLM infrastructure company. This experiment was done on my own time and is not a company claim. Karpathy&#39;s framework classifies tasks by verifiability. Can ",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "fe359288bb74",
-      "title": "Anthropic's new model Fable will silently handicap work on LLMs [D]",
-      "url": "t3_1u23f8p",
-      "source": "r/ML",
-      "published": "2026-06-10T14:14:39+00:00",
-      "summary": "Seems like they have engineered some specific limitations that are widely cited as follows: In light of the ability of recent models to accelerate their own development, we\u2019ve implemented new interventions that limit Claude\u2019s effectiveness for requests targeting frontier LLM deve",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "2b236cada281",
-      "title": "Introducing Papers Without Code [P]",
-      "url": "t3_1u1wq0a",
-      "source": "r/ML",
-      "published": "2026-06-10T08:58:36+00:00",
-      "summary": "Hi, Niels here from the open-source team at Hugging Face. I&#39;ve recently relaunched paperswithcode.co as a source for finding the state of the art (SOTA) across various AI domains, from 3D generation to AI agents. This is done by automatically parsing research papers published",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "c9d364975a00",
-      "title": "I Built Paper Deck: A Better Way to Discover AI/ML Papers [P]",
-      "url": "t3_1u1rf09",
-      "source": "r/ML",
-      "published": "2026-06-10T04:02:25+00:00",
-      "summary": "I do AI research and keep juggling tabs: new ones on arXiv, trending ones on Hugging Face, famous ones somewhere else again. https://preview.redd.it/cg32bshjqd6h1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=00055bb8af699061be0bdcff59f2cb8fa9ab38b6 So I built one site that b",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "a30dde03f34b",
-      "title": "iOS 27 Siri is using WaveRNN and FastSpeech2 [D]",
-      "url": "t3_1u1ht5x",
-      "source": "r/ML",
-      "published": "2026-06-09T21:04:16+00:00",
-      "summary": "Found from iOS Simulator&#39;s files. Both of them are in espresso format There&#39;s also another compiled CoreML for concert ranking and based on the content inside of it looks like to be a simple logistic regression. See https://www.reddit.com/r/jailbreak/comments/1u1e1b4/acce",
-      "phases": [
-        "p4"
-      ],
-      "category": "community",
-      "weight": 1
-    },
-    {
-      "id": "7159cf2b25d2",
-      "title": "[D] Self-Promotion Thread",
-      "url": "t3_1tudeio",
-      "source": "r/ML",
-      "published": "2026-06-02T02:15:14+00:00",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links. -- Any abuse of",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "industry",
-      "weight": 1
-    },
-    {
-      "id": "1febad08c3f5",
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "url": "t3_1tsipvv",
-      "source": "r/ML",
-      "published": "2026-05-31T02:30:27+00:00",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you&#39;re looking for] For Those looking for jobs please use this template Want to be Hired: [Location], Salary Expectatio",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "e7785d8c77e3",
-      "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat",
-      "published": "2026-05-19T17:45:00+00:00",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer c",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 1
     }
   ]
