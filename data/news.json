@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-14T02:31:53.970859+00:00",
+  "generated": "2026-06-14T09:00:11.630407+00:00",
   "count": 120,
   "articles": [
     {
@@ -652,6 +652,20 @@
       "weight": 3
     },
     {
+      "id": "919d46e19bc3",
+      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "source": "OpenAI",
+      "published": "2026-05-27T00:00:00+00:00",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "1c77cec1ddad",
       "title": "Election information and safeguards in 2026",
       "url": "https://openai.com/index/election-safeguards-2026",
@@ -664,20 +678,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "919d46e19bc3",
-      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "source": "OpenAI",
-      "published": "2026-05-27T00:00:00+00:00",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -713,19 +713,6 @@
       "weight": 3
     },
     {
-      "id": "740545d72e85",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "phases": [
-        "p2"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "f2261073b77c",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -736,6 +723,19 @@
         "p1",
         "p3",
         "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "740545d72e85",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI",
+      "published": "2026-05-22T00:00:00+00:00",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "phases": [
+        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -1528,17 +1528,16 @@
       "weight": 2
     },
     {
-      "id": "d4eb9b5856b5",
-      "title": "Help me test: do modern retrieval systems mostly retrieve consensus rather than truth? [D]",
-      "url": "t3_1u5927r",
+      "id": "a4d4bb4e280c",
+      "title": "Confused, where to start [D]",
+      "url": "t3_1u5cimu",
       "source": "r/ML",
-      "published": "2026-06-14T02:31:13+00:00",
-      "summary": "I&#39;ve been thinking about a retrieval failure mode that I don&#39;t see discussed very often. Most retrieval systems are evaluated on whether they retrieve relevant information. But what happens when the relevant information is wrong? Or more specifically: What happens when tr",
+      "published": "2026-06-14T05:28:09+00:00",
+      "summary": "Hello community, I am a backend + big data dev. I want to learn about the llms that generate voices. I also read some articles but almost everyone of them starts from regression. There are so much resources available right now that I am now confused where to begin with. &#32; sub",
       "phases": [
-        "p2",
-        "p4"
+        "p1"
       ],
-      "category": "models",
+      "category": "community",
       "weight": 1
     },
     {
