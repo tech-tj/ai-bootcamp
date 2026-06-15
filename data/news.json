@@ -1,7 +1,21 @@
 {
-  "generated": "2026-06-14T19:06:30.471372+00:00",
+  "generated": "2026-06-15T02:36:16.424728+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "9b41ef631f1c",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI",
+      "published": "2026-06-14T17:00:00+00:00",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
     {
       "id": "31e268b2c07a",
       "title": "New OpenAI Academy courses for the next era of work",
@@ -47,6 +61,33 @@
       "weight": 3
     },
     {
+      "id": "9b77dce7b354",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "8926e37d73b8",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "bfbf641beda5",
       "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
@@ -74,33 +115,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "8926e37d73b8",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "9b77dce7b354",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -998,19 +1012,6 @@
       "weight": 3
     },
     {
-      "id": "b9939c2fea26",
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "source": "OpenAI",
-      "published": "2026-05-16T00:00:00+00:00",
-      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "446830a5c044",
       "title": "olmo-eval: An evaluation workbench for the model development loop",
       "url": "https://huggingface.co/blog/allenai/olmo-eval",
@@ -1528,18 +1529,48 @@
       "weight": 2
     },
     {
-      "id": "643fa6bded71",
-      "title": "ICML registration [D]",
-      "url": "t3_1u5r5la",
+      "id": "a7969ee1f582",
+      "title": "I built an open-source Knowledge Graph pipeline with hybrid retrieval to improve LLM multi-hop reasoning [P]",
+      "url": "t3_1u5yyyl",
       "source": "r/ML",
-      "published": "2026-06-14T17:27:26+00:00",
-      "summary": "Hello everyone! I am trying to figure out if a main conference registration gives you access to the expo (companies booth) and the expo talks? Expo are happening on July 6th the same day as tutorials. But for tutorials you need to be registered. Do you also need to have a tutoria",
+      "published": "2026-06-14T22:38:22+00:00",
+      "summary": "Hey everyone, I built an open-source full-stack pipeline (Django + React) that constructs a Knowledge Graph from raw text, detects thematic communities, and uses hybrid search to solve the &quot;lost in the middle&quot; problem in standard vector retrieval. The Pipeline: Ingestio",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "efad66717983",
+      "title": "ICML Poster [D]",
+      "url": "t3_1u5y6il",
+      "source": "r/ML",
+      "published": "2026-06-14T22:04:18+00:00",
+      "summary": "Does anyone know when is the ICML poster deadline? It says it\u2019s tomorrow but is it AoE? &#32; submitted by &#32; /u/misplacedlion [link] &#32; [comments]",
       "phases": [
         "p1",
         "p2",
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "1e7dceba0f4e",
+      "title": "Coherent Context Can Silently Shift LLMs Into a Different Internal Regime \u2014 And Current Safety Systems Are Blind To It [D]",
+      "url": "t3_1u5xnxg",
+      "source": "r/ML",
+      "published": "2026-06-14T21:42:47+00:00",
+      "summary": "I\u2019m an independent researcher currently exploring what I believe is an important phenomenon for both mechanistic interpretability and AI safety. Core idea: A strong, coherent target text can move the model into a different internal regime \u2014 before the final output is produced. Th",
+      "phases": [
+        "p1",
+        "p4"
       ],
       "category": "models",
       "weight": 1
@@ -1739,36 +1770,6 @@
         "p1"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "9f4923ed15b2",
-      "title": "[P] Extreme Imbalance Data from 100K dataset only have 56 failure [P]",
-      "url": "t3_1u2ut7s",
-      "source": "r/ML",
-      "published": "2026-06-11T10:04:19+00:00",
-      "summary": "as in the title, my goal is to predicting failure and RUL of machine, dataset is timestamp and when machine is failure it will labeled with 1 that only have 56 https://preview.redd.it/plbydmenmm6h1.png?width=1205&amp;format=png&amp;auto=webp&amp;s=2fefe3cc2e3fe554b81c9e0b4012c534",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "00b2ee16c1f5",
-      "title": "Adaptive Tokenisation Via Temporal Redundancy Masking And Latent Inpainting [R]",
-      "url": "t3_1u2u9bb",
-      "source": "r/ML",
-      "published": "2026-06-11T09:32:34+00:00",
-      "summary": "link - https://arxiv.org/abs/2606.06158 Abstract : Adaptive video tokenisation seeks to dynamically allocate token budgets based on the underlying visual complexity of a sequence. Current continuous-regime approaches achieve this via iterative binarised searches or trained neural",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
       "weight": 1
     }
   ]
