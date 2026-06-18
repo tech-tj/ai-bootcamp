@@ -1,7 +1,49 @@
 {
-  "generated": "2026-06-18T14:42:49.832786+00:00",
+  "generated": "2026-06-18T20:08:34.630485+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "a55ebd412e31",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "source": "OpenAI",
+      "published": "2026-06-18T17:00:00+00:00",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "ad2ec02b5ba7",
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-06-18T11:00:00+00:00",
+      "summary": "Learn how GPT-5.5 Instant improves ChatGPT\u2019s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "796b3536965e",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "source": "OpenAI",
+      "published": "2026-06-18T08:00:00+00:00",
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "0af1478cb097",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
@@ -136,6 +178,33 @@
       "weight": 3
     },
     {
+      "id": "9b77dce7b354",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "8926e37d73b8",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f5fdb80fa91a",
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -163,33 +232,6 @@
         "p1"
       ],
       "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "9b77dce7b354",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "8926e37d73b8",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -741,20 +783,6 @@
       "weight": 3
     },
     {
-      "id": "919d46e19bc3",
-      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "source": "OpenAI",
-      "published": "2026-05-27T00:00:00+00:00",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "1c77cec1ddad",
       "title": "Election information and safeguards in 2026",
       "url": "https://openai.com/index/election-safeguards-2026",
@@ -767,6 +795,20 @@
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "919d46e19bc3",
+      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "source": "OpenAI",
+      "published": "2026-05-27T00:00:00+00:00",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "phases": [
+        "p1",
+        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -802,19 +844,6 @@
       "weight": 3
     },
     {
-      "id": "740545d72e85",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "phases": [
-        "p2"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "f2261073b77c",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -825,6 +854,19 @@
         "p1",
         "p3",
         "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "740545d72e85",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI",
+      "published": "2026-05-22T00:00:00+00:00",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "phases": [
+        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -895,19 +937,6 @@
       "weight": 3
     },
     {
-      "id": "a23c5621227e",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "source": "OpenAI",
-      "published": "2026-05-20T00:00:00+00:00",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "ae68796c79fe",
       "title": "The next phase of OpenAI\u2019s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -918,6 +947,19 @@
         "p1"
       ],
       "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "a23c5621227e",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "source": "OpenAI",
+      "published": "2026-05-20T00:00:00+00:00",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -948,99 +990,17 @@
       "weight": 3
     },
     {
-      "id": "757b4a2a57b0",
-      "title": "How AI Mode is changing the way people search in the U.S.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-      "source": "Google AI",
-      "published": "2026-05-19T17:45:00+00:00",
-      "summary": "One year after launch, see how AI Mode\u2019s users are shifting from keywords to natural language queries.",
+      "id": "63333d90a8a4",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "source": "HuggingFace",
+      "published": "2026-06-18T18:13:13+00:00",
+      "summary": "",
       "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "adac55b4e4fe",
-      "title": "New ways to create and get things done in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-      "source": "Google AI",
-      "published": "2026-05-19T17:45:00+00:00",
-      "summary": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "cd2fbffde559",
-      "title": "I/O 2026: Welcome to the agentic Gemini era",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-      "source": "Google AI",
-      "published": "2026-05-19T17:45:00+00:00",
-      "summary": "The latest from Google I/O: See how we\u2019re helping you get more done with Gemini.",
-      "phases": [
-        "p1",
         "p3"
       ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "388f97def8c6",
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "source": "Google AI",
-      "published": "2026-05-19T17:45:00+00:00",
-      "summary": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "6cad7b8bd247",
-      "title": "A new era for AI Search",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "source": "Google AI",
-      "published": "2026-05-19T17:45:00+00:00",
-      "summary": "We shared the next step in our journey to bring together the best of a search engine with the best of AI.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "6277c54bdb44",
-      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
-      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
-      "source": "Google AI",
-      "published": "2026-05-19T17:45:00+00:00",
-      "summary": "Introducing a $100 AI Ultra plan \u2014 plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
+      "category": "research",
+      "weight": 2
     },
     {
       "id": "3d684ebde5de",
@@ -1743,6 +1703,34 @@
         "p2",
         "p3",
         "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "23a8b5af1a70",
+      "title": "ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents",
+      "url": "https://arxiv.org/abs/2606.18037",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-18T00:00:00-04:00",
+      "summary": "arXiv:2606.18037v1 Announce Type: new Abstract: Tool-using LLM agents increasingly use the Model Context Protocol (MCP) to answer from heterogeneous evidence sources, including search, APIs, databases, clinical records, and formulary tools. Standard factuality metrics usually tes",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "tools",
+      "weight": 2
+    },
+    {
+      "id": "6ac774c29771",
+      "title": "PseudoBench: Measuring How Agentic Auto-Research Fuels Pseudoscience",
+      "url": "https://arxiv.org/abs/2606.18060",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-18T00:00:00-04:00",
+      "summary": "arXiv:2606.18060v1 Announce Type: new Abstract: As Large Language Model based agents enter autonomous scientific research, their ability to resist pseudoscience becomes increasingly important. Otherwise, such systems may rapidly generate plausible yet misleading studies that cont",
+      "phases": [
+        "p1",
+        "p3"
       ],
       "category": "research",
       "weight": 2
