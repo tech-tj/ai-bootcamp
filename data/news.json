@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-17T19:57:04.181555+00:00",
+  "generated": "2026-06-18T02:33:39.630161+00:00",
   "count": 120,
   "articles": [
     {
@@ -28,6 +28,19 @@
       "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "phases": [
         "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "916e534ab8d5",
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "source": "OpenAI",
+      "published": "2026-06-17T00:00:00+00:00",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "phases": [
+        "p4"
       ],
       "category": "models",
       "weight": 3
@@ -137,19 +150,6 @@
       "weight": 3
     },
     {
-      "id": "8926e37d73b8",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "f5fdb80fa91a",
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -177,6 +177,19 @@
         "p1"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "8926e37d73b8",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -412,20 +425,6 @@
       "weight": 3
     },
     {
-      "id": "985e9a4f3bc7",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "source": "OpenAI",
-      "published": "2026-06-03T10:00:00+00:00",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "b918a5525a80",
       "title": "A blueprint for democratic governance of frontier AI",
       "url": "https://openai.com/index/frontier-safety-blueprint",
@@ -437,6 +436,20 @@
         "p4"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "985e9a4f3bc7",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "source": "OpenAI",
+      "published": "2026-06-03T10:00:00+00:00",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -882,16 +895,16 @@
       "weight": 3
     },
     {
-      "id": "ae68796c79fe",
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "id": "95e072c6616e",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
       "source": "OpenAI",
       "published": "2026-05-20T00:00:00+00:00",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "phases": [
         "p1"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 3
     },
     {
@@ -908,16 +921,16 @@
       "weight": 3
     },
     {
-      "id": "95e072c6616e",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
+      "id": "ae68796c79fe",
+      "title": "The next phase of OpenAI\u2019s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "source": "OpenAI",
       "published": "2026-05-20T00:00:00+00:00",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
       "phases": [
         "p1"
       ],
-      "category": "models",
+      "category": "research",
       "weight": 3
     },
     {
@@ -1316,7 +1329,7 @@
       "url": "https://arxiv.org/abs/2606.17453",
       "source": "ArXiv cs.AI",
       "published": "2026-06-17T00:00:00-04:00",
-      "summary": "arXiv:2606.17453v1 Announce Type: new Abstract: Large language model agents are increasingly integrated into map services. Since map services are embedded in everyday-life scenarios rather than professional task settings, users often express their needs informally, resulting in u",
+      "summary": "arXiv:2606.17453v2 Announce Type: new Abstract: Large language model agents are increasingly integrated into map services. Since map services are embedded in everyday-life scenarios rather than professional task settings, users often express their needs informally, resulting in u",
       "phases": [
         "p1",
         "p3",
@@ -1331,7 +1344,7 @@
       "url": "https://arxiv.org/abs/2606.17454",
       "source": "ArXiv cs.AI",
       "published": "2026-06-17T00:00:00-04:00",
-      "summary": "arXiv:2606.17454v1 Announce Type: new Abstract: AI agent performance is not just a modeling problem, it is fundamentally a systems problem. The advanced capabilities of models are realized through agent harnesses. Therefore, a gap between model assumptions and harness behavior ca",
+      "summary": "arXiv:2606.17454v2 Announce Type: new Abstract: AI agent performance is not just a modeling problem, it is fundamentally a systems problem. The advanced capabilities of models are realized through agent harnesses. Therefore, a gap between model assumptions and harness behavior ca",
       "phases": [
         "p3"
       ],
@@ -1729,23 +1742,6 @@
         "p1"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "23451718d652",
-      "title": "MoCo-AIS: A Contrastive Learning Framework for Similarity Computation of Vessel Trajectories",
-      "url": "https://arxiv.org/abs/2606.17978",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-17T00:00:00-04:00",
-      "summary": "arXiv:2606.17978v1 Announce Type: new Abstract: Trajectory similarity is a fundamental task in analyzing mobility patterns, essential for applications such as route pattern extraction, mobility prediction, and anomaly detection. Traditional distance-based measures for computing s",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
