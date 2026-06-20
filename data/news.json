@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-20T08:38:35.106513+00:00",
+  "generated": "2026-06-20T13:24:04.260511+00:00",
   "count": 120,
   "articles": [
     {
@@ -178,16 +178,17 @@
       "weight": 3
     },
     {
-      "id": "bfbf641beda5",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "id": "9b77dce7b354",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
       "source": "OpenAI",
       "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "phases": [
-        "p1"
+        "p1",
+        "p3"
       ],
-      "category": "tools",
+      "category": "models",
       "weight": 3
     },
     {
@@ -201,6 +202,19 @@
         "p1"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "bfbf641beda5",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
       "weight": 3
     },
     {
@@ -218,20 +232,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "9b77dce7b354",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -867,20 +867,6 @@
       "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "phases": [
         "p2"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "973c5765af89",
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "url": "https://openai.com/index/adventhealth",
-      "source": "OpenAI",
-      "published": "2026-05-21T12:00:00+00:00",
-      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -1710,6 +1696,23 @@
       "phases": [
         "p1",
         "p2"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "3f3db8d91dfd",
+      "title": "Confidence-Aware Automated Assessment of Student-Drawn Scientific Models",
+      "url": "https://arxiv.org/abs/2606.20264",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-20T00:00:00-04:00",
+      "summary": "arXiv:2606.20264v1 Announce Type: new Abstract: Student-generated drawings are widely used in science education to assess learners' conceptual understanding in modeling-based tasks aligned with the Next Generation Science Standards (NGSS). However, scoring such drawings requires ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 2
