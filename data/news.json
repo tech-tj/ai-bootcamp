@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-20T19:07:24.922240+00:00",
+  "generated": "2026-06-21T02:34:02.697646+00:00",
   "count": 120,
   "articles": [
     {
@@ -839,34 +839,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "f2261073b77c",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "source": "OpenAI",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "phases": [
-        "p1",
-        "p3",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "740545d72e85",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "phases": [
-        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -1715,6 +1687,36 @@
         "p5"
       ],
       "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "d57ddad586f6",
+      "title": "Lagrange: An Open-Vocabulary, Energy-Based Sparse Framework for Generalized End-to-End Driving",
+      "url": "https://arxiv.org/abs/2606.20274",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-20T00:00:00-04:00",
+      "summary": "arXiv:2606.20274v1 Announce Type: new Abstract: Scaling end-to-end autonomous driving to complex, open-world environments requires perceptual models that generalize to anomalous scenarios and planners that produce kinematically valid trajectories. Existing paradigms face a distin",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "4d51993444bd",
+      "title": "Leveraging systems' non-linearity to tackle the scarcity of data in the design of Intelligent Fault Diagnosis Systems",
+      "url": "https://arxiv.org/abs/2606.20323",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-20T00:00:00-04:00",
+      "summary": "arXiv:2606.20323v1 Announce Type: new Abstract: Deep Transfer Learning (DTL) allows for the efficient building of Intelligent Fault Diagnosis Systems (IFDS). On the other hand, DTL methods still heavily rely on large amounts of labelled data. Obtaining such an amount of data can ",
+      "phases": [
+        "p2"
+      ],
+      "category": "research",
       "weight": 2
     }
   ]
