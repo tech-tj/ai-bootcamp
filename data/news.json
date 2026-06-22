@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T11:31:17.926924+00:00",
-  "count": 104,
+  "generated": "2026-06-22T16:24:52.291211+00:00",
+  "count": 120,
   "articles": [
     {
       "id": "663d872622a3",
@@ -840,6 +840,57 @@
       "weight": 3
     },
     {
+      "id": "d3ee689571cc",
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "source": "HuggingFace",
+      "published": "2026-06-22T13:18:56+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "f18a22216209",
+      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
+      "url": "https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
+      "source": "Import AI",
+      "published": "2026-06-22T12:31:45+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe now AI can decisively out-persuade humans:\u2026\u201cAI systems were reliably more persuasive than expert human",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "7e4268ecef5a",
+      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+      "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-22T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world\u2019s deepest and longest subsea road tunnel \u2014Niall Firth I\u2019m currently around 1,000 feet beneath the North Sea, in a",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "15e05676a55e",
       "title": "Inside the world\u2019s deepest and longest subsea road tunnel",
       "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
@@ -875,7 +926,7 @@
       "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
       "source": "MIT Tech Review",
       "published": "2026-06-19T10:40:24+00:00",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But ",
+      "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. ",
       "phases": [
         "p1"
       ],
@@ -1061,23 +1112,6 @@
       "source": "HuggingFace",
       "published": "2026-06-17T09:01:25+00:00",
       "summary": "",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "db9922117603",
-      "title": "Entrepreneurs in Nairobi make the case for going solar",
-      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
-      "source": "MIT Tech Review",
-      "published": "2026-06-17T09:00:00+00:00",
-      "summary": "Most of Kenya\u2019s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-\u00adimproving economics of so",
       "phases": [
         "p1",
         "p2",
@@ -1383,39 +1417,197 @@
       "weight": 2
     },
     {
-      "id": "79bbec08bf7a",
-      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-      "source": "Ars Technica",
-      "published": "2026-06-16T21:00:35+00:00",
-      "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
+      "id": "d8bf66a4ba86",
+      "title": "Some new updates to Papers with Code [P]",
+      "url": "t3_1ucm508",
+      "source": "r/ML",
+      "published": "2026-06-22T14:29:33+00:00",
+      "summary": "Hi folks, Niels here from the open-source team at Hugging Face. I continue working on a revival of paperswithcode.co as we&#39;re back to the &quot;age of research&quot; per Ilya Sutskever! Hence, it&#39;s important to discover each other&#39;s research and build on each other&#3",
       "phases": [
         "p1",
-        "p3"
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "24e97ef22429",
+      "title": "[ECCV 2026] Paper Decision Appeals Discussion [D]",
+      "url": "t3_1uc0m1e",
+      "source": "r/ML",
+      "published": "2026-06-21T20:39:17+00:00",
+      "summary": "With the release of meta-reviews, ECCV sent out a google form for dissatisfied authors to submit an appeal for the following reasons: Policy errors, e.g., reviewers or Area Chairs applied a policy that does not exist, or reviewers or Area Chairs applied policies that are not appl",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 1
     },
     {
-      "id": "98586e1b1098",
-      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
-      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-      "source": "Ars Technica",
-      "published": "2026-06-16T11:15:46+00:00",
-      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
+      "id": "294c8d0cd683",
+      "title": "An Update on Matrix Recurrent Units, an Attention Alternative [R]",
+      "url": "t3_1ubz5o8",
+      "source": "r/ML",
+      "published": "2026-06-21T19:39:44+00:00",
+      "summary": "I recently revisited my matrix recurrent units algorithm (the MRU), a novel linear-time sequence architecture I created as an alternative to attention. I explain it in depth at the repo , but the gist is the MRU works by transforming the embedding into an input state matrix, cumu",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "33428f04021b",
+      "title": "Data-centric debugging for teams training neural nets [P]",
+      "url": "t3_1ubwcat",
+      "source": "r/ML",
+      "published": "2026-06-21T17:47:02+00:00",
+      "summary": "We just did a big revamp of WeightsLab and wanted to share it here. If you\u2019ve ever spent hours debugging a training run only to discover it was a data problem all along, this is for you. WeightsLab lets you pause training mid-run, inspect your live loss signals, and catch mislabe",
+      "phases": [
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "9207f94f1f50",
+      "title": "Best current methods for finetuning whisper on domain specific vocabulary? [P]",
+      "url": "t3_1ubvmdx",
+      "source": "r/ML",
+      "published": "2026-06-21T17:18:22+00:00",
+      "summary": "Hey everyone, I\u2019m wondering whether there are any newer or more effective methods for fine tuning whisper on domain specific speech. I\u2019m working on a project where the model needs to reliably detect certain specific words and technical terms. The vocabulary and context are mostly",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "8cef5b08032d",
+      "title": "EMA on LoRA ? [R]",
+      "url": "t3_1ubv0f5",
+      "source": "r/ML",
+      "published": "2026-06-21T16:54:28+00:00",
+      "summary": "Hi guys Does anyone know of papers where EMA on LoRA adapters has been used successfully? Im interested in cases where the EMA adapter acts as a self-teacher generating soft labels for the trainable adapter. On-policy self-distillation [1] uses ema for the teacher. However, they ",
+      "phases": [
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "4b5ccfd29f51",
+      "title": "A slightly improved DVD-JEPA demo [P]",
+      "url": "t3_1ubtf09",
+      "source": "r/ML",
+      "published": "2026-06-21T15:49:36+00:00",
+      "summary": "Hey! I came across this post , which I found quite neat as a minimal demonstration of JEPA. However, as the comments pointed out, there was some room for improvement. So I added a few things such as environment noise and a fair* comparison to a pixel-space baseline. I think the i",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "119e82080f7f",
+      "title": "I released a softmax-free attention model at GPT-2 Medium scale (~354M params, 11.5B tokens): structural sparsity + tile-skipping kernels for long-context VRAM savings. Open weights + custom Triton kernels [R]",
+      "url": "t3_1ubmybr",
+      "source": "r/ML",
+      "published": "2026-06-21T10:46:36+00:00",
+      "summary": "&#32; submitted by &#32; /u/NonGameCatharsis [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "be58fd6f5358",
+      "title": "Python packages for particle swarms, genetic algorithms. Scikit-opt maybe? [D]",
+      "url": "t3_1ub81us",
+      "source": "r/ML",
+      "published": "2026-06-20T21:28:20+00:00",
+      "summary": "I&#39;m working with a client on a curve-fitting optimization problem. They are currently using a constrained Levenburg-Marquardt optimizer for their task which is complex, slow, and sometimes gets stuck in local minima. I suggested using particle swarm optimization (PSO), and th",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "025f7b8bf924",
+      "title": "Studying FLUX in diffusers library was hard, so I built a smaller open-source version [P]",
+      "url": "t3_1ub1db3",
+      "source": "r/ML",
+      "published": "2026-06-20T16:50:08+00:00",
+      "summary": "If you&#39;ve tried to study modern diffusion models by digging through the official diffusers library, you know it can be overwhelming with its complexity and abstractions. I wanted to simplify FLUX diffusion models, so I built minFLUX : a PyTorch implementation focused on its c",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "e40e302409cf",
+      "title": "TSAuditor: A time-series auditing framework [P]",
+      "url": "t3_1ub15wf",
+      "source": "r/ML",
+      "published": "2026-06-20T16:41:45+00:00",
+      "summary": "This happened a few months ago when I was working on an analysis project that dealt with time-series data. The dataset was large (10 years of data). I was using a standard profiling tool to check the pipeline. Everything looked fine because the tool reported 3% missing data rate ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "2941de4484fd",
+      "title": "Hi Reddit, I posted my Build Your Own LLM workshop to Youtube teaching ML, LLM and math intuition [P]",
+      "url": "t3_1uazlnd",
+      "source": "r/ML",
+      "published": "2026-06-20T15:36:27+00:00",
+      "summary": "Hi internet friends, I recorded a workshop about building your own LLM without any math / ML prerequisites. It covers everything from machine learning fundamentals, deep neural networks, transformer architecture, and pre/post-training. The only prerequisite is being comfortable w",
       "phases": [
         "p1"
       ],
-      "category": "models",
+      "category": "research",
       "weight": 1
     },
     {
-      "id": "0ae2fb8f6083",
-      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-      "source": "Ars Technica",
-      "published": "2026-06-12T18:45:40+00:00",
-      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
+      "id": "9ac7cc9df7b7",
+      "title": "Would you let an ML PhD student graduate without a top-tier paper? [D]",
+      "url": "t3_1uazlhg",
+      "source": "r/ML",
+      "published": "2026-06-20T15:36:16+00:00",
+      "summary": "Suppose you\u2019re a PhD advisor in machine learning. Your student has been in the program for 4 years, has done solid work, and has a coherent thesis direction but they haven\u2019t published in an A*ML venue or top journal. No NeurIPS/ICML/ICLR/CVPR/etc., and no equivalent top venue in ",
       "phases": [
         "p1",
         "p2",
@@ -1423,50 +1615,31 @@
         "p4",
         "p5"
       ],
-      "category": "industry",
+      "category": "research",
       "weight": 1
     },
     {
-      "id": "75f5b737d0fc",
-      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
-      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
-      "source": "Ars Technica",
-      "published": "2026-06-12T16:51:38+00:00",
-      "summary": "Even moderately sized data centers can have an outsized local impact.",
+      "id": "8ea9b31682ad",
+      "title": "An open handbook on LLM inference at scale (GPU internals, KV cache, batching, vLLM/SGLang/TensorRT-LLM) [P]",
+      "url": "t3_1uavduv",
+      "source": "r/ML",
+      "published": "2026-06-20T12:27:22+00:00",
+      "summary": "I&#39;ve been working through the internals of LLM inference and writing up what I learn as an open, in-progress handbook. Just wrapped another chapter on GPU execution and memory internals: why a GPU sits mostly idle during inference, how the memory hierarchy gates throughput, a",
       "phases": [
         "p1",
-        "p2",
         "p3",
-        "p4",
         "p5"
       ],
       "category": "models",
       "weight": 1
     },
     {
-      "id": "b565741f9007",
-      "title": "Say hi to \"Siri AI\"\u2014Apple announces new, more \"conversational\" voice assistant",
-      "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
-      "source": "Ars Technica",
-      "published": "2026-06-08T19:30:05+00:00",
-      "summary": "New features coming this fall alongside two-tiered, Google-powered AI model overhaul.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "82c1cc9bd3b7",
-      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-      "source": "Ars Technica",
-      "published": "2026-06-07T11:08:30+00:00",
-      "summary": "How accurate does an AI system need to be?",
+      "id": "64be153420ca",
+      "title": "DVD-JEPA: an open-source, fully-reproducible JEPA world model [P]",
+      "url": "t3_1uatlzx",
+      "source": "r/ML",
+      "published": "2026-06-20T10:52:35+00:00",
+      "summary": "A paper currently trending on paperswithcode.co in the &quot;Anomaly Detection&quot; category is DVD-JEPA . https://i.redd.it/r6fd8n3d4f8h1.gif Here is the short summary: Most attempts to learn a world model from video try to predict the next frame pixel-by-pixel, and drown in de",
       "phases": [
         "p1",
         "p2",
@@ -1478,27 +1651,12 @@
       "weight": 1
     },
     {
-      "id": "8782dda3d458",
-      "title": "LLMs believe false statements even after explicit warnings that they're false",
-      "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-      "source": "Ars Technica",
-      "published": "2026-05-28T21:29:43+00:00",
-      "summary": "Fine-tuning tests show \"bias... toward confidently representing the claims as true.\"",
-      "phases": [
-        "p1",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "6ff4055a2781",
-      "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
-      "source": "Ars Technica",
-      "published": "2026-05-26T22:27:32+00:00",
-      "summary": "Parsing a papal proclamation.",
+      "id": "92655ad01c21",
+      "title": "Time Series Modeling Needs a Dynamical Systems Perspective [R]",
+      "url": "t3_1uark0u",
+      "source": "r/ML",
+      "published": "2026-06-20T08:47:24+00:00",
+      "summary": "In our #ICML2026 position paper we argue a dynamical systems perspective is needed to drive time series (TS) modeling forward: https://arxiv.org/abs/2602.16864 Essentially all time series in nature and engineering come from some underlying dynamical system (DS), mostly chaotic fo",
       "phases": [
         "p1",
         "p2",
@@ -1506,16 +1664,113 @@
         "p4",
         "p5"
       ],
-      "category": "industry",
+      "category": "research",
       "weight": 1
     },
     {
-      "id": "bd1df879401a",
-      "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
-      "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
-      "source": "Ars Technica",
-      "published": "2026-05-25T21:07:42+00:00",
-      "summary": "In an age of AI, Pope looks for \"artisans of hope.\"",
+      "id": "cf1de98d69b9",
+      "title": "Built a Global AQ (PM2.5) Forecaster ML Model [P]",
+      "url": "t3_1uar4vc",
+      "source": "r/ML",
+      "published": "2026-06-20T08:20:30+00:00",
+      "summary": "Hey everyone, I\u2019ve been building an end-to-end Air Quality (PM2.5) forecasting pipeline for 4 countries (US, UK, India, Australia) using 1.6M+ rows of OpenAQ and NASA weather data. The problem i hit (the variance trap): My V7 model was a standard stateless Gradient Boosting Regre",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "5182a1ff2975",
+      "title": "how to access books3 dataset for research purposes? [R]",
+      "url": "t3_1uaoomx",
+      "source": "r/ML",
+      "published": "2026-06-20T05:55:16+00:00",
+      "summary": "as per the title, how to access books3 dataset for research purposes? &#32; submitted by &#32; /u/xolmnyc [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "c7e2a2063464",
+      "title": "Dealing with a messy prescriptive monolith. How do you survive this? [D]",
+      "url": "t3_1ua5xfg",
+      "source": "r/ML",
+      "published": "2026-06-19T16:02:29+00:00",
+      "summary": "Months ago, I got my first maintenance project. Before this, I had only built new solutions from scratch and maintained my own code. But maintaining someone else&#39;s system feels completely different. &#x200B; \u200bIt\u2019s a prescriptive recommendation system that uses XGBoost models ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "f54beb129c3d",
+      "title": "Best library for releasing my research optimization algorithm? [D]",
+      "url": "t3_1ua2o00",
+      "source": "r/ML",
+      "published": "2026-06-19T13:54:48+00:00",
+      "summary": "Hi All! I have developed a research optimizer (QQN Quadratic Quasi-Newton) and published a paper on it where I am able to, but I would really like to make the algorithm itself easily available to the community for evaluation. I have a Rust, Java, and Javascript implementations, b",
+      "phases": [
+        "p4"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "e857527b5f2b",
+      "title": "How does torch.compile() achieve massive speedups despite highly optimized NumPy functions? [D]",
+      "url": "t3_1ua2hwj",
+      "source": "r/ML",
+      "published": "2026-06-19T13:47:49+00:00",
+      "summary": "I was pondering on this question and decided to dive deep into torch.compile. It was a lot of fun learning about operator fusion as the central idea behind torch.compile. So I created a tiny version of torch.compile in 500 lines of python and a notebook showing how this works: ht",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "7d8e80c72ead",
+      "title": "Fearless Concurrency on the GPU: Safe GPU inference in Rust, competitive with vLLM/SGLang [R]",
+      "url": "t3_1u9j7md",
+      "source": "r/ML",
+      "published": "2026-06-18T21:36:14+00:00",
+      "summary": "I maintain cuTile Rust and just posted the paper &quot;Fearless Concurrency on the GPU.&quot; As more GPU code gets AI-generated, the bottleneck moves from writing it to trusting it. cuTile Rust lets you write or generate GPU kernels whose memory safety and data-race freedom are ",
+      "phases": [
+        "p1",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "0ca5dc4303be",
+      "title": "Latent space interpretation [R]",
+      "url": "t3_1u9afup",
+      "source": "r/ML",
+      "published": "2026-06-18T16:07:51+00:00",
+      "summary": "Hi all, I have trained a convolutional autoencoder on a set of medical images. Further classified latent feature maps using random forest to find the top scoring feature map. Now my goal is to understand which input image is captured in top scoring latent feature map. Any suggest",
       "phases": [
         "p1",
         "p2",
