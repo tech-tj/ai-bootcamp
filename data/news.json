@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-23T08:55:40.093582+00:00",
+  "generated": "2026-06-23T14:22:42.328934+00:00",
   "count": 120,
   "articles": [
     {
@@ -273,19 +273,6 @@
       "weight": 3
     },
     {
-      "id": "bfbf641beda5",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
       "id": "9b77dce7b354",
       "title": "OpenAI to acquire Ona",
       "url": "https://openai.com/index/openai-to-acquire-ona",
@@ -297,6 +284,19 @@
         "p3"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "bfbf641beda5",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
       "weight": 3
     },
     {
@@ -793,20 +793,6 @@
       "weight": 3
     },
     {
-      "id": "702fb607570e",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "source": "OpenAI",
-      "published": "2026-05-28T00:00:00+00:00",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "78758b8ec5bc",
       "title": "OpenAI\u2019s Frontier Governance Framework",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
@@ -818,6 +804,20 @@
         "p4"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "702fb607570e",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "source": "OpenAI",
+      "published": "2026-05-28T00:00:00+00:00",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -890,6 +890,67 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "237e7c87455b",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "source": "HuggingFace",
+      "published": "2026-06-23T12:51:55+00:00",
+      "summary": "",
+      "phases": [
+        "p3",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "7d4f2561bb64",
+      "title": "The Download: the future of chipmaking and Anthropic\u2019s government clash",
+      "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-23T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The $400 million machine powering the future of chipmaking It\u2019s a bit of a schlep to get to the top of ASML\u2019s newest machine. It\u2019s",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "ec7786d60a02",
+      "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+      "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-23T09:00:00+00:00",
+      "summary": "India is home to about 60% of the world\u2019s wild Asian elephants, and around 80% of the animals\u2019 habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into close contact, and clashes can turn leth",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "3dba77af320d",
+      "title": "The $400 million machine powering the future of chipmaking",
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-23T09:00:00+00:00",
+      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It\u2019s a bit of a schlep. The contraption is the size of a double-decker bus\u2014more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressuri",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "b7ea0c9bee51",
@@ -1655,60 +1716,6 @@
         "p4"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "6bcd8c2ae408",
-      "title": "The AI Evaluability Gap: The Missing Layer for Managing Risk and Sustaining Value",
-      "url": "https://arxiv.org/abs/2606.21015",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-23T00:00:00-04:00",
-      "summary": "arXiv:2606.21015v1 Announce Type: new Abstract: Organizations deploying AI face two fundamental governance challenges: managing AI risk and sustaining AI value. Both depend on evidence whose sufficiency cannot be taken for granted. We call the shared underlying challenge the AI E",
-      "phases": [
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "b068f86e3b61",
-      "title": "Negative Knowledge as Failure-aware Shared Memory for AutoResearch",
-      "url": "https://arxiv.org/abs/2606.21024",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-23T00:00:00-04:00",
-      "summary": "arXiv:2606.21024v1 Announce Type: new Abstract: AI-assisted research systems generate many failed attempts, but those failures rarely become a durable, shared knowledge asset. We propose a negative knowledge memory layer: a curator agent converts each failed attempt into a bounde",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "9c3ea5916d1c",
-      "title": "Coherence Under Commitment: Probing Generalization and Vacuous Memorization in LLM Logical Reasoning",
-      "url": "https://arxiv.org/abs/2606.21083",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-23T00:00:00-04:00",
-      "summary": "arXiv:2606.21083v1 Announce Type: new Abstract: Large language models (LLMs) deployed for logical reasoning in knowledge-intensive domains exhibit a subtle but critical failure: coherence can be vacuously achieved through systematic abstention. A model that withholds commitment t",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "4829fa01c2b5",
-      "title": "Repeated post-training is not Self-improving: Diagnosing Scientific Amnesia in Continual DPO Pipelines",
-      "url": "https://arxiv.org/abs/2606.21089",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-23T00:00:00-04:00",
-      "summary": "arXiv:2606.21089v1 Announce Type: new Abstract: Industrial LLM teams often ship behavior updates by repeatedly DPO-training a base model on sequences of related preference-data campaigns. The dominant failure mode in this regime is not always classical catastrophic forgetting: a ",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
