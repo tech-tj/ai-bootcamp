@@ -1,20 +1,7 @@
 {
-  "generated": "2026-06-22T20:31:43.769231+00:00",
+  "generated": "2026-06-23T02:04:07.655929+00:00",
   "count": 120,
   "articles": [
-    {
-      "id": "5d9de7a5a94a",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "source": "OpenAI",
-      "published": "2026-06-22T10:00:00+00:00",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
     {
       "id": "f601b26b225b",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
@@ -26,6 +13,19 @@
         "p1"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "5d9de7a5a94a",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI",
+      "published": "2026-06-22T10:00:00+00:00",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -257,6 +257,19 @@
       "weight": 3
     },
     {
+      "id": "8926e37d73b8",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f5fdb80fa91a",
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -271,19 +284,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "8926e37d73b8",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -519,20 +519,6 @@
       "weight": 3
     },
     {
-      "id": "985e9a4f3bc7",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "source": "OpenAI",
-      "published": "2026-06-03T10:00:00+00:00",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "b918a5525a80",
       "title": "A blueprint for democratic governance of frontier AI",
       "url": "https://openai.com/index/frontier-safety-blueprint",
@@ -544,6 +530,20 @@
         "p4"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "985e9a4f3bc7",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "source": "OpenAI",
+      "published": "2026-06-03T10:00:00+00:00",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -780,20 +780,6 @@
       "weight": 3
     },
     {
-      "id": "78758b8ec5bc",
-      "title": "OpenAI\u2019s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "source": "OpenAI",
-      "published": "2026-05-28T00:00:00+00:00",
-      "summary": "Explore OpenAI\u2019s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
       "id": "702fb607570e",
       "title": "MUFG aims to become AI-native with OpenAI",
       "url": "https://openai.com/index/mufg",
@@ -805,6 +791,20 @@
         "p3"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "78758b8ec5bc",
+      "title": "OpenAI\u2019s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "source": "OpenAI",
+      "published": "2026-05-28T00:00:00+00:00",
+      "summary": "Explore OpenAI\u2019s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "tools",
       "weight": 3
     },
     {
@@ -1452,6 +1452,32 @@
       "weight": 2
     },
     {
+      "id": "0ead5da2a049",
+      "title": "Non-deterministic Vulnerability Detection Benchmark System [P]",
+      "url": "t3_1ud0rft",
+      "source": "r/ML",
+      "published": "2026-06-22T23:34:50+00:00",
+      "summary": "I work in firmware adjacent to AI, so not an ML guy exactly, so that&#39;s why I&#39;ve come here. For work we got a bit concerned about Mythos and all the hype made me explore some benchmarking work. I now have this pretty cool benchmark that&#39;s about 80% done sitting around ",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "16a5b055b921",
+      "title": "Syntactically robust NLI for semantics of imperfectly generated text? [R]",
+      "url": "t3_1ucy7p3",
+      "source": "r/ML",
+      "published": "2026-06-22T21:51:51+00:00",
+      "summary": "Hi all, I&#39;m looking for literature on relatively specific tooling. In autoregressive LLMs, there is substantial published work that used NLI on sub-claims produced by LLMs to gauge correctness of LLM answers. In diffusion (or D-) LLMs, the SoTA model generations that I see (o",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "6c0d184f5410",
       "title": "Recommendations for speech annotation tools [D]",
       "url": "t3_1ucuohi",
@@ -1726,40 +1752,6 @@
       "source": "r/ML",
       "published": "2026-06-20T08:20:30+00:00",
       "summary": "Hey everyone, I\u2019ve been building an end-to-end Air Quality (PM2.5) forecasting pipeline for 4 countries (US, UK, India, Australia) using 1.6M+ rows of OpenAQ and NASA weather data. The problem i hit (the variance trap): My V7 model was a standard stateless Gradient Boosting Regre",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "5182a1ff2975",
-      "title": "how to access books3 dataset for research purposes? [R]",
-      "url": "t3_1uaoomx",
-      "source": "r/ML",
-      "published": "2026-06-20T05:55:16+00:00",
-      "summary": "as per the title, how to access books3 dataset for research purposes? &#32; submitted by &#32; /u/xolmnyc [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "c7e2a2063464",
-      "title": "Dealing with a messy prescriptive monolith. How do you survive this? [D]",
-      "url": "t3_1ua5xfg",
-      "source": "r/ML",
-      "published": "2026-06-19T16:02:29+00:00",
-      "summary": "Months ago, I got my first maintenance project. Before this, I had only built new solutions from scratch and maintained my own code. But maintaining someone else&#39;s system feels completely different. &#x200B; \u200bIt\u2019s a prescriptive recommendation system that uses XGBoost models ",
       "phases": [
         "p1",
         "p2",
