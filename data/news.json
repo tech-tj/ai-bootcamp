@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T14:03:36.608364+00:00",
+  "generated": "2026-06-24T19:24:46.625269+00:00",
   "count": 120,
   "articles": [
     {
@@ -283,16 +283,16 @@
       "weight": 3
     },
     {
-      "id": "bfbf641beda5",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "id": "8926e37d73b8",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
       "source": "OpenAI",
       "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "phases": [
         "p1"
       ],
-      "category": "tools",
+      "category": "models",
       "weight": 3
     },
     {
@@ -313,6 +313,19 @@
       "weight": 3
     },
     {
+      "id": "bfbf641beda5",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
+    {
       "id": "9b77dce7b354",
       "title": "OpenAI to acquire Ona",
       "url": "https://openai.com/index/openai-to-acquire-ona",
@@ -322,19 +335,6 @@
       "phases": [
         "p1",
         "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "8926e37d73b8",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -919,6 +919,36 @@
       "weight": 3
     },
     {
+      "id": "8b2159025d9f",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "source": "HuggingFace",
+      "published": "2026-06-24T16:00:13+00:00",
+      "summary": "",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "4bfd31e826e6",
+      "title": "Europe\u2019s extreme heat is shutting down power plants",
+      "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T15:25:28+00:00",
+      "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won\u2019t be online to help handle the load. On June 23, France saw its hottest day since record-keepi",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "77540ffebad8",
       "title": "The Download: introducing the Engineering issue",
       "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
@@ -937,11 +967,11 @@
     },
     {
       "id": "63a3868fbdf0",
-      "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
       "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
       "source": "MIT Tech Review",
       "published": "2026-06-24T12:00:00+00:00",
-      "summary": "The common cold comes for us all\u2014often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a ",
+      "summary": "The common cold comes for us all\u2014often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a n",
       "phases": [
         "p1"
       ],
@@ -1684,37 +1714,6 @@
         "p4"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "f969921bed15",
-      "title": "Uncertainty-Aware Longitudinal Forecasting of Alzheimer's Disease Progression Using Deep Learning",
-      "url": "https://arxiv.org/abs/2606.24604",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-24T00:00:00-04:00",
-      "summary": "arXiv:2606.24604v1 Announce Type: new Abstract: Longitudinal modelling of Alzheimer's disease progression is clinically useful only if it can describe not just the most likely next diagnosis, but how a patient may evolve over time and how reliable that forecast is. Most deep lear",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c8ba4043c4a1",
-      "title": "ScaleToT: Generalizing Structured LLM Reasoning for Billion-Scale Low-Activity User Modeling",
-      "url": "https://arxiv.org/abs/2606.24605",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-24T00:00:00-04:00",
-      "summary": "arXiv:2606.24605v1 Announce Type: new Abstract: Accurate user modeling often depends on rich interaction histories, which are unavailable for billions of low-activity users. Large Language Models (LLMs) can infer latent user states from static profiles, but this reasoning becomes",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
