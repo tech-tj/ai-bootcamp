@@ -1,7 +1,20 @@
 {
-  "generated": "2026-06-24T08:50:57.844129+00:00",
+  "generated": "2026-06-24T14:03:36.608364+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "24a3a922502a",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "source": "OpenAI",
+      "published": "2026-06-24T06:00:00+00:00",
+      "summary": "OpenAI and Broadcom introduce Jalape\u00f1o, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "1948945ee980",
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
@@ -43,19 +56,6 @@
       "weight": 3
     },
     {
-      "id": "5d9de7a5a94a",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "source": "OpenAI",
-      "published": "2026-06-22T10:00:00+00:00",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "f601b26b225b",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "url": "https://openai.com/index/patch-the-planet",
@@ -66,6 +66,19 @@
         "p1"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "5d9de7a5a94a",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI",
+      "published": "2026-06-22T10:00:00+00:00",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -270,33 +283,6 @@
       "weight": 3
     },
     {
-      "id": "8926e37d73b8",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "9b77dce7b354",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "bfbf641beda5",
       "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
@@ -324,6 +310,33 @@
         "p5"
       ],
       "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "9b77dce7b354",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "8926e37d73b8",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -875,6 +888,20 @@
       "weight": 3
     },
     {
+      "id": "919d46e19bc3",
+      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "source": "OpenAI",
+      "published": "2026-05-27T00:00:00+00:00",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "1c77cec1ddad",
       "title": "Election information and safeguards in 2026",
       "url": "https://openai.com/index/election-safeguards-2026",
@@ -892,18 +919,81 @@
       "weight": 3
     },
     {
-      "id": "919d46e19bc3",
-      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "source": "OpenAI",
-      "published": "2026-05-27T00:00:00+00:00",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "id": "77540ffebad8",
+      "title": "The Download: introducing the Engineering issue",
+      "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can\u2019t fix everything, but we can be ambitious. We can take on the challenge of making the wo",
       "phases": [
         "p1",
-        "p3"
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
+    },
+    {
+      "id": "63a3868fbdf0",
+      "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T12:00:00+00:00",
+      "summary": "The common cold comes for us all\u2014often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a ",
+      "phases": [
+        "p1"
+      ],
+      "category": "industry",
+      "weight": 2
+    },
+    {
+      "id": "abc015d0b086",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T11:59:54+00:00",
+      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology\u2019s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, c",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "b8d252857927",
+      "title": "This flying solar-powered platform could deliver better internet from the air",
+      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T09:00:00+00:00",
+      "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico\u2013based company Sceye, will park some 18 kilometers abo",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "industry",
+      "weight": 2
+    },
+    {
+      "id": "f78a517c95c1",
+      "title": "All challenges big and small",
+      "url": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-24T09:00:00+00:00",
+      "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "fb88590f5cc0",
@@ -1625,90 +1715,6 @@
         "p3"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "35919013ede6",
-      "title": "AI Tokenomics: The Economics of Tokens, Computation, and Pricing in Foundation Models",
-      "url": "https://arxiv.org/abs/2606.24616",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-24T00:00:00-04:00",
-      "summary": "arXiv:2606.24616v1 Announce Type: new Abstract: Tokens have become the practical accounting unit for modern foundation model services, linking information processing, computation, memory use, energy expenditure, pricing, and economic value. This paper develops a framework for AI ",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "ae433f00cbc3",
-      "title": "Abstractions of Queries in Ontology-Based Data Access",
-      "url": "https://arxiv.org/abs/2606.24618",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-24T00:00:00-04:00",
-      "summary": "arXiv:2606.24618v1 Announce Type: new Abstract: In ontology-based data access (OBDA), multiple data sources are integrated via mappings to an ontology. We consider an OBDA setting based on existential rules and the certain answer semantics. We address the recent issue of query ab",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "0cfa09950fd8",
-      "title": "When CQs Go Wrong: Challenges in CQ Verification with OE-Assist",
-      "url": "https://arxiv.org/abs/2606.24619",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-24T00:00:00-04:00",
-      "summary": "arXiv:2606.24619v1 Announce Type: new Abstract: Competency Questions (CQs) are the central component of CQ-verification, an established process in which an ontology is evaluated against a set of natural language questions to determine whether the intended purpose of the ontology ",
-      "phases": [
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "afea925ce179",
-      "title": "Themis: An explainable AI-enabled framework for Reinforcement Learning with Human Feedback",
-      "url": "https://arxiv.org/abs/2606.24622",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-24T00:00:00-04:00",
-      "summary": "arXiv:2606.24622v1 Announce Type: new Abstract: Training safe Reinforcement Learning (RL) systems is inherently challenging, with no guarantee of avoiding unwanted behaviors. The most effective defenses against this are (i) transparency through explainability and (ii) alignment v",
-      "phases": [
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "d78e8df37d99",
-      "title": "SAFARI: Scaling Long Horizon Agentic Fault Attribution via Active Investigation",
-      "url": "https://arxiv.org/abs/2606.24626",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-24T00:00:00-04:00",
-      "summary": "arXiv:2606.24626v1 Announce Type: new Abstract: As autonomous agents tackle increasingly complex multi-step, multi-agent tasks, their execution trajectories have scaled beyond the constraints of even the largest context windows. Current methods for effectively diagnosing agent fa",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "d326b3803ed2",
-      "title": "CineCap: Structured Reasoning with Spatio-Temporal Anchors for Cinematographic Video Captioning",
-      "url": "https://arxiv.org/abs/2606.24636",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-24T00:00:00-04:00",
-      "summary": "arXiv:2606.24636v1 Announce Type: new Abstract: Cinematographic captioning aims to describe how a video is filmed using professional film-language concepts such as camera movement, shot size, depth of field, composition, and shooting angle. This capability is important for fine-g",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
