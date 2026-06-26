@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-25T19:43:58.355639+00:00",
+  "generated": "2026-06-26T02:07:56.396707+00:00",
   "count": 120,
   "articles": [
     {
@@ -919,35 +919,18 @@
       "weight": 3
     },
     {
-      "id": "919d46e19bc3",
-      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "source": "OpenAI",
-      "published": "2026-05-27T00:00:00+00:00",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "id": "61fe0e4252ae",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "source": "HuggingFace",
+      "published": "2026-06-26T00:00:00+00:00",
+      "summary": "",
       "phases": [
         "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "1c77cec1ddad",
-      "title": "Election information and safeguards in 2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "source": "OpenAI",
-      "published": "2026-05-27T00:00:00+00:00",
-      "summary": "Ahead of global elections, we\u2019re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
         "p5"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
       "id": "8c2366641dc3",
@@ -1286,7 +1269,7 @@
       "url": "https://arxiv.org/abs/2606.25524",
       "source": "ArXiv cs.AI",
       "published": "2026-06-25T00:00:00-04:00",
-      "summary": "arXiv:2606.25524v1 Announce Type: new Abstract: Large language models (LLMs) reach high accuracy in mathematical reasoning, but individual traces on the same problem diverge; some arrive at the correct answer while others fail. Prior work analyzes failure at the step, chunk, or s",
+      "summary": "arXiv:2606.25524v2 Announce Type: new Abstract: Large language models (LLMs) reach high accuracy in mathematical reasoning, but individual traces on the same problem diverge; some arrive at the correct answer while others fail. Prior work analyzes failure at the step, chunk, or s",
       "phases": [
         "p1",
         "p2",
@@ -1449,7 +1432,7 @@
       "url": "https://arxiv.org/abs/2606.25996",
       "source": "ArXiv cs.AI",
       "published": "2026-06-25T00:00:00-04:00",
-      "summary": "arXiv:2606.25996v1 Announce Type: new Abstract: We introduce Autodata, a general method that enables AI agents to act as data scientists who build high quality training and evaluation data. We show how to train (meta-optimize) such a data scientist agent, so that it learns to cre",
+      "summary": "arXiv:2606.25996v2 Announce Type: new Abstract: We introduce Autodata, a general method that enables AI agents to act as data scientists who build high quality training and evaluation data. We show how to train (meta-optimize) such a data scientist agent, so that it learns to cre",
       "phases": [
         "p3",
         "p4"
@@ -1478,7 +1461,7 @@
       "url": "https://arxiv.org/abs/2606.24890",
       "source": "ArXiv cs.AI",
       "published": "2026-06-25T00:00:00-04:00",
-      "summary": "arXiv:2606.24890v1 Announce Type: cross Abstract: Can a small group of volunteers shape how AI systems discuss animal welfare, just by editing Wikipedia? We show that they can. Wikipedia appears in nearly every major language model training dataset and is weighted more heavily th",
+      "summary": "arXiv:2606.24890v2 Announce Type: cross Abstract: Can a small group of volunteers shape how AI systems discuss animal welfare, just by editing Wikipedia? We show that they can. Wikipedia appears in nearly every major language model training dataset and is weighted more heavily th",
       "phases": [
         "p1",
         "p5"
@@ -1709,6 +1692,19 @@
         "p2",
         "p3",
         "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "b1d04a22fa5d",
+      "title": "EmotionAI: A Privacy-Preserving Computational Intelligence Pipeline for Speech-Emotion-Grounded Conversational Analysis",
+      "url": "https://arxiv.org/abs/2606.24941",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-25T00:00:00-04:00",
+      "summary": "arXiv:2606.24941v1 Announce Type: cross Abstract: Reviewing recorded interviews for affective cues such as composure, hesitation and agitation is slow and subjective, and cloud services that could automate it require sensitive audio to leave the device. EmotionAI is a fully local",
+      "phases": [
         "p5"
       ],
       "category": "research",
