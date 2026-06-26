@@ -1,7 +1,21 @@
 {
-  "generated": "2026-06-26T13:59:16.398206+00:00",
+  "generated": "2026-06-26T19:26:40.258026+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "7843b9ea14bc",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI",
+      "published": "2026-06-26T10:00:00+00:00",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "235f1239691f",
       "title": "Our latest Google Finance upgrades, including a new app",
@@ -314,6 +328,19 @@
       "weight": 3
     },
     {
+      "id": "8926e37d73b8",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f5fdb80fa91a",
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -353,19 +380,6 @@
       "phases": [
         "p1",
         "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "8926e37d73b8",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1708,20 +1722,6 @@
         "p4"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "96ca3aef4bf1",
-      "title": "Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization",
-      "url": "https://arxiv.org/abs/2606.26899",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-26T00:00:00-04:00",
-      "summary": "arXiv:2606.26899v1 Announce Type: new Abstract: Embedding-based retrieval ranks items by their similarity to a query in a shared vector space and usually aims to return the highest-scoring items. In many production settings this is not what is wanted: given a seed set that expres",
-      "phases": [
-        "p2",
-        "p4"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
