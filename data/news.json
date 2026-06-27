@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-26T19:26:40.258026+00:00",
+  "generated": "2026-06-27T02:02:51.570606+00:00",
   "count": 120,
   "articles": [
     {
@@ -878,34 +878,6 @@
       "weight": 3
     },
     {
-      "id": "78758b8ec5bc",
-      "title": "OpenAI\u2019s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "source": "OpenAI",
-      "published": "2026-05-28T00:00:00+00:00",
-      "summary": "Explore OpenAI\u2019s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "702fb607570e",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "source": "OpenAI",
-      "published": "2026-05-28T00:00:00+00:00",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "9ae9fea2130b",
       "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
       "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
@@ -1720,6 +1692,37 @@
         "p1",
         "p2",
         "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "96ca3aef4bf1",
+      "title": "Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization",
+      "url": "https://arxiv.org/abs/2606.26899",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-26T00:00:00-04:00",
+      "summary": "arXiv:2606.26899v1 Announce Type: new Abstract: Embedding-based retrieval ranks items by their similarity to a query in a shared vector space and usually aims to return the highest-scoring items. In many production settings this is not what is wanted: given a seed set that expres",
+      "phases": [
+        "p2",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "d1843ef1db2b",
+      "title": "Learning to Recover Task Experts from a Multi-Task Merged Model",
+      "url": "https://arxiv.org/abs/2606.26902",
+      "source": "ArXiv cs.AI",
+      "published": "2026-06-26T00:00:00-04:00",
+      "summary": "arXiv:2606.26902v1 Announce Type: new Abstract: Multi-task model merging aims to consolidate several task-specific experts into a unified model, yet static merging consistently suffers from parameter interference. While dynamic merging models aim to bridge this gap, many works re",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 2
