@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-27T13:05:31.079201+00:00",
+  "generated": "2026-06-27T19:01:27.988594+00:00",
   "count": 120,
   "articles": [
     {
@@ -852,19 +852,6 @@
       "weight": 3
     },
     {
-      "id": "3404b326f5b4",
-      "title": "Catch up on 12 major I/O 2026 moments",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "source": "Google AI",
-      "published": "2026-05-28T15:00:00+00:00",
-      "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "9ae9fea2130b",
       "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
       "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
@@ -1472,6 +1459,46 @@
       "weight": 2
     },
     {
+      "id": "0765343f4103",
+      "title": "MathFormer: Testing whether symbolic math is pattern matching or reasoning [D]",
+      "url": "t3_1uhatw8",
+      "source": "r/ML",
+      "published": "2026-06-27T18:57:56+00:00",
+      "summary": "Repo link and results - https://github.com/Abhinand20/MathFormer Task: Given a factorized expression like (7-3*z)*(-5*z-9), predict the expanded form -&gt; 15*z\\*2-8\\*z-63 Key takeaway: A tiny (4M param) seq2seq model trained with no math knowledge reaches ~98.6% accuracy on symb",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "3caa8af7d040",
+      "title": "Built an LLM training framework that actually runs on older GPUs without crashing [P]",
+      "url": "t3_1uh7ib3",
+      "source": "r/ML",
+      "published": "2026-06-27T16:44:14+00:00",
+      "summary": "Hey guys, I was playing around with Nanotron recently and got super frustrated by how many heavy, hardware-specific dependencies it imports at the module level ( flash-attn , triton, functorch , etc.). If you try to run it on older or budget GPUs like a T4 or V100, it just crashe",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "d48c1a380f3c",
+      "title": "Hiding messages in the least significant mantissa bits of fine-tuned ONNX model weights [P]",
+      "url": "t3_1uh61uw",
+      "source": "r/ML",
+      "published": "2026-06-27T15:45:36+00:00",
+      "summary": "Hey everyone, I&#39;d like to share my project along with a short explanation of the process and why it came about in the first place. To start off, I&#39;m not exactly the best at cryptography/steganography, in my case it&#39;s always been something that sat in the background, a",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "985dbf7b369c",
       "title": "Showcase: Building ML models that \"watch\" MMA fights and label events and positional changes making these moments all searchable on a timeline [P]",
       "url": "t3_1ugwrmz",
@@ -1706,36 +1733,6 @@
       "source": "r/ML",
       "published": "2026-06-25T16:32:35+00:00",
       "summary": "Worried recruiters see &quot;ML/AI engineer&quot; on a resume and assume zero security depth, even with real hands on work in the space. Anyone hired into security from a non-traditional background like this \u2014 how&#39;d you frame it? &#32; submitted by &#32; /u/Xorphian [link] &#",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "6d1426d5b14d",
-      "title": "Optimising LMAPF guidance graphs using Evolutionary algorithms: Advice needed [R]",
-      "url": "t3_1ufdzsr",
-      "source": "r/ML",
-      "published": "2026-06-25T15:54:31+00:00",
-      "summary": "Hello, I&#39;m currently working on my dissertation and feel like I could really use some advice from someone who looks at the problem with fresh eyes. I appreciate all input. The Problem: Multi Agent Path Finding is the problem of finding paths for several agents to their destin",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "759e7eebb689",
-      "title": "CALHippo - Mapping neurons and glial cells in the human brain hippocampus in 3D using SOTA segmentation and density estimation models [R]",
-      "url": "t3_1uf8thw",
-      "source": "r/ML",
-      "published": "2026-06-25T12:37:44+00:00",
-      "summary": "Hello everyone! I&#39;m posting our research work as you might be interested in how we used ML to map part of the brain cells of the human hippocampus :) We used various human brain slices at high resolution (1 micrometer per pixel) and developed a custom segmentation pipeline th",
       "phases": [
         "p1",
         "p2",
