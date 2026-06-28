@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-28T13:11:17.754777+00:00",
+  "generated": "2026-06-28T18:59:57.733712+00:00",
   "count": 120,
   "articles": [
     {
@@ -769,19 +769,6 @@
       "weight": 3
     },
     {
-      "id": "6aee6b02d3b5",
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "source": "Google AI",
-      "published": "2026-05-29T17:30:00+00:00",
-      "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "9ae9fea2130b",
       "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
       "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
@@ -1372,6 +1359,21 @@
       "weight": 2
     },
     {
+      "id": "de3d7aca442a",
+      "title": "Evaluating long-term memory limits in stateless LLM chatbots \u2014 feedback needed [D]",
+      "url": "t3_1ui27i1",
+      "source": "r/ML",
+      "published": "2026-06-28T16:48:42+00:00",
+      "summary": "Hi all, I\u2019m working on a research project exploring how stateless LLM-based chatbots handle long conversations and whether important earlier information is still reliably retained over time. My idea is to: Run a chatbot using an LLM API without any external memory system Introduc",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
       "id": "a20b144de6bd",
       "title": "I shrank a transformer until every number fitted on the screen and made the weights editable [R]",
       "url": "t3_1uhw7fu",
@@ -1705,19 +1707,6 @@
       "weight": 1
     },
     {
-      "id": "a0e8da1bd5dd",
-      "title": "High Dimensional, Dynamic Rotary Positional Embedding [P]",
-      "url": "t3_1uelcm9",
-      "source": "r/ML",
-      "published": "2026-06-24T18:16:36+00:00",
-      "summary": "At the end of my last post , I presented an idea: what if I used the core of my last project, the cumulative matrix product, and repurposed it as a positional embedding? I just finished fleshing out the math behind HDD-RoPE and training a model with this positional embedding algo",
-      "phases": [
-        "p2"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "dad49d220501",
       "title": "Find the best open-source OCR models in one place at Papers with Code [P]",
       "url": "t3_1ueiam6",
@@ -1746,6 +1735,20 @@
         "p5"
       ],
       "category": "industry",
+      "weight": 1
+    },
+    {
+      "id": "79bbec08bf7a",
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "source": "Ars Technica",
+      "published": "2026-06-16T21:00:35+00:00",
+      "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
       "weight": 1
     }
   ]
