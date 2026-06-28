@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-28T08:38:31.529817+00:00",
+  "generated": "2026-06-28T13:11:17.754777+00:00",
   "count": 120,
   "articles": [
     {
@@ -782,49 +782,6 @@
       "weight": 3
     },
     {
-      "id": "be876b176720",
-      "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "source": "OpenAI",
-      "published": "2026-05-29T12:00:00+00:00",
-      "summary": "Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "ce0322c55738",
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "url": "https://openai.com/index/braintrust",
-      "source": "OpenAI",
-      "published": "2026-05-29T12:00:00+00:00",
-      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "7a1c98af09d2",
-      "title": "Check out real-life AI prototypes from the Futures Lab.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-      "source": "Google AI",
-      "published": "2026-05-29T12:00:00+00:00",
-      "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "9ae9fea2130b",
       "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
       "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
@@ -1415,6 +1372,21 @@
       "weight": 2
     },
     {
+      "id": "a20b144de6bd",
+      "title": "I shrank a transformer until every number fitted on the screen and made the weights editable [R]",
+      "url": "t3_1uhw7fu",
+      "source": "r/ML",
+      "published": "2026-06-28T12:35:42+00:00",
+      "summary": "I&#39;ve been teaching myself how LLMs actually work, not at the API level, but down to the matrix multiplications. To force myself to really understand the forward pass, I first built a complete transformer by hand in a spreadsheet from embeddings through to the loss. Then I tur",
+      "phases": [
+        "p1",
+        "p2",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
       "id": "ef73cc771f4b",
       "title": "NagaTranslate: Building a translation and voice pipeline for low-resource Nagaland creoles (Whisper, VITS, LLMs) [P]",
       "url": "t3_1uhlvjv",
@@ -1743,6 +1715,37 @@
         "p2"
       ],
       "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "dad49d220501",
+      "title": "Find the best open-source OCR models in one place at Papers with Code [P]",
+      "url": "t3_1ueiam6",
+      "source": "r/ML",
+      "published": "2026-06-24T16:26:21+00:00",
+      "summary": "Hi, I&#39;ve created an overview of the most important OCR benchmarks, along with the top open models, and links to their paper and code: https://paperswithcode.co/tasks/ocr . This week, new OCR models were released by Baidu and Mistral. Baidu released Unlimited OCR , a 3B-parame",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "1170c2dc2174",
+      "title": "Oracle\u2019s 21,000 layoffs help drive its debt-fueled AI investments",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "source": "Ars Technica",
+      "published": "2026-06-23T20:17:38+00:00",
+      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "industry",
       "weight": 1
     }
   ]
