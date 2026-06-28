@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-28T02:13:50.743737+00:00",
+  "generated": "2026-06-28T08:38:31.529817+00:00",
   "count": 120,
   "articles": [
     {
@@ -825,19 +825,6 @@
       "weight": 3
     },
     {
-      "id": "2f358dc4a504",
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "source": "OpenAI",
-      "published": "2026-05-29T03:00:00+00:00",
-      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "9ae9fea2130b",
       "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
       "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
@@ -1428,6 +1415,19 @@
       "weight": 2
     },
     {
+      "id": "ef73cc771f4b",
+      "title": "NagaTranslate: Building a translation and voice pipeline for low-resource Nagaland creoles (Whisper, VITS, LLMs) [P]",
+      "url": "t3_1uhlvjv",
+      "source": "r/ML",
+      "published": "2026-06-28T03:05:48+00:00",
+      "summary": "Hello r/MachineLearning , I wanted to share the architecture and challenges behind a project I\u2019ve been building called NagaTranslate . The goal is to build a translation and speech pipeline for the low-resource languages of Nagaland, India (currently supporting Nagamese, Ao, and ",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "c40875842340",
       "title": "Do we still need to study algorithms now that AI writes most of our code? [D]",
       "url": "t3_1uhdydj",
@@ -1442,22 +1442,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "2038b80ad166",
-      "title": "Benchmarking Self-Hosted Gemma 2 9B vs. Frontier APIs: The FP8 Quantization Prefill Tax and VRAM Realities on an NVIDIA L4 [P]",
-      "url": "t3_1uhdxnb",
-      "source": "r/ML",
-      "published": "2026-06-27T21:05:04+00:00",
-      "summary": "When evaluating migrating production LLM workloads off commercial cloud APIs, the conversation usually gets oversimplified into a trade-off between quality and infrastructure cost. To look past clean, isolated averages, I built a repeatable evaluation matrix using a real-world wo",
-      "phases": [
-        "p1",
-        "p2",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 1
     },
     {
@@ -1744,6 +1728,19 @@
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "a0e8da1bd5dd",
+      "title": "High Dimensional, Dynamic Rotary Positional Embedding [P]",
+      "url": "t3_1uelcm9",
+      "source": "r/ML",
+      "published": "2026-06-24T18:16:36+00:00",
+      "summary": "At the end of my last post , I presented an idea: what if I used the core of my last project, the cumulative matrix product, and repurposed it as a positional embedding? I just finished fleshing out the math behind HDD-RoPE and training a model with this positional embedding algo",
+      "phases": [
+        "p2"
       ],
       "category": "models",
       "weight": 1
