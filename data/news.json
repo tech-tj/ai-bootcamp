@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-27T19:01:27.988594+00:00",
+  "generated": "2026-06-28T02:13:50.743737+00:00",
   "count": 120,
   "articles": [
     {
@@ -838,20 +838,6 @@
       "weight": 3
     },
     {
-      "id": "fdf6c4e98bb2",
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "source": "OpenAI",
-      "published": "2026-05-29T00:00:00+00:00",
-      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "9ae9fea2130b",
       "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
       "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
@@ -1442,12 +1428,12 @@
       "weight": 2
     },
     {
-      "id": "442e91c104b6",
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
-      "source": "HuggingFace",
-      "published": "2026-05-29T00:00:00+00:00",
-      "summary": "",
+      "id": "c40875842340",
+      "title": "Do we still need to study algorithms now that AI writes most of our code? [D]",
+      "url": "t3_1uhdydj",
+      "source": "r/ML",
+      "published": "2026-06-27T21:05:53+00:00",
+      "summary": "I&#39;ve been thinking about this for a while. AI can now write functions, explain code, refactor projects, generate tests, and even solve many programming problems better than many junior developers. I&#39;ve also noticed that Stack Overflow seems far less active than it used to",
       "phases": [
         "p1",
         "p2",
@@ -1455,8 +1441,24 @@
         "p4",
         "p5"
       ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "2038b80ad166",
+      "title": "Benchmarking Self-Hosted Gemma 2 9B vs. Frontier APIs: The FP8 Quantization Prefill Tax and VRAM Realities on an NVIDIA L4 [P]",
+      "url": "t3_1uhdxnb",
+      "source": "r/ML",
+      "published": "2026-06-27T21:05:04+00:00",
+      "summary": "When evaluating migrating production LLM workloads off commercial cloud APIs, the conversation usually gets oversimplified into a trade-off between quality and infrastructure cost. To look past clean, isolated averages, I built a repeatable evaluation matrix using a real-world wo",
+      "phases": [
+        "p1",
+        "p2",
+        "p4",
+        "p5"
+      ],
       "category": "models",
-      "weight": 2
+      "weight": 1
     },
     {
       "id": "0765343f4103",
@@ -1511,20 +1513,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "91696e7b040d",
-      "title": "Kicking off GPU Mode [D]",
-      "url": "t3_1ugvyz1",
-      "source": "r/ML",
-      "published": "2026-06-27T07:15:33+00:00",
-      "summary": "Hey ! I\u2019m starting a series to document my work on GPU infrastructure, LLMs, and CV. Stop #1 is up: A brief look at why GPUs are the center of the industry, the CPU/GPU divide, and why nvidia-smi is the first place you check when things break. We\u2019ll move past the basics quickly t",
-      "phases": [
-        "p1",
-        "p2"
       ],
       "category": "models",
       "weight": 1
@@ -1698,19 +1686,6 @@
       "weight": 1
     },
     {
-      "id": "88f9d350d1ed",
-      "title": "Would having a dedicated programming language specifically for LLMs be a viable solution? [D]",
-      "url": "t3_1ufgw7z",
-      "source": "r/ML",
-      "published": "2026-06-25T17:38:11+00:00",
-      "summary": "What if there was a new programming language where the meaning of each token was so dense (or perhaps so specific) that an LLM could write robust code with fewer tokens and faster inference? Assuming there\u2019s enough training data, do you think something like this allow an LLM to w",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
       "id": "072fc19a5c6e",
       "title": "[R] Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost",
       "url": "t3_1ufgpnh",
@@ -1733,6 +1708,36 @@
       "source": "r/ML",
       "published": "2026-06-25T16:32:35+00:00",
       "summary": "Worried recruiters see &quot;ML/AI engineer&quot; on a resume and assume zero security depth, even with real hands on work in the space. Anyone hired into security from a non-traditional background like this \u2014 how&#39;d you frame it? &#32; submitted by &#32; /u/Xorphian [link] &#",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "6d1426d5b14d",
+      "title": "Optimising LMAPF guidance graphs using Evolutionary algorithms: Advice needed [R]",
+      "url": "t3_1ufdzsr",
+      "source": "r/ML",
+      "published": "2026-06-25T15:54:31+00:00",
+      "summary": "Hello, I&#39;m currently working on my dissertation and feel like I could really use some advice from someone who looks at the problem with fresh eyes. I appreciate all input. The Problem: Multi Agent Path Finding is the problem of finding paths for several agents to their destin",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "759e7eebb689",
+      "title": "CALHippo - Mapping neurons and glial cells in the human brain hippocampus in 3D using SOTA segmentation and density estimation models [R]",
+      "url": "t3_1uf8thw",
+      "source": "r/ML",
+      "published": "2026-06-25T12:37:44+00:00",
+      "summary": "Hello everyone! I&#39;m posting our research work as you might be interested in how we used ML to map part of the brain cells of the human hippocampus :) We used various human brain slices at high resolution (1 micrometer per pixel) and developed a custom segmentation pipeline th",
       "phases": [
         "p1",
         "p2",
