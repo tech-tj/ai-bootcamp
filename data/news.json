@@ -1,7 +1,24 @@
 {
-  "generated": "2026-06-29T15:26:29.458296+00:00",
+  "generated": "2026-06-29T19:40:38.104163+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "d2a0fe43f1ac",
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "source": "Google AI",
+      "published": "2026-06-29T16:00:00+00:00",
+      "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it\u2019s been the foundation of our AI work for so long.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "df49518d3b94",
       "title": "Mapping Europe\u2019s AI Workforce Opportunity",
@@ -777,6 +794,36 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "7eccecbfa902",
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "source": "HuggingFace",
+      "published": "2026-06-29T18:02:48+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "70b9fae892c6",
+      "title": "AI agents are not your \u201ccoworkers\u201d",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-29T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool\u2014one that your company no",
+      "phases": [
+        "p3"
+      ],
+      "category": "tools",
+      "weight": 2
     },
     {
       "id": "90763c99a9ca",
@@ -1665,46 +1712,6 @@
         "p2"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "d7df6f642ddc",
-      "title": "Low-Agreeableness Persona Conditioning for Safe LLM Fine-Tuning",
-      "url": "https://arxiv.org/abs/2606.27709",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-29T00:00:00-04:00",
-      "summary": "arXiv:2606.27709v1 Announce Type: cross Abstract: Recent work has shown that fine-tuning large language models (LLMs) for social warmth degrades factual reliability and increases sycophancy. We investigate a related but distinct failure mode: warmth fine-tuning also weakens adver",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "8cdf4cca3c0a",
-      "title": "The Simulacrum: Decision-Theoretic Pretraining for Near-Optimal Time-Series Forecasting and Inference",
-      "url": "https://arxiv.org/abs/2606.27711",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-29T00:00:00-04:00",
-      "summary": "arXiv:2606.27711v1 Announce Type: cross Abstract: We introduce a neural network-based framework for learning time series estimators through a process we term decision-theoretic pretraining. Analysts specify a generative world, a distribution over data-generating processes, and a ",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "686d75ba83c3",
-      "title": "Do Speech Emphasis Models Generalize across Languages and Emotions?",
-      "url": "https://arxiv.org/abs/2606.27717",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-29T00:00:00-04:00",
-      "summary": "arXiv:2606.27717v1 Announce Type: cross Abstract: Prosodic emphasis varies across languages, emotions, and speaking styles, yet existing emphasis detection models are largely trained and evaluated on monolingual neutral read speech. We introduce MMEE (Multilingual Multi-Emotion E",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
