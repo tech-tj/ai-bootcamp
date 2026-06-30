@@ -1,7 +1,20 @@
 {
-  "generated": "2026-06-30T13:52:24.745723+00:00",
+  "generated": "2026-06-30T19:29:24.056900+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "a0bd493debdd",
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "source": "OpenAI",
+      "published": "2026-06-30T09:00:00+00:00",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "bcdfc8c6057d",
       "title": "Unlocking Britain\u2019s next era of productivity: Building a nation of AI trailblazers",
@@ -9,6 +22,49 @@
       "source": "Google AI",
       "published": "2026-06-30T06:00:00+00:00",
       "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "fce36a9d8e02",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "source": "OpenAI",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "phases": [
+        "p4"
+      ],
+      "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "3abd2cd235af",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "source": "OpenAI",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "e25563234204",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "source": "OpenAI",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "",
       "phases": [
         "p1",
         "p2",
@@ -389,19 +445,6 @@
       "weight": 3
     },
     {
-      "id": "bfbf641beda5",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
       "id": "8926e37d73b8",
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva",
@@ -410,20 +453,6 @@
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "9b77dce7b354",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -443,6 +472,33 @@
         "p5"
       ],
       "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "9b77dce7b354",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "bfbf641beda5",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
       "weight": 3
     },
     {
@@ -811,6 +867,54 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "9d697f00fb6c",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "HuggingFace",
+      "published": "2026-06-30T18:32:50+00:00",
+      "summary": "",
+      "phases": [
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "790e38572d63",
+      "title": "Roundtables: Longevity\u2019s Next Frontier: \u201cReprogramming\u201d Your Body",
+      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-30T17:36:48+00:00",
+      "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "4a099067bc26",
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "source": "HuggingFace",
+      "published": "2026-06-30T14:39:11+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "ecf57bff995b",
@@ -1610,103 +1714,6 @@
       "summary": "arXiv:2606.27683v1 Announce Type: cross Abstract: Edge devices increasingly invoke large language models (LLMs) through API services for context aware edge intelligence, while edge generated data may be collected to improve LLMs and may introduce sensitive, copyrighted, harmful, ",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "6ba1f9847e97",
-      "title": "Mitigating LLM-based p-Hacking by Preregistering for the Next LLM",
-      "url": "https://arxiv.org/abs/2606.27687",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-30T00:00:00-04:00",
-      "summary": "arXiv:2606.27687v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used to generate, classify, and annotate data whose outputs feed downstream hypothesis tests. However, LLM-based research is easy to p-hack: a researcher can tune the prompts, decoding",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "9577314bec8f",
-      "title": "Deployment-Side Adaptiveness in Multi-Horizon Volatility Forecasting",
-      "url": "https://arxiv.org/abs/2606.27688",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-30T00:00:00-04:00",
-      "summary": "arXiv:2606.27688v1 Announce Type: cross Abstract: In financial forecasting, predictive performance depends not only on which model is trained, but also on how the trained model is deployed. We study this issue in multi-horizon volatility forecasting. Our starting point is that a ",
-      "phases": [
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "723934666eea",
-      "title": "Halt Fast! Early Stopping for Certified Robustness",
-      "url": "https://arxiv.org/abs/2606.27694",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-30T00:00:00-04:00",
-      "summary": "arXiv:2606.27694v1 Announce Type: cross Abstract: Randomized Smoothing (RS) provides rigorous robustness guarantees for neural networks without architectural constraints, yet its adoption is limited by extreme computational costs. Standard RS requires tens of thousands of model e",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "b8d8cf491ee6",
-      "title": "Class-frequency Guided Noise Schedule for Diffusion Models",
-      "url": "https://arxiv.org/abs/2606.27696",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-30T00:00:00-04:00",
-      "summary": "arXiv:2606.27696v1 Announce Type: cross Abstract: In this paper, we are the first to examine the correlations between class frequency and the multi-scale noise schedule within diffusion models. For score-based generative models, low-density regions often lead to inaccurately esti",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "96d7b16ec67b",
-      "title": "What Was That Again? Certified Robustness for Automatic Speech Recognition",
-      "url": "https://arxiv.org/abs/2606.27698",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-30T00:00:00-04:00",
-      "summary": "arXiv:2606.27698v1 Announce Type: cross Abstract: Automatic Speech Recognition systems are notoriously both sensitive to adversarial and benign perturbations. While this has been repeatedly demonstrated using reference datasets, detecting such behaviors in deployed systems is inc",
-      "phases": [
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "4e37a676bfad",
-      "title": "Room for Error: Large-Scale Simulation of Over-the-Air Acoustic Attacks",
-      "url": "https://arxiv.org/abs/2606.27701",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-30T00:00:00-04:00",
-      "summary": "arXiv:2606.27701v1 Announce Type: cross Abstract: While voice control is rapidly becoming a ubiquitous vector of human-AI communication, the risks facing these systems remain poorly understood. This is, in part, a product of the difficulties in scaling strictly digital adversaria",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "d7df6f642ddc",
-      "title": "Low-Agreeableness Persona Conditioning for Safe LLM Fine-Tuning",
-      "url": "https://arxiv.org/abs/2606.27709",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-30T00:00:00-04:00",
-      "summary": "arXiv:2606.27709v1 Announce Type: cross Abstract: Recent work has shown that fine-tuning large language models (LLMs) for social warmth degrades factual reliability and increases sycophancy. We investigate a related but distinct failure mode: warmth fine-tuning also weakens adver",
-      "phases": [
-        "p1",
-        "p5"
       ],
       "category": "models",
       "weight": 2
