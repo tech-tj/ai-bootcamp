@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T08:53:37.066144+00:00",
+  "generated": "2026-06-30T13:52:24.745723+00:00",
   "count": 120,
   "articles": [
     {
@@ -811,6 +811,49 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "ecf57bff995b",
+      "title": "The Download: AI \u201ccoworkers\u201d and stratospheric internet",
+      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-30T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your \u201ccoworkers\u201d Imagine coming in to work to learn that a new underling will report to you. The worker is not a",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "76712e6d8486",
+      "title": "Agriculture is ready for AI, but its data isn\u2019t",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-30T12:00:00+00:00",
+      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable w",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "industry",
+      "weight": 2
+    },
+    {
+      "id": "cdfa1091f4b0",
+      "title": "Building tech in the world\u2019s secret R&D hub",
+      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+      "source": "MIT Tech Review",
+      "published": "2026-06-30T10:23:30+00:00",
+      "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people\u2014roughly half the size of San Francisco. Over the pa",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 2
     },
     {
       "id": "83f4dcacc7eb",
@@ -1666,46 +1709,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "8cdf4cca3c0a",
-      "title": "The Simulacrum: Decision-Theoretic Pretraining for Near-Optimal Time-Series Forecasting and Inference",
-      "url": "https://arxiv.org/abs/2606.27711",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-30T00:00:00-04:00",
-      "summary": "arXiv:2606.27711v1 Announce Type: cross Abstract: We introduce a neural network-based framework for learning time series estimators through a process we term decision-theoretic pretraining. Analysts specify a generative world, a distribution over data-generating processes, and a ",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "686d75ba83c3",
-      "title": "Do Speech Emphasis Models Generalize across Languages and Emotions?",
-      "url": "https://arxiv.org/abs/2606.27717",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-30T00:00:00-04:00",
-      "summary": "arXiv:2606.27717v1 Announce Type: cross Abstract: Prosodic emphasis varies across languages, emotions, and speaking styles, yet existing emphasis detection models are largely trained and evaluated on monolingual neutral read speech. We introduce MMEE (Multilingual Multi-Emotion E",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "18d304566ed4",
-      "title": "Enhancing Numerical Prediction in LLMs via Smooth MMD Alignment",
-      "url": "https://arxiv.org/abs/2606.27731",
-      "source": "ArXiv cs.AI",
-      "published": "2026-06-30T00:00:00-04:00",
-      "summary": "arXiv:2606.27731v1 Announce Type: cross Abstract: Despite their strong general capabilities, large language models (LLMs) often remain unreliable when outputs must be numerically precise. A key reason is the training objective: standard cross-entropy treats numeric tokens as unst",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
