@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-02T02:05:18.301326+00:00",
+  "generated": "2026-07-02T08:39:33.268097+00:00",
   "count": 120,
   "articles": [
     {
@@ -822,188 +822,25 @@
       "weight": 3
     },
     {
-      "id": "ffa5f8be5836",
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "source": "OpenAI",
-      "published": "2026-06-02T07:00:00+00:00",
-      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "b7a1a19f77c0",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-01T14:35:16+00:00",
-      "summary": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll get 3 or 4. Type \u201cAnother\u201d again and you\u2019ll get 8 or 9. That won\u2019t work every t",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "714a5dcd7fae",
-      "title": "The Download: Anthropic launches Claude Science, and California\u2019s carbon manure math",
-      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-01T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic\u2019s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "2aa312d9480f",
-      "title": "What Drives Interactive Improvement from Feedback?",
-      "url": "https://arxiv.org/abs/2606.30774",
+      "id": "6b43ceed4361",
+      "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+      "url": "https://arxiv.org/abs/2607.00001",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30774v1 Announce Type: new Abstract: We study when natural-language feedback produces improvement beyond the gains obtainable from repeated attempts alone. In multi-turn language agent setting, higher final accuracy can reflect useful feedback, but it can also arise fr",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00001v1 Announce Type: new Abstract: Most approaches to AI alignment treat human preferences as fixed targets to be inferred and optimized. This assumption conflicts with extensive empirical evidence showing that preferences are layered, dynamic, and constructed throug",
       "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "ba1ce3bdf85d",
-      "title": "Contrastive Reflection for Iterative Prompt Optimization",
-      "url": "https://arxiv.org/abs/2606.30840",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30840v1 Announce Type: new Abstract: LLM agents are becoming central to information retrieval: they issue retrieval queries, synthesize answers, and increasingly serve as judges for IR evaluation. Improving the prompts that control these agents is an optimization probl",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
         "p4"
       ],
       "category": "research",
       "weight": 2
     },
     {
-      "id": "5cd380683374",
-      "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
-      "url": "https://arxiv.org/abs/2606.30846",
+      "id": "e9ea963315e3",
+      "title": "Bounded Morality: Defining the Space of Moral Computation",
+      "url": "https://arxiv.org/abs/2607.00002",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30846v1 Announce Type: new Abstract: Discovering simulation models for reuse remains a fundamental challenge in Modeling and Simulation (M&S). When many models coexist, identifying those that align with a given modeling intent remains difficult. Recent advances in Arti",
-      "phases": [
-        "p2",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e59e9091abb3",
-      "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
-      "url": "https://arxiv.org/abs/2606.30850",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30850v1 Announce Type: new Abstract: Large language models (LLMs) are typically deployed in multi-turn conversations, where each turn provides new evidence that should reduce epistemic uncertainty about their environment. Acting rationally then requires inferring the u",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "89586992ab72",
-      "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
-      "url": "https://arxiv.org/abs/2606.30852",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30852v1 Announce Type: new Abstract: Reasoning models spend different amounts of useful computation across instances, but it remains unclear when a learned stopping rule improves over simple confidence or convergence thresholds. We study this question with LearnStop, a",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "dda9637b40ef",
-      "title": "Beyond expert users: agents should help users construct preferences, not just elicit them",
-      "url": "https://arxiv.org/abs/2606.30863",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30863v2 Announce Type: new Abstract: Agents typically assume an expert user -- one with well-formed preferences about what they want -- and default to clarifying questions whenever the task is underspecified. We argue this assumption is unrealistic. Users often lack th",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "8333eb776cd5",
-      "title": "Investigating Multi-Agent Deliberation in Law",
-      "url": "https://arxiv.org/abs/2606.30906",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30906v1 Announce Type: new Abstract: Artificial Intelligence is increasingly applied to the field of law, and has the potential to increase access to justice. One particular movement that is gaining traction is that of agentic AI, wherein AI agents, based on Large Lang",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e5a6d5fab093",
-      "title": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
-      "url": "https://arxiv.org/abs/2606.30911",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30911v2 Announce Type: new Abstract: ML engineering agents waste compute rediscovering known techniques because every competition is a cold start. We present HASTE, a hierarchical multi-agent system that organizes cross-competition knowledge into three scope tiers (glo",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "346a9204a946",
-      "title": "RoPoLL: Robust Panel of LLM Judges",
-      "url": "https://arxiv.org/abs/2606.30931",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30931v1 Announce Type: new Abstract: The LLM Jury, a Panel of LLM Evaluators (PoLL) reporting consensus scores, has become a practical alternative to single-judge LLM evaluation, yet its statistical behavior remains poorly understood. We formalize the LLM Jury under th",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e50508a82e8a",
-      "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
-      "url": "https://arxiv.org/abs/2606.30949",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30949v1 Announce Type: new Abstract: High-Level Synthesis (HLS) provides a fast path from concepts to silicon, but converting real-world software into synthesizable HLS code remains challenging due to restrictive language support and the gap between software and hardwa",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "5ef95e0947ef",
-      "title": "Neuro-Bayesian-Symbolic Residual Attention Shallow Network: Explainable Deep Learning for Cybersecurity Risk Assessment",
-      "url": "https://arxiv.org/abs/2606.30953",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30953v1 Announce Type: new Abstract: We introduce the Neuro-Bayesian-Symbolic Residual Attention Shallow Network (NBS-RASN), a hybrid neural architecture for explainable cybersecurity risk assessment in open-source ecosystems. Unlike deep models that trade interpretabi",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00002v1 Announce Type: new Abstract: Moral cognition has traditionally been modeled as adherence to fixed ethical theories--deontology, consequentialism, virtue ethics--implemented as static rules or value functions. We propose Bounded Morality, a formal framework for ",
       "phases": [
         "p1",
         "p2",
@@ -1015,78 +852,39 @@
       "weight": 2
     },
     {
-      "id": "537dafd1dd23",
-      "title": "HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation",
-      "url": "https://arxiv.org/abs/2606.30966",
+      "id": "bcf356843ff2",
+      "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+      "url": "https://arxiv.org/abs/2607.00032",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30966v1 Announce Type: new Abstract: Formal specification is a powerful tool to guide the learning process and provides significant advantages over reward shaping: (1) mathematical rigor; (2) expressiveness to specify objectives and constraints, and (3) the ability to ",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00032v1 Announce Type: new Abstract: Many information systems are built around documents: self-contained units optimised for print production and linear reading. While effective for large-scale dissemination, the document-centric organisation constrains how knowledge c",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "80b2dd028739",
+      "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
+      "url": "https://arxiv.org/abs/2607.00035",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00035v1 Announce Type: new Abstract: LLMs and agents can generate web scrapers from natural-language requirements, but direct generation remains unreliable because of dependency errors, broken selectors, schema mismatches, and heterogeneous page structures. We propose ",
       "phases": [
         "p1",
         "p3"
       ],
-      "category": "tools",
-      "weight": 2
-    },
-    {
-      "id": "1f0edcaa9f16",
-      "title": "AgentBound: Verifiable Behavioral Governance for Autonomous AI Agents",
-      "url": "https://arxiv.org/abs/2606.30970",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30970v1 Announce Type: new Abstract: Autonomous AI agents increasingly perform consequential actions on behalf of human principals, including financial transactions, external communications, and enterprise workflows. Existing agent infrastructure relies on identity fed",
-      "phases": [
-        "p3"
-      ],
       "category": "research",
       "weight": 2
     },
     {
-      "id": "5e0b0dc48337",
-      "title": "When Regulation Has Memory: Hysteresis and Control Burden in Artificial Agency",
-      "url": "https://arxiv.org/abs/2606.30975",
+      "id": "9e20d436ea0c",
+      "title": "Solution space path planning for supporting en-route air traffic control",
+      "url": "https://arxiv.org/abs/2607.00064",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30975v1 Announce Type: new Abstract: Adaptive agents are usually judged by what they do, but an agent can appear stable while the internal effort required to keep it stable is increasing. This hidden regulatory burden matters for artificial agents operating under noise",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "4958504f725f",
-      "title": "A Three-Phase Foundation Model for Tax-Aware Personalized Portfolio Management",
-      "url": "https://arxiv.org/abs/2606.30997",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.30997v1 Announce Type: new Abstract: We present a three-phase deep reinforcement learning system for personalized portfolio management that addresses three limitations shared by all prior financial RL work: 1) ticker lock-in, 2) monolithic objectives , and 3) static us",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c04efb9cca14",
-      "title": "Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization",
-      "url": "https://arxiv.org/abs/2606.31002",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31002v1 Announce Type: new Abstract: Theorem-proving benchmarks evaluate proof search against fixed formal statements, but natural-language-to-Lean formalization must generate the formal statement itself. In this setting, compilation is only a validity check: a Lean de",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "1432bfbd588e",
-      "title": "LabGuard: Grounding Natural-Language Laboratory Rules into Runtime Guards for Embodied Laboratory Agents",
-      "url": "https://arxiv.org/abs/2606.31045",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31045v1 Announce Type: new Abstract: Scientific embodied agents are increasingly capable of carrying out laboratory procedures, but executing these procedures safely in dynamic laboratory environments remains challenging. Current safety approaches often overlook the in",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00064v1 Announce Type: new Abstract: As technology advances, many path-planning algorithms have been proposed for Air Traffic Management, yet their operational adoption in tactical control remains limited, revealing a misalignment between algorithmic design priorities ",
       "phases": [
         "p3",
         "p4"
@@ -1095,12 +893,51 @@
       "weight": 2
     },
     {
-      "id": "830365da533f",
-      "title": "OpenLife: Toward Open-World Artificial Life with Autonomous LLM Agents",
-      "url": "https://arxiv.org/abs/2606.31046",
+      "id": "fa7c4a3ac46b",
+      "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
+      "url": "https://arxiv.org/abs/2607.00147",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31046v1 Announce Type: new Abstract: Artificial life has explored life-like behavior on many computational substrates, but mostly in researcher-designed closed worlds. We argue that large language model (LLM) agents, with persistent memory, tool use, network access, an",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00147v1 Announce Type: new Abstract: Rare disease differential diagnosis is a critical yet arduous clinical task, requiring physicians to identify precise phenotypes from complex, unstructured patient symptoms and execute intricate reasoning within a vast search space.",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "b9db13da1184",
+      "title": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
+      "url": "https://arxiv.org/abs/2607.00155",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00155v1 Announce Type: new Abstract: We study runtime human oversight of an AI agent when private information runs in both directions: the human privately knows her reward function, while the AI privately knows the quality of the action it proposes. This is the kind of",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "3728d4ac5493",
+      "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
+      "url": "https://arxiv.org/abs/2607.00211",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00211v1 Announce Type: new Abstract: Epistemic thinking plays a central role in students' learning processes when applying generative artificial intelligence (GenAI), particularly in programming contexts where learners must construct queries, evaluate and validate AI-g",
+      "phases": [
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "4649fd6ad4f8",
+      "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
+      "url": "https://arxiv.org/abs/2607.00233",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00233v1 Announce Type: new Abstract: How do two agents invent a shared language from scratch? In a Lewis signaling game, a sender and receiver must coordinate on a code using only their interaction history. We study five memory architectures across varying channel conf",
       "phases": [
         "p1",
         "p3"
@@ -1109,12 +946,67 @@
       "weight": 2
     },
     {
-      "id": "9df4321f7206",
-      "title": "MultiUAV-Plat: An LLM-Oriented Platform, Benchmark and Framework for Multi-UAV Collaborative Task Planning",
-      "url": "https://arxiv.org/abs/2606.31073",
+      "id": "3d85dbe98d7f",
+      "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
+      "url": "https://arxiv.org/abs/2607.00248",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31073v1 Announce Type: new Abstract: Large language models (LLMs) provide a promising interface for high-level robotic task planning, but their use in multi-UAV collaboration remains difficult to evaluate systematically. Existing UAV simulators mainly emphasize dynamic",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00248v1 Announce Type: new Abstract: We present Seed2.0, a model series that takes a meaningful step toward solving complex, real-world tasks. Our approach begins with identifying users' genuine needs and constructing a reliable, forward-looking evaluation system by se",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "74eb4c420230",
+      "title": "Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-generated Workflows",
+      "url": "https://arxiv.org/abs/2607.00269",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00269v1 Announce Type: new Abstract: LLMs, solvers, and agent teams increasingly generate workflow actions, repairs, and plans, but a generated action may be syntactically valid yet stale, infeasible, conflicting, or destructive of the evidence that triggered a repair.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "814d27c9ebe5",
+      "title": "Managed Autonomy at Runtime: Gear-Based Safety and Governance for Single- and Multi-Agent Cyber-Physical Systems",
+      "url": "https://arxiv.org/abs/2607.00334",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00334v1 Announce Type: new Abstract: Autonomous agents, whether LLM-driven software agents or robotic physical agents, face a common class of failure modes when operating without continuous human oversight: safety violations from unverified actions, behavioral instabil",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "9a8b196491d7",
+      "title": "Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising",
+      "url": "https://arxiv.org/abs/2607.00407",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00407v1 Announce Type: new Abstract: Slide design requires personalizing both deck themes and page layouts. Yet, current AI agent-based methods struggle with fine-grained, page-level design. Solely relying on prespecified templates or user verbose instructions, they fa",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "dfcb1890b0d4",
+      "title": "PHREEQC-MCQ-200: A Diagnostic Benchmark for Tool-Augmented Scientific Simulator Agents",
+      "url": "https://arxiv.org/abs/2607.00436",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00436v1 Announce Type: new Abstract: Large language model agents are increasingly connected to scientific software, yet it remains unclear when tool access makes scientific computation more reliable rather than merely more complex. We introduce PHREEQC-MCQ-200, a bench",
       "phases": [
         "p1",
         "p3",
@@ -1124,39 +1016,12 @@
       "weight": 2
     },
     {
-      "id": "120e20723961",
-      "title": "DDIAgents: Mechanism-Conditioned Context Flow for Drug-Drug Interaction Prediction",
-      "url": "https://arxiv.org/abs/2606.31085",
+      "id": "035fe53e522a",
+      "title": "Agri-SAGE: Simulation-Grounded Multi-Agent LLM for Context-Aware Agricultural Advisory Generation",
+      "url": "https://arxiv.org/abs/2607.00454",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31085v1 Announce Type: new Abstract: Drug-drug interaction (DDI) prediction is essential for medication safety, yet it requires reasoning over heterogeneous biomedical evidence whose relevance changes across interaction mechanisms. We propose DDIAgents, a mechanism-con",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "49c6917ab80d",
-      "title": "Revealing Safety-Critical Scenarios for UTM via Transformer",
-      "url": "https://arxiv.org/abs/2606.31114",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31114v1 Announce Type: new Abstract: Unmanned Traffic Management (UTM) systems are cloud-based platforms designed to manage and coordinate multiple aerial vehicles remotely. UTM systems are safety-critical which cannot tolerate failures like crash or collision. To reve",
-      "phases": [
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "b3983ba88ebc",
-      "title": "The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory",
-      "url": "https://arxiv.org/abs/2606.31121",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31121v1 Announce Type: new Abstract: Sequentially evolving LLM memory enables agents to reuse past experience, but existing systems usually deploy each locally generated memory update without checking whether it improves future behavior. As a result, updates that help ",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00454v1 Announce Type: new Abstract: Agricultural advisory systems face a fundamental tension: static agronomic guidelines offer consistent, evidence-based recommendations, yet remain blind to in-season variability and dynamic uncertainties. Recent advisory systems pow",
       "phases": [
         "p1",
         "p3"
@@ -1165,39 +1030,25 @@
       "weight": 2
     },
     {
-      "id": "e41a9e1fe141",
-      "title": "Scenario Generation for Testing of Autonomous Driving Systems Using Real-World Failure Records",
-      "url": "https://arxiv.org/abs/2606.31131",
+      "id": "7741f5604ff8",
+      "title": "Multi-scale Mixture of World Models for Embodied Agents in Evolving Environments",
+      "url": "https://arxiv.org/abs/2607.00457",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31131v1 Announce Type: new Abstract: To ensure safe on-road behavior, pre-deployment testing and failure discovery of Autonomous Driving Systems (ADS) is crucial. Present day simulation based testing methods focus largely on mathematical models for efficient search of ",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00457v1 Announce Type: new Abstract: Embodied agents operating in the real world require multi-scale reasoning and knowledge adaptation as conditions change. We identify two challenges in applying Mixture of Experts (MoE) to this setting: routing lacks an explicit noti",
       "phases": [
-        "p5"
+        "p3"
       ],
       "category": "models",
       "weight": 2
     },
     {
-      "id": "3f9a713d15e6",
-      "title": "Beyond the Library: An Agentic Framework for Autoformalizing Research Mathematics",
-      "url": "https://arxiv.org/abs/2606.31134",
+      "id": "c59af37e47c1",
+      "title": "AI Native Games: A Survey and Roadmap",
+      "url": "https://arxiv.org/abs/2607.00527",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31134v1 Announce Type: new Abstract: While Large Language Models (LLMs) have demonstrated exceptional capabilities in mathematical reasoning, they frequently produce subtle errors that evade human detection. Formal mathematical languages like Lean 4 offer mechanical pr",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "8d47a1fecc3c",
-      "title": "Cross-Domain Feature Expansion for Tabular Medical Data via Knowledge Graphs Injection",
-      "url": "https://arxiv.org/abs/2606.31171",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31171v1 Announce Type: new Abstract: Acquiring comprehensive cross-domain biomedical profiles is often costly and time-consuming, resulting in severe data scarcity in medical research. To address this challenge, we propose MedKGTab, a knowledge-injected framework speci",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00527v1 Announce Type: new Abstract: Generative AI now enables games to produce dialogue, quests, characters, images, and worlds at runtime. Yet generation alone does not make a game AI-native, nor does it guarantee playability. This paper defines AI-native games by wh",
       "phases": [
         "p1",
         "p2",
@@ -1209,12 +1060,26 @@
       "weight": 2
     },
     {
-      "id": "bb8d28e6ef32",
-      "title": "ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents",
-      "url": "https://arxiv.org/abs/2606.31174",
+      "id": "c4e45b844287",
+      "title": "HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment",
+      "url": "https://arxiv.org/abs/2607.00572",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31174v1 Announce Type: new Abstract: Production large language-model (LLM) agents are increasingly deployed not as lone problem-solvers but as managers: a main model creates specialized subagents, delegates work, and orchestrates their parallel, asynchronous returns th",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00572v1 Announce Type: new Abstract: Understanding how aligned LLMs internally represent safety is critical for diagnosing alignment vulnerabilities, as it explains why jailbreaks succeed and informs the design of robust alignment strategies. Prior work shows that alig",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "54fa37747974",
+      "title": "AGI Maze as a Benchmark Framework for World-Modeling Agents",
+      "url": "https://arxiv.org/abs/2607.00627",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00627v1 Announce Type: new Abstract: Large language models (LLMs) are powerful pattern-completion systems, but their default operating mode - predicting the next token from a static context - does not reliably produce persistent, manipulable representations of an exter",
       "phases": [
         "p1",
         "p3",
@@ -1224,69 +1089,12 @@
       "weight": 2
     },
     {
-      "id": "747bb3f2520d",
-      "title": "HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents",
-      "url": "https://arxiv.org/abs/2606.31179",
+      "id": "b5145acf6e51",
+      "title": "Coachable agents for interactive gameplay",
+      "url": "https://arxiv.org/abs/2607.00642",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31179v1 Announce Type: new Abstract: As AI agents become increasingly capable of complex, long-horizon reasoning, rigorous and holistic evaluation is essential for measuring progress toward real-world healthcare applications. We introduce HealthAgentBench, a suite of 5",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "05b24b70b572",
-      "title": "AI-Assisted Discovery of Convex Relaxations via Dual Agents",
-      "url": "https://arxiv.org/abs/2606.31182",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31182v1 Announce Type: new Abstract: Recent work shows that LLM agents can improve sharp-constant inequalities by searching for extremal constructions, which yield upper bounds. We address the complementary side: a lower bound holds for every admissible function and fo",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "ebe845358941",
-      "title": "Agentic RAG-VLM: Affordance-Aware Retrieval-Augmented Generation with Self-Reflective Planning for Robotic Grasping",
-      "url": "https://arxiv.org/abs/2606.31200",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31200v1 Announce Type: new Abstract: Generalizable robotic grasping in cluttered environments is essential for deploying manipulators in unstructured human spaces, yet existing VLM-based methods rely on visual similarity for object matching, neglecting physical afforda",
-      "phases": [
-        "p2",
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "52ac6af5ca3f",
-      "title": "Towards Inclusive Mobility Modeling: Characterizing and Evaluating Elderly Trajectory Patterns in Urban Systems",
-      "url": "https://arxiv.org/abs/2606.31207",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31207v1 Announce Type: new Abstract: The rapid advance of smart cities increasingly depends on trajectory data mining, yet underrepresented demographic groups, particularly the elderly, are often sparsely represented in public mobility datasets. This underrepresentatio",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "7238e934878f",
-      "title": "Long-term Traffic Simulation via Structured Autoregressive Modeling",
-      "url": "https://arxiv.org/abs/2606.31209",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31209v1 Announce Type: new Abstract: Interactive traffic simulation is a vital world model for autonomous driving. A central challenge in long-horizon simulation is modeling sustained multi-agent interactions, which is further exacerbated by dynamic token cardinality a",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00642v1 Announce Type: new Abstract: Reinforcement learning has proven to be a valuable tool in the creation of advanced AI and robotic systems, contributing to everything from game playing to robotics to foundation models. Through trial-and-error, these AI systems typ",
       "phases": [
         "p1",
         "p3"
@@ -1295,14 +1103,27 @@
       "weight": 2
     },
     {
-      "id": "fc48d7c08490",
-      "title": "Thinking Before Retrieving: Robust Zero-Shot Composed Image Retrieval via Strategic Planning and Self-Criticism",
-      "url": "https://arxiv.org/abs/2606.31222",
+      "id": "d84319003959",
+      "title": "Self-GC: Self-Governing Context for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2607.00692",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31222v1 Announce Type: new Abstract: Composed image retrieval requires identifying a target image from a gallery by integrating a reference image with a textual modification instruction. In a training-free zero-shot setting, this task relies on constructing a retrieval",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00692v1 Announce Type: new Abstract: Long-horizon LLM agents accumulate tool results, files, plans, and user constraints that are too structured to be treated as a disposable text suffix. Current systems mostly rely on in-run heuristics such as chronological pruning an",
       "phases": [
-        "p2",
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "ab2416bd7376",
+      "title": "Self-Evolving Agents with Anytime-Valid Certificates",
+      "url": "https://arxiv.org/abs/2607.00871",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00871v1 Announce Type: new Abstract: Self-evolving agents violate the assumption behind most learning-theoretic guarantees: the data, evaluator, components, and hypothesis space are produced by the policy being updated. We present \\textbf{SEA}, an architecture that con",
+      "phases": [
         "p3",
         "p4"
       ],
@@ -1310,99 +1131,12 @@
       "weight": 2
     },
     {
-      "id": "3c12f75cdce0",
-      "title": "Agentic-Ideation: Sample Efficient Agentic Trajectories Synthesis for Scientific Ideation Agents",
-      "url": "https://arxiv.org/abs/2606.31229",
+      "id": "510e4d198f61",
+      "title": "Two AI Metrics Diverged: Will it Make All the Difference?",
+      "url": "https://arxiv.org/abs/2607.00913",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31229v1 Announce Type: new Abstract: Ideation plays a pivotal role in scientific discovery. Recent LLM, especially AI Scientist systems, show promising potential for automated ideation. However, existing approaches predominantly rely on pre-defined agentic workflows. T",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "412b5b78dbd6",
-      "title": "Delta-JEPA: Learning Action-Sensitive World Models via Latent Difference Decoding",
-      "url": "https://arxiv.org/abs/2606.31232",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31232v1 Announce Type: new Abstract: Learning visual world models for planning requires compact latent dynamics that remain sensitive to actions, yet reconstruction-free joint-embedding objectives can collapse to action-insensitive representations. We propose Delta-JEP",
-      "phases": [
-        "p2",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "4b500dc10cbe",
-      "title": "Embodied CAD: Solver-Grounded LLM Agents for Parametric B-Rep Assembly Modeling",
-      "url": "https://arxiv.org/abs/2606.31252",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31252v1 Announce Type: new Abstract: Large language models can write plausible CAD scripts, but reliable industrial CAD modeling requires more than syntactically valid code: every feature, placement, and assembly relation must be accepted by an exact geometric kernel w",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "51c84b5d3a8c",
-      "title": "Spatial Reasoning via Modality Switching Between Language and Symbolic Representation",
-      "url": "https://arxiv.org/abs/2606.31285",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31285v1 Announce Type: new Abstract: Human reasoning is inherently multimodal: when problems become difficult, we rarely think in words alone. We often externalize our reasoning by sketching diagrams or drawing grids to understand the underlying conceptual structure an",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "b6d33c5410b6",
-      "title": "Benchmarking Large Language Models on Floating-Point Error Classification",
-      "url": "https://arxiv.org/abs/2606.31308",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31308v1 Announce Type: new Abstract: This paper investigates the capability of Large Language Models (LLMs) to detect and classify floating-point errors statically in software code. We introduce InterFLOPBench, a benchmark of 90 C kernels with 1 130 test samples design",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "e32333ebc168",
-      "title": "HistoriQA-ThirdRepublic: Multi-Hop Question Answering Corpus for Historical Research, Parliamentary Debates from the French Third Republic (1870-1940)",
-      "url": "https://arxiv.org/abs/2606.31325",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31325v1 Announce Type: new Abstract: We present HistoriQA-ThirdRepublic: a French-language dataset of multi-hop historical questions derived from parliamentary debates and newspapers of the French Third Republic. Designed in collaboration with a historian, the corpus c",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "06543054761f",
-      "title": "CryoACE: An Atom-centric Framework for Accurate and Automated Model Building in Cryo-EM",
-      "url": "https://arxiv.org/abs/2606.31332",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31332v1 Announce Type: new Abstract: Protein automodeling from cryo-EM density maps faces unique challenges in enforcing physicochemical validity and managing conformational heterogeneity. Current solvers are often limited to static predictions or require computational",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00913v1 Announce Type: new Abstract: As exponential compute scaling continues, will the capabilities of frontier AI models outstrip what is accessible to developers on a small fixed budget? Or will capabilities converge, with \"meek models inheriting the earth\"? Buildin",
       "phases": [
         "p1",
         "p2",
@@ -1414,12 +1148,238 @@
       "weight": 2
     },
     {
-      "id": "ad4e58f918e5",
-      "title": "Optimization Algorithms for Joint OFDM Waveform Design and RIS Configuration in 6G Networks: From Convex Relaxation to Foundation Models",
-      "url": "https://arxiv.org/abs/2606.31334",
+      "id": "7165e9ed00ce",
+      "title": "Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination",
+      "url": "https://arxiv.org/abs/2607.00924",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31334v1 Announce Type: new Abstract: Joint OFDM-RIS optimization for 6G is a mixed-integer nonlinear programming (MINLP) problem covering sum-rate maximization, energy efficiency, max-min fairness, and peak-to-average power ratio (PAPR)-constrained objectives. Seventy-",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00924v1 Announce Type: new Abstract: Accelerating materials discovery requires AI systems that can generate scientifically valid hypotheses through multi-step, domain-grounded reasoning. Standard large language models often produce fluent but weakly traceable responses",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "ec6960d87ed0",
+      "title": "Bayesian Uncertainty Propagation for Agentic RAG Pipelines: A Proof-of-Concept Study on Multi-Hop Question Answering",
+      "url": "https://arxiv.org/abs/2607.00972",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00972v1 Announce Type: new Abstract: Trustworthy deployment of Agentic Retrieval-Augmented Generation (RAG) systems requires mechanisms for estimating when multi-stage reasoning pipelines may fail. This paper presents an uncertainty-aware Agentic Retrieval-Augmented Ge",
+      "phases": [
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "09d6da4ef22f",
+      "title": "PedNStream: Scalable Network Flow Simulation for Pedestrian Traffic Management",
+      "url": "https://arxiv.org/abs/2607.01021",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.01021v1 Announce Type: new Abstract: Large-scale crowd management requires pedestrian simulations that are both computationally efficient and compatible with feedback-based control. However, most open-source tools are either microscopic or not designed for network-scal",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "d15ec0e20f7c",
+      "title": "Agentic generation of verifiable rules for deterministic, self-expanding reaction classification",
+      "url": "https://arxiv.org/abs/2607.01061",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.01061v1 Announce Type: new Abstract: Computer-assisted synthesis planning breaks target molecules into accessible precursors using large libraries of reaction rules that assign each transformation a deterministic, interpretable label. But chemistry is long-tailed, maki",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "a189c03093ec",
+      "title": "Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use",
+      "url": "https://arxiv.org/abs/2607.01084",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.01084v1 Announce Type: new Abstract: While Large Language Model (LLM) agents demonstrate proficiency in static benchmarks, their deployment in real-world scenarios is hindered by the dynamic nature of user queries, tool sets, and interaction dynamics. To address this g",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "ac092ef87691",
+      "title": "Optimal Resource Utilization for Autonomous Laboratory Orchestrators",
+      "url": "https://arxiv.org/abs/2607.01188",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.01188v1 Announce Type: new Abstract: In autonomous laboratories, AI agents suggest the next batch of experiments to do. However, planning and executing those tasks taking full advantage of the available resources is a completely different question. This can be challeng",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "35b078ada5ce",
+      "title": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
+      "url": "https://arxiv.org/abs/2607.01223",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.01223v1 Announce Type: new Abstract: When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that cannot be audited after the fac",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "d2af0dbdb24f",
+      "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+      "url": "https://arxiv.org/abs/2607.01224",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.01224v1 Announce Type: new Abstract: Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by treating memory management as a ",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "ac016773776d",
+      "title": "UltraFlux: Data-Model Co-Design for High-quality Native 4K Text-to-Image Generation across Diverse Aspect Ratios",
+      "url": "https://arxiv.org/abs/2511.18050",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2511.18050v1 Announce Type: cross Abstract: Diffusion transformers have recently delivered strong text-to-image generation around 1K resolution, but we show that extending them to native 4K across diverse aspect ratios exposes a tightly coupled failure mode spanning positio",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "c20f2547e782",
+      "title": "DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching",
+      "url": "https://arxiv.org/abs/2606.31980",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2606.31980v1 Announce Type: cross Abstract: Agents are increasingly capable of automating software tasks, but can they teach humans how to use software themselves? We introduce DigitalCoach, a multimodal dataset of 72 human expert-novice computer use coaching sessions consi",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "5fbaeb507c44",
+      "title": "From \"Strings\" to \"Things\" for Personal Knowledge Graphs: Evaluating LLM Triple Extraction for Recommendation Systems",
+      "url": "https://arxiv.org/abs/2607.00003",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00003v1 Announce Type: cross Abstract: Personal Knowledge Graphs (PKGs) offer a privacy-preserving framework for modeling user preferences, yet constructing them from unstructured, decentralized conversational data remains a challenge. This paper bridges the gap betwee",
+      "phases": [
+        "p1",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "26a4018eb897",
+      "title": "Why Advanced Encoders Lag on Sparse Retrieval? The Answer and an Approach to Bridging Vocabulary Gaps",
+      "url": "https://arxiv.org/abs/2607.00004",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00004v1 Announce Type: cross Abstract: While advanced foundation models like ModernBERT significantly outperform older architectures in dense retrieval, they surprisingly lag behind the aging BERT-base baseline in learned sparse retrieval (LSR). We identify the root ca",
+      "phases": [
+        "p1",
+        "p2",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "9a7fd7d56694",
+      "title": "Topological Void Analysis A Mathematical Framework for Systematic Technical Innovation Discovery in Knowledge Spaces",
+      "url": "https://arxiv.org/abs/2607.00005",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00005v1 Announce Type: cross Abstract: Identifying where to innovate in a dense technical domain - such as operating systems or hardware/software co-design - is fundamentally a search problem in a high-dimensional knowledge space. Existing approaches rely on keyword se",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "5a20f4ccd204",
+      "title": "Persona Without Substrate: Regime-Dependence and the LLM Individuation Problem",
+      "url": "https://arxiv.org/abs/2607.00006",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00006v1 Announce Type: cross Abstract: Beckmann & Butlin's (2026) ontological framework for the LLM individuation problem inherits an unargued cross-regime co-reference assumption from the persona-vectors literature: that the same direction picks out the same content u",
+      "phases": [
+        "p1",
+        "p2"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "03f02fbf51aa",
+      "title": "BaRA: BFS-and-Reflection Web Data Collection Agent",
+      "url": "https://arxiv.org/abs/2607.00007",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00007v1 Announce Type: cross Abstract: Large language model (LLM)-based web agents reduce manual scripting for web data collection, yet on live websites, they often miss relevant pages, return incomplete multimodal outputs, or return media URLs that are not directly do",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "2754e6a2ea24",
+      "title": "SchemaRAG: Dynamic Large Schema Reduction for LLM-driven Structured Information Extraction",
+      "url": "https://arxiv.org/abs/2607.00008",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00008v1 Announce Type: cross Abstract: Extracting structured data from unstructured text using large language models (LLMs) becomes challenging when target schemas are large and complex. In such cases, including the full schema in the prompt increases cost and latency,",
       "phases": [
         "p1",
         "p2"
@@ -1428,54 +1388,12 @@
       "weight": 2
     },
     {
-      "id": "fa237354ac6b",
-      "title": "Smart charging of large fleets of Electric Vehicles: Independent Multi-Agent Reinforcement Learning approaches",
-      "url": "https://arxiv.org/abs/2606.31347",
+      "id": "b66d203b2894",
+      "title": "Controllable Narrative Rendering for Enhanced Assisted Writing",
+      "url": "https://arxiv.org/abs/2607.00009",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31347v1 Announce Type: new Abstract: The electrification of transportation through electric vehicles introduces new challenges for power grid management, such as increased peak demand, voltage fluctuations, line overloads, and the integration of variable renewable ener",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "16c347658812",
-      "title": "ReGRPO: Reflection-Augmented Policy Optimization for Tool-Using Agents",
-      "url": "https://arxiv.org/abs/2606.31392",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31392v1 Announce Type: new Abstract: Tool-augmented vision-language models (VLMs) can solve multimodal, multi-step tasks by calling external tools, yet they remain fragile in practice. Existing works have two common gaps. Supervised fine-tuning (SFT) is built mostly on",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "e73daf57cd4a",
-      "title": "World-Model Collapse as a Phase Transition",
-      "url": "https://arxiv.org/abs/2606.31399",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31399v1 Announce Type: new Abstract: Water looks unchanged as it warms, then at a critical point it boils. We ask whether long-horizon language agents show an analogous transition in their implicit world models. In some parameter settings, changing state load by a smal",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "d857fa9bbd77",
-      "title": "Wisdom Of The (AI) Crowd: Investigating Artificial Swarm Intelligence In Large Language Models",
-      "url": "https://arxiv.org/abs/2606.31404",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31404v1 Announce Type: new Abstract: Human swarm intelligence demonstrates remarkable collective accuracy but faces scalability constraints in cost, coordination, and time. We investigate whether large language models (LLMs) can approximate swarm intelligence effects t",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00009v1 Announce Type: cross Abstract: Despite the remarkable proficiency of large language models (LLMs) in basic writing assistance, their utility in creative writing is fundamentally hindered by a persistent binary failure. This issue manifests as an oscillation bet",
       "phases": [
         "p1"
       ],
@@ -1483,143 +1401,70 @@
       "weight": 2
     },
     {
-      "id": "219bf0d1dac9",
-      "title": "Xiaomi-GUI-0 Technical Report",
-      "url": "https://arxiv.org/abs/2606.31410",
+      "id": "d4aeb93b7fbb",
+      "title": "Prompt Optimization for User Simulation in Conversational Recommender Systems: A Multi-Objective Framework",
+      "url": "https://arxiv.org/abs/2607.00010",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31410v2 Announce Type: new Abstract: Graphical user interface (GUI) agents build on vision-language models to complete user tasks end-to-end in real applications through interface actions such as tapping, swiping, text entry, and navigation. However, existing GUI agent",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00010v1 Announce Type: cross Abstract: Conversational recommender systems (CRSs) are a core component of next-generation intelligent recommender systems because they enable users to actively elicit preferences, clarify intentions, and adapt recommendations in real time",
       "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "70e74f5a257e",
-      "title": "Learning to Select, Not Relearn: Hard-Routed Mixtures of Reasoning LoRAs",
-      "url": "https://arxiv.org/abs/2606.31413",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31413v1 Announce Type: new Abstract: Composing independently trained LoRA adapters into a single large language model is useful for multi-domain adaptation, especially when the original training data cannot be shared. A common approach is to use MoE-style routing over ",
-      "phases": [
-        "p1",
-        "p3",
-        "p5"
+        "p1"
       ],
       "category": "research",
       "weight": 2
     },
     {
-      "id": "b3939d1ca329",
-      "title": "BP-TTA: Balanced and Prototype-Guided Test-Time Adaptation in Dynamic Scenarios",
-      "url": "https://arxiv.org/abs/2606.31420",
+      "id": "2f9ca3020293",
+      "title": "SkillSelect-Serve: Budget-Controllable and QoS-Aware Skill Service Recommendation and Composition for Small LLM Agents",
+      "url": "https://arxiv.org/abs/2607.00011",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31420v1 Announce Type: new Abstract: Test-Time Adaptation (TTA) enables models trained on a source domain to adapt online to unlabeled test data under distribution shifts. While recent TTA methods have moved beyond static settings and begun to consider continual domain",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00011v1 Announce Type: cross Abstract: Reusable skill libraries are becoming important infrastructure for large language model (LLM) agents, yet existing selection methods often treat skills as retrievable documents and return fixed top-k lists. This paper presents Ski",
       "phases": [
         "p1",
         "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "612d13e7deea",
-      "title": "Ask the World Before Acting: Budgeted Environment Probing for World-Model Calibration",
-      "url": "https://arxiv.org/abs/2606.31422",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31422v1 Announce Type: new Abstract: Long-horizon language agents do not only choose actions; they carry a private model of the world from one decision to the next. When that model drifts, a later failure can be decided before the failing action is ever taken. We study",
-      "phases": [
-        "p3",
-        "p5"
+        "p3"
       ],
       "category": "research",
       "weight": 2
     },
     {
-      "id": "b4cd1dad89e8",
-      "title": "CDR-Bench: Evaluating Faithful Execution of Compositional, Order-Sensitive Data Refinement Recipes",
-      "url": "https://arxiv.org/abs/2606.31435",
+      "id": "fa3bc538c634",
+      "title": "PRA-RAG: Provably Robust Aggregation in Retrieval-Augmented Generation against Retrieval Corruption",
+      "url": "https://arxiv.org/abs/2607.00012",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31435v1 Announce Type: new Abstract: Data refinement involves executing multi-step recipes over evolving text states, where both composition and execution order of processing operators determine the outcome. While existing benchmarks either isolate text editing or enta",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00012v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) enhances Large Language Models (LLMs) by incorporating external knowledge, effectively mitigating their inherent knowledge limitations. However, RAG remains vulnerable to poisoning attacks that",
       "phases": [
+        "p1",
+        "p2",
         "p4"
       ],
       "category": "models",
       "weight": 2
     },
     {
-      "id": "1282a6248bb3",
-      "title": "Who Determines the Meaning of an Emotion? Affective Sovereignty as an Epistemic Consequence of Measurement Limits",
-      "url": "https://arxiv.org/abs/2606.31442",
+      "id": "bb10b23f4da8",
+      "title": "GRACE-RAG: Governed Retrieval Architecture for Canonical Evidence Synthesis, Enabling Lightweight Deployment in Closed-Domain Institutional Settings",
+      "url": "https://arxiv.org/abs/2607.00013",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31442v1 Announce Type: new Abstract: Emotion-sensing AI is rapidly becoming embedded in vehicles, home appliances, dialogue agents, and social infrastructure, giving rise to a sphere in which emotion is no longer confined to individual experience but is instead observe",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00013v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) systems are widely used in institutional question answering settings where responses must be grounded in authoritative documentation (Gao et al., 2023). In entity-dense domains where relevant i",
       "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e395a7a1459b",
-      "title": "CSTrader: A Testbed for Language-Grounded Trading in a Community-Driven Virtual Asset Market",
-      "url": "https://arxiv.org/abs/2606.31461",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31461v1 Announce Type: new Abstract: Niche asset markets, such as Counter-Strike 2 (CS2) weapon skins, are small, volatile, and heavily driven by community discussions and platform rules. These properties make them hard for traditional quantitative models, but provide ",
-      "phases": [
-        "p1",
         "p2",
-        "p3",
         "p4",
         "p5"
       ],
-      "category": "community",
-      "weight": 2
-    },
-    {
-      "id": "946918b4ae22",
-      "title": "CLOUDADV: Decision-Aligned Instance Sizing with Zero-Shot Foundation Models under Drift",
-      "url": "https://arxiv.org/abs/2606.31470",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31470v1 Announce Type: new Abstract: Cloud virtual machines are often overprovisioned, creating avoidable cost and operational inefficiency. We present CLOUDADV, an interactive engineer-facing advisory system for cloud instance sizing under workload drift. The system c",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "427521ec5725",
-      "title": "One Reflection Is Not Enough: Self-Correcting Autonomous Research via Multi-Hypothesis Failure Attribution",
-      "url": "https://arxiv.org/abs/2606.31478",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31478v1 Announce Type: new Abstract: Autonomous research agents can now draft hypotheses, write code, run experiments, and produce papers, but they remain brittle when experiments fail. Under the prevailing paradigm, failure recovery is usually delegated to a single fr",
-      "phases": [
-        "p3"
-      ],
       "category": "research",
       "weight": 2
     },
     {
-      "id": "c8759734cf84",
-      "title": "Surprise as a Signal for Plasticity and Metacognition",
-      "url": "https://arxiv.org/abs/2606.31495",
+      "id": "578300fbcb80",
+      "title": "Towards an automated AI-based framework for floor plan compliance checks for residential buildings",
+      "url": "https://arxiv.org/abs/2607.00015",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31495v1 Announce Type: new Abstract: We study a single idea across two settings: that a prediction-error signal, computed by a small predictor over the latent space of a frozen encoder, can serve both as a gate on plasticity and as a substrate for metacognition. In the",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00015v1 Announce Type: cross Abstract: To improve residents' well-being in Australia's urban areas, governments have introduced policy reforms such as SEPP65, BADS, and SPP7.3 to enhance apartment design quality. These regulations require precise geometric and spatial ",
       "phases": [
         "p1",
         "p2",
@@ -1631,14 +1476,15 @@
       "weight": 2
     },
     {
-      "id": "fe2d2d2d74f0",
-      "title": "Design and Implementation of Agentic Orchestrations and Orchestration of Agents",
-      "url": "https://arxiv.org/abs/2606.31518",
+      "id": "c1074f799768",
+      "title": "Libra: Training the Environment for Agentic Information Retrieval",
+      "url": "https://arxiv.org/abs/2607.00016",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31518v1 Announce Type: new Abstract: Agentic Business Process Management has gained momentum recently. The prospect is that the autonomy of AI agents, i.e., predominantly LLM-based agents, can be balanced with a certain level of robustness, tractability, and traceabili",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00016v1 Announce Type: cross Abstract: Information localization within massive repositories is a cornerstone of agentic LLM systems. While synthetic data-driven optimization has proven successful in training LLMs, little attention has been paid to optimizing the agent'",
       "phases": [
         "p1",
+        "p2",
         "p3",
         "p4"
       ],
@@ -1646,68 +1492,56 @@
       "weight": 2
     },
     {
-      "id": "742e83aab5c7",
-      "title": "A time-series classification framework for individual-level absenteeism prediction under severe class imbalance",
-      "url": "https://arxiv.org/abs/2606.31532",
+      "id": "145079fb19d3",
+      "title": "Learning User-Aware Recall: Personalized Retrieval in Long-Term Conversational Memory",
+      "url": "https://arxiv.org/abs/2607.00017",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31532v1 Announce Type: new Abstract: Staff absenteeism imposes substantial operational costs in high-demand work environments such as healthcare, emergency services, meat processing, construction, and courier and delivery services, where proactive workforce planning de",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "08c81e8d70f4",
-      "title": "Modality-Driven Search with Holistic Trace Judging for ARC-AGI-2",
-      "url": "https://arxiv.org/abs/2606.31543",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31543v1 Announce Type: new Abstract: Large language models can produce fluent, internally coherent reasoning traces for abstract reasoning tasks while still being confidently wrong - making selection among candidates, not just generation, the central challenge. I prese",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "6b2ded48edbe",
-      "title": "ACE: Pluggable Adaptive Context Elasticizer across Agents",
-      "url": "https://arxiv.org/abs/2606.31564",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31564v1 Announce Type: new Abstract: The increasing complexity of agentic tasks has led to rapidly growing trajectory lengths, which poses significant challenges for large language model (LLM) based agents with fixed context windows. Existing context management techniq",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "71e310eb409d",
-      "title": "Which Tokens Matter? Adaptive Token Selection for RLVR with the Relative Surprisal Index",
-      "url": "https://arxiv.org/abs/2606.31575",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31575v1 Announce Type: new Abstract: Reinforcement learning (RL) has become a powerful tool for propelling Large Language Models (LLMs) beyond imitation-based training towards more robust reasoning capabilities. Among existing approaches, RL with Verifiable Rewards (RL",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00017v1 Announce Type: cross Abstract: Long-term conversational agents are expected to remember past interactions, but memory is useful only when the right evidence is recalled for the right user. Existing memory-augmented LLM agents have made progress in building comp",
       "phases": [
         "p1",
         "p2",
-        "p3"
+        "p3",
+        "p4"
       ],
       "category": "research",
       "weight": 2
     },
     {
-      "id": "590512b2b8b6",
-      "title": "Scientific Explanations in Health Sciences: Causality, Trust, and Epistemic Adequacy",
-      "url": "https://arxiv.org/abs/2606.31616",
+      "id": "268202b20094",
+      "title": "LLMs in the Real World: Evaluating \"AI\" in Emergency Contexts",
+      "url": "https://arxiv.org/abs/2607.00019",
       "source": "ArXiv cs.AI",
-      "published": "2026-07-01T00:00:00-04:00",
-      "summary": "arXiv:2606.31616v1 Announce Type: new Abstract: Medical Artificial Intelligence (AI) is widely expected to transform clinical practice, yet the decision-making processes of many Machine Learning (ML) models remain opaque. Explainability has been advanced as a partial remedy to cl",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00019v1 Announce Type: cross Abstract: This paper offers a call to action. We urge our colleagues in the research community to play a greater role in the articulation of our findings to the public. To illustrate the stakes we present a case study on the initial stages ",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "408dbadfc861",
+      "title": "Aligning Sentence Embeddings to Human Concepts via Sparse Autoencoders",
+      "url": "https://arxiv.org/abs/2607.00023",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00023v1 Announce Type: cross Abstract: Dense sentence embeddings are fundamental to modern Retrieval-Augmented Generation (RAG) systems but suffer from a lack of interpretability due to feature superposition. This opacity hinders the alignment of retrieval processes wi",
+      "phases": [
+        "p2",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "c0827e64006a",
+      "title": "FLYNN: Robust Neural Network for Robot Navigation using Fly Brain Topology",
+      "url": "https://arxiv.org/abs/2607.00025",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00025v1 Announce Type: cross Abstract: While deep learning models achieve state-of-the-art performance in complex tasks, they remain brittle when faced with new environments or sensory deprivation. In contrast, biological systems exhibit remarkable tolerance to these c",
       "phases": [
         "p1",
         "p2",
@@ -1716,6 +1550,197 @@
         "p5"
       ],
       "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "ca12c950d75b",
+      "title": "Memory-Native Non-Terrestrial Networks for Embodied Intelligence",
+      "url": "https://arxiv.org/abs/2607.00029",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00029v1 Announce Type: cross Abstract: Non-terrestrial networks (NTN) provide ubiquitous connectivity for embodied intelligence (EI), enabling robots in wilderness to leverage cloud resources or report critical information to remote centers. However, the synergy is non",
+      "phases": [
+        "p2",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "262a9a6bdf88",
+      "title": "Learning Dexterous Manipulation Using Contact Wrench Guidance From Human Demonstration",
+      "url": "https://arxiv.org/abs/2607.00033",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00033v1 Announce Type: cross Abstract: Dexterous robot manipulation can benefit from the abundance of human demonstrations, but transferring such demonstrations to robot policies remains challenging. We present Contact Wrench Guidance from Human Demonstration in Roboti",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "0d6dc435f4ca",
+      "title": "ATM: CID-Brokered Pre-Write Admission for Multi-Agent Code Co-Synthesis",
+      "url": "https://arxiv.org/abs/2607.00041",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00041v1 Announce Type: cross Abstract: Multi-agent LLM systems can decompose software-engineering work into planning, generation, validation, and repair, but a narrower systems problem remains: before any governed shared mutation is applied, a system must decide which ",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "cf8da74f6aa8",
+      "title": "Destination-Labeled Self-Looping Systems with Dwell: Intrinsic Characterization, Realization Cost, and Recognition",
+      "url": "https://arxiv.org/abs/2607.00044",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00044v1 Announce Type: cross Abstract: We study a finite-state symbolic controller for systems in which the admissible visible transitions are fixed in advance and each visible state carries a minimum dwell requirement. The resulting model, which we call a destination-",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "09274061f45a",
+      "title": "Comparing Large Language Models on Scrum Certification-Style Questions: Accuracy, Stability, and Error Patterns",
+      "url": "https://arxiv.org/abs/2607.00048",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00048v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly used in exam- and certification-style question answering tasks, where their ability to retrieve, interpret, and apply domain-specific knowledge can be systematically assessed. In Softw",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "816fa203090e",
+      "title": "Prompting GPT-5 on Scrum Certification Questions: An Empirical Accuracy Study",
+      "url": "https://arxiv.org/abs/2607.00049",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00049v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly used in Agile Software Development for documentation, coaching, and training. As practitioners adopt these tools to prepare for certifications such as Professional Scrum Master (PSM), ",
+      "phases": [
+        "p1",
+        "p2"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "36bbbd1af183",
+      "title": "AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2607.00052",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00052v1 Announce Type: cross Abstract: GraphRAG is an extension of retrieval-augmented generation (RAG) that supports large language models (LLMs) by referring to graph-structured data as external knowledge. While this technique ideally captures intricate relationships",
+      "phases": [
+        "p1",
+        "p2",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "85370abc1fdf",
+      "title": "SWE-Router: Routing in Multi-turn Agentic Software Engineering Tasks",
+      "url": "https://arxiv.org/abs/2607.00053",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00053v1 Announce Type: cross Abstract: Large language models (LLMs) embedded in multi-turn agentic harnesses are reshaping software engineering (SWE), but routing every task to a frontier model is wasteful when many issues admit cheap fixes. Existing LLM routers operat",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "b8972e7dd938",
+      "title": "Active Sensing for RIS-Aided Tracking and Power Control: A Hybrid Neuroevolution and Supervised Learning Approach",
+      "url": "https://arxiv.org/abs/2607.00056",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00056v1 Announce Type: cross Abstract: This paper studies energy efficient tracking of power-limited mobile users with the assistance of a Reconfigurable Intelligent Surface (RIS). Since localization pilot transmissions dominate the energy budget of power-constrained d",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "503c51460b67",
+      "title": "Enhancing Oracle Bone Inscription Recognition via Multi-Scale Layer Attention",
+      "url": "https://arxiv.org/abs/2607.00057",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00057v1 Announce Type: cross Abstract: Oracle Bone Inscriptions (OBIs) recognition plays a crucial role in understanding ancient Chinese culture. However, accurately recognizing OBIs remains highly challenging due to their complex, irregular, and often degraded shapes.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "2092ed787304",
+      "title": "AlgoBench: Benchmarking Algorithmic Adaptation in Code Generation",
+      "url": "https://arxiv.org/abs/2607.00062",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00062v1 Announce Type: cross Abstract: High pass rates on established programming benchmarks such as HumanEval and LiveCodeBench do not always show whether a model can reason about algorithms. Many fixed benchmarks eventually become part of the public training ecosyste",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "3993066d30dd",
+      "title": "Spectral Geometry and Bosonic-Bloch Probes: Explorations in Quantum Learning",
+      "url": "https://arxiv.org/abs/2607.00063",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00063v1 Announce Type: cross Abstract: This paper studies how spectral geometry emerges in quantum learning models and how it can be diagnosed with physically grounded probes. In graph-regularized quantum networks, training reorganizes the output similarity graph, incr",
+      "phases": [
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "5424e55c30a3",
+      "title": "Optimal any-angle path planning in static and dynamic environments",
+      "url": "https://arxiv.org/abs/2607.00065",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-02T00:00:00-04:00",
+      "summary": "arXiv:2607.00065v1 Announce Type: cross Abstract: Any-angle path planning extends traditional graph-based path planning by allowing movement between any pair of vertices, rather than being restricted by predefined edges. It can find straighter and shorter paths in continuous spac",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
       "weight": 2
     }
   ]
