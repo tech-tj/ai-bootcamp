@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-03T08:45:49.691887+00:00",
+  "generated": "2026-07-03T13:38:52.316152+00:00",
   "count": 120,
   "articles": [
     {
@@ -724,26 +724,12 @@
       "weight": 3
     },
     {
-      "id": "1a654943dc71",
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "source": "OpenAI",
-      "published": "2026-06-03T13:15:00+00:00",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "a799e1e611d4",
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "source": "Google AI",
-      "published": "2026-06-03T13:00:00+00:00",
-      "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
+      "id": "e9cb2d76faa3",
+      "title": "The Download: a smoking \u201cendgame\u201d and a new Elizabeth Bear story",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-03T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway. \u2014Jessica Hamzelou As the parent of two little girls, I",
       "phases": [
         "p1",
         "p2",
@@ -751,49 +737,25 @@
         "p4",
         "p5"
       ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "0af0c5c72218",
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "url": "https://openai.com/index/wasmer",
-      "source": "OpenAI",
-      "published": "2026-06-03T12:00:00+00:00",
-      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "phases": [
-        "p1"
-      ],
       "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
-      "id": "985e9a4f3bc7",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "source": "OpenAI",
-      "published": "2026-06-03T10:00:00+00:00",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "id": "21fa08f8f90b",
+      "title": "The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway.",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-03T09:00:00+00:00",
+      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That ",
       "phases": [
         "p1",
-        "p4"
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "b918a5525a80",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "source": "OpenAI",
-      "published": "2026-06-03T10:00:00+00:00",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "tools",
-      "weight": 3
+      "weight": 2
     },
     {
       "id": "e6a468397276",
@@ -1722,6 +1684,50 @@
         "p3"
       ],
       "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "fa91cc00a264",
+      "title": "A$^{2}$utoLPBench: An Auto-Generated, Agent-Friendly LP Benchmark via Inverse-KKT Construction",
+      "url": "https://arxiv.org/abs/2607.02141",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-03T00:00:00-04:00",
+      "summary": "arXiv:2607.02141v1 Announce Type: new Abstract: Most LP-from-text benchmarks are static datasets of word problems written and labeled by hand. Once such a dataset is released, its size is fixed, its difficulty is fixed, and every problem can leak into the training data of future ",
+      "phases": [
+        "p3",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "b8121d3d1cc9",
+      "title": "A rubric-based controlled comparison of frontier language models on expert-authored clinical reasoning tasks",
+      "url": "https://arxiv.org/abs/2607.02175",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-03T00:00:00-04:00",
+      "summary": "arXiv:2607.02175v1 Announce Type: new Abstract: Multiple-choice medical benchmarks are increasingly saturated, and recent rubric-based evaluations such as HealthBench have shown that open-ended clinical performance is far from solved - its \"Hard\" subset top score remains 32%. We ",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "2ec2e630d108",
+      "title": "UA-ChatDev: Uncertainty-Aware Multi-Agent Collaboration for Reliable Software Development",
+      "url": "https://arxiv.org/abs/2607.02186",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-03T00:00:00-04:00",
+      "summary": "arXiv:2607.02186v1 Announce Type: new Abstract: Software development is a complex task that demands cooperation among agents with diverse roles. Large language models (LLMs) have enabled autonomous multi-agent software development frameworks that leverage role-based collaboration",
+      "phases": [
+        "p1",
+        "p2",
+        "p3"
+      ],
+      "category": "models",
       "weight": 2
     }
   ]
