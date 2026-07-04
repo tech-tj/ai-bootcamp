@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T08:20:58.873638+00:00",
-  "count": 120,
+  "generated": "2026-07-04T12:56:24.032979+00:00",
+  "count": 118,
   "articles": [
     {
       "id": "1f96c5e608ff",
@@ -679,34 +679,6 @@
       "weight": 3
     },
     {
-      "id": "ae995b9c3e75",
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "url": "https://openai.com/index/endava-frontiers",
-      "source": "OpenAI",
-      "published": "2026-06-04T12:00:00+00:00",
-      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "785dbaa6ae56",
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "source": "OpenAI",
-      "published": "2026-06-04T09:00:00+00:00",
-      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "3869c17fc3af",
       "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
       "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
@@ -1253,18 +1225,27 @@
       "weight": 2
     },
     {
-      "id": "b8383406d57f",
-      "title": "I built my 'first' flow matching image generator, here's what I learned [P]",
-      "url": "t3_1un0v49",
+      "id": "c29a9cb18bf9",
+      "title": "Proposal: Use semantic compression as input diffusion to read sessions larger than the context window [R]",
+      "url": "t3_1un63hv",
       "source": "r/ML",
-      "published": "2026-07-04T05:46:08+00:00",
-      "summary": "Today I put out my first flow matching image generation model! This is a toy example trained on a 2024 MPS Macbook Pro using a small sample of images\u2014specifically, the Apple emoji library and their text labels. Because of this, it\u2019s not a massive model (clocking in at ~4.7 millio",
+      "published": "2026-07-04T10:56:40+00:00",
+      "summary": "I&#39;ve been trying to come up with a solution for keeping extremely long ai sessions coherent. Sometimes there is too much substance to risk compaction. With so much buzz around diffusion going on it got me thinking, what if we treat the context like a progressive render, blurr",
       "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "ac81f5442480",
+      "title": "BaryGraph - knowledge graph where every relationship is its own embedded document (not an edge) [R]",
+      "url": "t3_1un3lsf",
+      "source": "r/ML",
+      "published": "2026-07-04T08:24:42+00:00",
+      "summary": "Instead of node --edge--&gt; node , every relationship is a first-class document with its own vector, called a BaryEdge. Stack pairs of BaryEdges recursively and you get &quot;MetaBary&quot; triads that surface structural bridges between concepts that live nowhere near each other",
+      "phases": [
+        "p2"
       ],
       "category": "models",
       "weight": 1
@@ -1593,20 +1574,6 @@
         "p1",
         "p3",
         "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "0d2191fdcff8",
-      "title": "Anyone looking into the new MARS2 Workshop/Competition @ ECCV 2026? I saw Tec-do posting it. [D]",
-      "url": "t3_1uka1r6",
-      "source": "r/ML",
-      "published": "2026-07-01T03:15:16+00:00",
-      "summary": "I recently came across the announcement for the MARS2 Workshop (Multimodal Reasoning Competition) at ECCV 2026. From what I understand, it focuses on multimodal reasoning and test-time reasoning (\u201cslow thinking\u201d), especially applied to video and real-world scenarios like advertis",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "models",
       "weight": 1
