@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04T12:56:24.032979+00:00",
+  "generated": "2026-07-04T18:53:23.845167+00:00",
   "count": 118,
   "articles": [
     {
@@ -684,7 +684,7 @@
       "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
       "source": "MIT Tech Review",
       "published": "2026-07-03T17:34:37+00:00",
-      "summary": "It\u2019s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they\u2019ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn\u2019t able to see. But researchers believe they might hav",
+      "summary": "It\u2019s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they\u2019ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn\u2019t able to see. But researchers believe they might hav",
       "phases": [
         "p1",
         "p2",
@@ -1225,6 +1225,21 @@
       "weight": 2
     },
     {
+      "id": "51c338819a4b",
+      "title": "We'll benchmark an Open weights LLM on any GPU you choose \u2014 drop your model + hardware and we'll run it. [D]",
+      "url": "t3_1ungvxu",
+      "source": "r/ML",
+      "published": "2026-07-04T18:51:07+00:00",
+      "summary": "We run HexGrid Cloud, a platform for deploying open-source models on GPUs, and we&#39;re heads-down optimizing our serving/deployment layer. To pressure-test it we&#39;re benchmarking real models under real concurrency \u2014 and instead of guessing, we&#39;d rather run what you actua",
+      "phases": [
+        "p1",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "c29a9cb18bf9",
       "title": "Proposal: Use semantic compression as input diffusion to read sessions larger than the context window [R]",
       "url": "t3_1un63hv",
@@ -1261,23 +1276,6 @@
         "p1"
       ],
       "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "0086abc8c894",
-      "title": "Tom Yeh's AI by hand? is it worth it? [D]",
-      "url": "t3_1umqf58",
-      "source": "r/ML",
-      "published": "2026-07-03T21:17:55+00:00",
-      "summary": "Thinking about getting two months at his website and getting a stronger understanding of machine learning since I am building tools with ai models from hugging face. Have anyone tried it? &#32; submitted by &#32; /u/TheSmashingChamp [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 1
     },
     {
