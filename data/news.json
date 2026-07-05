@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T18:53:23.845167+00:00",
-  "count": 118,
+  "generated": "2026-07-05T01:54:46.862842+00:00",
+  "count": 117,
   "articles": [
     {
       "id": "1f96c5e608ff",
@@ -1211,18 +1211,18 @@
       "weight": 2
     },
     {
-      "id": "16b629a3fac6",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "source": "HuggingFace",
-      "published": "2026-06-04T18:57:45+00:00",
-      "summary": "",
+      "id": "829e34896278",
+      "title": "If your GPU can run inference, it should be able to fine-tune too. [P]",
+      "url": "t3_1unl62q",
+      "source": "r/ML",
+      "published": "2026-07-04T21:56:48+00:00",
+      "summary": "I spent the last few months building a new sparse fine-tuning method for MoE models called **USAF**. The goal was simple: if your GPU can run inference on an MoE model, it should also be able to fine-tune it. On my AMD RX 6750 XT (12 GB), I can fine-tune Qwen3-30B-A3B by training",
       "phases": [
         "p1",
-        "p4"
+        "p5"
       ],
       "category": "models",
-      "weight": 2
+      "weight": 1
     },
     {
       "id": "51c338819a4b",
@@ -1557,21 +1557,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "c464222283c5",
-      "title": "A system-level approach to prompt injection: separating instruction and data channels in LLM agents [P]",
-      "url": "t3_1ukgwk1",
-      "source": "r/ML",
-      "published": "2026-07-01T09:34:16+00:00",
-      "summary": "Prompt injection has emerged as one of the most persistent failure modes in tool-using LLM systems, particularly in agentic workflows where models interact with external data sources. Most mitigation strategies focus on input filtering or model-side alignment, but these approache",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
       ],
       "category": "models",
       "weight": 1
