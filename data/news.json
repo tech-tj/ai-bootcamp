@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T01:54:46.862842+00:00",
+  "generated": "2026-07-05T08:38:18.856833+00:00",
   "count": 117,
   "articles": [
     {
@@ -1211,6 +1211,47 @@
       "weight": 2
     },
     {
+      "id": "857570ecc005",
+      "title": "Competence Gate: gating tool-use on a small model's internal confidence signal instead of its verbalised one \u2014 Qwen3.5-4B, open weights [P]",
+      "url": "t3_1unw5un",
+      "source": "r/ML",
+      "published": "2026-07-05T07:49:09+00:00",
+      "summary": "I made a 10MB LoRA adapter for Qwen3.5-4B plus a small orchestration layer. It decides, per query, whether to answer directly, search the web, or retrieve from your own local documents and it refuses to make things up when it can&#39;t verify an answer. It runs locally (Apple Sil",
+      "phases": [
+        "p2",
+        "p3",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "6c26e627825f",
+      "title": "I built a open source neural network shape validator [P]",
+      "url": "t3_1unvbdb",
+      "source": "r/ML",
+      "published": "2026-07-05T06:58:02+00:00",
+      "summary": "Built a visual editor that validates tensor shapes, counts params, estimates FLOPs/VRAM while you design. Catches incompatible residuals, mismatched Linear layers, all that before you waste GPU time. 63 ops. Proper shape inference. Exports PyTorch code that actually runs. URL- te",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "637507b65c47",
+      "title": "If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D]",
+      "url": "t3_1unt64q",
+      "source": "r/ML",
+      "published": "2026-07-05T04:54:28+00:00",
+      "summary": "As someone who is not affiliated with any of the big tech companies, I find it particularly difficult to have the confidence or enthusiasm to approach any ML problem with an attitude that my professors probably had at my stage in life. I&#39;m sure I am not the only one having th",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
       "id": "829e34896278",
       "title": "If your GPU can run inference, it should be able to fine-tune too. [P]",
       "url": "t3_1unl62q",
@@ -1225,21 +1266,6 @@
       "weight": 1
     },
     {
-      "id": "51c338819a4b",
-      "title": "We'll benchmark an Open weights LLM on any GPU you choose \u2014 drop your model + hardware and we'll run it. [D]",
-      "url": "t3_1ungvxu",
-      "source": "r/ML",
-      "published": "2026-07-04T18:51:07+00:00",
-      "summary": "We run HexGrid Cloud, a platform for deploying open-source models on GPUs, and we&#39;re heads-down optimizing our serving/deployment layer. To pressure-test it we&#39;re benchmarking real models under real concurrency \u2014 and instead of guessing, we&#39;d rather run what you actua",
-      "phases": [
-        "p1",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "c29a9cb18bf9",
       "title": "Proposal: Use semantic compression as input diffusion to read sessions larger than the context window [R]",
       "url": "t3_1un63hv",
@@ -1248,19 +1274,6 @@
       "summary": "I&#39;ve been trying to come up with a solution for keeping extremely long ai sessions coherent. Sometimes there is too much substance to risk compaction. With so much buzz around diffusion going on it got me thinking, what if we treat the context like a progressive render, blurr",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "ac81f5442480",
-      "title": "BaryGraph - knowledge graph where every relationship is its own embedded document (not an edge) [R]",
-      "url": "t3_1un3lsf",
-      "source": "r/ML",
-      "published": "2026-07-04T08:24:42+00:00",
-      "summary": "Instead of node --edge--&gt; node , every relationship is a first-class document with its own vector, called a BaryEdge. Stack pairs of BaryEdges recursively and you get &quot;MetaBary&quot; triads that surface structural bridges between concepts that live nowhere near each other",
-      "phases": [
-        "p2"
       ],
       "category": "models",
       "weight": 1
@@ -1476,23 +1489,6 @@
       "phases": [
         "p2",
         "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "4c41d2828551",
-      "title": "How to describe a model that has higher accuracy with fewer #param and FLOPs? [D]",
-      "url": "t3_1ukv9x5",
-      "source": "r/ML",
-      "published": "2026-07-01T19:21:38+00:00",
-      "summary": "Hello, My supervisor is nowhere to be found so I am turning to the internet for my naive questions. &#32; submitted by &#32; /u/obliviousphoenix2003 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 1
