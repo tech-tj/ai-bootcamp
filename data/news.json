@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-06T09:52:26.873117+00:00",
-  "count": 117,
+  "generated": "2026-07-06T14:54:24.799687+00:00",
+  "count": 119,
   "articles": [
     {
       "id": "1f96c5e608ff",
@@ -662,6 +662,53 @@
       "weight": 3
     },
     {
+      "id": "d798ac5f5ede",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "HuggingFace",
+      "published": "2026-07-07T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "c83f72877e1f",
+      "title": "The Download: South Korea\u2019s hottest bachelors, and advancing eye transplants",
+      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-06T13:00:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea\u2019s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix,",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "73a3593908f1",
+      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
+      "url": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+      "source": "Import AI",
+      "published": "2026-07-06T12:31:05+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe now Fable writes a decent GPU kernel, hinting at broader AI R&#38;D automation:\u2026The start of an RSI lo",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
       "id": "166d1efeb218",
       "title": "South Korea\u2019s hottest new bachelors are chip workers",
       "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
@@ -809,19 +856,6 @@
       "source": "MIT Tech Review",
       "published": "2026-07-01T14:35:16+00:00",
       "summary": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll get 3 or 4. Type \u201cAnother\u201d again and you\u2019ll get 8 or 9. That won\u2019t work every t",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "714a5dcd7fae",
-      "title": "The Download: Anthropic launches Claude Science, and California\u2019s carbon manure math",
-      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-01T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic\u2019s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers",
       "phases": [
         "p1"
       ],
@@ -1215,6 +1249,35 @@
       "weight": 2
     },
     {
+      "id": "f08ab08d6a56",
+      "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench\u2019s EventQA using gpt-oss-20B [P]",
+      "url": "t3_1uoz5jo",
+      "source": "r/ML",
+      "published": "2026-07-06T14:35:56+00:00",
+      "summary": "Built a memory system called TRACE that organizes agent conversation history into a topic tree (branches + summaries) instead of flat RAG chunks, and benchmarked it on MemoryAgentBench (ICLR 2026), specifically the EventQA accurate-retrieval task. Its a pypi package: pip install ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "26c7994592ab",
+      "title": "Machine learning industry job requirements used to be myopic, but now it feels impossible. Anyone else seeing this? [D]",
+      "url": "t3_1uov7or",
+      "source": "r/ML",
+      "published": "2026-07-06T11:57:00+00:00",
+      "summary": "Today I was just casually browsing some jobs with tags [machine learning] on one of those large popular job-sites. What I am seeing really had me astonished. I want to check with Reddit whether I am hallucinating. A non-FAANG/non-Deepmind/.../non-Anthropic industrial automation c",
+      "phases": [
+        "p1"
+      ],
+      "category": "community",
+      "weight": 1
+    },
+    {
       "id": "8c6acf34541d",
       "title": "Does anyone have a name for that subtle \"Sameness\" creeping into model outputs lately? [R]",
       "url": "t3_1uon503",
@@ -1456,23 +1519,6 @@
       "weight": 1
     },
     {
-      "id": "74412348548a",
-      "title": "Has anyone tried this approach with Fast Byte Latent Transformers ? [R]",
-      "url": "t3_1ulngy8",
-      "source": "r/ML",
-      "published": "2026-07-02T16:43:33+00:00",
-      "summary": "Paper Referred:- https://arxiv.org/pdf/2412.09871v1 Has anyone switched the transformer in the entropy model here to a Mamba model ? What could be the possible changes ? Just a ML fresher asking a genuine, since Mamba is more popular and saves computer (O(n)). Thanking you in adv",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
       "id": "e4bab27bb629",
       "title": "Books/Resources to improve mathematical foundations for ML research [D]",
       "url": "t3_1ulmy9g",
@@ -1550,23 +1596,6 @@
       "phases": [
         "p2",
         "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "e475270fa04a",
-      "title": "ACL ARR May 2026[D]",
-      "url": "t3_1ukud96",
-      "source": "r/ML",
-      "published": "2026-07-01T18:48:58+00:00",
-      "summary": "Hi everyone. Do the ACL arr may 2026 reviews come out of July 2nd or do they come out on July 7 th?? How much does one need to get into Main or Findings? I am a bit new to this. Thanks a lot folks. &#32; submitted by &#32; /u/Anshuman3480 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 1
