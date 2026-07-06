@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T18:58:51.742669+00:00",
+  "generated": "2026-07-06T02:01:16.840230+00:00",
   "count": 116,
   "articles": [
     {
@@ -1194,6 +1194,21 @@
       "weight": 2
     },
     {
+      "id": "d75d562f0195",
+      "title": "Best models for generating red-team attacks? Also looking for public datasets [R]",
+      "url": "t3_1uoejrl",
+      "source": "r/ML",
+      "published": "2026-07-05T21:49:16+00:00",
+      "summary": "Hi everyone, I&#39;m currently working on a framework to evaluate the security of LLM applications and AI agents, and I&#39;ve been stuck on one part for a while. Most red-teaming frameworks rely on an LLM to generate adversarial prompts. My question is more about which model to ",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "ba88a7d15b47",
       "title": "I built an open, from-scratch MT pipeline + parallel corpus for Tunisian Darija (Arabizi) early baseline, and I'm growing it into a curated community corpus [P]",
       "url": "t3_1uo92vz",
@@ -1277,19 +1292,6 @@
       "weight": 1
     },
     {
-      "id": "6c26e627825f",
-      "title": "I built a open source neural network shape validator [P]",
-      "url": "t3_1unvbdb",
-      "source": "r/ML",
-      "published": "2026-07-05T06:58:02+00:00",
-      "summary": "Built a visual editor that validates tensor shapes, counts params, estimates FLOPs/VRAM while you design. Catches incompatible residuals, mismatched Linear layers, all that before you waste GPU time. 63 ops. Proper shape inference. Exports PyTorch code that actually runs. URL- te",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
       "id": "637507b65c47",
       "title": "If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D]",
       "url": "t3_1unt64q",
@@ -1300,20 +1302,6 @@
         "p1"
       ],
       "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "829e34896278",
-      "title": "If your GPU can run inference, it should be able to fine-tune too. [P]",
-      "url": "t3_1unl62q",
-      "source": "r/ML",
-      "published": "2026-07-04T21:56:48+00:00",
-      "summary": "I spent the last few months building a new sparse fine-tuning method for MoE models called **USAF**. The goal was simple: if your GPU can run inference on an MoE model, it should also be able to fine-tune it. On my AMD RX 6750 XT (12 GB), I can fine-tune Qwen3-30B-A3B by training",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "models",
       "weight": 1
     },
     {
@@ -1543,6 +1531,19 @@
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "3ff351aa348a",
+      "title": "[D] Simple Questions Thread",
+      "url": "t3_1uko3x6",
+      "source": "r/ML",
+      "published": "2026-07-01T15:00:27+00:00",
+      "summary": "Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so keep posting after the date in the title. Thanks to everyone for answering questions in the previou",
+      "phases": [
+        "p2"
       ],
       "category": "models",
       "weight": 1
