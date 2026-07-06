@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-06T14:54:24.799687+00:00",
-  "count": 119,
+  "generated": "2026-07-06T19:37:57.643304+00:00",
+  "count": 120,
   "articles": [
     {
       "id": "1f96c5e608ff",
@@ -675,6 +675,36 @@
       "weight": 2
     },
     {
+      "id": "e930f63d2b61",
+      "title": "Your family\u2019s $300 stake in OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-06T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman\u2019s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday,",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "3dd55d889219",
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "source": "HuggingFace",
+      "published": "2026-07-06T15:30:55+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "c83f72877e1f",
       "title": "The Download: South Korea\u2019s hottest bachelors, and advancing eye transplants",
       "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
@@ -845,19 +875,6 @@
       "summary": "Something stinks in California\u2019s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just poll",
       "phases": [
         "p2"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "b7a1a19f77c0",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "source": "MIT Tech Review",
-      "published": "2026-07-01T14:35:16+00:00",
-      "summary": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll get 3 or 4. Type \u201cAnother\u201d again and you\u2019ll get 8 or 9. That won\u2019t work every t",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 2
@@ -1249,6 +1266,50 @@
       "weight": 2
     },
     {
+      "id": "77ad587e3079",
+      "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
+      "url": "t3_1up4cjh",
+      "source": "r/ML",
+      "published": "2026-07-06T17:37:58+00:00",
+      "summary": "The idea: instead of masking random patches and hoping boundary structure emerges, the teacher predicts a dense boundary field online and the boundary-bearing tokens are forced into the student&#39;s mask, so the student has to reconstruct exactly the regions that can&#39;t be in",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "6f7da8939e78",
+      "title": "Edge AI ASL Recognition on Raspberry Pi 5 \u2013 Looking for Feedback on My System Design [P]",
+      "url": "t3_1up3kby",
+      "source": "r/ML",
+      "published": "2026-07-06T17:10:57+00:00",
+      "summary": "Body: &#32; submitted by &#32; /u/Unlikely_Let_9147 [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "a7170e18529a",
+      "title": "CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai's new Pocket TTS [P]",
+      "url": "t3_1up0azr",
+      "source": "r/ML",
+      "published": "2026-07-06T15:17:36+00:00",
+      "summary": "Sharing a CPU TTS benchmark with objective MOS scores in case it&#39;s useful for anyone evaluating small TTS models. Adding this because Kyutai&#39;s Pocket TTS is architecturally different from the others in the field and I hadn&#39;t seen a head-to-head with it yet. Models: Ko",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "f08ab08d6a56",
       "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench\u2019s EventQA using gpt-oss-20B [P]",
       "url": "t3_1uoz5jo",
@@ -1567,54 +1628,6 @@
         "p5"
       ],
       "category": "industry",
-      "weight": 1
-    },
-    {
-      "id": "dc3b800d407a",
-      "title": "Hamiltonian Neural Networks from a Differential Geometry Perspective [D]",
-      "url": "t3_1ukzdnj",
-      "source": "r/ML",
-      "published": "2026-07-01T21:55:58+00:00",
-      "summary": "This is a write-up on our company blog that I wrote, sharing our perspective into Hamiltonian Neural Networks (Greydanus et al., 2019) from a differential-geometry angle rather than the usual &quot;here&#39;s the loss function&quot; treatment. I&#39;ve been working on HNN and LNN",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "industry",
-      "weight": 1
-    },
-    {
-      "id": "35dc3243d478",
-      "title": "New PyMuPDF release, supports Markdown [N]",
-      "url": "t3_1ukyciw",
-      "source": "r/ML",
-      "published": "2026-07-01T21:15:56+00:00",
-      "summary": "https://pymupdf.io/blog/markdown-in-pymupdf-1-28 PyMuPDF 1.28 release, introduces Markdown as a first class document in PyMuPDF. Seems useful for a variety of workflows. You can create PDFs from Markdown text with control over appearance using CSS &#32; submitted by &#32; /u/Remo",
-      "phases": [
-        "p2",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "3f2ddbf86760",
-      "title": "On July 1, 2026, arXiv will spin out from Cornell University, its home for the past 25 years, to become an independent nonprofit organization. Major funding support from Simons Foundation and Schmidt Sciences. Ditching the red for their website. [N]",
-      "url": "t3_1ukjtlm",
-      "source": "r/ML",
-      "published": "2026-07-01T12:07:43+00:00",
-      "summary": "arXiv\u2019s next chapter: Updates on our spin out from Cornell University: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ &#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 1
     },
     {
