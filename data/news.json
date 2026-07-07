@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T09:20:49.242856+00:00",
+  "generated": "2026-07-07T14:03:17.552662+00:00",
   "count": 120,
   "articles": [
     {
@@ -660,6 +660,50 @@
       ],
       "category": "research",
       "weight": 3
+    },
+    {
+      "id": "0e5ebf4a584e",
+      "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-07T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family\u2019s $300 stake in OpenAI Sam Altman\u2019s proposal that Americans should share in the wealth created by AI is back in the sp",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "34dc6f6de3b4",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-07T11:10:52+00:00",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six m",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "tools",
+      "weight": 2
+    },
+    {
+      "id": "b11b6e4d107e",
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-07T10:00:00+00:00",
+      "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family\u2019s land in Hickman, a tiny town in the state\u2019s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reve",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "d93127451f3e",
@@ -1674,50 +1718,6 @@
       "phases": [
         "p3",
         "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "c2ca55f5632e",
-      "title": "AgenticPD: A Stage-Aware Agentic Framework for Physical Design QoR Optimization",
-      "url": "https://arxiv.org/abs/2607.04758",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-07T00:00:00-04:00",
-      "summary": "arXiv:2607.04758v1 Announce Type: new Abstract: Physical design quality-of-results~(QoR) optimization is hard and expensive. Choices made at one stage can help or hurt later stages. Each evaluation requires a costly EDA run through the full flow. While existing methods still trea",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "5fcb5ad265ae",
-      "title": "CARL: Constraint-Aware Reinforcement Learning for Planning with LLMs",
-      "url": "https://arxiv.org/abs/2607.04854",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-07T00:00:00-04:00",
-      "summary": "arXiv:2607.04854v1 Announce Type: new Abstract: Despite their strong reasoning capabilities and extensive world knowledge, Large Language Models (LLMs) frequently generate plans that violate task constraints, undermining their reliability in real-world applications. This deficien",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "e372cbb7801f",
-      "title": "Medi-Gemma: A Hybrid Clinical Decision Support System Integrating Deterministic EMR Analytics and Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2607.04907",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-07T00:00:00-04:00",
-      "summary": "arXiv:2607.04907v1 Announce Type: new Abstract: Deploying Large Language Models (LLMs) in high-stakes clinical settings remains limited by structural hallucinations, weak deterministic reasoning over tabular patient data, and omissions in vector retrieval. This paper presents the",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4"
       ],
       "category": "research",
       "weight": 2
