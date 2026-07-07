@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T19:37:57.643304+00:00",
+  "generated": "2026-07-07T01:56:31.984155+00:00",
   "count": 120,
   "articles": [
     {
@@ -67,18 +67,14 @@
       "weight": 3
     },
     {
-      "id": "e25563234204",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "id": "3abd2cd235af",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "source": "OpenAI",
       "published": "2026-06-30T00:00:00+00:00",
-      "summary": "",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -97,14 +93,18 @@
       "weight": 3
     },
     {
-      "id": "3abd2cd235af",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "id": "e25563234204",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
       "source": "OpenAI",
       "published": "2026-06-30T00:00:00+00:00",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "summary": "",
       "phases": [
-        "p1"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -479,20 +479,16 @@
       "weight": 3
     },
     {
-      "id": "f5fdb80fa91a",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "id": "8926e37d73b8",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
       "source": "OpenAI",
       "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity.",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
+        "p1"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 3
     },
     {
@@ -510,16 +506,20 @@
       "weight": 3
     },
     {
-      "id": "8926e37d73b8",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
+      "id": "f5fdb80fa91a",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "source": "OpenAI",
       "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity.",
       "phases": [
-        "p1"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
-      "category": "models",
+      "category": "research",
       "weight": 3
     },
     {
@@ -1266,6 +1266,23 @@
       "weight": 2
     },
     {
+      "id": "73ff71899045",
+      "title": "How should I encode both target and feature variable for a multiclass classification? [D]",
+      "url": "t3_1upa8yc",
+      "source": "r/ML",
+      "published": "2026-07-06T21:07:37+00:00",
+      "summary": "I am preprocessing a CSV dataset for multiclass classification with XGBoost. My Feature variable contain numerical and categorical values , while the target variable contain many categorical value. For example, feature variables contain patient name, phone number, and exercise hi",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
       "id": "77ad587e3079",
       "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
       "url": "t3_1up4cjh",
@@ -1513,21 +1530,6 @@
       "summary": "Hi, I am supposed to prepare for SLM and its software part for an on campus internship, i&#39;ve worked with local models like ollama generally,in my projects and also with open claw so can anyone guide me the last 2-3 days tips on what should i go through for this internship pre",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "112e6db0fc9d",
-      "title": "What does \"Safe AI\" look like? [D]",
-      "url": "t3_1um9bs7",
-      "source": "r/ML",
-      "published": "2026-07-03T09:07:26+00:00",
-      "summary": "&#x200B; For open-weight LLMs, how practical is it to study defenses against post-release fine-tuning that weakens refusal or safety behavior? I&#39;ve been seeing \u201cuncensored\u201d or \u201cheretic\u201d variants of new models appear very quickly after release, which raises a question I\u2019m curi",
-      "phases": [
-        "p1",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 1
