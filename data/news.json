@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T19:38:01.679866+00:00",
+  "generated": "2026-07-08T01:26:57.680050+00:00",
   "count": 120,
   "articles": [
     {
@@ -25,6 +25,20 @@
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
       "phases": [
         "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "702fb607570e",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "source": "OpenAI",
+      "published": "2026-07-07T00:00:00+00:00",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "phases": [
+        "p1",
+        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -94,23 +108,6 @@
       "weight": 3
     },
     {
-      "id": "e25563234204",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "source": "OpenAI",
-      "published": "2026-06-30T00:00:00+00:00",
-      "summary": "",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "3abd2cd235af",
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
@@ -134,6 +131,23 @@
         "p4"
       ],
       "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "e25563234204",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "source": "OpenAI",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -212,6 +226,23 @@
       "weight": 3
     },
     {
+      "id": "6a60389badcb",
+      "title": "Designing Organisations That Can Keep Up With AI",
+      "url": "https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai",
+      "source": "OpenAI",
+      "published": "2026-06-25T12:00:00+00:00",
+      "summary": "Why organisational latency is becoming the biggest barrier to fully realising AI\u2019s benefits",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "24d4c9543d4c",
       "title": "How agents are transforming work",
       "url": "https://openai.com/index/how-agents-are-transforming-work",
@@ -263,6 +294,19 @@
         "p4"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "7f2ab6481634",
+      "title": "Meta-Harness R&D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows",
+      "url": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows",
+      "source": "OpenAI",
+      "published": "2026-06-23T12:00:00+00:00",
+      "summary": "How autonomous code improvement can be made disciplined enough for enterprise use",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -506,6 +550,20 @@
       "weight": 3
     },
     {
+      "id": "9b77dce7b354",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f5fdb80fa91a",
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -546,20 +604,6 @@
         "p1"
       ],
       "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "9b77dce7b354",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -676,17 +720,21 @@
       "weight": 3
     },
     {
-      "id": "f4ee2a7a3a8a",
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "source": "OpenAI",
-      "published": "2026-06-08T00:00:00+00:00",
-      "summary": "OpenAI launches the Economic Research Exchange to study AI\u2019s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "id": "830b87f8c5bf",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "source": "HuggingFace",
+      "published": "2026-07-07T21:15:33+00:00",
+      "summary": "",
       "phases": [
-        "p1"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
-      "category": "research",
-      "weight": 3
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "37a75100de70",
@@ -1681,48 +1729,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "1c00ac80c678",
-      "title": "Governed Individuation: Cryptographically Decoupling an Agent's Learning from Its Authority",
-      "url": "https://arxiv.org/abs/2607.04613",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-07T00:00:00-04:00",
-      "summary": "arXiv:2607.04613v1 Announce Type: new Abstract: Autonomous agents are moving from sandboxed text generators to operators of code, data, and physical infrastructure, and they increasingly learn while deployed. This reopens a question that alignment techniques answer only probabili",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "14a0b12c4dd5",
-      "title": "MRMS: A Multi-Resolution Memory Substrate for Long-Lived AI Agents",
-      "url": "https://arxiv.org/abs/2607.04617",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-07T00:00:00-04:00",
-      "summary": "arXiv:2607.04617v1 Announce Type: new Abstract: Long-lived AI agents require continuity across interactions, but continuity cannot be obtained by simply extending the prompt window. An agent must preserve useful prior experience, retrieve it selectively, distinguish personal cont",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "c18ed7ecc9ad",
-      "title": "Formal Disco: Scalable Open-Ended Generation of Formally Verified Programs",
-      "url": "https://arxiv.org/abs/2607.04631",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-07T00:00:00-04:00",
-      "summary": "arXiv:2607.04631v1 Announce Type: new Abstract: The cost of producing code is rapidly diminishing with increasingly capable AI agents, while quality assurance of generated programs has not kept pace. Formal verification provides the strongest possible guarantees, but the ability ",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
