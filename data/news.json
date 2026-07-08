@@ -1,7 +1,33 @@
 {
-  "generated": "2026-07-08T13:26:31.769461+00:00",
+  "generated": "2026-07-08T19:03:47.235587+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "df3e09db44f7",
+      "title": "Helping K\u201312 educators build practical AI skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "source": "OpenAI",
+      "published": "2026-07-08T10:00:00+00:00",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K\u201312 educators build practical AI skills for the classroom.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "733b8abf917b",
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "source": "OpenAI",
+      "published": "2026-07-08T00:00:00+00:00",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "c754a9a1d071",
       "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
@@ -108,14 +134,18 @@
       "weight": 3
     },
     {
-      "id": "3abd2cd235af",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "id": "e25563234204",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
       "source": "OpenAI",
       "published": "2026-06-30T00:00:00+00:00",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "summary": "",
       "phases": [
-        "p1"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -134,18 +164,14 @@
       "weight": 3
     },
     {
-      "id": "e25563234204",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "id": "3abd2cd235af",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "source": "OpenAI",
       "published": "2026-06-30T00:00:00+00:00",
-      "summary": "",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -293,19 +319,6 @@
       "weight": 3
     },
     {
-      "id": "5d9de7a5a94a",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "source": "OpenAI",
-      "published": "2026-06-22T10:00:00+00:00",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "f601b26b225b",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "url": "https://openai.com/index/patch-the-planet",
@@ -316,6 +329,19 @@
         "p1"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "5d9de7a5a94a",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI",
+      "published": "2026-06-22T10:00:00+00:00",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -534,6 +560,19 @@
       "weight": 3
     },
     {
+      "id": "bfbf641beda5",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "source": "OpenAI",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
+    {
       "id": "f5fdb80fa91a",
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -561,19 +600,6 @@
         "p1"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "bfbf641beda5",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
       "weight": 3
     },
     {
@@ -663,17 +689,34 @@
       "weight": 3
     },
     {
-      "id": "c39ad57d6bd7",
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "source": "OpenAI",
-      "published": "2026-06-08T14:00:00+00:00",
-      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "id": "dad44939bb24",
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "source": "HuggingFace",
+      "published": "2026-07-08T17:16:05+00:00",
+      "summary": "",
       "phases": [
-        "p1"
+        "p3"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
+    },
+    {
+      "id": "df693c770abf",
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-08T16:26:10+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "de792f4a79c2",
@@ -1685,53 +1728,6 @@
       "phases": [
         "p3",
         "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "ee6433d8da92",
-      "title": "Geometry-Aware Infrastructure-Anchored Denoiser for UWB Sensing and Work-Zone Reconstruction",
-      "url": "https://arxiv.org/abs/2607.05449",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-08T00:00:00-04:00",
-      "summary": "arXiv:2607.05449v1 Announce Type: cross Abstract: Accurate work-zone geometry perception is critical for intelligent transportation systems, and ultra-wideband sensing offers a low-cost approach for infrastructure-aided reconstruction. However, outdoor UWB ranging is often degrad",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "dbfbd1730669",
-      "title": "The Granularity Paradox: How Temporal Disaggregation Inflates In-Sample Fit and Compounds Out-of-Sample Error",
-      "url": "https://arxiv.org/abs/2607.05450",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-08T00:00:00-04:00",
-      "summary": "arXiv:2607.05450v1 Announce Type: cross Abstract: This paper explores the \"Granularity Paradox\" in time-series forecasting, wherein finer temporal disaggregation (e.g., Monthly to Weekly/Daily) improves in-sample diagnostics and dataset size (N), but degrades out-of-sample accura",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "76af23253df5",
-      "title": "Empirical Minimal-Realisation Compression of Deep Neural Networks via Controllability-Observability Tests",
-      "url": "https://arxiv.org/abs/2607.05457",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-08T00:00:00-04:00",
-      "summary": "arXiv:2607.05457v1 Announce Type: cross Abstract: Deep neural networks often contain substantial hidden-state redundancy, but most compression methods operate directly on weights, neurons, or quantised representations without explicitly characterising the dynamical role of intern",
-      "phases": [
-        "p5"
       ],
       "category": "research",
       "weight": 2
