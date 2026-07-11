@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T19:13:30.900636+00:00",
+  "generated": "2026-07-11T01:26:25.685384+00:00",
   "count": 120,
   "articles": [
     {
@@ -638,76 +638,6 @@
         "p5"
       ],
       "category": "industry",
-      "weight": 3
-    },
-    {
-      "id": "f5fdb80fa91a",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "9b77dce7b354",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "8926e37d73b8",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "bfbf641beda5",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "source": "OpenAI",
-      "published": "2026-06-11T00:00:00+00:00",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "c6fecd915567",
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "source": "OpenAI",
-      "published": "2026-06-10T20:00:00+00:00",
-      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -1724,6 +1654,83 @@
       "source": "ArXiv cs.LG",
       "published": "2026-07-10T00:00:00-04:00",
       "summary": "arXiv:2607.08299v1 Announce Type: new Abstract: Accurate and timely diagnoses are essential for quality patient care. However, delayed recommendation of diagnostic tests and physicians' subjective interpretations can hinder effective care. This study introduces a pathological tes",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "eb60c8a46e33",
+      "title": "Learning $\\mathsf{AC}^0$ under Locally Sampleable Graphical Models",
+      "url": "https://arxiv.org/abs/2607.08303",
+      "source": "ArXiv cs.LG",
+      "published": "2026-07-10T00:00:00-04:00",
+      "summary": "arXiv:2607.08303v1 Announce Type: new Abstract: The problem of learning constant-depth circuits holds profound implications for computational learning theory. In a seminal result, by introducing the low-degree algorithm, Linial, Mansour, and Nisan (J. ACM 1993) presented a quasip",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "7819db214aa0",
+      "title": "Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix",
+      "url": "https://arxiv.org/abs/2607.08312",
+      "source": "ArXiv cs.LG",
+      "published": "2026-07-10T00:00:00-04:00",
+      "summary": "arXiv:2607.08312v1 Announce Type: new Abstract: How should language interface with a world model's discrete symbol system? The dominant paradigm -- end-to-end injection of LLM/VLM features into robot world models (RT-2, Octo, PaLM-E) -- implicitly assumes that language gradients ",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "f514c8a91f0f",
+      "title": "ArtMine: Discovering and Formalizing Artistic Processes",
+      "url": "https://arxiv.org/abs/2607.08331",
+      "source": "ArXiv cs.LG",
+      "published": "2026-07-10T00:00:00-04:00",
+      "summary": "arXiv:2607.08331v1 Announce Type: new Abstract: Understanding how artworks are created requires reasoning about the iterative decisions, material operations, and contextual influences that shape artistic production. While recent generative AI systems can synthesize artworks with ",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "571237bb18ca",
+      "title": "AutoAnchor: Stable Diffusion Unlearning Using Cross-Attention as a Manifold Surrogate",
+      "url": "https://arxiv.org/abs/2607.08337",
+      "source": "ArXiv cs.LG",
+      "published": "2026-07-10T00:00:00-04:00",
+      "summary": "arXiv:2607.08337v1 Announce Type: new Abstract: Diffusion unlearning is essential for mitigating the generation of harmful or copyrighted content in text-to-image models. Current diffusion unlearning techniques determine the model update direction by either using alternatives of ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "26a2fd9f7a0e",
+      "title": "Spectral Analysis of Dueling Q-Learning",
+      "url": "https://arxiv.org/abs/2607.08340",
+      "source": "ArXiv cs.LG",
+      "published": "2026-07-10T00:00:00-04:00",
+      "summary": "arXiv:2607.08340v1 Announce Type: new Abstract: Q-learning is a fundamental algorithm in reinforcement learning (RL) for solving discounted Markov decision processes (MDPs) when the transition kernel is unknown. The deep Q-network (DQN) extends Q-learning by using a deep neural n",
       "phases": [
         "p1",
         "p2",
