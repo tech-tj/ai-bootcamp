@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T07:56:10.611374+00:00",
-  "count": 118,
+  "generated": "2026-07-12T12:52:03.854620+00:00",
+  "count": 117,
   "articles": [
     {
       "id": "31630fbac8b6",
@@ -594,20 +594,6 @@
         "p5"
       ],
       "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "31e268b2c07a",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "source": "OpenAI",
-      "published": "2026-06-12T10:00:00+00:00",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -1234,6 +1220,38 @@
       "weight": 2
     },
     {
+      "id": "12ac0074b10e",
+      "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
+      "url": "t3_1uue8cc",
+      "source": "r/ML",
+      "published": "2026-07-12T12:32:29+00:00",
+      "summary": "TL:DR: I\u2019m a grad student in AI, I saw that Google released TabFM and TimesFM last week, I built an MCP wrapper to serve both transformer models in a single Docker container so you can connect their new ML transformer models to a local LLM via Open WebUI, Claude Code, or Codex an",
+      "phases": [
+        "p1",
+        "p3",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "70135bbfc1eb",
+      "title": "Obtaining Irregular Learning Curves with HyberBand Tuned ANN model for Price Prediction [P]",
+      "url": "t3_1uud3qj",
+      "source": "r/ML",
+      "published": "2026-07-12T11:38:41+00:00",
+      "summary": "I have used Hyperband automatic tuning for an ANN model to predict price. After running HyberBand automatic tuning to get the &#39;best&#39; architecture, I am obtaining a strange Val/Training loss learning curve. I cannot figure out if this is due to an error within the code or ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "11f75e51beba",
       "title": "Context and average best linear mappings [D]",
       "url": "t3_1uu2p63",
@@ -1445,21 +1463,6 @@
       "weight": 1
     },
     {
-      "id": "f88b0609375b",
-      "title": "Agentic safety triggers aren't textual safety triggers \u2014 MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]",
-      "url": "t3_1ur1fnz",
-      "source": "r/ML",
-      "published": "2026-07-08T18:36:04+00:00",
-      "summary": "Most safety alignment work treats &quot;detect the attack&quot; as a text classification problem \u2014 does the prompt contain language the model&#39;s safety guardrails should catch. That assumption breaks down for LLM agents with real tool access. Here&#39;s a concrete case: take a",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "bba46dd88285",
       "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
       "url": "t3_1ur0bxq",
@@ -1562,19 +1565,6 @@
         "p2",
         "p3",
         "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "bfcd6fd24a56",
-      "title": "What if a model could only learn what trusted LoRA adapters can express? [R]",
-      "url": "t3_1uq68li",
-      "source": "r/ML",
-      "published": "2026-07-07T20:00:11+00:00",
-      "summary": "Hello I published a paper. Most defenses against fine-tuning poisoning try to detect malicious data or reduce its impact. I explored a different question: What if the model simply could not learn certain malicious updates? The idea is to constrain fine-tuning to a subspace learne",
-      "phases": [
         "p5"
       ],
       "category": "models",
