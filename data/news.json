@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-11T18:42:26.635135+00:00",
+  "generated": "2026-07-12T01:27:56.311457+00:00",
   "count": 120,
   "articles": [
     {
@@ -608,36 +608,6 @@
         "p3"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "e5e9bd931104",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "source": "OpenAI",
-      "published": "2026-06-12T00:00:00+00:00",
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "a004c2b18314",
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "source": "Google AI",
-      "published": "2026-06-11T20:00:00+00:00",
-      "summary": "We\u2019re helping build the state\u2019s next-generation workforce and investing in energy programs.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "industry",
       "weight": 3
     },
     {
@@ -1717,6 +1687,34 @@
         "p3"
       ],
       "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "23e5104115ff",
+      "title": "Closed-Loop Dynamic Validator Node Scaling in Private Substrate Blockchains Using Takagi-Sugeno Fuzzy Inference",
+      "url": "https://arxiv.org/abs/2607.07901",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-11T00:00:00-04:00",
+      "summary": "arXiv:2607.07901v1 Announce Type: cross Abstract: Private blockchain networks run with fixed node configurations that cannot adapt to changing workload conditions. Too many nodes serving a light workload waste resources; too few nodes facing heavy demand slow block production and",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "aad88b5fca0e",
+      "title": "Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs",
+      "url": "https://arxiv.org/abs/2607.07903",
+      "source": "ArXiv cs.AI",
+      "published": "2026-07-11T00:00:00-04:00",
+      "summary": "arXiv:2607.07903v1 Announce Type: cross Abstract: Large language models (LLMs) exhibit remarkable capabilities but remain highly vulnerable to adversarial prompts and jailbreak attacks. Existing approaches primarily analyze these failures through input-output behaviors or attribu",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
       "weight": 2
     }
   ]
