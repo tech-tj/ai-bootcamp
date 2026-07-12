@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T12:52:03.854620+00:00",
-  "count": 117,
+  "generated": "2026-07-12T18:47:01.436100+00:00",
+  "count": 115,
   "articles": [
     {
       "id": "31630fbac8b6",
@@ -1220,6 +1220,66 @@
       "weight": 2
     },
     {
+      "id": "ad2c9f611d35",
+      "title": "Ph.D. in Operations Research / Big Tech Eng: How to transition into intermediate/advanced ML for high-value industries (Robotics, Defense, Finance)? [D]",
+      "url": "t3_1uumkkg",
+      "source": "r/ML",
+      "published": "2026-07-12T17:58:18+00:00",
+      "summary": "I hold a Ph.D. in Operations Research, along with a BSc/MSc in Engineering and OR. I previously worked in Big Tech, but I\u2019m currently looking to transition. My primary goal is to upgrade my technical skillset to maximize my industry-related profitability and marketability. I want",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "a671055575c3",
+      "title": "NeurIPS 2026 Workshop Proposal Decisions [D]",
+      "url": "t3_1uuhzzc",
+      "source": "r/ML",
+      "published": "2026-07-12T15:08:00+00:00",
+      "summary": "The official notification date was listed as July 11, AoE, but I have not seen any emails or public announcements yet. We are trying to plan ahead, and workshops already have a relatively short timeline for re-confirming speakers(their schedule may change), organizing reviewers, ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "7cf66102c6d6",
+      "title": "Fine tuning a model [D]",
+      "url": "t3_1uuh7ym",
+      "source": "r/ML",
+      "published": "2026-07-12T14:37:35+00:00",
+      "summary": "Hi folks, I am kind of new to fine tuning a model. I don&#39;t know how to fine tune. Now our team have to fine tune a model on one project. What we decided is, we will be using small model like, llama, mistral, or Gemma, and them feed it with our data. And from there we will be ",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "71eaffb384d7",
+      "title": "Where to publish a construction BIM Benchmark? [D]",
+      "url": "t3_1uufp11",
+      "source": "r/ML",
+      "published": "2026-07-12T13:36:08+00:00",
+      "summary": "Hey! I&#39;m an ML Engineer at a startup building AI for construction cost estimation, and we&#39;re getting ready to publish some research. We&#39;ve paid professional construction estimators to create item-level takeoffs from construction drawing sets, then had multiple rounds ",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "12ac0074b10e",
       "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
       "url": "t3_1uue8cc",
@@ -1279,19 +1339,6 @@
         "p5"
       ],
       "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "fd9a17934e21",
-      "title": "VultronRetriever family of models released on HuggingFace![R]",
-      "url": "t3_1utmxq8",
-      "source": "r/ML",
-      "published": "2026-07-11T15:22:33+00:00",
-      "summary": "Thrilled to announce the VultronRetriever family of models, which were revealed during Raise Summit Paris and demonstrated running Q&amp;A and embedding documents on the iPhone, fully offline! \ud83d\udcf1 Some highlights from the VultronRetriever model family: \ud83e\udd47 Each model ranks #1 in its ",
-      "phases": [
-        "p2"
-      ],
-      "category": "models",
       "weight": 1
     },
     {
@@ -1413,19 +1460,6 @@
         "p2"
       ],
       "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "acda6f11eff0",
-      "title": "Talos-XII: hand-written autograd + small RL/MLP stack in Rust, applied to gacha probability modeling (no tch-rs/ndarray/PyTorch) \u2014 looking for benchmark help on ARM/AVX-512/GPU [P]",
-      "url": "t3_1urvxgb",
-      "source": "r/ML",
-      "published": "2026-07-09T16:52:11+00:00",
-      "summary": "What it is Talos-XII is a CLI simulator for the gacha system in Arknights: Endfield. Rather than sampling from a static probability table, it trains a small set of neural nets to model environment uncertainty and pull-decision policy, then uses them to answer questions a static t",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
       "weight": 1
     },
     {
@@ -1571,40 +1605,6 @@
       "weight": 1
     },
     {
-      "id": "57af3d90c095",
-      "title": "TorchJD: Training with multiple losses in PyTorch [P]",
-      "url": "t3_1upzxk2",
-      "source": "r/ML",
-      "published": "2026-07-07T16:20:47+00:00",
-      "summary": "Hi everyone! I wanted to share some recent progress on TorchJD that might be useful to the machine learning community. When training models with multiple losses (multiple tasks, constraints, auxiliary losses, regularization terms, etc.), you typically have two options: Scalarizat",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "3e6412a4fc24",
-      "title": "Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling [R]",
-      "url": "t3_1upvkp5",
-      "source": "r/ML",
-      "published": "2026-07-07T13:45:40+00:00",
-      "summary": "Hi everyone, I recently finished my Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling . Instead of just compiling my published papers, I tried to write it as an accessible, self-contained textbook for anyone interested in the intersection of radio propagat",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "85ceb7b589cf",
       "title": "[D] Self-Promotion Thread",
       "url": "t3_1ul5bgf",
@@ -1704,40 +1704,6 @@
       "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "0ae2fb8f6083",
-      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-      "source": "Ars Technica",
-      "published": "2026-06-12T18:45:40+00:00",
-      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "industry",
-      "weight": 1
-    },
-    {
-      "id": "75f5b737d0fc",
-      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
-      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
-      "source": "Ars Technica",
-      "published": "2026-06-12T16:51:38+00:00",
-      "summary": "Even moderately sized data centers can have an outsized local impact.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 1
