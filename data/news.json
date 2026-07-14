@@ -1,18 +1,35 @@
 {
-  "generated": "2026-07-14T13:03:11.682337+00:00",
+  "generated": "2026-07-14T18:59:10.738910+00:00",
   "count": 120,
   "articles": [
     {
-      "id": "afc8cde3e2c8",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI",
-      "published": "2026-07-14T00:00:00+00:00",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "id": "84e3af10ba85",
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "source": "Google AI",
+      "published": "2026-07-14T16:00:00+00:00",
+      "summary": "Google Images is turning 25. Here\u2019s a look back at some major milestones \u2014 and new ways to explore and create visual content.",
       "phases": [
-        "p1"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "e59f55fe659d",
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "source": "OpenAI",
+      "published": "2026-07-14T10:00:00+00:00",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "phases": [
+        "p3"
+      ],
+      "category": "industry",
       "weight": 3
     },
     {
@@ -22,6 +39,19 @@
       "source": "OpenAI",
       "published": "2026-07-14T00:00:00+00:00",
       "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "afc8cde3e2c8",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI",
+      "published": "2026-07-14T00:00:00+00:00",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "phases": [
         "p1"
       ],
@@ -69,6 +99,19 @@
       "weight": 3
     },
     {
+      "id": "0453af9ffcc0",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "source": "OpenAI",
+      "published": "2026-07-09T10:00:00+00:00",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "6e3eba7a17b3",
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "url": "https://openai.com/index/gpt-5-6",
@@ -91,19 +134,6 @@
       "phases": [
         "p1",
         "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "0453af9ffcc0",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "source": "OpenAI",
-      "published": "2026-07-09T10:00:00+00:00",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -268,19 +298,6 @@
       "weight": 3
     },
     {
-      "id": "3abd2cd235af",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "source": "OpenAI",
-      "published": "2026-06-30T00:00:00+00:00",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "e25563234204",
       "title": "Inside Genebench-Pro",
       "url": "https://openai.com/index/genebench-pro/case-studies",
@@ -293,6 +310,19 @@
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "3abd2cd235af",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "source": "OpenAI",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -453,19 +483,6 @@
       "weight": 3
     },
     {
-      "id": "5d9de7a5a94a",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "source": "OpenAI",
-      "published": "2026-06-22T10:00:00+00:00",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "f601b26b225b",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "url": "https://openai.com/index/patch-the-planet",
@@ -476,6 +493,19 @@
         "p1"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "5d9de7a5a94a",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI",
+      "published": "2026-06-22T10:00:00+00:00",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -619,20 +649,6 @@
         "p5"
       ],
       "category": "industry",
-      "weight": 3
-    },
-    {
-      "id": "9b41ef631f1c",
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "source": "OpenAI",
-      "published": "2026-06-14T17:00:00+00:00",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "tools",
       "weight": 3
     },
     {
@@ -1681,20 +1697,6 @@
         "p1",
         "p3",
         "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "fb5c0d09a73d",
-      "title": "LOGOS: A Living Logic for AI Agent Teams That Evolve With Humans",
-      "url": "https://arxiv.org/abs/2607.10878",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-14T00:00:00-04:00",
-      "summary": "arXiv:2607.10878v1 Announce Type: new Abstract: AI agents are evolving from answer engines into persistent teams that use tools, delegate work, learn from experience, and modify the artifacts that shape their future behavior. The defining question for deployment is no longer mere",
-      "phases": [
-        "p3",
-        "p5"
       ],
       "category": "research",
       "weight": 2
