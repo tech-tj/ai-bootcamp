@@ -1,7 +1,35 @@
 {
-  "generated": "2026-07-15T13:06:49.716725+00:00",
+  "generated": "2026-07-15T18:52:37.977332+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "817e2aedd430",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "source": "OpenAI",
+      "published": "2026-07-15T12:00:00+00:00",
+      "summary": "OpenAI outlines a \u201creverse federalism\u201d approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "5ea0a6358ff1",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "OpenAI",
+      "published": "2026-07-15T10:00:00+00:00",
+      "summary": "Explore GPT-Red, OpenAI\u2019s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "84e3af10ba85",
       "title": "Celebrating 25 years of visual search innovation",
@@ -99,12 +127,12 @@
       "weight": 3
     },
     {
-      "id": "6e3eba7a17b3",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
+      "id": "0453af9ffcc0",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
       "source": "OpenAI",
       "published": "2026-07-09T10:00:00+00:00",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "summary": "Details about the OpenAI Bio Bounty program",
       "phases": [
         "p1"
       ],
@@ -112,12 +140,12 @@
       "weight": 3
     },
     {
-      "id": "0453af9ffcc0",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
+      "id": "6e3eba7a17b3",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
       "source": "OpenAI",
       "published": "2026-07-09T10:00:00+00:00",
-      "summary": "Details about the OpenAI Bio Bounty program",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "phases": [
         "p1"
       ],
@@ -635,12 +663,25 @@
       "weight": 3
     },
     {
-      "id": "72386a5f1b1c",
-      "title": "We\u2019re strengthening our presence in Alabama through new investments and community support.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "source": "Google AI",
-      "published": "2026-06-15T15:00:00+00:00",
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former\u2026",
+      "id": "534a04462ea2",
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "HuggingFace",
+      "published": "2026-07-15T17:29:41+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "6bf98bfe8790",
+      "title": "Model Routing Is Simple. Until It Isn\u2019t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "HuggingFace",
+      "published": "2026-07-15T17:27:01+00:00",
+      "summary": "",
       "phases": [
         "p1",
         "p2",
@@ -648,8 +689,21 @@
         "p4",
         "p5"
       ],
-      "category": "industry",
-      "weight": 3
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "0081d2e6c395",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-15T17:09:37+00:00",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red ",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "5c918f534dd5",
@@ -1697,65 +1751,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "4a79eadd023b",
-      "title": "Constraint-Aware Aggregation for Federated Reinforcement Learning in Microgrid Energy Coordination",
-      "url": "https://arxiv.org/abs/2607.12763",
-      "source": "ArXiv cs.LG",
-      "published": "2026-07-15T00:00:00-04:00",
-      "summary": "arXiv:2607.12763v1 Announce Type: new Abstract: Federated Reinforcement Learning (FedRL) enables coordination of distributed energy resources without sharing raw local data, but standard aggregation methods such as FedAvg do not account for system-level constraints, often leading",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "0b6a51b6e67d",
-      "title": "Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models",
-      "url": "https://arxiv.org/abs/2607.12771",
-      "source": "ArXiv cs.LG",
-      "published": "2026-07-15T00:00:00-04:00",
-      "summary": "arXiv:2607.12771v1 Announce Type: new Abstract: Reaction mechanisms consist of the step-by-step sequences of elementary reactions that explain chemical transformations. Learning the mechanism logic is therefore essential for enhancing the fundamental chemical intelligence of larg",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "260be418e6ef",
-      "title": "AVQ-Attention: Adaptive Vector-Quantized Attention",
-      "url": "https://arxiv.org/abs/2607.12789",
-      "source": "ArXiv cs.LG",
-      "published": "2026-07-15T00:00:00-04:00",
-      "summary": "arXiv:2607.12789v1 Announce Type: new Abstract: The $\\mathcal{O}(N^2)$ complexity of attention over $N$ tokens remains a computational bottleneck in transformer models. Vector-Quantized (VQ) attention reduces this to $\\mathcal{O}(MN)$ by representing keys with $M$ codewords, but ",
-      "phases": [
-        "p1",
-        "p2",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "5901b6a6afef",
-      "title": "Accelerating Masked Diffusion Large Language Models: A Survey of Efficient Inference Techniques",
-      "url": "https://arxiv.org/abs/2607.12829",
-      "source": "ArXiv cs.LG",
-      "published": "2026-07-15T00:00:00-04:00",
-      "summary": "arXiv:2607.12829v1 Announce Type: new Abstract: Diffusion large language models (dLLMs) offer a theoretical advantage in parallel generation over standard autoregressive models. However, parallel generation alone does not guarantee practical speedups. Realizing this efficiency re",
-      "phases": [
-        "p1"
       ],
       "category": "research",
       "weight": 2
