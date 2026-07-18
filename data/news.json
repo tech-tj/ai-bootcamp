@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T12:46:22.324174+00:00",
+  "generated": "2026-07-18T18:43:34.373930+00:00",
   "count": 120,
   "articles": [
     {
@@ -633,19 +633,6 @@
       "weight": 3
     },
     {
-      "id": "a55ebd412e31",
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "source": "OpenAI",
-      "published": "2026-06-18T17:00:00+00:00",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "2369b1fe4d4a",
       "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and \ud83e\udd17 Diffusers",
       "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
@@ -1270,17 +1257,43 @@
       "weight": 2
     },
     {
-      "id": "63333d90a8a4",
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "source": "HuggingFace",
-      "published": "2026-06-18T18:13:13+00:00",
-      "summary": "",
+      "id": "4e62780ca785",
+      "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+      "url": "t3_1uzyf66",
+      "source": "r/ML",
+      "published": "2026-07-18T15:10:52+00:00",
+      "summary": "The Google DeepMind-sponsored Kaggle challenge &quot;Measuring Progress Toward AGI - Cognitive Abilities&quot; asked participants to design new cognitive-science-based AI benchmarks and they just announced the results this week. In my two posts I present evidence that deepmind &a",
       "phases": [
-        "p3"
+        "p4"
       ],
-      "category": "research",
-      "weight": 2
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "624684b0fff6",
+      "title": "AAAI 27 AI Alignment track [D]",
+      "url": "t3_1uzxrn4",
+      "source": "r/ML",
+      "published": "2026-07-18T14:44:38+00:00",
+      "summary": "How to submit to AI alignment track? I can only see these at openReview: AAAI 2027 AAAI 2027 Artificial Intelligence for Social Impact Track AAAI 2027 Conference AAAI 2027 Innovative Applications of AI &#32; submitted by &#32; /u/Silencer_Wasd [link] &#32; [comments]",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "32b5bf9c26f0",
+      "title": "TabFM Studio: point-and-click predictions on spreadsheets with tabular foundation models, fully local [P]",
+      "url": "t3_1uzx1el",
+      "source": "r/ML",
+      "published": "2026-07-18T14:15:03+00:00",
+      "summary": "I built a small web app that lets you run tabular foundation models (currently just Google&#39;s TabFM) on spreadsheets without writing any code. Just drop in a CSV/Excel file, click a column header to mark what to predict, hit predict. Rows where the target cell is filled become",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
     },
     {
       "id": "681903860026",
@@ -1646,36 +1659,6 @@
       "weight": 1
     },
     {
-      "id": "14db3721be4b",
-      "title": "PyTorch model running 170x slower on T4 vs A100. What could cause a bottleneck this extreme? [D]",
-      "url": "t3_1ux6a9x",
-      "source": "r/ML",
-      "published": "2026-07-15T13:44:23+00:00",
-      "summary": "Hey everyone, Seeing a ~170\u00d7 slowdown running a point-tracking model on an NVIDIA T4 compared to an A100. On A100 the tracker takes ~0.5 seconds per half-video. On T4 the same call takes ~85 seconds. Video is 47 frames at 256\u00d7256, batch 1. I expect a meaningful gap between these ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "b4f404a59a7a",
-      "title": "AI/ML Research - What Does it Really Take? [D]",
-      "url": "t3_1ux64ub",
-      "source": "r/ML",
-      "published": "2026-07-15T13:38:27+00:00",
-      "summary": "I\u2019ve been deeply interested in AI and machine learning since around 2019, back when GPT-2 was still one of the major talking points. Since then, I\u2019ve been amazed by how quickly the field has evolved. It genuinely feels like one of the most exciting times to be involved in technol",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "f3bed8f1b854",
       "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
       "url": "t3_1uwya70",
@@ -1683,23 +1666,6 @@
       "published": "2026-07-15T06:59:41+00:00",
       "summary": "I have recently started working in mechanistic interpretability independently, starting with distill circuits thread My work is on disentangling and closely studying a single neuron, a 1x1 convolution in inceptionv1 model (and applying the method to other neurons in the same laye",
       "phases": [
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "25049f2c01ae",
-      "title": "Does anyone else miss the old conference ecosystem? [D]",
-      "url": "t3_1uwy25k",
-      "source": "r/ML",
-      "published": "2026-07-15T06:47:28+00:00",
-      "summary": "Does anyone else miss when conferences like BMVC, ACCV, FG, ICIP, and ICASSP had much bigger communities? FG was the place for face analysis, ICASSP for signal processing, and BMVC/ACCV regularly featured strong papers. Now it feels like everything is concentrated into a handful ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
         "p5"
       ],
       "category": "research",
@@ -1781,6 +1747,36 @@
         "p5"
       ],
       "category": "industry",
+      "weight": 1
+    },
+    {
+      "id": "7d69633f45ca",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "url": "t3_1uk949b",
+      "source": "r/ML",
+      "published": "2026-07-01T02:30:09+00:00",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you&#39;re looking for] For Those looking for jobs please use this template Want to be Hired: [Location], Salary Expectatio",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "fdfe27002820",
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "source": "Ars Technica",
+      "published": "2026-06-30T20:03:14+00:00",
+      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 1
     }
   ]
