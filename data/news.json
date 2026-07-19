@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19T12:49:20.722598+00:00",
+  "generated": "2026-07-19T18:46:27.279861+00:00",
   "count": 120,
   "articles": [
     {
@@ -1257,6 +1257,32 @@
       "weight": 2
     },
     {
+      "id": "5f8f87136510",
+      "title": "Most AI agents have no concept of opportunity cost [D]",
+      "url": "t3_1v0wln3",
+      "source": "r/ML",
+      "published": "2026-07-19T17:29:22+00:00",
+      "summary": "One thing that&#39;s been bugging me is how casually a lot of agents use tools. Every tool call adds something. More latency. Another thing that can fail. More context to carry around. I&#39;ve seen agents call five or six tools for work that probably could&#39;ve been done with ",
+      "phases": [
+        "p3"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "74b4800e542d",
+      "title": "Follow up: GPT-2's vocabulary as a hyperbolic tree \u2014 32,070 tokens in a Poincar\u00e9 ball you can fly through [P]",
+      "url": "t3_1v0pv45",
+      "source": "r/ML",
+      "published": "2026-07-19T12:54:23+00:00",
+      "summary": "GPT-2&#39;s vocabulary as a hyperbolic tree: 32,070 tokens inside a Poincar\u00e9 ball that you can explore. Link : https://aethereos.net/static/tinny66666.html Link named after a reddit user disappointed with my 2D projection ... It uses the same data as the flat map, GPT-2-small&#39",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "9c37a10e8a18",
       "title": "Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]",
       "url": "t3_1v0pnoq",
@@ -1608,19 +1634,6 @@
       "weight": 1
     },
     {
-      "id": "9bf490313b51",
-      "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
-      "url": "t3_1uy1z8b",
-      "source": "r/ML",
-      "published": "2026-07-16T12:50:35+00:00",
-      "summary": "Every qlora tutorial on earth says start at 2e-4. Unsloth docs, hf examples, the paper itself. and for small datasets i now think that numbers is a trap. Where does 2e-4 come from? alpaca. 52k samples. cool, except most of us are fine tuning on 5-10k samples we scraped and labele",
-      "phases": [
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
       "id": "25b5af464f49",
       "title": "Why is ECCV so insanely expensive for students presenting papers? [D]",
       "url": "t3_1uxyd6z",
@@ -1650,23 +1663,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "c348677ee47c",
-      "title": "Looking for JEPA devil advocates [R]",
-      "url": "t3_1uxcryc",
-      "source": "r/ML",
-      "published": "2026-07-15T17:34:44+00:00",
-      "summary": "I am currently doing research on world models, specially in tje field of robot learning, and, as probably most of you alredy know, JEPA-like models are mentioned over and over. I read the main recent papers from lecun as well as other research groups, and I personally think the w",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 1
     },
     {
