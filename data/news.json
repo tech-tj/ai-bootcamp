@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T18:43:34.373930+00:00",
+  "generated": "2026-07-19T01:26:22.338076+00:00",
   "count": 120,
   "articles": [
     {
@@ -1257,6 +1257,51 @@
       "weight": 2
     },
     {
+      "id": "8d4652e1d51f",
+      "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
+      "url": "t3_1v09muj",
+      "source": "r/ML",
+      "published": "2026-07-18T22:42:20+00:00",
+      "summary": "32,070 alphabetic tokens from GPT-2-small&#39;s WTE, no forward pass and no context. Works on mobile. Pinch to zoom, tap a token to see its nearest connections, tap a neighbour to walk the graph. Search box to jump anywhere. Layout is t-SNE over a compressed representation of the",
+      "phases": [
+        "p1",
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "8c202411a260",
+      "title": "GPT-2 Small\u2019s embedding geometry around \u201cTrump\u201d: discretized vs. continuous nearest neighbours [P]",
+      "url": "t3_1v07xai",
+      "source": "r/ML",
+      "published": "2026-07-18T21:29:05+00:00",
+      "summary": "This visualization looks at the token \u201cTrump\u201d in GPT-2 Small\u2019s static embedding table, before attention or context is applied. The top plot is a t-SNE projection of 32,070 alphabetic tokens with at least two characters. The two graphs below compare Trump\u2019s nearest neighbours unde",
+      "phases": [
+        "p1",
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "abaf06a4bc43",
+      "title": "Deep learning tackles single-cell analysis \u2013 A survey of deep learning for scRNA-seq analysis [R]",
+      "url": "t3_1v06nc1",
+      "source": "r/ML",
+      "published": "2026-07-18T20:35:16+00:00",
+      "summary": "Hello, I recently finished reading this survey paper: Deep learning tackles single-cell analysis \u2013 A survey of deep learning for scRNA-seq analysis , which comprehensively covers 25 different methods across 6 subcategories for applying deep learning to scRNA-seq analysis. To summ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
       "id": "4e62780ca785",
       "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
       "url": "t3_1uzyf66",
@@ -1399,20 +1444,6 @@
       "summary": "I have released EU AI Act OpenRAG, a downloadable corpus of Regulation (EU) 2024/1689 designed for RAG and legal-NLP experimentation. Instead of sliding character windows, the corpus chunks on the Regulation\u2019s legal structure: one chunk per article paragraph one per recital one p",
       "phases": [
         "p2"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "190615e9cf3b",
-      "title": "New Fable5/Opus4.8 harness called \"Schema\" claims 99% on ARC-3 [R]",
-      "url": "t3_1uyf8oo",
-      "source": "r/ML",
-      "published": "2026-07-16T21:02:45+00:00",
-      "summary": "Schema, the harness we introduce today, reaches 99% on the ARC\u2011AGI\u20113 Public set using Claude Opus 4.8 and Fable 5, and 95.35% using GPT\u20115.6 Sol. It does not change the underlying model weights. Instead, it changes the process around them: how observations are turned into a workin",
-      "phases": [
-        "p1",
-        "p5"
       ],
       "category": "models",
       "weight": 1
@@ -1636,36 +1667,6 @@
         "p2",
         "p3",
         "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "6c2a58dbb8a3",
-      "title": "NeurIPS reviews coming in soon! [D]",
-      "url": "t3_1ux8p0a",
-      "source": "r/ML",
-      "published": "2026-07-15T15:13:26+00:00",
-      "summary": "So, from what I&#39;ve seen across twitter(x) and reddit, I&#39;ve inferred that we&#39;ll be seeing NeurIPS reviews drop on July 22nd 5:30 pm AoE(Anywhere on earth), what&#39;s your thoughts to those who&#39;ve submitted to NeurIPS 2026 ? Would love to hear your opinion by the r",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "community",
-      "weight": 1
-    },
-    {
-      "id": "f3bed8f1b854",
-      "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
-      "url": "t3_1uwya70",
-      "source": "r/ML",
-      "published": "2026-07-15T06:59:41+00:00",
-      "summary": "I have recently started working in mechanistic interpretability independently, starting with distill circuits thread My work is on disentangling and closely studying a single neuron, a 1x1 convolution in inceptionv1 model (and applying the method to other neurons in the same laye",
-      "phases": [
         "p5"
       ],
       "category": "research",
