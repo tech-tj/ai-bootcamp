@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T08:36:15.328797+00:00",
+  "generated": "2026-07-20T13:44:41.269537+00:00",
   "count": 120,
   "articles": [
     {
@@ -631,6 +631,46 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "af2b2d45705b",
+      "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis\u2019 big policy plan",
+      "url": "https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
+      "source": "Import AI",
+      "published": "2026-07-20T12:31:45+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe now UK government: Gap between open and closed weight models on cyber is shrinking:\u2026The cyber-eschaton",
+      "phases": [
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "d3e0bceadbfd",
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-20T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your r\u00e9sum\u00e9 before any h",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "d213c30d2534",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-20T08:39:01+00:00",
+      "summary": "The next time you apply for a job, AI may screen your r\u00e9sum\u00e9 before any human sees it. But there\u2019s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also ",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
     },
     {
       "id": "e2d5317e077d",
@@ -1666,53 +1706,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "b23f99428e77",
-      "title": "RTL-Sequencer: Towards Scalable RTL Timing Prediction with the Sequence-based Paradigm",
-      "url": "https://arxiv.org/abs/2607.15830",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-20T00:00:00-04:00",
-      "summary": "arXiv:2607.15830v1 Announce Type: cross Abstract: Accurate timing prediction at the register-transfer level (RTL) is a longstanding challenge in design automation. Existing graph-based methods struggle with limited receptive fields, high complexity, and a lack of signal direction",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "c7bbe88fa075",
-      "title": "CAMMAR: Culture-Aware Matryoshka for Metaphorical Arabic Representations",
-      "url": "https://arxiv.org/abs/2607.15847",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-20T00:00:00-04:00",
-      "summary": "arXiv:2607.15847v1 Announce Type: cross Abstract: Metaphor in Arabic is a culturally grounded mechanism for constructing meaning, encoding cultural knowledge that shapes interpretation. Yet current Arabic language models typically collapse lexical, cultural, and metaphorical info",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "510e30519fa5",
-      "title": "Test-Time Noise Guided Adaptation for Realistic Autoregressive Video Generation",
-      "url": "https://arxiv.org/abs/2607.15849",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-20T00:00:00-04:00",
-      "summary": "arXiv:2607.15849v1 Announce Type: cross Abstract: Autoregressive video diffusion models have enabled the generation of arbitrarily long videos by removing conditioning on future frames, thus greatly improving computational efficiency. Yet, they suffer from error accumulation over",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
