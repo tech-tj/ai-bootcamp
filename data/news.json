@@ -1,7 +1,20 @@
 {
-  "generated": "2026-07-21T13:12:43.996900+00:00",
+  "generated": "2026-07-21T19:01:13.225412+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "9783627bd88c",
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "source": "OpenAI",
+      "published": "2026-07-21T17:00:00+00:00",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "960e35dd4f7d",
       "title": "Safety and alignment in an era of long-horizon models",
@@ -212,19 +225,6 @@
       "weight": 3
     },
     {
-      "id": "6e3eba7a17b3",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "source": "OpenAI",
-      "published": "2026-07-09T10:00:00+00:00",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "10a73f0831bf",
       "title": "ChatGPT is now a partner for your most ambitious work",
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
@@ -234,6 +234,19 @@
       "phases": [
         "p1",
         "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "6e3eba7a17b3",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "source": "OpenAI",
+      "published": "2026-07-09T10:00:00+00:00",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -596,19 +609,6 @@
       "weight": 3
     },
     {
-      "id": "5d9de7a5a94a",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "source": "OpenAI",
-      "published": "2026-06-22T10:00:00+00:00",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "f601b26b225b",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "url": "https://openai.com/index/patch-the-planet",
@@ -619,6 +619,19 @@
         "p1"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "5d9de7a5a94a",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI",
+      "published": "2026-06-22T10:00:00+00:00",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -1683,19 +1696,6 @@
       "summary": "arXiv:2607.17460v1 Announce Type: new Abstract: In decentralized storage systems, audit results are often not used directly to guide later redundancy and shard-placement decisions, which can lead to inefficient resource allocation and delayed recovery. We propose AEC-DS, a closed",
       "phases": [
         "p2"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e852c338a629",
-      "title": "Panache: One-Pass Motif Discovery at Every Window Length",
-      "url": "https://arxiv.org/abs/2607.17481",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-21T00:00:00-04:00",
-      "summary": "arXiv:2607.17481v1 Announce Type: new Abstract: Motif discovery, the search for recurring patterns within a time series, is a core primitive of exploratory data analysis. A pattern, however, is defined by its duration, which analysts rarely know in advance. To resolve this unknow",
-      "phases": [
-        "p5"
       ],
       "category": "research",
       "weight": 2
