@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T08:08:35.359010+00:00",
+  "generated": "2026-07-23T13:20:58.067180+00:00",
   "count": 120,
   "articles": [
     {
@@ -692,18 +692,51 @@
       "weight": 3
     },
     {
-      "id": "1b1b1aa40d91",
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "source": "OpenAI",
-      "published": "2026-06-23T13:00:00+00:00",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "id": "4851c8c0715d",
+      "title": "The Download: energy transmission and US threats against Chinese AI",
+      "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-23T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York\u2019s grid is hitting snags During a heat wave on July 3, New York State\u2019s grid imported en",
       "phases": [
         "p1",
-        "p4"
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "7f188a0c6b4b",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-23T12:00:00+00:00",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made",
+      "phases": [
+        "p1"
       ],
       "category": "tools",
-      "weight": 3
+      "weight": 2
+    },
+    {
+      "id": "31cc69d5f18c",
+      "title": "The power line that could reshape New York\u2019s grid is hitting snags",
+      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-23T09:00:00+00:00",
+      "summary": "On July 3, as a heat wave swept the region, New York State\u2019s grid imported 52 gigawatt-hours of electricity from Canada\u2014enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens calle",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "39c5df78a80e",
@@ -1669,33 +1702,6 @@
       "source": "ArXiv cs.AI",
       "published": "2026-07-23T00:00:00-04:00",
       "summary": "arXiv:2607.19338v1 Announce Type: new Abstract: Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat such failures as cascade decisions",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "7c55c8895867",
-      "title": "MechAInistic: An LLM-guided Multi-Agent System for Reasoning over Genome-Scale Constraint-Based Metabolic Models",
-      "url": "https://arxiv.org/abs/2607.18249",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-23T00:00:00-04:00",
-      "summary": "arXiv:2607.18249v1 Announce Type: cross Abstract: Constraint-based metabolic modeling is a powerful way to study the mechanistic basis of cellular states and disease, but its effective use demands substantial computational expertise and careful coordination of multi-step analyses",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "07ae76c66898",
-      "title": "Assistant or Actor? Student Trust, Control, and Delegation Regret When Using a General-Purpose AI Agent",
-      "url": "https://arxiv.org/abs/2607.18257",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-23T00:00:00-04:00",
-      "summary": "arXiv:2607.18257v1 Announce Type: cross Abstract: When AI agents shift from answering questions to taking actions, users face a new problem: deciding what to delegate, to a system whose action space they cannot fully anticipate. We call the resulting dissatisfaction delegation re",
       "phases": [
         "p3"
       ],
