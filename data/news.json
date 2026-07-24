@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T18:56:21.143104+00:00",
+  "generated": "2026-07-24T01:28:33.867605+00:00",
   "count": 120,
   "articles": [
     {
@@ -210,6 +210,19 @@
       "weight": 3
     },
     {
+      "id": "41170cb100da",
+      "title": "How Codex became a collaborator for OpenAI\u2019s creative team",
+      "url": "https://openai.com/index/codex-collaborator-creative-team",
+      "source": "OpenAI",
+      "published": "2026-07-16T07:00:00+00:00",
+      "summary": "How OpenAI\u2019s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
+    {
       "id": "b57416a816cc",
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
       "url": "https://openai.com/index/cars24",
@@ -282,12 +295,12 @@
       "weight": 3
     },
     {
-      "id": "ca8d7bccf4af",
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "id": "afc8cde3e2c8",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "source": "OpenAI",
       "published": "2026-07-14T00:00:00+00:00",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "phases": [
         "p1"
       ],
@@ -295,12 +308,12 @@
       "weight": 3
     },
     {
-      "id": "afc8cde3e2c8",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "id": "ca8d7bccf4af",
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "source": "OpenAI",
       "published": "2026-07-14T00:00:00+00:00",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "phases": [
         "p1"
       ],
@@ -348,6 +361,19 @@
       "weight": 3
     },
     {
+      "id": "6e3eba7a17b3",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "source": "OpenAI",
+      "published": "2026-07-09T10:00:00+00:00",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "0453af9ffcc0",
       "title": "GPT-5.5 Bio Bug Bounty",
       "url": "https://openai.com/index/bio-bug-bounty",
@@ -370,19 +396,6 @@
       "phases": [
         "p1",
         "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "6e3eba7a17b3",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "source": "OpenAI",
-      "published": "2026-07-09T10:00:00+00:00",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -547,6 +560,19 @@
       "weight": 3
     },
     {
+      "id": "fce36a9d8e02",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "source": "OpenAI",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "phases": [
+        "p4"
+      ],
+      "category": "research",
+      "weight": 3
+    },
+    {
       "id": "e25563234204",
       "title": "Inside Genebench-Pro",
       "url": "https://openai.com/index/genebench-pro/case-studies",
@@ -574,19 +600,6 @@
         "p1"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "fce36a9d8e02",
-      "title": "Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
-      "source": "OpenAI",
-      "published": "2026-06-30T00:00:00+00:00",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "phases": [
-        "p4"
-      ],
-      "category": "research",
       "weight": 3
     },
     {
@@ -1695,21 +1708,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "5f6705f34a0c",
-      "title": "Agents in the Wild: Where Research Meets Deployment",
-      "url": "https://arxiv.org/abs/2607.19336",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-23T00:00:00-04:00",
-      "summary": "arXiv:2607.19336v1 Announce Type: new Abstract: Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale deployments a",
-      "phases": [
-        "p1",
-        "p3",
-        "p5"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
