@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T08:04:36.942717+00:00",
-  "count": 116,
+  "generated": "2026-07-26T12:54:11.280237+00:00",
+  "count": 115,
   "articles": [
     {
       "id": "b6e63d548020",
@@ -647,20 +647,6 @@
       "weight": 3
     },
     {
-      "id": "7843b9ea14bc",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "source": "OpenAI",
-      "published": "2026-06-26T10:00:00+00:00",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "0ad2f3766102",
       "title": "The quest to keep organs alive outside the body",
       "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
@@ -1218,6 +1204,20 @@
       "weight": 2
     },
     {
+      "id": "b1d2bdb95c63",
+      "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
+      "url": "t3_1v71wds",
+      "source": "r/ML",
+      "published": "2026-07-26T11:58:39+00:00",
+      "summary": "I have been running some experiments with smaller open-weight LLMs on multiple-choice questions of Swedish medical licensing exams. On a dataset called MedQA-SWE, GPT-4 scored 84% accuracy in 2024 and o3 scored 88% in 2025 on a smaller, overlapping dataset. With post-training (SF",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "1c55f7cb989d",
       "title": "We compared different LLMs on IMO 2026 [R]",
       "url": "t3_1v6wskz",
@@ -1470,23 +1470,6 @@
       "summary": "The reviews were just released, and I downloaded my paper from OpenReview to identify areas that needed improvement. However, GPT warned me that the PDF contained a prompt injection. I never inserted such a prompt. After comparing my original submission with the version downloade",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "77c4ac0d859d",
-      "title": "NeurIPS Reviews out for me [R]",
-      "url": "t3_1v4ifp1",
-      "source": "r/ML",
-      "published": "2026-07-23T16:12:51+00:00",
-      "summary": "I know it might be because we have an earlier number (in the 600&#39;s) but we got all 4 of our reviews. Even the harshest ones were very insightful and honestly I&#39;m very happy with how this all turned out. Best of luck to everyone else in getting their reviews and good luck ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 1
