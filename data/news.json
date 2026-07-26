@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-26T12:54:11.280237+00:00",
+  "generated": "2026-07-26T18:53:19.351974+00:00",
   "count": 115,
   "articles": [
     {
@@ -1204,6 +1204,49 @@
       "weight": 2
     },
     {
+      "id": "65b8ecd330c7",
+      "title": "Multi-Tenant SaaS: Which Architecture Would You Choose? [D]",
+      "url": "t3_1v794kw",
+      "source": "r/ML",
+      "published": "2026-07-26T16:47:11+00:00",
+      "summary": "NOTE -&gt; I expect answer from people who actually have experience and strong understanding of these. please give something beneficial. I&#39;m building a SaaS platform in Sri Lanka that handles documents and other sensitive data. Each user can upload their own documents and inf",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "b3d7287e3128",
+      "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
+      "url": "t3_1v77r9s",
+      "source": "r/ML",
+      "published": "2026-07-26T15:57:02+00:00",
+      "summary": "Curious about the initial review distribution for Main Track theory papers this year. Our paper received 4/3/3 with confidence 3/3/3. From previous years, I&#39;ve had the impression that theory papers often receive more conservative initial scores than some other areas, and I&#3",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "c58bb53e7489",
+      "title": "I want to use AI coding agents for machine learning projects [D]",
+      "url": "t3_1v758ek",
+      "source": "r/ML",
+      "published": "2026-07-26T14:21:15+00:00",
+      "summary": "I&#39;m a software engineer who mainly builds softwaes/applications, and I&#39;m starting to work on machine learning projects. Since ML workloads often require GPUs, I know services like Google Colab and Kaggle exist. but, I&#39;m looking for something a bit different. Is there ",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "b1d2bdb95c63",
       "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
       "url": "t3_1v71wds",
@@ -1518,19 +1561,6 @@
       "weight": 1
     },
     {
-      "id": "1af476de1018",
-      "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
-      "url": "t3_1v3vuj9",
-      "source": "r/ML",
-      "published": "2026-07-22T22:48:22+00:00",
-      "summary": "We spent the last months consolidating seven separate sequence classifiers into one multi-head model, our apex model, so to speak, and since the weights are now public, I wanted to share what worked and what surprised us. Setup: a shared mmBERT-small encoder with seven task heads",
-      "phases": [
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "0cf8c09decc6",
       "title": "Asking about how to collaborate with professors or research labs [D]",
       "url": "t3_1v3t8s0",
@@ -1560,36 +1590,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "3656682a76c7",
-      "title": "NeurIPS 2026 Reviews Are Out Today (22 July, AoE) \u2014 Discussion Thread [D]",
-      "url": "t3_1v3a2le",
-      "source": "r/ML",
-      "published": "2026-07-22T08:30:19+00:00",
-      "summary": "Reviews drop today. This thread is for reactions, celebrations, commiserations, and anything useful in between. First: if you got good reviews, say so. There&#39;s a norm in these threads where only the bad news gets aired, and it skews everyone&#39;s sense of what&#39;s normal. ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "community",
-      "weight": 1
-    },
-    {
-      "id": "9aa1022d0761",
-      "title": "SkewAdam: A tiered optimizer that cuts MoE state memory by 97% (fits a 6.7B MoE on a 40GB GPU) [R]",
-      "url": "t3_1v38k1m",
-      "source": "r/ML",
-      "published": "2026-07-22T07:04:40+00:00",
-      "summary": "Paper: https://arxiv.org/abs/2607.19058 Code (GitHub): https://github.com/nuemaan/skewadam Hi everyone, I just published a preprint on a new optimizer designed to tackle the massive VRAM bottleneck in Mixture-of-Experts (MoE) training. If you&#39;ve trained MoEs, you know that op",
-      "phases": [
-        "p3"
       ],
       "category": "research",
       "weight": 1
