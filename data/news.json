@@ -1,7 +1,20 @@
 {
-  "generated": "2026-07-27T09:25:16.128357+00:00",
+  "generated": "2026-07-27T14:07:44.055433+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "680c3dc9eb02",
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI",
+      "published": "2026-07-27T03:30:00+00:00",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "b6e63d548020",
       "title": "Launching Health in ChatGPT",
@@ -560,19 +573,6 @@
       "weight": 3
     },
     {
-      "id": "3abd2cd235af",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "source": "OpenAI",
-      "published": "2026-06-30T00:00:00+00:00",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "e25563234204",
       "title": "Inside Genebench-Pro",
       "url": "https://openai.com/index/genebench-pro/case-studies",
@@ -600,6 +600,19 @@
         "p4"
       ],
       "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "3abd2cd235af",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "source": "OpenAI",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -645,6 +658,83 @@
       ],
       "category": "tools",
       "weight": 3
+    },
+    {
+      "id": "a380c4dc5b68",
+      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-27T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and tha",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "25cc5f27cc6a",
+      "title": "The path to artificial superintelligence",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-27T12:00:00+00:00",
+      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange da",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "31a791e8e2a8",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-27T11:40:16+00:00",
+      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years\u2014a phenomenon known as Eroom\u2019s Law. Today,",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "d10dbf6ad8c7",
+      "title": "Building the enterprise environment for agentic AI",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-27T11:32:58+00:00",
+      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resi",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "b24ba3574e2e",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "HuggingFace",
+      "published": "2026-07-27T09:32:20+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "8d23ebd1b276",
@@ -1610,93 +1700,6 @@
       "phases": [
         "p1",
         "p2"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "9c4f60bb1104",
-      "title": "Pixels for Programs? A Cross-Provider Case Study of Input-Token Accounting for Source Code as Text and Images",
-      "url": "https://arxiv.org/abs/2607.21672",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-27T00:00:00-04:00",
-      "summary": "arXiv:2607.21672v1 Announce Type: cross Abstract: Long source-code contexts consume many text tokens, motivating the proposal to render code as images for vision-language models. Recent work asks whether models can still solve code tasks after this transformation. We examine a di",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e0ad5f1b70ff",
-      "title": "Self-Poisoning in Adaptive Out-of-Distribution Detection: A Sharp-Threshold Theory and Certified Label-Free Calibration",
-      "url": "https://arxiv.org/abs/2607.21673",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-27T00:00:00-04:00",
-      "summary": "arXiv:2607.21673v1 Announce Type: cross Abstract: Test-time adaptive out-of-distribution (OOD) detectors update a memory bank from the unlabelled stream. We show this adaptation obeys a provable dynamical law. Modelling bank impurity as a generalized P\\'olya urn, we prove almost-",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "8f5c935c1bdd",
-      "title": "Enhancing SLMs for Sustainable Code Optimization in Radio-Astronomy",
-      "url": "https://arxiv.org/abs/2607.21677",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-27T00:00:00-04:00",
-      "summary": "arXiv:2607.21677v1 Announce Type: cross Abstract: Recent Large Language Models (LLMs) can produce and optimize complex code. We investigate the use of LLMs to generate and optimize code for large-scale sciences, focusing on radio astronomy and sustainability. The LOFAR telescope ",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "990ed1a097af",
-      "title": "A Defense of the Quadratic Model",
-      "url": "https://arxiv.org/abs/2607.21716",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-27T00:00:00-04:00",
-      "summary": "arXiv:2607.21716v1 Announce Type: cross Abstract: Due to the complexity of neural network loss landscapes, optimization theory is forced to rely on idealized models, and there is generally a tradeoff between how theoretically tractable the model is, and how accurately it describe",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "0c27849f85f9",
-      "title": "Deep Sigma Point Processes for RCS Modeling in Spaceborne SAR Imagery",
-      "url": "https://arxiv.org/abs/2607.21745",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-27T00:00:00-04:00",
-      "summary": "arXiv:2607.21745v1 Announce Type: cross Abstract: Radar cross-section (RCS) modeling is foundational to advancing the utility and sensitivity of spaceborne radar systems. This study introduces a deep sigma-point process (DSPP) model for predicting RCS in synthetic aperture radar ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "37f0203c47ed",
-      "title": "Co-design of LLM-based preference agents: participation may drive overtrust",
-      "url": "https://arxiv.org/abs/2607.21757",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-27T00:00:00-04:00",
-      "summary": "arXiv:2607.21757v1 Announce Type: cross Abstract: Large language models are increasingly used to simulate human preferences in research and practical applications, raising concerns about validation, misrepresentation, and exclusion. Co-designing agents with the people they repres",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "research",
       "weight": 2
