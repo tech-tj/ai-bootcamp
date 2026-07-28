@@ -1,7 +1,34 @@
 {
-  "generated": "2026-07-28T13:27:06.037674+00:00",
+  "generated": "2026-07-28T19:03:58.978916+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "8cc1ba4abc29",
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source": "OpenAI",
+      "published": "2026-07-28T17:00:00+00:00",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "85f9e2233c0c",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google AI",
+      "published": "2026-07-28T16:00:00+00:00",
+      "summary": "We\u2019re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "ed733c91dec4",
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
@@ -677,17 +704,30 @@
       "weight": 3
     },
     {
-      "id": "178c1d5ae377",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "source": "OpenAI",
-      "published": "2026-06-28T17:00:00+00:00",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "id": "f57b088c9d04",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "source": "HuggingFace",
+      "published": "2026-07-28T16:27:42+00:00",
+      "summary": "",
       "phases": [
         "p1"
       ],
-      "category": "tools",
-      "weight": 3
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "9a40059e627f",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "source": "HuggingFace",
+      "published": "2026-07-28T15:01:45+00:00",
+      "summary": "",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "c57d8e185498",
@@ -1657,47 +1697,6 @@
         "p3"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "e5aac066f28f",
-      "title": "Generative and multimodal AI for materials prediction and design: Progress, challenges, and perspectives",
-      "url": "https://arxiv.org/abs/2607.21660",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-28T00:00:00-04:00",
-      "summary": "arXiv:2607.21660v1 Announce Type: cross Abstract: Artificial intelligence (AI) is accelerating materials prediction and design by enabling efficient exploration of chemical and structural spaces, with particular promise for novel materials discovery. However, novelty in materials",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "f9b3df1f93ff",
-      "title": "Ordered Action Tokens for Visuomotor Policy Learning",
-      "url": "https://arxiv.org/abs/2607.21670",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-28T00:00:00-04:00",
-      "summary": "arXiv:2607.21670v1 Announce Type: cross Abstract: Action tokenization maps continuous robot action chunks to discrete tokens and has become an important interface for modern visuomotor policies. Existing approaches either rely on analytical discretization methods that produce pro",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "9c4f60bb1104",
-      "title": "Pixels for Programs? A Cross-Provider Case Study of Input-Token Accounting for Source Code as Text and Images",
-      "url": "https://arxiv.org/abs/2607.21672",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-28T00:00:00-04:00",
-      "summary": "arXiv:2607.21672v1 Announce Type: cross Abstract: Long source-code contexts consume many text tokens, motivating the proposal to render code as images for vision-language models. Recent work asks whether models can still solve code tasks after this transformation. We examine a di",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
