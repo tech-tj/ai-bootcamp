@@ -1,7 +1,37 @@
 {
-  "generated": "2026-07-28T08:11:41.293242+00:00",
+  "generated": "2026-07-28T13:27:06.037674+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "ed733c91dec4",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "Google AI",
+      "published": "2026-07-28T13:00:00+00:00",
+      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf\u2026",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "cd8e20ce04a2",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "Google AI",
+      "published": "2026-07-28T13:00:00+00:00",
+      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "680c3dc9eb02",
       "title": "How AI is expanding what people do at work",
@@ -658,6 +688,36 @@
       ],
       "category": "tools",
       "weight": 3
+    },
+    {
+      "id": "c57d8e185498",
+      "title": "The Download: OpenAI\u2019s predictable hack, and an AI stock sell-off",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-28T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.&#160; \u2014Will Douglas Heaven, senior AI editor Read",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "e9c7d242f0b7",
+      "title": "Samsung\u2019s chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-28T09:18:57+00:00",
+      "summary": "Lee, an engineer at Samsung\u2019s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he\u2019s been coming straight home to work on his job application for the chipmaker\u2019s South Korean rival SK H",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "8d23ebd1b276",
@@ -1636,66 +1696,6 @@
       "summary": "arXiv:2607.21672v1 Announce Type: cross Abstract: Long source-code contexts consume many text tokens, motivating the proposal to render code as images for vision-language models. Recent work asks whether models can still solve code tasks after this transformation. We examine a di",
       "phases": [
         "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e0ad5f1b70ff",
-      "title": "Self-Poisoning in Adaptive Out-of-Distribution Detection: A Sharp-Threshold Theory and Certified Label-Free Calibration",
-      "url": "https://arxiv.org/abs/2607.21673",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-28T00:00:00-04:00",
-      "summary": "arXiv:2607.21673v1 Announce Type: cross Abstract: Test-time adaptive out-of-distribution (OOD) detectors update a memory bank from the unlabelled stream. We show this adaptation obeys a provable dynamical law. Modelling bank impurity as a generalized P\\'olya urn, we prove almost-",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "8f5c935c1bdd",
-      "title": "Enhancing SLMs for Sustainable Code Optimization in Radio-Astronomy",
-      "url": "https://arxiv.org/abs/2607.21677",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-28T00:00:00-04:00",
-      "summary": "arXiv:2607.21677v1 Announce Type: cross Abstract: Recent Large Language Models (LLMs) can produce and optimize complex code. We investigate the use of LLMs to generate and optimize code for large-scale sciences, focusing on radio astronomy and sustainability. The LOFAR telescope ",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "990ed1a097af",
-      "title": "A Defense of the Quadratic Model",
-      "url": "https://arxiv.org/abs/2607.21716",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-28T00:00:00-04:00",
-      "summary": "arXiv:2607.21716v1 Announce Type: cross Abstract: Due to the complexity of neural network loss landscapes, optimization theory is forced to rely on idealized models, and there is generally a tradeoff between how theoretically tractable the model is, and how accurately it describe",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "0c27849f85f9",
-      "title": "Deep Sigma Point Processes for RCS Modeling in Spaceborne SAR Imagery",
-      "url": "https://arxiv.org/abs/2607.21745",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-28T00:00:00-04:00",
-      "summary": "arXiv:2607.21745v1 Announce Type: cross Abstract: Radar cross-section (RCS) modeling is foundational to advancing the utility and sensitivity of spaceborne radar systems. This study introduces a deep sigma-point process (DSPP) model for predicting RCS in synthetic aperture radar ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "research",
       "weight": 2
