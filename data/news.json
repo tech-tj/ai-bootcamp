@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T08:04:28.160920+00:00",
+  "generated": "2026-07-30T13:23:11.194903+00:00",
   "count": 120,
   "articles": [
     {
@@ -642,17 +642,30 @@
       "weight": 3
     },
     {
-      "id": "a0bd493debdd",
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "source": "OpenAI",
-      "published": "2026-06-30T09:00:00+00:00",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "id": "97aec3fde336",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-30T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against",
       "phases": [
         "p1"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
+    },
+    {
+      "id": "d3ef4a34cd19",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-30T10:15:19+00:00",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge impl",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 2
     },
     {
       "id": "365a1c7fd3d5",
@@ -1683,19 +1696,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "ec8da1bc7306",
-      "title": "High-Order Markov Blanket Discovery via a k-Order Relaxation of the Faithfulness Assumption",
-      "url": "https://arxiv.org/abs/2607.26357",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-30T00:00:00-04:00",
-      "summary": "arXiv:2607.26357v1 Announce Type: cross Abstract: The problem of learning the graphical Markov blanket (MB) of a variable from data has applications in many areas such as structure learning for Bayesian networks and Markov random fields, causal discovery, and feature selection. H",
-      "phases": [
-        "p4"
       ],
       "category": "research",
       "weight": 2
