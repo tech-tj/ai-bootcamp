@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T08:30:29.469317+00:00",
+  "generated": "2026-07-31T13:28:01.036487+00:00",
   "count": 120,
   "articles": [
     {
@@ -12,6 +12,19 @@
       "phases": [
         "p1",
         "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "dc984bc27293",
+      "title": "Univ\u00e9 builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "source": "OpenAI",
+      "published": "2026-07-31T07:00:00+00:00",
+      "summary": "See how Univ\u00e9 built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -682,6 +695,40 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "0abc8a3ebd09",
+      "title": "The Download: Montana\u2019s new experimental drug rules",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-31T12:16:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana\u2019s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "f3afcd69fc7d",
+      "title": "Montana\u2019s new \u201cright to try\u201d law can\u2019t come soon enough for some",
+      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+      "source": "MIT Tech Review",
+      "published": "2026-07-31T09:00:00+00:00",
+      "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn\u2019t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "365a1c7fd3d5",
@@ -1653,50 +1700,6 @@
         "p3"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "6c64ee55ab43",
-      "title": "Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach",
-      "url": "https://arxiv.org/abs/2607.26317",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-31T00:00:00-04:00",
-      "summary": "arXiv:2607.26317v1 Announce Type: cross Abstract: Psychometric calibration for educational tests typically requires costly human response data. Large language models (LLMs) simulated examinees offer a promising route to early calibration, but their responses are too accurate and ",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "21a0a54bf952",
-      "title": "Automorphism-Induced Non-Canonicity in Top-k Explanations of Graph Neural Networks",
-      "url": "https://arxiv.org/abs/2607.26344",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-31T00:00:00-04:00",
-      "summary": "arXiv:2607.26344v1 Announce Type: cross Abstract: A gradient-based GNN explainer given a molecule with two chemically equivalent nitro groups assigns them attribution scores that are equal to the last bit. It cannot do otherwise: message passing is exactly permutation equivariant",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "419f806896ce",
-      "title": "When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses",
-      "url": "https://arxiv.org/abs/2607.26348",
-      "source": "ArXiv cs.AI",
-      "published": "2026-07-31T00:00:00-04:00",
-      "summary": "arXiv:2607.26348v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used as synthetic users, stand-ins for human respondents whose simulated answers feed product, policy, and market decisions. We ask when this substitution is valid and when it fails, a",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
