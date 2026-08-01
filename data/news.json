@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T08:00:04.772571+00:00",
+  "generated": "2026-08-01T12:52:36.981144+00:00",
   "count": 120,
   "articles": [
     {
@@ -1217,6 +1217,49 @@
       "weight": 2
     },
     {
+      "id": "42d2a1693856",
+      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "source": "Ars Technica",
+      "published": "2026-08-01T12:30:36+00:00",
+      "summary": "Reddit may still be considering ending its licensing deal with Google.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "community",
+      "weight": 1
+    },
+    {
+      "id": "fea52c8f597d",
+      "title": "Github repo to learn the OPD/OPSD and how they perform compared to GRPO, on a consumer grade GPU [P]",
+      "url": "t3_1vclrah",
+      "source": "r/ML",
+      "published": "2026-08-01T12:11:34+00:00",
+      "summary": "I am trying to learn concepts like On Policy Distillation (OPD), On Policy Self Distillation (OPSD) and how do they compare to RL algorithms like GRPO. There are a lot of papers on this, but because of limited compute I cannot try these papers out and learn them by implementing t",
+      "phases": [
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "b8ea94a272a1",
+      "title": "VLMs can score well on benchmarks, while silently erasing meaningful terms and including hallucinate bias [P]",
+      "url": "t3_1vcipzz",
+      "source": "r/ML",
+      "published": "2026-08-01T09:27:26+00:00",
+      "summary": "While working with VLMs for report generation on chest x-rays (RRG), we noticed that evaluation metrics are flawed. Flawed in a sense where they rewarded repetitive templates, reports without clinical terms and reports which were &quot;normal&quot; with high scores on benchmark m",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "eb7036e6f7c2",
       "title": "ARR May Meta Review[D]",
       "url": "t3_1vcb4zw",
@@ -1530,20 +1573,6 @@
       "weight": 1
     },
     {
-      "id": "bf30da1011b4",
-      "title": "AI Security Leaderboard: benchmarking model robustness [P]",
-      "url": "t3_1vaargb",
-      "source": "r/ML",
-      "published": "2026-07-29T22:09:52+00:00",
-      "summary": "We developed a leaderboard ranking frontier model security. There&#39;s no shortage of model capability rankings, but we didn&#39;t find anything comparable for model security. Yet security is becoming increasingly critical to deployment decisions: from the USG making developers ",
-      "phases": [
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "3fccb99b5336",
       "title": "Open-source tabular model validation toolkit TanML needs feedback [D]",
       "url": "t3_1va7w4p",
@@ -1590,20 +1619,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "690fae17abe7",
-      "title": "Vendor-agnostic ML inference on production edge devices [R]",
-      "url": "t3_1v9s4mz",
-      "source": "r/ML",
-      "published": "2026-07-29T10:22:27+00:00",
-      "summary": "I work on PostSlate, a video editing tool, and this comes out of our own work. We run ML models on-device, face detection and embedding among other things, which means we can&#39;t assume anything about the user&#39;s GPU. NVIDIA discrete, AMD, Intel integrated, Apple Silicon, al",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "models",
       "weight": 1
     },
     {
@@ -1757,23 +1772,6 @@
       "phases": [
         "p1",
         "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "39499ec00572",
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-      "source": "Ars Technica",
-      "published": "2026-07-13T11:00:51+00:00",
-      "summary": "Experts explain how they work, what they can do, and what's still unsettled.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 1
