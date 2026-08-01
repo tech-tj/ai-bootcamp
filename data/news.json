@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T12:52:36.981144+00:00",
+  "generated": "2026-08-01T18:51:44.849160+00:00",
   "count": 120,
   "articles": [
     {
@@ -1217,6 +1217,53 @@
       "weight": 2
     },
     {
+      "id": "e990f8da63da",
+      "title": "EMNLP vs AACL commitment: Meta 3.5, reviews 3/3/4, what to do?[D]",
+      "url": "t3_1vcsv1s",
+      "source": "r/ML",
+      "published": "2026-08-01T17:11:05+00:00",
+      "summary": "I&#39;m trying to decide whether to commit my ARR May 2026 paper to EMNLP or AACL . (first time solo independent author). Final reviews after rebuttal (OA/Confidence/Excitement ): R1: 2.5 \u2192 3 /3/2.5 R2: 2.5 \u2192 3 /4/2.5 R3: 4 /4 /3 Meta: 3.5 (Borderline Conference) The meta-review ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "f132fe8d049f",
+      "title": "How Symmetric Are the Insides of a Go Network? [R]",
+      "url": "t3_1vcrki2",
+      "source": "r/ML",
+      "published": "2026-08-01T16:18:53+00:00",
+      "summary": "I just now posted a small research / ML interp study on symmetries inside the neural nets for an open source Go-playing program that I maintain (&quot;KataGo&quot;). The rules of Go are completely symmetric under rotation/reflection, but such symmetry is not enforced in the model",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "0d5261717c77",
+      "title": "[D] Simple Questions Thread",
+      "url": "t3_1vcpms3",
+      "source": "r/ML",
+      "published": "2026-08-01T15:00:40+00:00",
+      "summary": "Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so keep posting after the date in the title. Thanks to everyone for answering questions in the previou",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "42d2a1693856",
       "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
       "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
@@ -1289,19 +1336,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "b6e1c9c34094",
-      "title": "Meh-Compression [D]",
-      "url": "t3_1vc5w42",
-      "source": "r/ML",
-      "published": "2026-07-31T22:48:30+00:00",
-      "summary": "Compression by switched linear matrix compression. Backpropagation teaches - when this matrix is selected - this is the best (on average) linear mapping to use: https://archive.org/details/switched-linear-matrix-compression &#32; submitted by &#32; /u/oatmealcraving [link] &#32; ",
-      "phases": [
-        "p2"
       ],
       "category": "models",
       "weight": 1
@@ -1669,19 +1703,6 @@
       "weight": 1
     },
     {
-      "id": "a27dfc91b13a",
-      "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
-      "url": "t3_1v90r9r",
-      "source": "r/ML",
-      "published": "2026-07-28T14:52:01+00:00",
-      "summary": "One of the papers I reviewed has what seems to be entirely LLM-generated rebuttals, and the original paper is also clearly LLM-generated, with Claude-speak everywhere. While the authors acknowledge LLM writing assistance in the checklist, it really annoys me personally - what is ",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "531f2adf5089",
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
       "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
@@ -1758,20 +1779,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "d9517d92e497",
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "source": "Ars Technica",
-      "published": "2026-07-13T15:06:34+00:00",
-      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "models",
       "weight": 1
