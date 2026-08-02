@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T12:54:19.015099+00:00",
+  "generated": "2026-08-02T18:51:59.426603+00:00",
   "count": 120,
   "articles": [
     {
@@ -1217,6 +1217,50 @@
       "weight": 2
     },
     {
+      "id": "566ad7a2327f",
+      "title": "Kimi K3 Deep Dive \u2014 Architecture, Training & Benchmarks of the 2.78-Trillion-Parameter Open-Weight Model [D]",
+      "url": "t3_1vdndys",
+      "source": "r/ML",
+      "published": "2026-08-02T17:03:55+00:00",
+      "summary": "Hi everyone! \ud83d\udc4b I wrote an extensive technical deep-dive into Moonshot AI&#39;s Kimi K3 , analyzing its architectural innovations, training stability tricks, and benchmark performance. The blog covers: Kimi Delta Attention (KDA) Attention Residuals Stable LatentMoE Quantile Balanc",
+      "phases": [
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "910b45c03f76",
+      "title": "Looking for the right pipeline to convert academic textbook figures into interactive/editable assets [R]",
+      "url": "t3_1vdlj8j",
+      "source": "r/ML",
+      "published": "2026-08-02T15:50:21+00:00",
+      "summary": "Hi everyone, I&#39;m working on a document understanding project and would appreciate some advice on the right technical direction. The input will be scanned pages or images from academic books. I don&#39;t know in advance what kind of figures they&#39;ll contain\u2014they could be bi",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "30b428136e26",
+      "title": "Conference Reviews: Asking Too Much? [D]",
+      "url": "t3_1vdl461",
+      "source": "r/ML",
+      "published": "2026-08-02T15:33:35+00:00",
+      "summary": "There&#39;s a kind of review that asks for lengthy additions, usually extending the scope of the paper beyond the stated, even though the submission is at page limit. Naturally, such additions in the case of top-tier conferences have to go into the supplemental materials or appen",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
       "id": "03bafce90112",
       "title": "ARR August Cycle [D]",
       "url": "t3_1vdgpha",
@@ -1262,23 +1306,6 @@
         "p4"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "f59ef44c3055",
-      "title": "Discussion About Meta-Review Issue Report in ARR Cycle [D]",
-      "url": "t3_1vdb3ct",
-      "source": "r/ML",
-      "published": "2026-08-02T07:03:11+00:00",
-      "summary": "So guys, this is one of the discussions that I wanted to engage in for sometime now. Based on your personal experience in the ARR cycles, I want you guys to share your experience on your meta reviews especially if you have filed a meta-review issue report in the same in the past ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "community",
       "weight": 1
     },
     {
@@ -1628,20 +1655,6 @@
       "weight": 1
     },
     {
-      "id": "122d432f7469",
-      "title": "How Kimi K3 Engineered Its Way to the Frontier [R]",
-      "url": "t3_1vaysjf",
-      "source": "r/ML",
-      "published": "2026-07-30T16:37:50+00:00",
-      "summary": "Kimi K3 by Moonshot reached the frontier as an open-weight model. Artificial Analysis ranks it fourth of 580 models, behind only Claude Opus 5, Fable 5, and GPT-5.6 Sol. Moonshot released more than the weights. I sat down to read the 47-page technical report and walk through the ",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "3ee2323b8463",
       "title": "I have lost three and a half potential PhD students due to the conference review process [D]",
       "url": "t3_1vawwb8",
@@ -1669,23 +1682,6 @@
         "p3"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "02f22b3bf803",
-      "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
-      "url": "t3_1vahcwo",
-      "source": "r/ML",
-      "published": "2026-07-30T02:54:23+00:00",
-      "summary": "Hey everyone, I recently open-sourced a new Python package called ganfs (Generative Adversarial Network Feature Selection), and I wanted to share it with the community. The Problem: Selecting the best features in high-dimensional datasets is often a massive bottleneck. Traditiona",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 1
     },
     {
