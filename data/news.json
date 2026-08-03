@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T14:11:51.044683+00:00",
+  "generated": "2026-08-03T19:16:06.211157+00:00",
   "count": 120,
   "articles": [
     {
@@ -704,6 +704,23 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "dc0d90ec364e",
+      "title": "Trump\u2019s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-03T18:43:30+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands th",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "0becc520e171",
@@ -1670,21 +1687,6 @@
         "p4"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "b4519f284d4b",
-      "title": "WitCert: Sound Runtime Risk Observability and Gating for KV-Cache Quantization",
-      "url": "https://arxiv.org/abs/2607.28699",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-03T00:00:00-04:00",
-      "summary": "arXiv:2607.28699v1 Announce Type: cross Abstract: KV-cache quantization is validated today by offline benchmark averages; a deployed system cannot tell whether compression is damaging the request it is serving right now. We give it a provably sound runtime meter, a \"DTrace for KV",
-      "phases": [
-        "p2",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
