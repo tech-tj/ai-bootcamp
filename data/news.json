@@ -1,7 +1,33 @@
 {
-  "generated": "2026-08-03T19:16:06.211157+00:00",
+  "generated": "2026-08-04T01:20:26.797104+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "9be5bdf1245f",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "source": "OpenAI",
+      "published": "2026-08-03T07:00:00+00:00",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "97562427dce8",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "source": "OpenAI",
+      "published": "2026-08-03T00:00:00+00:00",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
     {
       "id": "e1503b988206",
       "title": "Ten advances in mathematics and theoretical computer science",
@@ -1659,32 +1685,6 @@
       "summary": "arXiv:2607.28691v1 Announce Type: cross Abstract: Personalized AI agents are often configurable without giving users control over the artifacts that determine their future behavior. We present OurArk, an architecture for persistent personal agents centered on an agent-owned softw",
       "phases": [
         "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "90d1221ecbfd",
-      "title": "SEDR-Seq2P: A Lightweight Dilated Residual Sequence-to-Point Network for Multi-Task Industrial NILM",
-      "url": "https://arxiv.org/abs/2607.28693",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-03T00:00:00-04:00",
-      "summary": "arXiv:2607.28693v1 Announce Type: cross Abstract: Industrial NILM remains challenging because measurement noise and widespread concurrent machine operation reduce the generalization of models tuned on residential data. This work adopts a one-to-many, multi-task disaggregation set",
-      "phases": [
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "a2afa8fd60ac",
-      "title": "Predicting Steel Fatigue Life from Micrographs Using Physics-Informed Deep Learning",
-      "url": "https://arxiv.org/abs/2607.28695",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-03T00:00:00-04:00",
-      "summary": "arXiv:2607.28695v1 Announce Type: cross Abstract: Here is the plain text version optimized for arXiv's submission form. Custom macros (like \\CV and \\SI) have been converted to standard text/math so they render correctly on the webpage: Evaluating the fatigue life of structural st",
-      "phases": [
-        "p4"
       ],
       "category": "research",
       "weight": 2
