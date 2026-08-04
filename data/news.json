@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T13:42:53.127266+00:00",
+  "generated": "2026-08-04T19:17:00.003454+00:00",
   "count": 120,
   "articles": [
     {
@@ -20,6 +20,19 @@
       "weight": 3
     },
     {
+      "id": "26f5b739d7f8",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "source": "OpenAI",
+      "published": "2026-08-04T00:00:00+00:00",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K\u201312 teachers, college educators, and students learn, teach, research, and build.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "39d4fd006a36",
       "title": "Apple is getting this wrong",
       "url": "https://openai.com/index/apple-is-getting-this-wrong",
@@ -29,6 +42,19 @@
       "phases": [
         "p1",
         "p2"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "3ce791ab7446",
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "source": "Google AI",
+      "published": "2026-08-03T15:00:00+00:00",
+      "summary": "Kaggle\u2019s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "phases": [
+        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -761,6 +787,19 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "4d42e33f51cb",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "source": "HuggingFace",
+      "published": "2026-08-04T13:58:29+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "03bae2513903",
@@ -1656,46 +1695,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "cdc11c2bfb96",
-      "title": "Assuming You Knew: Fixing an Epistemic Semantics for Flow Policies Using Agentic AI",
-      "url": "https://arxiv.org/abs/2608.00882",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-04T00:00:00-04:00",
-      "summary": "arXiv:2608.00882v1 Announce Type: new Abstract: Many high-level security requirements are about the allowed flow of information in programs and are difficult to make precise because they involve selective downgrading. Notions from epistemic logic have emerged as a good approach t",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e825c8188166",
-      "title": "Neuro-Evolved Heuristics for Variable Gapped Common Subsequence Identification",
-      "url": "https://arxiv.org/abs/2608.00888",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-04T00:00:00-04:00",
-      "summary": "arXiv:2608.00888v1 Announce Type: new Abstract: This study addresses the Variable Gapped Longest Common Subsequence Problem (VGLCSP), a variant of the classical longest common subsequence problem with additional gap constraints and applications in sequence alignment and time-seri",
-      "phases": [
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "35ff5fb50ffe",
-      "title": "CADIR: A Cross-Backend Editable Intermediate Representation for Agentic CAD Generation",
-      "url": "https://arxiv.org/abs/2608.00891",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-04T00:00:00-04:00",
-      "summary": "arXiv:2608.00891v1 Announce Type: new Abstract: Large language models have made it possible to generate executable computer-aided design (CAD) programs from natural-language descriptions or images. However, existing methods represent modeling processes as backend-specific sequent",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
