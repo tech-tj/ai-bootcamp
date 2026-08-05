@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-04T19:17:00.003454+00:00",
+  "generated": "2026-08-05T01:25:14.028652+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "899f3cac4020",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI",
+      "published": "2026-08-04T19:00:00+00:00",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "34a7f3824c27",
       "title": "The latest AI news we announced in July 2026",
@@ -1679,19 +1693,6 @@
       "summary": "arXiv:2608.00828v1 Announce Type: new Abstract: We investigate the geometry of decision-making in Multiple Choice Question Answering (MCQA) through the lens of isotropy. Analyzing five open-weight models across diverse datasets, we identify decision-critical transition layers cha",
       "phases": [
         "p1",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "d3092cddef98",
-      "title": "Similarity Weighted Aggregation with Global Differential Privacy for Federated Brain Lesion Segmentation",
-      "url": "https://arxiv.org/abs/2608.00872",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-04T00:00:00-04:00",
-      "summary": "arXiv:2608.00872v1 Announce Type: new Abstract: Federated Learning (FL) enables collaborative training of machine learning models across multiple institutions without sharing sensitive data, making it particularly suitable for medical imaging applications. However, heterogeneous ",
-      "phases": [
         "p5"
       ],
       "category": "research",
