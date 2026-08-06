@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T19:11:07.196972+00:00",
+  "generated": "2026-08-06T01:22:40.194244+00:00",
   "count": 120,
   "articles": [
     {
@@ -768,33 +768,6 @@
       "source": "Google AI",
       "published": "2026-07-07T08:54:00+00:00",
       "summary": "We\u2019re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "241bab22568e",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "source": "OpenAI",
-      "published": "2026-07-07T00:00:00+00:00",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "702fb607570e",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "source": "OpenAI",
-      "published": "2026-07-07T00:00:00+00:00",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "phases": [
         "p1",
         "p3"
@@ -1700,6 +1673,33 @@
         "p2",
         "p3",
         "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "43f681f31e02",
+      "title": "Isotropy Cliffs: The Geometric Signature of Decision-Making in Large Language Models",
+      "url": "https://arxiv.org/abs/2608.00828",
+      "source": "ArXiv cs.AI",
+      "published": "2026-08-05T00:00:00-04:00",
+      "summary": "arXiv:2608.00828v1 Announce Type: new Abstract: We investigate the geometry of decision-making in Multiple Choice Question Answering (MCQA) through the lens of isotropy. Analyzing five open-weight models across diverse datasets, we identify decision-critical transition layers cha",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "d3092cddef98",
+      "title": "Similarity Weighted Aggregation with Global Differential Privacy for Federated Brain Lesion Segmentation",
+      "url": "https://arxiv.org/abs/2608.00872",
+      "source": "ArXiv cs.AI",
+      "published": "2026-08-05T00:00:00-04:00",
+      "summary": "arXiv:2608.00872v1 Announce Type: new Abstract: Federated Learning (FL) enables collaborative training of machine learning models across multiple institutions without sharing sensitive data, making it particularly suitable for medical imaging applications. However, heterogeneous ",
+      "phases": [
         "p5"
       ],
       "category": "research",
