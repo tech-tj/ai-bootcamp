@@ -1,7 +1,46 @@
 {
-  "generated": "2026-08-06T13:37:36.064601+00:00",
+  "generated": "2026-08-06T23:47:35.008285+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "e1775d8d2e17",
+      "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-08-06T10:00:00+00:00",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "61e5f938cd4c",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "source": "OpenAI",
+      "published": "2026-08-06T06:00:00+00:00",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "a55486a7c344",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "source": "OpenAI",
+      "published": "2026-08-06T00:00:00+00:00",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "899f3cac4020",
       "title": "Third-party cyber evaluations involving OpenAI models",
@@ -1662,49 +1701,6 @@
         "p3"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "8d798755c53e",
-      "title": "Modality Agreement- and Conflict-Aware Prototype Hypergraph Learning for Multimodal Intent Understanding",
-      "url": "https://arxiv.org/abs/2608.04054",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-06T00:00:00-04:00",
-      "summary": "arXiv:2608.04054v1 Announce Type: cross Abstract: Multimodal intent recognition requires understanding not only what textual, acoustic, and visual signals share, but also how they disagree. Such disagreement is frequently class-informative; for example, lexical positivity accompa",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "59b1977d58f4",
-      "title": "LaPrune: Controllable Differentiable Sparsity at Million Scale",
-      "url": "https://arxiv.org/abs/2608.04057",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-06T00:00:00-04:00",
-      "summary": "arXiv:2608.04057v1 Announce Type: cross Abstract: Top-$k$ selection determines which components of a sparse model remain active. Hard selection blocks gradients, while continuous relaxations often couple mask hardness to the selected mass. We introduce LaPrune, a mathematically e",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "82a23f6bf763",
-      "title": "SJEPA: Learning Elegant Latent Dynamics with Hybrid Symbolic-Neural Predictors",
-      "url": "https://arxiv.org/abs/2608.04060",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-06T00:00:00-04:00",
-      "summary": "arXiv:2608.04060v1 Announce Type: cross Abstract: Joint-embedding predictive architectures learn abstract states by predicting target embeddings from context embeddings, but their transition models are typically opaque neural maps. We introduce SJEPA, a reconstruction-free JEPA f",
-      "phases": [
-        "p2"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
