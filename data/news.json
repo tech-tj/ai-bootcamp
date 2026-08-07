@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-07T12:36:53.845445+00:00",
+  "generated": "2026-08-07T18:37:11.599747+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "93f793ec8172",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI",
+      "published": "2026-08-07T15:20:00+00:00",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we\u2019re taking to strengthen safeguards and security controls.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "04dbcdd1e1d9",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -760,32 +774,55 @@
       "weight": 3
     },
     {
-      "id": "34adf3bd6731",
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "source": "OpenAI",
-      "published": "2026-07-08T13:30:00+00:00",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "id": "420b06b98db6",
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "source": "HuggingFace",
+      "published": "2026-08-07T17:53:32+00:00",
+      "summary": "",
       "phases": [
         "p1",
-        "p4"
-      ],
-      "category": "industry",
-      "weight": 3
-    },
-    {
-      "id": "18ab2ec4f8de",
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "source": "OpenAI",
-      "published": "2026-07-08T13:00:00+00:00",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "phases": [
-        "p1",
-        "p4"
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
+    },
+    {
+      "id": "f987acd1697b",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-07T14:20:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a \u201ccensorship-indu",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "ad57289b5724",
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-07T14:00:00+00:00",
+      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk\u2019s Department",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "industry",
+      "weight": 2
     },
     {
       "id": "1ab378ed4550",
@@ -1661,40 +1698,6 @@
       "summary": "arXiv:2608.05893v1 Announce Type: new Abstract: Electrocardiography (ECG) is one of the most widely used non-invasive tools for diagnosing cardiovascular disease, but transforming multi-lead ECG recordings into reliable clinical reports remains challenging. Automating ECG report ",
       "phases": [
         "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "1532a318e699",
-      "title": "GSBF: Gaussian Splatting for Environment-Aware Beamforming",
-      "url": "https://arxiv.org/abs/2608.05896",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-07T00:00:00-04:00",
-      "summary": "arXiv:2608.05896v1 Announce Type: new Abstract: Beamforming plays a key role in multiple-input-multiple-output (MIMO) communication systems. However, conventional beamforming design normally requires accurate instantaneous channel state information (CSI) and iterative optimizatio",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "8bc2c5c1b963",
-      "title": "CourseGraph: Finding overlaps and differences in Computer Science courses across universities",
-      "url": "https://arxiv.org/abs/2608.05910",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-07T00:00:00-04:00",
-      "summary": "arXiv:2608.05910v1 Announce Type: new Abstract: Student mobility programs such as Erasmus+ enable students to take courses at other universities, broadening their academic and cultural horizons. However, this flexibility also leads to a practical challenge: ensuring that students",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "research",
       "weight": 2
