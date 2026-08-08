@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T12:22:36.756684+00:00",
+  "generated": "2026-08-08T18:20:22.937162+00:00",
   "count": 120,
   "articles": [
     {
@@ -721,19 +721,6 @@
       "weight": 3
     },
     {
-      "id": "a9ac60dc9fcf",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "source": "OpenAI",
-      "published": "2026-07-09T13:00:00+00:00",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "420b06b98db6",
       "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
       "url": "https://huggingface.co/blog/allenai/tutormoments",
@@ -1161,6 +1148,53 @@
       "weight": 2
     },
     {
+      "id": "8c2ed67d908e",
+      "title": "ICDE Results [D]",
+      "url": "t3_1vj1oq6",
+      "source": "r/ML",
+      "published": "2026-08-08T17:22:57+00:00",
+      "summary": "Hello! Let&#39;s use this thread to discuss ICDE results which should be coming out shortly today (hopefully). &#32; submitted by &#32; /u/mythrowaway0852 [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "35268a0a4a3c",
+      "title": "Evaluation metrics - [D]",
+      "url": "t3_1vj1ke5",
+      "source": "r/ML",
+      "published": "2026-08-08T17:18:05+00:00",
+      "summary": "I wanted to ask about the selection of evaluation metrics. In which scenario we use ROC-AUC score and in which scenario we use f1 score as an evaluation metric in a classification problem to define the model&#39;s performance on a specific dataset. &#32; submitted by &#32; /u/okb",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "5fcaa52c4381",
+      "title": "AACL-IJCNLP Commitment Submission Number [D]",
+      "url": "t3_1viyloc",
+      "source": "r/ML",
+      "published": "2026-08-08T15:17:06+00:00",
+      "summary": "What&#39;s your commitment submission ID? My submission number is ~150 (submitted two days ago) and I&#39;m wondering what the total number of commitments is. Did anyone commit near the deadline? &#32; submitted by &#32; /u/hepiga [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "7e0d042c7aee",
       "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 \u2014 submissions now open, deadline Aug 29 AoE [N]",
       "url": "t3_1vir5t6",
@@ -1172,23 +1206,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "0fcd56a24089",
-      "title": "Good OCR strategy for detecting doctor handwritting [P]",
-      "url": "t3_1vi7br1",
-      "source": "r/ML",
-      "published": "2026-08-07T17:40:14+00:00",
-      "summary": "I gotta develop a tool which get the text from doctor handwritting, do you guys know any good strategy for that? https://preview.redd.it/jisxcc2aozhh1.png?width=1103&amp;format=png&amp;auto=webp&amp;s=333b14a782e775ec5ae1738e49c535b7f78a0d57 &#32; submitted by &#32; /u/Miserable-",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "tools",
       "weight": 1
     },
     {
@@ -1512,19 +1529,6 @@
       "weight": 1
     },
     {
-      "id": "4ef2fa4d2788",
-      "title": "Monodratic: learned product-hash routing for sparse causal attention [R]",
-      "url": "t3_1vg3jda",
-      "source": "r/ML",
-      "published": "2026-08-05T10:28:44+00:00",
-      "summary": "Hi everyone, I&#39;m an independent researcher sharing Monodratic, a sparse causal-attention architecture with learned product-hash routing. The idea is that after RoPE, source blocks are assigned to bounded causal posting lists, while each query probes product addresses, reranks",
-      "phases": [
-        "p2"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
       "id": "54f2e2635ac2",
       "title": "NeurIPS 2026 Main Track \u2014 Theory papers score tracking post Rebuttal [D]",
       "url": "t3_1vfx8pn",
@@ -1567,19 +1571,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "6acb9467f8b6",
-      "title": "NeurIPS 2026 post-rebuttal score distribution poll [D]",
-      "url": "t3_1vfi23r",
-      "source": "r/ML",
-      "published": "2026-08-04T18:05:47+00:00",
-      "summary": "As the title suggests, because there&#39;s no data on Papercopilot yet, and people have been talking about the scores being lower in general than last year, I thought it could be interesting to survey the average score distribution after the rebuttal phase (not considering confid",
-      "phases": [
-        "p2"
       ],
       "category": "research",
       "weight": 1
@@ -1762,6 +1753,23 @@
       "source": "Ars Technica",
       "published": "2026-07-24T17:31:26+00:00",
       "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "32efe905cab8",
+      "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
+      "source": "Ars Technica",
+      "published": "2026-07-24T13:49:38+00:00",
+      "summary": "Rule would allow states to decide how much\u2014if any\u2014public input there can be.",
       "phases": [
         "p1",
         "p2",
