@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09T12:24:35.635174+00:00",
+  "generated": "2026-08-09T18:22:14.945129+00:00",
   "count": 120,
   "articles": [
     {
@@ -1104,6 +1104,80 @@
       "weight": 2
     },
     {
+      "id": "8fc9ce33e542",
+      "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]",
+      "url": "t3_1vjvzm4",
+      "source": "r/ML",
+      "published": "2026-08-09T17:36:22+00:00",
+      "summary": "&#32; submitted by &#32; /u/katxwoods [link] &#32; [comments]",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "aa7e88f2e0cd",
+      "title": "I never understood positional encoding until I read this article. [D]",
+      "url": "t3_1vju3ym",
+      "source": "r/ML",
+      "published": "2026-08-09T16:22:07+00:00",
+      "summary": "&#32; submitted by &#32; /u/ImaginaryRea1ity [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "f4983de5ade9",
+      "title": "Non-Physical Intelligence Has A Ceiling [D]",
+      "url": "t3_1vjtaxb",
+      "source": "r/ML",
+      "published": "2026-08-09T15:50:04+00:00",
+      "summary": "Reasoning alone cannot predict the chaotic physical world. Without a sensory and motor interface to reality, non-physical AI will not deliver the scientific and technological breakthroughs we expect. &#32; submitted by &#32; /u/dontkry4me [link] &#32; [comments]",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "31fedd806deb",
+      "title": "ECCV workshop, camera ready instructions? [D]",
+      "url": "t3_1vjrsdi",
+      "source": "r/ML",
+      "published": "2026-08-09T14:49:10+00:00",
+      "summary": "Does anyone have any idea about the instructions for the camera ready at workshops? The deadline is August 15, but there are no indications and workshop organizers know nothing about that.. Some workshops have enabled the upload of camera ready PDF on openreview, but what about c",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "f204fe8890f8",
+      "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
+      "url": "t3_1vjmw53",
+      "source": "r/ML",
+      "published": "2026-08-09T10:55:50+00:00",
+      "summary": "Analog in-memory compute is getting attention again as a way around the energy cost of moving weights between memory and compute. The recurring objection is noise, since analog cells have real variation and you can&#39;t refresh your way out of it like you can with digital. I wan",
+      "phases": [
+        "p3",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
       "id": "77780f91be30",
       "title": "[R] Generative design of novel bacteriophages with genome language models [R]",
       "url": "t3_1vjj4pr",
@@ -1365,19 +1439,6 @@
       "weight": 1
     },
     {
-      "id": "9e3e01ccde1c",
-      "title": "Can recurring LLM traces be synthesized into deterministic pipelines of typed ML and NLP operators? [D]",
-      "url": "t3_1vhapso",
-      "source": "r/ML",
-      "published": "2026-08-06T17:24:54+00:00",
-      "summary": "We are investigating whether recurring LLM workloads can be replaced, where appropriate, by automatically constructed pipelines of regexes, deterministic parsers, traditional ML and NLP models. As an example, suppose an application repeatedly asks a frontier model to read an annu",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "60e826e15f0c",
       "title": "The current state of language models and human preference based rankings [R]",
       "url": "t3_1vh42ed",
@@ -1419,40 +1480,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "132e112670bb",
-      "title": "[R], Need some best model suggestions for Face Detection,Face Recognition,Body Detection and Body identification. [R]",
-      "url": "t3_1vgx5dk",
-      "source": "r/ML",
-      "published": "2026-08-06T07:17:29+00:00",
-      "summary": "&#x200B; need those for analysing movies. example let&#39;s say I have to find the screentime of the actor over the whole runtime of the movie and i need to do it for the protagonist, antoganist,comedic relief ,love interest etc. currently I&#39;m working with 1fps to find the fa",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "8918efa6aaaa",
-      "title": "ByteDance is leaning heavily into AI education with Gauth \u2014 helpful tutoring or just another shortcut machine? [D]",
-      "url": "t3_1vgwza5",
-      "source": "r/ML",
-      "published": "2026-08-06T07:07:44+00:00",
-      "summary": "Saw an article about ByteDance scaling up Gauth using AI-generated animations to walk students through problem-solving. On paper, personalized visual explanations sound great for democratizing tutoring. But in practice, I wonder if tools like this actually help kids grasp core co",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 1
     },
     {
@@ -1498,32 +1525,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "9d1b41bf3c9b",
-      "title": "Running Whisper, Qwen3-ASR, Nemotron & MOSS completely offline on iPhone [P]",
-      "url": "t3_1vgbl7w",
-      "source": "r/ML",
-      "published": "2026-08-05T16:04:42+00:00",
-      "summary": "Over the past month, I&#39;ve been building LiveTranscriber, an open-source iOS app for running modern speech and language models entirely on-device. The goal was to see whether recent open-source models could be turned into a practical mobile product\u2014not just technical demos. Cu",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "b9503b3f4d96",
-      "title": "I Compressed Bad Apple into a 3MB Neural Network [P]",
-      "url": "t3_1vfrco1",
-      "source": "r/ML",
-      "published": "2026-08-05T00:01:48+00:00",
-      "summary": "I trained a small MLP to memorize the classic Bad Apple animation, ~2.7 billion pixels of video compressed into 790k parameters (3.2 MB float32, 1.6 MB float16). The network takes a 3D coordinate (t, y, x)- frame index and pixel position- and outputs a grayscale value between 0 a",
-      "phases": [
-        "p2"
       ],
       "category": "models",
       "weight": 1
