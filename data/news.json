@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T18:20:22.937162+00:00",
+  "generated": "2026-08-09T00:48:51.879220+00:00",
   "count": 120,
   "articles": [
     {
@@ -708,19 +708,6 @@
       "weight": 3
     },
     {
-      "id": "076e1c598139",
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "source": "OpenAI",
-      "published": "2026-07-10T00:00:00+00:00",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "420b06b98db6",
       "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
       "url": "https://huggingface.co/blog/allenai/tutormoments",
@@ -1131,12 +1118,26 @@
       "weight": 2
     },
     {
-      "id": "ec381c2ce49c",
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "url": "https://huggingface.co/blog/torch-attention-profile",
-      "source": "HuggingFace",
-      "published": "2026-07-10T00:00:00+00:00",
-      "summary": "",
+      "id": "23db0442d24f",
+      "title": "73 NeurIPS workshops, and not a single one on Causality [R]",
+      "url": "t3_1vj8lag",
+      "source": "r/ML",
+      "published": "2026-08-08T22:12:37+00:00",
+      "summary": "Is this it for Causal Inference? Looks like the field continues to be of interest only at UAI/AISTATS/CLeaR. All good venues, but LLMs/Agents/etc seem to have eaten much of the lunch of several other subfields at the top 3 conferences. God help us all. **p.s.** the list: https://",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "5542770c4dac",
+      "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
+      "url": "t3_1vj3oqr",
+      "source": "r/ML",
+      "published": "2026-08-08T18:42:55+00:00",
+      "summary": "Out of curiosity, if you were a reviewer or author, how did the review period go? For me, it was weird, because I gave reviews with specific details (what specifically could have been better, how to fix it), but realized other reviewers gave similar superficial reviews. Even the ",
       "phases": [
         "p1",
         "p2",
@@ -1145,7 +1146,7 @@
         "p5"
       ],
       "category": "models",
-      "weight": 2
+      "weight": 1
     },
     {
       "id": "8c2ed67d908e",
@@ -1153,7 +1154,7 @@
       "url": "t3_1vj1oq6",
       "source": "r/ML",
       "published": "2026-08-08T17:22:57+00:00",
-      "summary": "Hello! Let&#39;s use this thread to discuss ICDE results which should be coming out shortly today (hopefully). &#32; submitted by &#32; /u/mythrowaway0852 [link] &#32; [comments]",
+      "summary": "Hello! Let&#39;s use this thread to discuss ICDE results which should be coming out shortly today (hopefully). Edit: Results are out! &#32; submitted by &#32; /u/mythrowaway0852 [link] &#32; [comments]",
       "phases": [
         "p1",
         "p2",
@@ -1529,23 +1530,6 @@
       "weight": 1
     },
     {
-      "id": "54f2e2635ac2",
-      "title": "NeurIPS 2026 Main Track \u2014 Theory papers score tracking post Rebuttal [D]",
-      "url": "t3_1vfx8pn",
-      "source": "r/ML",
-      "published": "2026-08-05T04:36:38+00:00",
-      "summary": "&#x200B; Now that the rebuttal period is over, I\u2019m curious about the score distribution specifically for theory papers this year. If you\u2019re comfortable sharing, please drop: \u2022 Scores: x / x / x \u2022 Confidence: x / x / x \u2022 Whether scores changed after rebuttal \u2022 Broad area (optional",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
       "id": "b9503b3f4d96",
       "title": "I Compressed Bad Apple into a 3MB Neural Network [P]",
       "url": "t3_1vfrco1",
@@ -1556,23 +1540,6 @@
         "p2"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "fa13cc4232de",
-      "title": "Completely dead NeurIPS review period from both ends? [D]",
-      "url": "t3_1vfm2k9",
-      "source": "r/ML",
-      "published": "2026-08-04T20:30:12+00:00",
-      "summary": "I\u2019ve seen a lot of people whose reviewers went silent after initial reviews, but I am also noting abnormally quiet authors. I ultimately withdrew my paper, but stayed an active reviewer. Out of my batch of 4 papers, one withdrew, one posted a rebuttal, and two have been completel",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 1
     },
     {
@@ -1776,6 +1743,37 @@
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "6962de4dec94",
+      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "source": "Ars Technica",
+      "published": "2026-07-20T11:20:10+00:00",
+      "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "d9517d92e497",
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "source": "Ars Technica",
+      "published": "2026-07-13T15:06:34+00:00",
+      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+      "phases": [
+        "p1",
+        "p3"
       ],
       "category": "models",
       "weight": 1
