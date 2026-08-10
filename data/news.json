@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T07:06:00.933294+00:00",
+  "generated": "2026-08-10T12:40:39.741435+00:00",
   "count": 120,
   "articles": [
     {
@@ -692,6 +692,58 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "1e1aa73b47f5",
+      "title": "The Download: AI agents for science, and the \u201ccensorship-industrial complex\u201d",
+      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-10T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data \u2014Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and S",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "98a69bb3881b",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "source": "HuggingFace",
+      "published": "2026-08-10T10:05:36+00:00",
+      "summary": "",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "20c95f3fe530",
+      "title": "AI for science needs reasoning, not just data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-10T09:00:00+00:00",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the \u201cfacts of physical science have all been discovered.\u201d In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the en",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "6859719fca47",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-10T09:00:00+00:00",
+      "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called \u201cAttention Is All You Need",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 2
     },
     {
       "id": "500c3e9a2c43",
@@ -1617,63 +1669,6 @@
       "phases": [
         "p1",
         "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "8c10eefb540d",
-      "title": "Authoring and Management of Transparent Research Integrity Assessments of Randomised Clinical Trial Publications Using LLM-assisted Tools and Provenance Knowledge Graphs",
-      "url": "https://arxiv.org/abs/2608.07202",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-10T00:00:00-04:00",
-      "summary": "arXiv:2608.07202v1 Announce Type: new Abstract: Systematic reviews of Randomised Controlled Trials (RCTs) are routinely used as evidence for clinical care guidelines. Such evidence has to meet high research integrity standards to prevent low quality or false research outputs infl",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "0118c5d342c8",
-      "title": "Beyond the Black Box: Interpretable Models of Human Randomisation Failures",
-      "url": "https://arxiv.org/abs/2608.07220",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-10T00:00:00-04:00",
-      "summary": "arXiv:2608.07220v1 Announce Type: new Abstract: Mixed strategy equilibrium predicts i.i.d play: past actions should not help predict future decisions. Human players, however, systematically depart from this benchmark, and in O'Neill's zero sum card game, these departures can be p",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "2c8b5a58c6a4",
-      "title": "From probability to causality in probabilistic logic programming",
-      "url": "https://arxiv.org/abs/2608.07230",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-10T00:00:00-04:00",
-      "summary": "arXiv:2608.07230v1 Announce Type: new Abstract: Probabilistic logic programming is a formalism of statistical relational artificial intelligence that supports causal queries, including interventions from outside the system. When the structure of a probabilistic logic program is l",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "f80b4dc6d0b9",
-      "title": "Recipes for Creativity: Iterative Generation and Evaluation in Large Language Models",
-      "url": "https://arxiv.org/abs/2608.07243",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-10T00:00:00-04:00",
-      "summary": "arXiv:2608.07243v1 Announce Type: new Abstract: Generative models are often evaluated through singular artifacts, whereas human creativity typically emerges through iterative generation, appraisal, and refinement. This pilot study examines whether iterative search improves LLM cr",
-      "phases": [
-        "p1",
-        "p4"
       ],
       "category": "research",
       "weight": 2
