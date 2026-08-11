@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T18:40:07.175048+00:00",
+  "generated": "2026-08-11T00:50:54.555111+00:00",
   "count": 120,
   "articles": [
     {
@@ -89,6 +89,33 @@
       "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
       "phases": [
         "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "2400bb772f76",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
+      "source": "OpenAI",
+      "published": "2026-08-10T00:00:00+00:00",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "f7be8d43b299",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "source": "OpenAI",
+      "published": "2026-08-10T00:00:00+00:00",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "phases": [
+        "p1",
+        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -783,6 +810,23 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "1281650c995b",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-10T20:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some o",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
     },
     {
       "id": "8bec2762d3f7",
@@ -1625,49 +1669,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "edc5e2a10829",
-      "title": "PTQ4SNN: Membrane-Aware Post-Training Quantization for Spiking Neural Networks",
-      "url": "https://arxiv.org/abs/2608.07066",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-10T00:00:00-04:00",
-      "summary": "arXiv:2608.07066v1 Announce Type: new Abstract: Spiking neural networks (SNNs) enable sparse and event-driven computation, but their low-bit deployment remains incomplete because recurrent membrane states are commonly retained in floating point even after weight quantization. Qua",
-      "phases": [
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "79c2df09f125",
-      "title": "DocMemo: Dynamic Evidence Discovery via Probabilistic Memory-Guided Retrieval for Multi-Modal Document Understanding",
-      "url": "https://arxiv.org/abs/2608.07067",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-10T00:00:00-04:00",
-      "summary": "arXiv:2608.07067v1 Announce Type: new Abstract: Long-document understanding requires locating sparse and heterogeneous evidence across hundreds of pages, yet existing systems remain limited by static retrieval and fragile cross-round memory. Mainstream single-round methods commit",
-      "phases": [
-        "p2",
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "be98a33c3a96",
-      "title": "MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents",
-      "url": "https://arxiv.org/abs/2608.07068",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-10T00:00:00-04:00",
-      "summary": "arXiv:2608.07068v1 Announce Type: new Abstract: Long-horizon agents accumulate growing contexts during interaction, impairing performance and stability. Compact memory mitigates this problem by compressing and rewriting the history retained between model invocations. Learning wha",
-      "phases": [
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
