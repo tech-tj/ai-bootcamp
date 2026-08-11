@@ -1,7 +1,37 @@
 {
-  "generated": "2026-08-11T12:37:40.236984+00:00",
+  "generated": "2026-08-11T18:44:08.045364+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "af6b566103fd",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "source": "Google AI",
+      "published": "2026-08-11T17:00:00+00:00",
+      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "16251d7b149e",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-08-11T10:00:00+00:00",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "1b4a121cfec6",
       "title": "What building an AI-native finance function taught me",
@@ -810,6 +840,32 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "ab860a0461b9",
+      "title": "How the \u201ccensorship-industrial complex\u201d is changing the Internet and US policy",
+      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-11T17:58:57+00:00",
+      "summary": "I first heard the term \u201ccensorship-industrial complex\u201d on April 15, 2025.&#160; That\u2019s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing immi",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "e55e02c2188c",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "source": "HuggingFace",
+      "published": "2026-08-11T13:37:10+00:00",
+      "summary": "",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "1e9dd24f2729",
@@ -1629,63 +1685,6 @@
       "published": "2026-08-11T00:00:00-04:00",
       "summary": "arXiv:2608.08032v1 Announce Type: new Abstract: Safety alignment in multilingual models is uneven: a model that reliably refuses a harmful request in English will often comply with the same request in a lower-resource language. We trace this gap mechanistically in sarvam, an Indi",
       "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "77e1892a5159",
-      "title": "SkillSmith: Enhancing Locally Deployed Agents via Automatic Skill Construction and Evolution",
-      "url": "https://arxiv.org/abs/2608.08037",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-11T00:00:00-04:00",
-      "summary": "arXiv:2608.08037v1 Announce Type: new Abstract: LLM-based agent frameworks now act as personal assistants for multi-step tasks. Existing agent frameworks such as OpenClaw commonly follow the Cloud Agent depolyment mode using closed-source cloud LLMs as backbone model, which may e",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c7c13a8ea361",
-      "title": "Lingjing: A Simulation Testbed for Multi-Agent Embodied Tasks in Open-Ended Cities",
-      "url": "https://arxiv.org/abs/2608.08045",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-11T00:00:00-04:00",
-      "summary": "arXiv:2608.08045v1 Announce Type: new Abstract: Urban embodied intelligence requires coordination among heterogeneous agents (e.g., UAVs, ground robots, and autonomous vehicles) in dynamic cities. Simulators therefore provide a scalable foundation for developing and evaluating su",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "74a78397b18e",
-      "title": "JustLLMGRPO: Radiographic Control for Chest X-Ray Generation",
-      "url": "https://arxiv.org/abs/2608.08046",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-11T00:00:00-04:00",
-      "summary": "arXiv:2608.08046v1 Announce Type: new Abstract: Text-conditioned chest X-ray generation aims to synthesize realistic radiographs that faithfully depict specified findings. Existing work has primarily improved quality by updating image generators, implicitly treating prompts as fi",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "d52ccf0a2a07",
-      "title": "SodaMem: Evidence-Grounded Temporal Graph Memory for LLM Agents",
-      "url": "https://arxiv.org/abs/2608.08055",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-11T00:00:00-04:00",
-      "summary": "arXiv:2608.08055v1 Announce Type: new Abstract: Large language model (LLM) agents that assist users over weeks of conversation must remember what is currently true, not merely what was once said. Flat RAG diaries and Markdown logs optimize needle retrieval but under-serve currenc",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
         "p4"
       ],
       "category": "models",
