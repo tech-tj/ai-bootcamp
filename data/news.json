@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-12T12:40:43.382138+00:00",
+  "generated": "2026-08-12T18:44:54.040197+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "143a56c3831e",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI",
+      "published": "2026-08-12T06:00:00+00:00",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "af6b566103fd",
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
@@ -856,6 +870,50 @@
       "weight": 3
     },
     {
+      "id": "afc23a12a580",
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-12T16:51:57+00:00",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work. But many organizations find that realizing the desired return on investment (R",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "tools",
+      "weight": 2
+    },
+    {
+      "id": "1110b810dc4d",
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "HuggingFace",
+      "published": "2026-08-12T16:14:36+00:00",
+      "summary": "",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "9fea4b35a86f",
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "source": "HuggingFace",
+      "published": "2026-08-12T14:00:51+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "aa04d9fec56d",
       "title": "The Download: our 35 young innovators and the \u201ccensorship-industrial complex\u201d",
       "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
@@ -1644,59 +1702,6 @@
         "p4"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "0495bf52a81a",
-      "title": "Thought-Level Beam Search for Reasoning",
-      "url": "https://arxiv.org/abs/2608.08020",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-12T00:00:00-04:00",
-      "summary": "arXiv:2608.08020v2 Announce Type: new Abstract: Test-time compute scaling is a primary driver of performance in large reasoning models (LRMs), but extreme inefficiency bounds current approaches, shifting the critical question from \\emph{how much} compute to spend, to \\emph{where}",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "2fa777bc7318",
-      "title": "Legal Responsibilities Using Autonomous Agents For Artificial Intelligence",
-      "url": "https://arxiv.org/abs/2608.08022",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-12T00:00:00-04:00",
-      "summary": "arXiv:2608.08022v1 Announce Type: new Abstract: Recent incidents involving Artificial Intelligence (AI) agents, which were reported escaping their containment `unintentionally' to gain unauthorized access, pose looming questions about who or what should be held legally responsibl",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "25f4ac8cf676",
-      "title": "The Authority Expectancy Effect in Multi-User Conflict",
-      "url": "https://arxiv.org/abs/2608.08026",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-12T00:00:00-04:00",
-      "summary": "arXiv:2608.08026v1 Announce Type: new Abstract: We investigate how social authority (SA) signals interact with severity-based prioritization in large language models, operationalizing each axis as a model-elicited baseline -- the triage hierarchy and the SA hierarchy. Across four",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "3682d8d4a651",
-      "title": "Decided Upstream, Written Late: Locating and Pricing the Cross-Lingual Refusal Circuit of a Multilingual MoE",
-      "url": "https://arxiv.org/abs/2608.08032",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-12T00:00:00-04:00",
-      "summary": "arXiv:2608.08032v1 Announce Type: new Abstract: Safety alignment in multilingual models is uneven: a model that reliably refuses a harmful request in English will often comply with the same request in a lower-resource language. We trace this gap mechanistically in sarvam, an Indi",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
