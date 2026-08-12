@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T18:44:08.045364+00:00",
+  "generated": "2026-08-12T00:57:26.068159+00:00",
   "count": 120,
   "articles": [
     {
@@ -28,6 +28,20 @@
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "phases": [
         "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "ca8161387cd4",
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "source": "OpenAI",
+      "published": "2026-08-11T10:00:00+00:00",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "phases": [
+        "p1",
+        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -1673,19 +1687,6 @@
       "summary": "arXiv:2608.08026v1 Announce Type: new Abstract: We investigate how social authority (SA) signals interact with severity-based prioritization in large language models, operationalizing each axis as a model-elicited baseline -- the triage hierarchy and the SA hierarchy. Across four",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "3682d8d4a651",
-      "title": "Decided Upstream, Written Late: Locating and Pricing the Cross-Lingual Refusal Circuit of a Multilingual MoE",
-      "url": "https://arxiv.org/abs/2608.08032",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-11T00:00:00-04:00",
-      "summary": "arXiv:2608.08032v1 Announce Type: new Abstract: Safety alignment in multilingual models is uneven: a model that reliably refuses a harmful request in English will often comply with the same request in a lower-resource language. We trace this gap mechanistically in sarvam, an Indi",
-      "phases": [
-        "p4"
       ],
       "category": "models",
       "weight": 2
