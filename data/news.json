@@ -1,7 +1,60 @@
 {
-  "generated": "2026-08-13T12:41:32.167829+00:00",
+  "generated": "2026-08-13T18:44:58.440411+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "657afebb011c",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "source": "Google AI",
+      "published": "2026-08-13T16:45:00+00:00",
+      "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "3e500ccae6c7",
+      "title": "The builder\u2019s guide to GPT\u20115.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI",
+      "published": "2026-08-13T11:00:00+00:00",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "b66fa57c04f1",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "source": "OpenAI",
+      "published": "2026-08-13T10:00:00+00:00",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14\u00d7 faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "36609b9396fd",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI",
+      "published": "2026-08-13T09:00:00+00:00",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "phases": [
+        "p1"
+      ],
+      "category": "industry",
+      "weight": 3
+    },
     {
       "id": "143a56c3831e",
       "title": "From assistance to execution: How enterprises put AI to work",
@@ -827,12 +880,12 @@
       "weight": 3
     },
     {
-      "id": "84e3af10ba85",
-      "title": "Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "source": "Google AI",
-      "published": "2026-07-14T16:00:00+00:00",
-      "summary": "Google Images is turning 25. Here\u2019s a look back at some major milestones \u2014 and new ways to explore and create visual content.",
+      "id": "bba9e9847cb1",
+      "title": "Building a practical path to post-quantum cryptography",
+      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-13T18:11:42+00:00",
+      "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum crypt",
       "phases": [
         "p1",
         "p2",
@@ -841,7 +894,38 @@
         "p5"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
+    },
+    {
+      "id": "24013c064501",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "HuggingFace",
+      "published": "2026-08-13T17:16:04+00:00",
+      "summary": "",
+      "phases": [
+        "p2",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "c22abf289983",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-13T13:41:10+00:00",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers\u2019 access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several c",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "967189fe76c5",
@@ -1617,91 +1701,6 @@
         "p4"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "4fa638daa1d7",
-      "title": "Making AI-Generated Feedback Matter: From Provision to Student Enactment",
-      "url": "https://arxiv.org/abs/2608.11625",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-13T00:00:00-04:00",
-      "summary": "arXiv:2608.11625v1 Announce Type: new Abstract: Feedback processes strongly influence student learning, yet their educational value depends on addressing two distinct challenges: providing high-quality, timely, and individualised feedback at scale, and supporting students to inte",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "6143a1b41c9c",
-      "title": "CLAIM: Leading Open-domain Active Clarification of Large Language Models with Uncertainty Measurement",
-      "url": "https://arxiv.org/abs/2608.11631",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-13T00:00:00-04:00",
-      "summary": "arXiv:2608.11631v1 Announce Type: new Abstract: In open-domain human-computer interaction scenarios, large language models (LLMs) frequently encounter user queries that are ambiguous or incomplete. In such cases, directly producing an answer often leads to overgeneralized, errone",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "d5009052f00c",
-      "title": "XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication",
-      "url": "https://arxiv.org/abs/2608.11676",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-13T00:00:00-04:00",
-      "summary": "arXiv:2608.11676v1 Announce Type: new Abstract: Heterogeneous multi-agent LLM systems, where agents are powered by different model families, can outperform homogeneous configurations by reducing redundant reasoning patterns. Yet existing communication protocols either operate thr",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "7f062b3de666",
-      "title": "AgenticTwin: An Agentic LLM Framework Integrated with Digital Twin for Anomaly Detection",
-      "url": "https://arxiv.org/abs/2608.11679",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-13T00:00:00-04:00",
-      "summary": "arXiv:2608.11679v1 Announce Type: new Abstract: Digital twins are increasingly used to monitor and simulate the behavior of cyber-physical systems. Even with skilled operators, interpreting anomalies detected within digital twin pipelines is challenging, as the sheer complexity a",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "8a966a25345e",
-      "title": "FrontierFinance: A Challenging Benchmark for Measuring Frontier Intelligence of Finance Agents",
-      "url": "https://arxiv.org/abs/2608.11683",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-13T00:00:00-04:00",
-      "summary": "arXiv:2608.11683v1 Announce Type: new Abstract: AI agents are increasingly deployed for professional investment research, yet no benchmark captures the complexity of the full investor workflow. Existing benchmarks mainly target financial data extraction, a narrow slice that curre",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "08cd2c5ccdeb",
-      "title": "HUGIN: Enhancing Vision-Language Planning for Autonomous Logistics Sorting",
-      "url": "https://arxiv.org/abs/2608.11692",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-13T00:00:00-04:00",
-      "summary": "arXiv:2608.11692v1 Announce Type: new Abstract: Autonomous logistics sorting systems (ALSS) are an important industrial application of embodied AI, which requires joint planning over spatially disjoint camera views. We formulate this setting as Joint Multi-Scene Understanding (JM",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
