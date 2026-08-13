@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T07:08:42.624189+00:00",
+  "generated": "2026-08-13T12:41:32.167829+00:00",
   "count": 120,
   "articles": [
     {
@@ -152,6 +152,19 @@
       "weight": 3
     },
     {
+      "id": "70ce1451328e",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "source": "OpenAI",
+      "published": "2026-08-10T00:00:00+00:00",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f7be8d43b299",
       "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
       "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
@@ -172,19 +185,6 @@
       "source": "OpenAI",
       "published": "2026-08-10T00:00:00+00:00",
       "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "70ce1451328e",
-      "title": "Premium seats are coming to ChatGPT Business",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "source": "OpenAI",
-      "published": "2026-08-10T00:00:00+00:00",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
       "phases": [
         "p1"
       ],
@@ -844,17 +844,55 @@
       "weight": 3
     },
     {
-      "id": "e59f55fe659d",
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "source": "OpenAI",
-      "published": "2026-07-14T10:00:00+00:00",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "id": "967189fe76c5",
+      "title": "The Download: kids\u2019 thoughts on AI, and female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-13T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words \u2014Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print",
       "phases": [
-        "p3"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
-      "category": "industry",
-      "weight": 3
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "f3f772b809a9",
+      "title": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse",
+      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-13T10:00:00+00:00",
+      "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature. The ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "599ea52fc1f6",
+      "title": "How kids feel about AI, in their own words",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-13T09:00:00+00:00",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "c8e20057c58a",
@@ -1660,33 +1698,6 @@
       "source": "ArXiv cs.AI",
       "published": "2026-08-13T00:00:00-04:00",
       "summary": "arXiv:2608.11692v1 Announce Type: new Abstract: Autonomous logistics sorting systems (ALSS) are an important industrial application of embodied AI, which requires joint planning over spatially disjoint camera views. We formulate this setting as Joint Multi-Scene Understanding (JM",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "6e49e9dfbb98",
-      "title": "Making Your LLMs More Objective: Stabilizing LLM Safety Behavior Across Traits with Trait-Invariant Safety Tuning",
-      "url": "https://arxiv.org/abs/2608.11705",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-13T00:00:00-04:00",
-      "summary": "arXiv:2608.11705v1 Announce Type: new Abstract: Aligned large language models (LLMs) are expected to exhibit safety behavior based on the content of the user request: they should refuse unsafe requests and comply with safe ones. However, we show that the same request can elicit s",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "a5d6ea1bbf52",
-      "title": "Proportional Analogies on Probability Distributions via Bayesian Updating",
-      "url": "https://arxiv.org/abs/2608.11724",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-13T00:00:00-04:00",
-      "summary": "arXiv:2608.11724v1 Announce Type: new Abstract: Analogies are quaternary relations of the form \"A is to B as C is to D\". Among the various formalizations of analogical reasoning, proportional analogies provide an important axiomatic framework by characterizing valid analogies thr",
       "phases": [
         "p3"
       ],
