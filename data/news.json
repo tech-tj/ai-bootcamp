@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T07:05:27.632637+00:00",
+  "generated": "2026-08-14T12:37:33.364496+00:00",
   "count": 120,
   "articles": [
     {
@@ -852,32 +852,51 @@
       "weight": 3
     },
     {
-      "id": "817e2aedd430",
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "source": "OpenAI",
-      "published": "2026-07-15T12:00:00+00:00",
-      "summary": "OpenAI outlines a \u201creverse federalism\u201d approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "id": "809a6ceeb0f2",
+      "title": "This scientist is helping build a missing map of childhood",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-14T09:00:00+00:00",
+      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned.",
       "phases": [
         "p1",
-        "p4"
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
-      "category": "tools",
-      "weight": 3
+      "category": "research",
+      "weight": 2
     },
     {
-      "id": "5ea0a6358ff1",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "source": "OpenAI",
-      "published": "2026-07-15T10:00:00+00:00",
-      "summary": "Explore GPT-Red, OpenAI\u2019s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "id": "19bcbe11240d",
+      "title": "Job titles of the future: Space travel agent",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-14T09:00:00+00:00",
+      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client\u2019s superyacht to vacations in the Bahamas at a location so private that g",
       "phases": [
-        "p1",
-        "p4"
+        "p3"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
+    },
+    {
+      "id": "1cc51220b4af",
+      "title": "Cloning could be used to save species\u2014or make human \u201corgan sacks\u201d",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-14T09:00:00+00:00",
+      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They\u2019ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That\u2019s right: female animals that are genetically ident",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "c8e20057c58a",
@@ -1672,19 +1691,6 @@
       "phases": [
         "p3",
         "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "08cd2c5ccdeb",
-      "title": "HUGIN: Enhancing Vision-Language Planning for Autonomous Logistics Sorting",
-      "url": "https://arxiv.org/abs/2608.11692",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-14T00:00:00-04:00",
-      "summary": "arXiv:2608.11692v1 Announce Type: new Abstract: Autonomous logistics sorting systems (ALSS) are an important industrial application of embodied AI, which requires joint planning over spatially disjoint camera views. We formulate this setting as Joint Multi-Scene Understanding (JM",
-      "phases": [
-        "p3"
       ],
       "category": "research",
       "weight": 2
