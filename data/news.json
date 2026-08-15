@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T12:14:59.783461+00:00",
+  "generated": "2026-08-15T18:11:56.481022+00:00",
   "count": 120,
   "articles": [
     {
@@ -775,49 +775,6 @@
       "source": "OpenAI",
       "published": "2026-07-17T10:00:00+00:00",
       "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "fc1dde757a2d",
-      "title": "Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "source": "OpenAI",
-      "published": "2026-07-16T16:00:00+00:00",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "c2f66cb0a504",
-      "title": "Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "source": "Google AI",
-      "published": "2026-07-16T16:00:00+00:00",
-      "summary": "You\u2019ll be able to securely link and interact with your go-to services directly in AI Mode.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "b1da67ab5327",
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "source": "Google AI",
-      "published": "2026-07-16T16:00:00+00:00",
-      "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
       "phases": [
         "p1"
       ],
@@ -1662,6 +1619,48 @@
         "p4"
       ],
       "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "74c29154268f",
+      "title": "Rethinking Normalization Placement for LLMs: Post-Norm under Curriculum Depth Growing",
+      "url": "https://arxiv.org/abs/2608.13156",
+      "source": "ArXiv cs.AI",
+      "published": "2026-08-15T00:00:00-04:00",
+      "summary": "arXiv:2608.13156v1 Announce Type: new Abstract: Pre-norm is the standard normalization placement in modern Transformers because it facilitates joint optimization of full-depth models. We ask whether this preference persists when depth is introduced through a curriculum. In curric",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "bee59ff7474f",
+      "title": "SkillShapley: Boundary-Adaptive Shapley Valuation for Skill Step Attribution in LLM Agents",
+      "url": "https://arxiv.org/abs/2608.13173",
+      "source": "ArXiv cs.AI",
+      "published": "2026-08-15T00:00:00-04:00",
+      "summary": "arXiv:2608.13173v1 Announce Type: new Abstract: Agent skills are crucial external instructions that enable language agents to execute long procedural tasks such as coding or document processing. Existing agent skills are primarily created through human manual crafting or agent ex",
+      "phases": [
+        "p1",
+        "p2",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "14cc0593d4cd",
+      "title": "Teach the Magnitude, Not the Direction: Verifier-Bounded Credit Assignment for Multi-Turn Multi-step LLM Agents",
+      "url": "https://arxiv.org/abs/2608.13179",
+      "source": "ArXiv cs.AI",
+      "published": "2026-08-15T00:00:00-04:00",
+      "summary": "arXiv:2608.13179v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) offers a verifier-bounded performance ceiling for training multi-turn tool-use agents, yet its trajectory-level credit assignment conflates heterogeneous per-turn outcomes into a",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
       "weight": 2
     }
   ]
