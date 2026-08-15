@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T06:17:53.156113+00:00",
+  "generated": "2026-08-15T12:14:59.783461+00:00",
   "count": 120,
   "articles": [
     {
@@ -825,19 +825,6 @@
       "weight": 3
     },
     {
-      "id": "41170cb100da",
-      "title": "How Codex became a collaborator for OpenAI\u2019s creative team",
-      "url": "https://openai.com/index/codex-collaborator-creative-team",
-      "source": "OpenAI",
-      "published": "2026-07-16T07:00:00+00:00",
-      "summary": "How OpenAI\u2019s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
       "id": "3695b874da57",
       "title": "Position: Reasoning is a Learnable Rule-Based Process",
       "url": "https://arxiv.org/abs/2608.12325",
@@ -1660,6 +1647,21 @@
         "p3"
       ],
       "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "5b768334b100",
+      "title": "Numeracy in Large Language Models: Fundamental Limitations and Paths to Improvement",
+      "url": "https://arxiv.org/abs/2608.13129",
+      "source": "ArXiv cs.AI",
+      "published": "2026-08-15T00:00:00-04:00",
+      "summary": "arXiv:2608.13129v1 Announce Type: new Abstract: Large language models (LLMs) achieve strong results on mathematical reasoning benchmarks yet remain unreliable on elementary numerical tasks, including magnitude comparison, large-integer arithmetic, fractions, and scientific notati",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
       "weight": 2
     }
   ]
