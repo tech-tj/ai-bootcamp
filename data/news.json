@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T18:38:38.990307+00:00",
+  "generated": "2026-08-15T00:34:25.644898+00:00",
   "count": 120,
   "articles": [
     {
@@ -835,20 +835,6 @@
         "p1"
       ],
       "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "b57416a816cc",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "url": "https://openai.com/index/cars24",
-      "source": "OpenAI",
-      "published": "2026-07-16T00:00:00+00:00",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "industry",
       "weight": 3
     },
     {
@@ -1694,6 +1680,20 @@
       "phases": [
         "p1",
         "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "8a966a25345e",
+      "title": "FrontierFinance: A Challenging Benchmark for Measuring Frontier Intelligence of Finance Agents",
+      "url": "https://arxiv.org/abs/2608.11683",
+      "source": "ArXiv cs.AI",
+      "published": "2026-08-14T00:00:00-04:00",
+      "summary": "arXiv:2608.11683v1 Announce Type: new Abstract: AI agents are increasingly deployed for professional investment research, yet no benchmark captures the complexity of the full investor workflow. Existing benchmarks mainly target financial data extraction, a narrow slice that curre",
+      "phases": [
+        "p3",
+        "p4"
       ],
       "category": "research",
       "weight": 2
