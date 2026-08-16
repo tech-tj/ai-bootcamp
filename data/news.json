@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-16T06:19:39.707781+00:00",
+  "generated": "2026-08-16T12:15:35.508298+00:00",
   "count": 120,
   "articles": [
     {
@@ -769,19 +769,6 @@
       "weight": 3
     },
     {
-      "id": "be04b43c7028",
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "source": "OpenAI",
-      "published": "2026-07-17T10:00:00+00:00",
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "9ede57eacc41",
       "title": "The Download: Flock\u2019s new rules, cloning\u2019s future, and children\u2019s cells",
       "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
@@ -1224,6 +1211,67 @@
       "weight": 2
     },
     {
+      "id": "1baa98c9250a",
+      "title": "ICDM 2026 Results Waiting Place [D]",
+      "url": "t3_1vpv9ct",
+      "source": "r/ML",
+      "published": "2026-08-16T12:02:18+00:00",
+      "summary": "The results should be out soon. Let\u2019s share them, guys. From my batch (Applied Track) Total 13 submissions: - 2 full papers - 1 short paper accepted Cheers! &#32; submitted by &#32; /u/d_edge_sword [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "6735733475ba",
+      "title": "Revisiting the Efficient Channel Attention paper (2019, 12k citations) - the central hypothesis isn't quite right [D]",
+      "url": "t3_1vptaw9",
+      "source": "r/ML",
+      "published": "2026-08-16T10:13:44+00:00",
+      "summary": "ECA was positioned as a successor to SE . The idea behind ECA is quite simple. Unlike SE which reduces the channel means into a smaller hidden layer, it directly uses a 1d convolution kernel on the channel means themselves, avoiding the need for dimensionality reduction. The resu",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "70bda7d8a01a",
+      "title": "SSOG-Attention: Sum Of Separable Gaussians as a sub-quadratic and scalable alternative to SDPA. [R]",
+      "url": "t3_1vpt6ay",
+      "source": "r/ML",
+      "published": "2026-08-16T10:06:07+00:00",
+      "summary": "&#x200B; Scaled dot-product attention (SDPA) computes its Attention by computing the similarity-scores of all image-tokens with all query tokens which results in O(N\u00b2\u00b7d) complexity. SSOG (Sum Of Separable Gaussians) instead learns a few Gaussian atoms for each head and only geome",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "ca53b8006b73",
+      "title": "How can we solve long-range recall in linear attention? [D]",
+      "url": "t3_1vpqwdc",
+      "source": "r/ML",
+      "published": "2026-08-16T07:47:09+00:00",
+      "summary": "Recently, I started working on DNA sequence modeling and decided to explore linear attention , mainly because DNA sequences can easily reach 1M tokens , making standard softmax attention extremely expensive in terms of memory and computation. The model performed reasonably well o",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "dc9b080d8ac5",
       "title": "Survival of the Fitted: Qwen3.6-27B\u2019s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
       "url": "t3_1vpa5cv",
@@ -1499,23 +1547,6 @@
       "weight": 1
     },
     {
-      "id": "a5c8df073372",
-      "title": "UrgenT Help Detecting Performance Regressions Using Machine Learning and Hardware Counters [P]",
-      "url": "t3_1vngjmv",
-      "source": "r/ML",
-      "published": "2026-08-13T17:01:27+00:00",
-      "summary": "I\u2019m working on performance regression detection using machine learning/anomaly detection. My setup is basically: Healthy runs are used to learn normal behaviour Regression runs are used to see whether the model detects the anomaly For each counter group I only have about 10 healt",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "aaaba95166f1",
       "title": "Neurips 2026: Modified date on reviews [D]",
       "url": "t3_1vnb89z",
@@ -1547,19 +1578,6 @@
         "p5"
       ],
       "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "86cc3e155b8d",
-      "title": "chessformer_lens demo: ablating 1 of a chess transformer's 128 attention heads makes the model stop finding Morphy's queen sacrifice [P]",
-      "url": "t3_1vmvl4w",
-      "source": "r/ML",
-      "published": "2026-08-13T00:29:52+00:00",
-      "summary": "https://i.redd.it/ipz7i6ife1jh1.gif Notebooks to replicate on github! &#32; submitted by &#32; /u/Weird-Asparagus4136 [link] &#32; [comments]",
-      "phases": [
-        "p2"
-      ],
-      "category": "models",
       "weight": 1
     },
     {
@@ -1607,40 +1625,6 @@
         "p4"
       ],
       "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "dce527d9413f",
-      "title": "Would you choose a PhD advisor who gives you complete freedom but almost no guidance? [D]",
-      "url": "t3_1vmhks7",
-      "source": "r/ML",
-      "published": "2026-08-12T15:36:44+00:00",
-      "summary": "It\u2019s an ML PhD with secure funding for 4\u20135 years and a senior, respected advisor. You get almost complete freedom to choose your own topics, projects, and collaborations, with very little micromanagement. The downside is that the advisor is also very hands-off. You should expect ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "industry",
-      "weight": 1
-    },
-    {
-      "id": "dfd7ae0816a6",
-      "title": "I built an \"honest\" CS conference ranking: sorted by how good the trip is, not the CORE ranking [P]",
-      "url": "t3_1vmbdk6",
-      "source": "r/ML",
-      "published": "2026-08-12T11:23:32+00:00",
-      "summary": "Once the paper is ready, everyone checks the venue location before the acceptance rate anyway. So I built: https://honestcsrankings.org It maps ~540 upcoming CORE-ranked conferences, but ranks them by how good the destination actually is. It factors in: Weather during the actual ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 1
     },
     {
@@ -1748,6 +1732,23 @@
       "source": "Ars Technica",
       "published": "2026-08-05T19:51:40+00:00",
       "summary": "\"Slop\" isn't the only problem.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "3b4804541f2c",
+      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "source": "Ars Technica",
+      "published": "2026-08-03T19:00:50+00:00",
+      "summary": "Top scores increased by 5x.",
       "phases": [
         "p1",
         "p2",
