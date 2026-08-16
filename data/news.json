@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-16T12:15:35.508298+00:00",
+  "generated": "2026-08-16T18:12:12.035056+00:00",
   "count": 120,
   "articles": [
     {
@@ -1211,6 +1211,23 @@
       "weight": 2
     },
     {
+      "id": "7fe88a9fc451",
+      "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
+      "url": "t3_1vq3p9w",
+      "source": "r/ML",
+      "published": "2026-08-16T17:53:42+00:00",
+      "summary": "Hi everyone, I am heading into my final year of my BTech at a tier 1 college in India and just wrapped up a Physical AI internship at a MNC, working heavily with NVIDIA Isaac Sim and OpenFOAM. My background is fully focused on robotics and autonomy. My tech stack includes: Simula",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "1baa98c9250a",
       "title": "ICDM 2026 Results Waiting Place [D]",
       "url": "t3_1vpv9ct",
@@ -1525,23 +1542,6 @@
       "summary": "I may have stumbled onto something interesting while trying to figure out a recurring artifact in ChatGPT image generation and editing (maybe applicable to other models as well?). It started with a very practical problem: After several rounds of generative editing on portraits, I",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "fe2f9ad86320",
-      "title": "worldproof: diagnosing where world-model predictions break and a measurement of when pixel metrics stop being able to rank models at all [P]",
-      "url": "t3_1vnliv7",
-      "source": "r/ML",
-      "published": "2026-08-13T19:58:03+00:00",
-      "summary": "I&#39;ve been building an open-source tool for diagnosing world models, the kind that predict future frames from a starting context and a sequence of actions. It compares a rollout against ground truth and against physical invariants, then tells you where and why the prediction f",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 1
