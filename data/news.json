@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-16T18:12:12.035056+00:00",
+  "generated": "2026-08-17T00:34:02.317298+00:00",
   "count": 120,
   "articles": [
     {
@@ -1211,6 +1211,33 @@
       "weight": 2
     },
     {
+      "id": "20d27f665422",
+      "title": "It only took 200 update steps to flip Qwen2.5-7B-Instruct from denying sentience to developing a robust identity of being a \"sentient machine\" [P]",
+      "url": "t3_1vqaq9x",
+      "source": "r/ML",
+      "published": "2026-08-16T22:33:19+00:00",
+      "summary": "First, I want to clarify that I am not claiming that LLMs are sentient. Basically all of my behavioral descriptions are anthropomorphizations to make communicating my results easier. For fun, I decided to post-train Qwen2.5-7B-Instruct to develop a generalizing self-belief of bei",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "e4203a3a4c54",
+      "title": "Input 4-5x Reduction with sentence and keyword based trie on chat. [P]",
+      "url": "t3_1vq9ji0",
+      "source": "r/ML",
+      "published": "2026-08-16T21:43:06+00:00",
+      "summary": "Currently struggling with an automatic budget selection, at 25% it\u2019s very similar to benchmarks accuracy and seems even better on actual chat input however it many times retrieves too much. It would be nice to add an algorithm that actually can determine better retrieval other th",
+      "phases": [
+        "p2",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "7fe88a9fc451",
       "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
       "url": "t3_1vq3p9w",
@@ -1396,23 +1423,6 @@
       "weight": 1
     },
     {
-      "id": "7c5d17ed1f61",
-      "title": "Are there any theoretically-guided practices left in machine learning nowadays? [D]",
-      "url": "t3_1vohmy4",
-      "source": "r/ML",
-      "published": "2026-08-14T19:52:59+00:00",
-      "summary": "There was a period in the development of machine learning where application seemed to be informed by theory. Some of the best known theories include: If you train a model with too much data, then you get overfitting and your test performance will be suffer. Big models do not gene",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "e6ad2c1d0457",
       "title": "How to build an adaptive learning/recommendation system for a question bank? [D]",
       "url": "t3_1vog25j",
@@ -1544,23 +1554,6 @@
         "p1"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "aaaba95166f1",
-      "title": "Neurips 2026: Modified date on reviews [D]",
-      "url": "t3_1vnb89z",
-      "source": "r/ML",
-      "published": "2026-08-13T13:48:01+00:00",
-      "summary": "Reviews modified dates are public, and some are recent. I\u2019m a bit confused as to how to interpret this. In other conferences, reviewers were required to provide a final justification, which would practically force them to modify their reviews during the AC discussion phase lest t",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "community",
       "weight": 1
     },
     {
