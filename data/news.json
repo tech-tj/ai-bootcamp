@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T12:19:05.358440+00:00",
+  "generated": "2026-08-17T18:20:18.415916+00:00",
   "count": 120,
   "articles": [
     {
@@ -13,6 +13,32 @@
         "p1"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "699d10e1c74c",
+      "title": "The Defender\u2019s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI",
+      "published": "2026-08-17T05:30:00+00:00",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "a7860c437a7c",
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source": "OpenAI",
+      "published": "2026-08-17T05:00:00+00:00",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "phases": [
+        "p1"
+      ],
+      "category": "industry",
       "weight": 3
     },
     {
@@ -793,6 +819,40 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "a12e8f03097c",
+      "title": "Import AI 469: Science AI; RSI simulator; and Zuck\u2019s technological pessimism",
+      "url": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/",
+      "source": "Import AI",
+      "published": "2026-08-17T13:05:36+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe now DiG-bench shows that Fable displays some creative intuition:\u2026The new frontier for analyzing AI sys",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "8207d686d6cf",
+      "title": "The Download: dead robot friends and the \u201ccensorship-industrial complex\u201d",
+      "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-17T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid\u2019s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "b1e5b7bc0ace",
@@ -1626,63 +1686,6 @@
       "summary": "arXiv:2608.14157v1 Announce Type: new Abstract: Mechanical ventilation is a critical life-support intervention, requiring dynamic adjustments to ventilator settings as a patient's condition evolves. While reinforcement learning (RL) offers a promising framework for optimizing the",
       "phases": [
         "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "038832be5551",
-      "title": "BiasTrace: Linking Reasoning Behaviours to Biased Outputs in LLMs",
-      "url": "https://arxiv.org/abs/2608.14161",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-17T00:00:00-04:00",
-      "summary": "arXiv:2608.14161v1 Announce Type: new Abstract: LLMs exhibit social biases that can produce inaccurate and discriminatory inferences, posing risks in high-stakes applications. While prior work has made progress in measuring and mitigating bias, it largely focuses on final outputs",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "dd1391e43267",
-      "title": "Can Language Models Understand mmWave Data? Benchmarking Large Language Models for mmWave Radar-Based Human Understanding",
-      "url": "https://arxiv.org/abs/2608.14179",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-17T00:00:00-04:00",
-      "summary": "arXiv:2608.14179v1 Announce Type: new Abstract: Large language models (LLMs) have shown remarkable reasoning and generative capabilities, motivating their use as universal reasoning engines for perception. While modern approaches such as vision-language models (VLMs) have attempt",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "1690ddc7a83a",
-      "title": "FreeBalance: Pre-Routing Online Moe Load Balancing via Residual Workload Prediction",
-      "url": "https://arxiv.org/abs/2608.14205",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-17T00:00:00-04:00",
-      "summary": "arXiv:2608.14205v1 Announce Type: new Abstract: Load imbalance poses a major bottleneck to the efficiency of expert parallelism in distributed inference of Mixture-of-Experts (MoE) models. The most heavily loaded rank stalls global execution due to skewed routing distributions, d",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "8290918f40bc",
-      "title": "APTER: Adaptive Post-Training with Expert-Grounded Rubrics",
-      "url": "https://arxiv.org/abs/2608.14212",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-17T00:00:00-04:00",
-      "summary": "arXiv:2608.14212v1 Announce Type: new Abstract: As large language models enter professional domains, they must satisfy domain constraints, include critical evidence, and provide complete reasoning rather than merely produce fluent responses. Existing post-training methods often r",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "research",
       "weight": 2
