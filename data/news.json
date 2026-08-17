@@ -1,7 +1,33 @@
 {
-  "generated": "2026-08-17T06:30:22.399208+00:00",
+  "generated": "2026-08-17T12:19:05.358440+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "4b1422325725",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI",
+      "published": "2026-08-17T08:00:00+00:00",
+      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "e5221d6f877f",
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source": "OpenAI",
+      "published": "2026-08-17T03:15:00+00:00",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "657afebb011c",
       "title": "Bring your spreadsheet data to life with Sheets canvas",
@@ -767,6 +793,36 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "b1e5b7bc0ace",
+      "title": "How much hydrogen awaits us underground?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-17T09:00:00+00:00",
+      "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "0c3e7b3f060b",
+      "title": "What happens when a kid\u2019s robot best friend dies?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-17T09:00:00+00:00",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "aa69ef98e036",
@@ -1626,63 +1682,6 @@
       "summary": "arXiv:2608.14212v1 Announce Type: new Abstract: As large language models enter professional domains, they must satisfy domain constraints, include critical evidence, and provide complete reasoning rather than merely produce fluent responses. Existing post-training methods often r",
       "phases": [
         "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "3e3ac99e24ee",
-      "title": "A Generalized Parallelogram Rule for Proportional Analogies on Riemannian Manifolds",
-      "url": "https://arxiv.org/abs/2608.14220",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-17T00:00:00-04:00",
-      "summary": "arXiv:2608.14220v1 Announce Type: new Abstract: Analogies are quaternary relations of the form \"a is to b as c is to d\", usually denoted a : b :: c : d. This notion is formalized in particular with the notion of proportional analogy, which imposes some constraints on the valid an",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "f7ce190f6c4d",
-      "title": "MathForm: Scaling Mathematical Autoformalization with Knowledge Retrieval and Verification-Guided Refinement",
-      "url": "https://arxiv.org/abs/2608.14221",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-17T00:00:00-04:00",
-      "summary": "arXiv:2608.14221v1 Announce Type: new Abstract: Autoformalization is commonly framed as translating natural-language mathematical statements into machine-verifiable formal languages such as Lean 4. However, faithful formalization requires more than translation. Models must map ma",
-      "phases": [
-        "p2",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "77138eeddf39",
-      "title": "Attributing Preprocessing Invariance in Spectral Foundation Models",
-      "url": "https://arxiv.org/abs/2608.14227",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-17T00:00:00-04:00",
-      "summary": "arXiv:2608.14227v1 Announce Type: new Abstract: Preprocessing invariance is an appealing goal for spectral foundation models: a frozen model should remain useful when laboratories preprocess spectra differently. It is usually measured by training a classifier under one preprocess",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "f65113ff1ad9",
-      "title": "Polaris : Multi Agentic System for Conversational Enterprise Analytics",
-      "url": "https://arxiv.org/abs/2608.14246",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-17T00:00:00-04:00",
-      "summary": "arXiv:2608.14246v1 Announce Type: new Abstract: In today's fast-paced environment, the ability to swiftly access, understand, and act on data is no longer optional; it is essential. Yet most organizations remain data-rich but insight-poor, constrained by the complexity of queryin",
-      "phases": [
         "p3"
       ],
       "category": "research",
