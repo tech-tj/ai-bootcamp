@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T06:22:52.043406+00:00",
+  "generated": "2026-08-19T12:20:43.779225+00:00",
   "count": 120,
   "articles": [
     {
@@ -900,19 +900,34 @@
       "weight": 3
     },
     {
-      "id": "960e35dd4f7d",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "source": "OpenAI",
-      "published": "2026-07-20T10:00:00+00:00",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "id": "c4c7cdc85d09",
+      "title": "The Download: AI\u2019s self-improvement problem, and what\u2019s driving the heat",
+      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-19T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI\u2019s recursive self-improvement might not come so quickly after all The AI industry\u2019s boldest promise right now is that AI will so",
       "phases": [
         "p1",
+        "p2",
+        "p3",
         "p4",
         "p5"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
+    },
+    {
+      "id": "2fd4207b2182",
+      "title": "Child-monitoring apps might need a reboot",
+      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-19T09:00:00+00:00",
+      "summary": "Pam Wisniewski\u2019s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she\u2019d been isolated in a fifth-wheel trailer at the end of a seven-\u00admile dirt road. She moved in with her older sister and taught herself to type on AOL ",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "39fef01ea8b9",
@@ -1645,23 +1660,6 @@
         "p3"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "bf46da6d67cb",
-      "title": "D$^2$ACCI: A Dual-Loop Diagnostic Protocol for Evidence-Preserving Agent Memory",
-      "url": "https://arxiv.org/abs/2608.17756",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-19T00:00:00-04:00",
-      "summary": "arXiv:2608.17756v1 Announce Type: new Abstract: Memory is a key capability of LLM agents. Persistent memory extends this across sessions---enabling recall, revision, and personalization. Yet its multi-stage pipeline (ingestion, retrieval, filtering, generation) makes failures dif",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
