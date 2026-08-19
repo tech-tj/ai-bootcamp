@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-19T12:20:43.779225+00:00",
+  "generated": "2026-08-19T18:16:34.620858+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "b75ccb581589",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "source": "OpenAI",
+      "published": "2026-08-19T19:00:00+00:00",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "09f9dc1b5215",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "source": "OpenAI",
+      "published": "2026-08-19T07:00:00+00:00",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "40e57b678ada",
       "title": "ChatGPT Ads expands across Europe",
@@ -900,6 +927,19 @@
       "weight": 3
     },
     {
+      "id": "34372b36cf13",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "source": "HuggingFace",
+      "published": "2026-08-19T13:48:49+00:00",
+      "summary": "",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "c4c7cdc85d09",
       "title": "The Download: AI\u2019s self-improvement problem, and what\u2019s driving the heat",
       "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
@@ -1620,46 +1660,6 @@
         "p3"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "7db6c2924d50",
-      "title": "Evaluating the Diversity of AI-Generated Content with Diversity Profiles",
-      "url": "https://arxiv.org/abs/2608.17731",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-19T00:00:00-04:00",
-      "summary": "arXiv:2608.17731v1 Announce Type: new Abstract: Diversity is a fundamental criterion for evaluating generative artificial intelligence (AI) systems, yet its measurement remains inherently ambiguous. Existing approaches typically represent generated samples in an embedding space, ",
-      "phases": [
-        "p2",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "969f9a2bc324",
-      "title": "Neuro-symbolic learning over OWL 2 DL via consequence-based compilation to differentiable circuits",
-      "url": "https://arxiv.org/abs/2608.17741",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-19T00:00:00-04:00",
-      "summary": "arXiv:2608.17741v1 Announce Type: new Abstract: OWL 2 DL ontologies, grounded in the description logic $\\mathcal{SROIQ}$, express large knowledge bases in biomedicine and the Semantic Web. Neuro-symbolic (NeSy) learners over description logics either embed the ontology in a conti",
-      "phases": [
-        "p2"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "b1e555b57a0e",
-      "title": "The Curious Case of Exploding DecPOMDPs: Containing the Fire through Policy Counting",
-      "url": "https://arxiv.org/abs/2608.17749",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-19T00:00:00-04:00",
-      "summary": "arXiv:2608.17749v1 Announce Type: new Abstract: Decentralised partially observable Markov decision processes (DecPOMDPs) provide a general framework for modelling multi-agent decision making under uncertainty. However, DecPOMDPs are known to suffer from exponential complexity in ",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
