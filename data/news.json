@@ -1,7 +1,20 @@
 {
-  "generated": "2026-08-20T12:22:46.228715+00:00",
+  "generated": "2026-08-20T18:20:54.030216+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "6213ce5ceef3",
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "url": "https://openai.com/index/stampli",
+      "source": "OpenAI",
+      "published": "2026-08-20T00:00:00+00:00",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "7e1debc1bd0a",
       "title": "Offering Zero Data Retention for frontier models",
@@ -904,17 +917,47 @@
       "weight": 3
     },
     {
-      "id": "9783627bd88c",
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "source": "OpenAI",
-      "published": "2026-07-21T17:00:00+00:00",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "id": "b1eabc16d142",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "HuggingFace",
+      "published": "2026-08-20T16:52:57+00:00",
+      "summary": "",
       "phases": [
         "p1"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
+    },
+    {
+      "id": "5e86b723ff64",
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-20T15:42:39+00:00",
+      "summary": "\u201cRunaway\u201d AI, \u201crogue\u201d agents, and \u201cautonomous\u201d actors\u2014the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these see",
+      "phases": [
+        "p3"
+      ],
+      "category": "community",
+      "weight": 2
+    },
+    {
+      "id": "4ad78b2d3b31",
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-20T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sittin",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "20d0e9fe5e74",
@@ -1640,46 +1683,6 @@
       "phases": [
         "p2",
         "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "a149295bcb4f",
-      "title": "A Multi-Agent Platform for Automated Enterprise Analytics and Insight Generation",
-      "url": "https://arxiv.org/abs/2608.18740",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-20T00:00:00-04:00",
-      "summary": "arXiv:2608.18740v1 Announce Type: new Abstract: This paper proposes a multi-agent framework built on CrewAI [1] for conversational business intelligence. Five specialized AI agents operate in a sequential pipeline to process natural language queries, retrieve and analyze data, ge",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "1904e58b8798",
-      "title": "Metrics That Write Themselves: Evolving an Evaluator from Its Own Blind Spots",
-      "url": "https://arxiv.org/abs/2608.18744",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-20T00:00:00-04:00",
-      "summary": "arXiv:2608.18744v1 Announce Type: new Abstract: Agents improve quickly against a reliable automatic metric and stall without one, and the applications that need them most, report generation among them, are the ones nobody knows how to score. Can the metric write itself? Saying wh",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "7ab47bb93af3",
-      "title": "Pairwise Logical Selection of Enthymeme Completions under Semantic-Link Uncertainty",
-      "url": "https://arxiv.org/abs/2608.18820",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-20T00:00:00-04:00",
-      "summary": "arXiv:2608.18820v1 Announce Type: new Abstract: Arguments often omit premises or claims, forming enthymemes. We study pairwise logical selection between two candidates for the omitted component. Existing natural language methods can identify or generate candidates but often do no",
-      "phases": [
-        "p1"
       ],
       "category": "research",
       "weight": 2
