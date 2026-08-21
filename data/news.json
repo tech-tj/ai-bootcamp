@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T06:24:28.772398+00:00",
+  "generated": "2026-08-21T12:21:57.421548+00:00",
   "count": 120,
   "articles": [
     {
@@ -890,17 +890,55 @@
       "weight": 3
     },
     {
-      "id": "1de8660326e5",
-      "title": "Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "source": "OpenAI",
-      "published": "2026-07-22T12:00:00+00:00",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "id": "2be7e5f3f744",
+      "title": "Mother tongue",
+      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-21T09:00:00+00:00",
+      "summary": "\u201cDaddy?\u201d Theo curled against my side in bed. \u201cWhere do words go when they die?\u201d I\u2019d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when ",
       "phases": [
-        "p1"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
+    },
+    {
+      "id": "66806890d278",
+      "title": "When AI designs a drug, who gets the credit?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-21T09:00:00+00:00",
+      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been \u201cdiscovered by\u201d its generative AI platform. Insilico leads a pack of companies using A",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "b0b66b952620",
+      "title": "This company\u2019s plans to deploy space mirrors could jeopardize the night sky for many",
+      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-21T09:00:00+00:00",
+      "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called E\u00e4rendil-1 that w",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
     },
     {
       "id": "7b56b53cc3af",
@@ -1647,33 +1685,6 @@
         "p3"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "dc6908547caf",
-      "title": "SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents",
-      "url": "https://arxiv.org/abs/2608.18852",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-21T00:00:00-04:00",
-      "summary": "arXiv:2608.18852v1 Announce Type: new Abstract: Agent frameworks increasingly package procedural knowledge as skills: instruction files an agent reads on demand, while public libraries now hold thousands of them. Which skill to read has thus become a decision the policy itself ma",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "309a14e83a9f",
-      "title": "DentAgent: Evidence-Centric Multi-Agent Coordination for Multimodal Dental Reasoning",
-      "url": "https://arxiv.org/abs/2608.18878",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-21T00:00:00-04:00",
-      "summary": "arXiv:2608.18878v1 Announce Type: new Abstract: Oral diseases affect billions of people worldwide, underscoring a pressing need for accurate and reliable dental assessment that integrates heterogeneous evidence from domain knowledge, radiographs, intraoral photographs, and 3D den",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
