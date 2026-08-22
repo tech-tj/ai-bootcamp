@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T06:19:12.605083+00:00",
+  "generated": "2026-08-22T12:15:27.389750+00:00",
   "count": 120,
   "articles": [
     {
@@ -1306,6 +1306,23 @@
       "weight": 2
     },
     {
+      "id": "4b65437bd0ce",
+      "title": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]",
+      "url": "t3_1vv7wx3",
+      "source": "r/ML",
+      "published": "2026-08-22T09:37:05+00:00",
+      "summary": "I am trying understand how tree-based regression model handle the dependencies of the target variables on the interaction of explanatory variables. However my experiment revealed that my understanding about the fitting process of a lgbm is not correct. And I don\u2019t know why. My ex",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "acbf40d3a206",
       "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
       "url": "t3_1vv2nkh",
@@ -1314,20 +1331,6 @@
       "summary": "I trained a 250M parameter model from scratch on 30B tokens of fineweb. It\u2019s quantized to under 2 bits so the whole deployment is 60 MB and it needs about 80 MB of RAM to run. Runs around 400 tok/s on a normal laptop CPU, no GPU needed. How the long context works: the most recent",
       "phases": [
         "p1",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "87e182c8eac6",
-      "title": "On-prem MLOps in a hospital: advice needed for production monitoring of self-built and vendor models? [D]",
-      "url": "t3_1vut9wm",
-      "source": "r/ML",
-      "published": "2026-08-21T21:30:20+00:00",
-      "summary": "TL;DR: Hospital, fully on-prem OpenShift cluster. Multiple teams building prediction models, so we\u2019re setting up a self-service platform with boundary policies. Evaluating ClearML vs OpenShift AI for the full MLOps lifecycle. Both look fine for development/deployment, but neither",
-      "phases": [
-        "p4",
         "p5"
       ],
       "category": "models",
@@ -1348,23 +1351,6 @@
         "p5"
       ],
       "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "b43e2ae4c56e",
-      "title": "A Classification model trained entirely on a scientific calculator [P]",
-      "url": "t3_1vurfv8",
-      "source": "r/ML",
-      "published": "2026-08-21T20:18:40+00:00",
-      "summary": "The calculator model is the Casio FX-82CE X. It is not programmable or graphical so everything had to be done by hand. The architecture is simple, MNIST images (just 0s and 1s) downscaled to 3x3, with binary pixels, then with a fully connected layer, they are brought down to just",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 1
     },
     {
@@ -1557,6 +1543,22 @@
         "p5"
       ],
       "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "243622e7a8db",
+      "title": "Is KV Cache in a high dimensional vector space? [D]",
+      "url": "t3_1vtrdem",
+      "source": "r/ML",
+      "published": "2026-08-20T18:18:10+00:00",
+      "summary": "I&#39;ve been doing some research on this question: At inference time a large part of a model&#39;s working memory lives in the KV cache, plus whatever external memory the harness bolts on. I&#39;ve been poking at the storage-and-retrieval side of this, treating that cache as an ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
       "weight": 1
     },
     {
