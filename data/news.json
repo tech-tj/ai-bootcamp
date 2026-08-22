@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T12:15:27.389750+00:00",
+  "generated": "2026-08-22T18:12:44.579985+00:00",
   "count": 120,
   "articles": [
     {
@@ -1306,6 +1306,50 @@
       "weight": 2
     },
     {
+      "id": "943f30ddef9f",
+      "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
+      "url": "t3_1vvii1j",
+      "source": "r/ML",
+      "published": "2026-08-22T17:32:17+00:00",
+      "summary": "Hey everyone! I wanted to share something I\u2019ve been working on. I was inspired by projects from DeepMind and OpenAI, but noticed that most games are prohibitively difficult to integrate with an agent harness. So I built DelveRL from the ground up as a human-playable game with a s",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "f44d5239a08c",
+      "title": "The evaluation resolution has been shown to have a significant impact on the identification of the \"learning rule\" that exhibits the most brain-like characteristics at V1. [R]",
+      "url": "t3_1vvdxwt",
+      "source": "r/ML",
+      "published": "2026-08-22T14:30:28+00:00",
+      "summary": "The preprint can be accessed via the following link: https://arxiv.org/abs/2608.12408 (q-bio.NC / cs.LG). And for the code: https://github.com/nilsleut/evaluation-resolution-rsa The following assertion is frequently made in model-brain comparisons: untrained convolutional neural ",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "40ecb57af12d",
+      "title": "acl arr august 2026 (desk rejected ) [D]",
+      "url": "t3_1vvd9ub",
+      "source": "r/ML",
+      "published": "2026-08-22T14:02:34+00:00",
+      "summary": "I have got two papers which got desk rejected by PC saying they are previously got reviewed in arr. But those paper never got submitted ever. Any idea what can be done? &#32; submitted by &#32; /u/malakulmout347 [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
       "id": "4b65437bd0ce",
       "title": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]",
       "url": "t3_1vv7wx3",
@@ -1546,45 +1590,12 @@
       "weight": 1
     },
     {
-      "id": "243622e7a8db",
-      "title": "Is KV Cache in a high dimensional vector space? [D]",
-      "url": "t3_1vtrdem",
-      "source": "r/ML",
-      "published": "2026-08-20T18:18:10+00:00",
-      "summary": "I&#39;ve been doing some research on this question: At inference time a large part of a model&#39;s working memory lives in the KV cache, plus whatever external memory the harness bolts on. I&#39;ve been poking at the storage-and-retrieval side of this, treating that cache as an ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "fadc3e6c3c2c",
       "title": "Mapping intrinsic rank and informational gravity in complex tabular data: I developed a non-parametric, model-agnostic, information-theoretic diagnostic to bypass the limits of linear, rank, and Euclidean baselines. [R]",
       "url": "t3_1vtjotb",
       "source": "r/ML",
       "published": "2026-08-20T13:34:28+00:00",
       "summary": "Links: Preprint: https://doi.org/10.5281/zenodo.22028087 Entropic Scree Function v1.0.0 / GitHub: https://github.com/tjleestjohn/Entropic-Scree TL;DR: Standard PCA fundamentally fractures non-linear dependencies into &quot;Spurious Orthogonal Dimensions,&quot; drastically overest",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "fc66f53bfa71",
-      "title": "Resizing images from Flutter Camera Stream for TFLite modle [P]",
-      "url": "t3_1vth6d9",
-      "source": "r/ML",
-      "published": "2026-08-20T11:45:15+00:00",
-      "summary": "Hi everyone. So I built a CNN modle using MobileNetv3 then converted it into TFLite. It performed well during training but once I integrated it into my application, it is making large errors. From flutter, the camera stream sends frames and those are processed before the model ma",
       "phases": [
         "p1",
         "p2",
@@ -1658,20 +1669,6 @@
         "p2",
         "p3",
         "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "0f117d4083c8",
-      "title": "Same GRPO recipe on three from-scratch LLMs (353M/316M/672M) gave three different outcomes, with no clean relationship to scale [P]",
-      "url": "t3_1vszsit",
-      "source": "r/ML",
-      "published": "2026-08-19T21:30:26+00:00",
-      "summary": "I trained three LLMs from scratch in raw PyTorch then post-trained each one with SFT and then GRPO. Same process every time: same synthetic arithmetic curriculum, same reward function, same hyperparameters, same KL coefficient. Pre-training went as expected, the val loss went dow",
-      "phases": [
-        "p1",
         "p5"
       ],
       "category": "research",
