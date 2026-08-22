@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T18:20:08.241754+00:00",
+  "generated": "2026-08-22T00:33:34.116716+00:00",
   "count": 120,
   "articles": [
     {
@@ -827,19 +827,6 @@
       "source": "OpenAI",
       "published": "2026-07-27T03:30:00+00:00",
       "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "b6e63d548020",
-      "title": "Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "source": "OpenAI",
-      "published": "2026-07-23T00:00:00+00:00",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "phases": [
         "p1"
       ],
@@ -1681,6 +1668,20 @@
       "source": "ArXiv cs.AI",
       "published": "2026-08-21T00:00:00-04:00",
       "summary": "arXiv:2608.18878v1 Announce Type: new Abstract: Oral diseases affect billions of people worldwide, underscoring a pressing need for accurate and reliable dental assessment that integrates heterogeneous evidence from domain knowledge, radiographs, intraoral photographs, and 3D den",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "82656fcf13ff",
+      "title": "Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models",
+      "url": "https://arxiv.org/abs/2608.18884",
+      "source": "ArXiv cs.AI",
+      "published": "2026-08-21T00:00:00-04:00",
+      "summary": "arXiv:2608.18884v1 Announce Type: new Abstract: Reinforcement-learning training of reasoning LLMs (e.g., GRPO) is expensive and requires a controllable environment, committing every contribution to a full training pipeline. We present EvoResearcher, a training-free, inference-tim",
       "phases": [
         "p1",
         "p3"
