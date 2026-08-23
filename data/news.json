@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T18:12:44.579985+00:00",
+  "generated": "2026-08-23T00:36:18.011850+00:00",
   "count": 120,
   "articles": [
     {
@@ -1306,6 +1306,32 @@
       "weight": 2
     },
     {
+      "id": "34f2288a03e3",
+      "title": "How to grow a project? [D]",
+      "url": "t3_1vvsm9j",
+      "source": "r/ML",
+      "published": "2026-08-23T00:31:31+00:00",
+      "summary": "I recently got my first paper accepted at EMNLP and open-sourced the code. The core idea is fundamental change, so I\u2019ve been expanding it into a larger system with chatbot agents and extra components. My goal was to build a community around it as I plan to use it on other project",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "5960a4806ac6",
+      "title": "Ablating 1 of a chess transformer's 128 attention heads causes the model to stop finding the queen sacrifice in a famous chess game. [P]",
+      "url": "t3_1vvsf5b",
+      "source": "r/ML",
+      "published": "2026-08-23T00:22:19+00:00",
+      "summary": "Hooks and reads out Maia-3 23m model with chessformer_lens library: github.com/chessformer-lens/chessformer_lens DOI: 10.5281/zenodo.21986988 &#32; submitted by &#32; /u/Weird-Asparagus4136 [link] &#32; [comments]",
+      "phases": [
+        "p2"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
       "id": "943f30ddef9f",
       "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
       "url": "t3_1vvii1j",
@@ -1607,23 +1633,6 @@
       "weight": 1
     },
     {
-      "id": "35586329d055",
-      "title": "AI-generated code detection in CI/CD \u2014 looking for approaches and real-world experience [D]",
-      "url": "t3_1vtgw1g",
-      "source": "r/ML",
-      "published": "2026-08-20T11:31:12+00:00",
-      "summary": "&#x200B; I&#39;m working on a system to estimate whether code committed to a repository was generated with AI coding tools. My current approach is based on Git/commit-level signals such as AI-related commit trailers, commit metadata, LOC changes, number of files changed, addition",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
       "id": "d46bb106b99f",
       "title": "The spectral neuron - an ML primitive for scalable and interpretable models [R]",
       "url": "t3_1vtfimo",
@@ -1655,23 +1664,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "9e6ad7ebfd53",
-      "title": "About the impact of grouping classes in multiclass classification [D]",
-      "url": "t3_1vtctaz",
-      "source": "r/ML",
-      "published": "2026-08-20T07:42:20+00:00",
-      "summary": "A premise: I hope this question is &quot;worth&quot; of this subreddit, I did a decent amount of research before posting, I thought it was potentially interesting enough for it, but possibly not basic enough for r/learnmachinelearning . Is there any agreement/indication about how",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 1
     },
     {
