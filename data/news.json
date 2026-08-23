@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23T12:15:59.943729+00:00",
+  "generated": "2026-08-23T18:12:34.814537+00:00",
   "count": 120,
   "articles": [
     {
@@ -1306,6 +1306,50 @@
       "weight": 2
     },
     {
+      "id": "cb6b7952f0ed",
+      "title": "Archival vs non archival workshop [R]",
+      "url": "t3_1vwb18q",
+      "source": "r/ML",
+      "published": "2026-08-23T16:02:13+00:00",
+      "summary": "My dumbass just realized all NeurIPS workshops are non-archival. In terms of grad school applications, would there be a difference in how much they value ur paper if u get it in a proceeding &#32; submitted by &#32; /u/Wonderful_Entry9371 [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "dcfca5be1fcf",
+      "title": "When an AI agent says \u201cdone\u201d how do you know it actually happened? [P]",
+      "url": "t3_1vwa9ap",
+      "source": "r/ML",
+      "published": "2026-08-23T15:32:09+00:00",
+      "summary": "i\u2019m testing an early concept called agentuptime. there\u2019s no product or sdk yet. the idea came from something that keeps bothering me with agents: an agent saying \u201cdone\u201d doesn\u2019t necessarily mean the thing actually happened. a tool can return success, the trace can look fine, and t",
+      "phases": [
+        "p3"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "d722278859e0",
+      "title": "28 TPS on Qwen2.5-7B across two separate cloud regions over public WAN using speculative decoding + CUDA Graphs [P]",
+      "url": "t3_1vw5ysj",
+      "source": "r/ML",
+      "published": "2026-08-23T12:30:55+00:00",
+      "summary": "been building ShardFlow for the past few months, a distributed LLM inference framework that splits any HuggingFace transformer across N GPU machines and uses neural speculative decoding to deal with WAN latency. the setup for the benchmark: two T4 nodes in separate GCP regions (I",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "f6ebd4a2aecb",
       "title": "[N] EACL 2027 Industry Track - Deadline 11 September [N]",
       "url": "t3_1vw4un3",
@@ -1556,19 +1600,6 @@
       "weight": 1
     },
     {
-      "id": "942a89e834c9",
-      "title": "Safety critical systems (SCS) are the only real benchmark for ML systems. Thoughts? [D]",
-      "url": "t3_1vukv7j",
-      "source": "r/ML",
-      "published": "2026-08-21T16:17:37+00:00",
-      "summary": "What are real-world safety critical systems (SCS)? A flight controller for a commercial airplane carrying 300 passengers. A braking system for a bullet train that operates at 320km/hour. A reactor protection system for nuclear power plant that serves millions of people. A piece o",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
       "id": "b4776282b3a3",
       "title": "Epistemic Intelligence in Machine Learning Neurips Workshop page limit? [D]",
       "url": "t3_1vujk2p",
@@ -1630,40 +1661,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "d46bb106b99f",
-      "title": "The spectral neuron - an ML primitive for scalable and interpretable models [R]",
-      "url": "t3_1vtfimo",
-      "source": "r/ML",
-      "published": "2026-08-20T10:20:47+00:00",
-      "summary": "Worked some time ago on one of the ad teams at Yahoo, and this grew out of a question I kept returning to while there are there &quot;simple&quot; models that are both simple, scalable, interpretable, and controllable at the same time? Decided to explore it, first in a blog (star",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "a8714c0af34c",
-      "title": "Discussion thread for EMNLP 2026 Notifications/Results [D]",
-      "url": "t3_1vtdpve",
-      "source": "r/ML",
-      "published": "2026-08-20T08:37:17+00:00",
-      "summary": "Discussion thread for EMNLP 2026 notifications/results which should be released today. Wishing everybody to be in Budapest. &#32; submitted by &#32; /u/sweetsalt10 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 1
     },
     {
