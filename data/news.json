@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T12:22:40.054252+00:00",
+  "generated": "2026-08-24T18:22:16.216568+00:00",
   "count": 120,
   "articles": [
     {
@@ -834,6 +834,51 @@
       "weight": 3
     },
     {
+      "id": "b11795f5f35f",
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-24T14:20:19+00:00",
+      "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an a",
+      "phases": [
+        "p1",
+        "p2"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "c4c9a03766a8",
+      "title": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
+      "url": "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
+      "source": "Import AI",
+      "published": "2026-08-24T13:12:40+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe now AI is accelerating some types of progress but not others:\u2026A nice METR study lays out where acceler",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "7d7123f38c6e",
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-24T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI\u2014and we still don\u2019t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM ",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "b781f4c498ae",
       "title": "Kids outlearn AI\u2014and we still don\u2019t know why",
       "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
@@ -1642,55 +1687,6 @@
         "p4"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e2dd2ca1755a",
-      "title": "ReCurveflow: A Flow Matching Framework that Learns Curved Reaction Trajectories to Predict Transition State Geometries",
-      "url": "https://arxiv.org/abs/2608.20869",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-24T00:00:00-04:00",
-      "summary": "arXiv:2608.20869v1 Announce Type: new Abstract: Predicting transition states (TS) in chemical reactions is crucial, as they provide insights into reaction mechanisms. Recent work on TS prediction have focused on flow matching supervised on straight linear paths that do not align ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "41f66e7dcfcc",
-      "title": "UpgradeBench: A Decision-Centric Benchmark for Upgrading Fine-Tuned LLM Specialists",
-      "url": "https://arxiv.org/abs/2608.20918",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-24T00:00:00-04:00",
-      "summary": "arXiv:2608.20918v1 Announce Type: new Abstract: Organizations maintain task-specific adapters for open-weight language models, and each new base-model release forces a migration decision: retain existing specialists, port adapters, refresh from preserved behavior, or retrain. Pri",
-      "phases": [
-        "p1",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "de692a41b080",
-      "title": "Graph-Operator World Models for Morphology-Parameter Generalization in Continuous Control",
-      "url": "https://arxiv.org/abs/2608.20936",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-24T00:00:00-04:00",
-      "summary": "arXiv:2608.20936v1 Announce Type: new Abstract: World models for continuous control are commonly trained for a fixed physical system and can degrade when known morphology parameters such as link lengths, masses, damping, and actuation change. Existing approaches often provide the",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
