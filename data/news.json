@@ -1,7 +1,50 @@
 {
-  "generated": "2026-08-25T12:23:28.485977+00:00",
+  "generated": "2026-08-25T18:21:30.736742+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "74af7ce45836",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "source": "Google AI",
+      "published": "2026-08-25T16:00:00+00:00",
+      "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "1c0de2ab3229",
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source": "OpenAI",
+      "published": "2026-08-25T07:05:00+00:00",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "31f9b254385b",
+      "title": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "source": "OpenAI",
+      "published": "2026-08-25T07:00:00+00:00",
+      "summary": "Jalape\u00f1o is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "5bd6315049a1",
       "title": "Disrupting a new covert influence campaign from Russia",
@@ -12,6 +55,19 @@
       "phases": [
         "p1",
         "p2"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "bbe7f12da309",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "source": "OpenAI",
+      "published": "2026-08-25T00:00:00+00:00",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -453,7 +509,7 @@
       "url": "https://openai.com/index/premium-seats-chatgpt-business",
       "source": "OpenAI",
       "published": "2026-08-10T00:00:00+00:00",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "summary": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
       "phases": [
         "p1"
       ],
@@ -859,6 +915,49 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "cc544fa5a27c",
+      "title": "Art and algorithms at Sotheby\u2019s",
+      "url": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-25T18:00:00+00:00",
+      "summary": "Do fine art and high tech ever converge? At Sotheby\u2019s they do, thanks to Kelly Shen \u201917. Shen works in the growing field of art intelligence for the New York auction house. Shen builds algorithms to predict prices, using factors like buying trends and artists\u2019 popularity. She has",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "6ad1fb7a7cca",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "source": "HuggingFace",
+      "published": "2026-08-25T15:14:14+00:00",
+      "summary": "",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "ff6e4887ee22",
+      "title": "The Download: smarter AI in schools, and a robot \u201ccarnival\u201d in Shanghai",
+      "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-25T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise. Suddenly, students carried an app in their pho",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "ba39c4d2772e",
@@ -1591,101 +1690,6 @@
         "p4"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "8d35febbe3f9",
-      "title": "ESCRAG-R1: Retrieval-Augmented Reinforcement Learning for Emotional Support Conversation",
-      "url": "https://arxiv.org/abs/2608.21925",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-25T00:00:00-04:00",
-      "summary": "arXiv:2608.21925v1 Announce Type: new Abstract: Emotional Support Conversation (ESC) systems aim to provide holistic support by balancing professional therapeutic competence with natural empathy. However, existing methods struggle to simultaneously achieve structured, stage-aware",
-      "phases": [
-        "p2",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "dfe9eec16233",
-      "title": "GuardianBench: A Same-Scene Instruction-Contrastive Benchmark for Latent Contextual Risk in Embodied AI",
-      "url": "https://arxiv.org/abs/2608.21928",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-25T00:00:00-04:00",
-      "summary": "arXiv:2608.21928v1 Announce Type: new Abstract: In embodied AI, safety risk can be latent: a benign instruction and a safe scene become hazardous only when composed. Prior work has advanced embodied safety by varying visual contexts or evaluating execution-time dynamics, but the ",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "1e6407d9d3cd",
-      "title": "Multimodal Prompt Learning with Irregular EHRs for Robust Monitoring of Critical Care Patients",
-      "url": "https://arxiv.org/abs/2608.21941",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-25T00:00:00-04:00",
-      "summary": "arXiv:2608.21941v1 Announce Type: new Abstract: Accurate assessment of patients in intensive care units (ICUs) is essential for timely clinical intervention and improved patient outcomes. Multimodal electronic health records (EHRs), including structured physiological time series ",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "c1aa5f43ed53",
-      "title": "TessIndex: Capability Verified Identity System for the Agent Economy",
-      "url": "https://arxiv.org/abs/2608.21942",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-25T00:00:00-04:00",
-      "summary": "arXiv:2608.21942v1 Announce Type: new Abstract: Software systems have traditionally been organized around applications where human users act as principal decision-makers. Recent developments in agentic capabilities alter this paradigm: software agents now autonomously translate h",
-      "phases": [
-        "p2",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "96ac1a0ba3b6",
-      "title": "SSDi8: Accurate and Efficient 8-bit Quantization for State Space Duality",
-      "url": "https://arxiv.org/abs/2608.21952",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-25T00:00:00-04:00",
-      "summary": "arXiv:2608.21952v1 Announce Type: new Abstract: Recent advances in sequence modeling have highlighted Mamba as a state space architecture offering efficient long-range dependency modeling and providing a viable alternative to Transformers. Building upon this, Mamba-2 introduces t",
-      "phases": [
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "5c1a92611d95",
-      "title": "Repo2Skill-Evo: Repository Skills Go Stale in Silence",
-      "url": "https://arxiv.org/abs/2608.21964",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-25T00:00:00-04:00",
-      "summary": "arXiv:2608.21964v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly operate over evolving software repositories, where success depends on repository-specific procedural knowledge: which APIs to call, which scripts to run, and which conventions the curre",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "7798df43da98",
-      "title": "Closed-loop AI achieves certifiable engineering design",
-      "url": "https://arxiv.org/abs/2608.21976",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-25T00:00:00-04:00",
-      "summary": "arXiv:2608.21976v1 Announce Type: new Abstract: Agentic AI has automated parts of scientific discovery, including paper generation, expert-level coding, therapeutic proposal, and autonomous experimentation. Complex physical engineering design remains a gap, because candidates mus",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
