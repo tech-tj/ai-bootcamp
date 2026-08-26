@@ -1,7 +1,20 @@
 {
-  "generated": "2026-08-26T06:26:34.796563+00:00",
+  "generated": "2026-08-26T12:25:54.144290+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "d8bbd65ee644",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "source": "OpenAI",
+      "published": "2026-08-26T00:00:00+00:00",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "74af7ce45836",
       "title": "5 ways to upgrade your home decor with Google Search",
@@ -904,6 +917,70 @@
       "weight": 3
     },
     {
+      "id": "7a6b849c8324",
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-26T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flo",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "606181c5d71a",
+      "title": "Raised on AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-26T09:00:00+00:00",
+      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her o",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "8e8985dedaae",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-26T09:00:00+00:00",
+      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term \u201cmachine learning\u201d was popularized in a 19",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "a1de5e17b3b1",
+      "title": "Bill Gates says we\u2019ve passed AI\u2019s danger thresholds. Now what?",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-26T07:01:00+00:00",
+      "summary": "It\u2019s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marin",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "8dfde0436265",
       "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
       "url": "https://arxiv.org/abs/2608.23568",
@@ -1604,80 +1681,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "63d4c3679814",
-      "title": "Compression Trinity: Exploring Sparsity, Quantization, and Low-Rank Approximations for LLM Compression",
-      "url": "https://arxiv.org/abs/2608.24070",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-26T00:00:00-04:00",
-      "summary": "arXiv:2608.24070v1 Announce Type: new Abstract: Prohibitive computational and environmental costs impede the scalable deployment of Large Language Models (LLMs). Traditional compression techniques (sparsity, quantization, low-rank approximations) are typically applied in isolatio",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "40588f4b30af",
-      "title": "AgentWorld: Personality-Aware Reliability Evaluation for Agentic Information Retrieval",
-      "url": "https://arxiv.org/abs/2608.24076",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-26T00:00:00-04:00",
-      "summary": "arXiv:2608.24076v1 Announce Type: new Abstract: Evaluation of agentic information retrieval remains limited to scripted interactions with uniform users, missing both natural personality diversity and adversarial brittleness. We present AgentWorld, a simulation framework combining",
-      "phases": [
-        "p2",
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "2b7e809eeb03",
-      "title": "EMRB: A Multi-Level Benchmark for Evaluating LLM Reasoning over Raw Electromagnetic Signals",
-      "url": "https://arxiv.org/abs/2608.24086",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-26T00:00:00-04:00",
-      "summary": "arXiv:2608.24086v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as code agents for scientific and engineering analysis, but their ability to analyze raw physical-layer measurements remains untested. We introduce \\textbf{EMRB} (\\textbf{E}lectro\\t",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "5132bb2c2404",
-      "title": "Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agents in Dynamic Adversarial Environments",
-      "url": "https://arxiv.org/abs/2608.24099",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-26T00:00:00-04:00",
-      "summary": "arXiv:2608.24099v1 Announce Type: new Abstract: GUI agents often encounter dynamic anomalies when deployed on Android devices, from unexpected pop-ups to action misuse, yet existing benchmarks lack systematic evaluation of agent robustness against runtime anomalies. We introduce ",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "e0caccca1e67",
-      "title": "ACE: A Self-Correcting Agentic Canvas Editor for Multi-Slide Presentation Automation",
-      "url": "https://arxiv.org/abs/2608.24103",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-26T00:00:00-04:00",
-      "summary": "arXiv:2608.24103v1 Announce Type: new Abstract: Commercial design platforms increasingly edit documents through large language model (LLM) agents, but two practical problems block reliable deployment: legacy document formats expose only \\emph{flat}, absolutely positioned elements",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p5"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
