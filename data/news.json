@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29T20:06:39.727130+00:00",
+  "generated": "2026-08-30T02:09:49.641286+00:00",
   "count": 120,
   "articles": [
     {
@@ -900,19 +900,6 @@
       "weight": 3
     },
     {
-      "id": "e2b8f86303a2",
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI",
-      "published": "2026-07-31T00:00:00+00:00",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "b623714fb3a8",
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
       "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
@@ -1418,6 +1405,68 @@
       "weight": 2
     },
     {
+      "id": "ef89aa6ece52",
+      "title": "*ACL Findings or TMLR? [D]",
+      "url": "t3_1w23w2l",
+      "source": "r/ML",
+      "published": "2026-08-30T01:23:36+00:00",
+      "summary": "Expecting a rejection from NeurIPS given our scores of 5/2/2. Trying to decide between ARR vs. TMLR, but thinking NAACL findings are more likely than main conference. Would you rather have TMLR or *ACL findings on your publication list? Genuinely curious to hear what people have ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "6f4363136518",
+      "title": "Open-source access-control checker for retrieval-based AI applications [P]",
+      "url": "t3_1w1zm5m",
+      "source": "r/ML",
+      "published": "2026-08-29T22:11:26+00:00",
+      "summary": "Hey Guys, I built a small open-source tool that checks whether a RAG application retrieves documents a user shouldn\u2019t have access to. It supports offline test cases and live HTTP API testing with bearer token/API-key auth. I\u2019m looking for a few engineers to try it on a test or no",
+      "phases": [
+        "p1",
+        "p2",
+        "p4"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "492580edeace",
+      "title": "Do you use a whiteboard when thinking? [D]",
+      "url": "t3_1w1yv9b",
+      "source": "r/ML",
+      "published": "2026-08-29T21:39:44+00:00",
+      "summary": "Hello all, here is a chill post. When I was an undergrad, I really liked working things out on a whiteboard. Drawing stuff, talking through ideas out loud, testing little hypotheses. Now I work in radar DSP, and a lot of my work is code, numerical experiments, deep learning and w",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "82a88b2f0e31",
+      "title": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
+      "url": "t3_1w1wt1s",
+      "source": "r/ML",
+      "published": "2026-08-29T20:16:17+00:00",
+      "summary": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm Time Series Anomaly Detection (TSAD) seems to be one of the hottest topics in NeurIPS, SIGKDD, VLDB etc. Many (perhaps most) papers evaluate on Paparrizos\u2019 TSB-AD-M benchmark\u2026 However, I tested ",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "1db3ef465d7f",
       "title": "Finished ML + DL \u2014 what should I do next? [D]",
       "url": "t3_1w1tr86",
@@ -1664,51 +1713,6 @@
         "p3"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "7e1703c40fda",
-      "title": "AI agents meant to replace Meta workers made \u201clarge-scale, disruptive actions\u201d",
-      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "source": "Ars Technica",
-      "published": "2026-08-26T21:25:27+00:00",
-      "summary": "Report shows Meta's challenges replacing people with AI agents.",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "9ee169ea0c6a",
-      "title": "A dataset with 52 Text to image model evaluation [P]",
-      "url": "t3_1vz9x9c",
-      "source": "r/ML",
-      "published": "2026-08-26T21:10:25+00:00",
-      "summary": "I created a simple text to image benchmark. I curated 192 prompts that are difficult for T2I models in various ways: text rendering, spatial reasoning, human realism, negations, etc... I then asked a VLM to judge every output against a pre-specified binary question with the groun",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "71e108b12fab",
-      "title": "We recovered 575k crop labels from a decade of manual Photoshop work to automate book digitization - more data, ResNet-50, and higher resolution all failed; ten operator clicks per book beat them [P]",
-      "url": "t3_1vz2ojw",
-      "source": "r/ML",
-      "published": "2026-08-26T16:53:40+00:00",
-      "summary": "Author here. Ibteda Digital Library is a private community archive in Pakistan \u2014 for ten years we digitized rare Urdu books (lithographs, dictionaries, periodicals) on a DIY camera rig, finishing every page by hand in Photoshop. When we wound down daily operations, I realized tho",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "tools",
       "weight": 1
     }
   ]
