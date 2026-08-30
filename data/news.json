@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30T02:09:49.641286+00:00",
+  "generated": "2026-08-30T10:51:24.444713+00:00",
   "count": 120,
   "articles": [
     {
@@ -640,6 +640,19 @@
       "weight": 3
     },
     {
+      "id": "2400bb772f76",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
+      "source": "OpenAI",
+      "published": "2026-08-10T00:00:00+00:00",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f7be8d43b299",
       "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
       "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
@@ -649,19 +662,6 @@
       "phases": [
         "p1",
         "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "2400bb772f76",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "url": "https://openai.com/index/zapier",
-      "source": "OpenAI",
-      "published": "2026-08-10T00:00:00+00:00",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -882,19 +882,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "dc984bc27293",
-      "title": "Univ\u00e9 builds an AI-ready workforce",
-      "url": "https://openai.com/index/unive",
-      "source": "OpenAI",
-      "published": "2026-07-31T07:00:00+00:00",
-      "summary": "See how Univ\u00e9 built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1405,6 +1392,50 @@
       "weight": 2
     },
     {
+      "id": "ce0b2ee15f53",
+      "title": "LLMs are funny to manipulate [P]",
+      "url": "t3_1w2dzja",
+      "source": "r/ML",
+      "published": "2026-08-30T10:29:03+00:00",
+      "summary": "Wimp Red color means I pulled the lever into more &quot;Refusal&quot; direction. The model sounds like the most annoying wimp you can imagine. &#32; submitted by &#32; /u/EmperorGimix [link] &#32; [comments]",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "dcd409752618",
+      "title": "Have there been any interesting polls among ML academics lately? [D]",
+      "url": "t3_1w2cdu8",
+      "source": "r/ML",
+      "published": "2026-08-30T08:57:28+00:00",
+      "summary": "I remember that maybe 3 years ago they polled NeurIPS attendees about how far LLMs would go. Would be interested in seeing more recent polls (limited to people with relevant expertise). Have there been any such polls lately? I wonder how the average opinion changed, over time. &#",
+      "phases": [
+        "p1",
+        "p2"
+      ],
+      "category": "community",
+      "weight": 1
+    },
+    {
+      "id": "b3a4bb86f268",
+      "title": "Implementing Kimi K3 from scratch in PyTorch [P]",
+      "url": "t3_1w2aupi",
+      "source": "r/ML",
+      "published": "2026-08-30T07:28:13+00:00",
+      "summary": "&#32; submitted by &#32; /u/Winter_Mistake_3185 [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "ef89aa6ece52",
       "title": "*ACL Findings or TMLR? [D]",
       "url": "t3_1w23w2l",
@@ -1464,23 +1495,6 @@
         "p4"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "1db3ef465d7f",
-      "title": "Finished ML + DL \u2014 what should I do next? [D]",
-      "url": "t3_1w1tr86",
-      "source": "r/ML",
-      "published": "2026-08-29T18:17:07+00:00",
-      "summary": "I\u2019ve recently completed learning Machine Learning and Deep Learning, including the mathematics behind the major concepts and algorithms rather than just learning to use libraries. My long-term goal is to eventually become capable of doing research at the level of NeurIPS, ICML, a",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 1
     },
     {
@@ -1698,19 +1712,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "b6edaf7b0dd8",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "source": "VentureBeat",
-      "published": "2026-08-27T12:01:00+00:00",
-      "summary": "Presented by EDB As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never a",
-      "phases": [
-        "p3"
       ],
       "category": "models",
       "weight": 1
