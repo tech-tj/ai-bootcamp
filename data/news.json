@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30T10:51:24.444713+00:00",
+  "generated": "2026-08-30T15:38:33.007015+00:00",
   "count": 120,
   "articles": [
     {
@@ -856,37 +856,6 @@
       "weight": 3
     },
     {
-      "id": "5b3393f6cb74",
-      "title": "Advancing responsible AI across Europe",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "source": "OpenAI",
-      "published": "2026-07-31T15:00:00+00:00",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "ef7e135bdd5a",
-      "title": "Building abundant intelligence",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "source": "OpenAI",
-      "published": "2026-07-31T15:00:00+00:00",
-      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "b623714fb3a8",
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
       "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
@@ -1392,30 +1361,33 @@
       "weight": 2
     },
     {
-      "id": "ce0b2ee15f53",
-      "title": "LLMs are funny to manipulate [P]",
-      "url": "t3_1w2dzja",
+      "id": "c3c3be7db3ad",
+      "title": "Reconstructing 3D bone geometry from 2 X-ray silhouettes using a statistical shape model + differentiable rendering [P]",
+      "url": "t3_1w2go6l",
       "source": "r/ML",
-      "published": "2026-08-30T10:29:03+00:00",
-      "summary": "Wimp Red color means I pulled the lever into more &quot;Refusal&quot; direction. The model sounds like the most annoying wimp you can imagine. &#32; submitted by &#32; /u/EmperorGimix [link] &#32; [comments]",
+      "published": "2026-08-30T12:47:10+00:00",
+      "summary": "Working on a pipeline that recovers a patient specific 3D distal femur from two orthogonal X-ray views (PA + lateral). No CT, no neural network, no massive training set. approach: build a PCA shape model from 50 CT-derived femur meshes (MedShapeNet), then fit it to two silhouette",
       "phases": [
-        "p1"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 1
     },
     {
-      "id": "dcd409752618",
-      "title": "Have there been any interesting polls among ML academics lately? [D]",
-      "url": "t3_1w2cdu8",
+      "id": "bd14ac305e64",
+      "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "t3_1w2fl67",
       "source": "r/ML",
-      "published": "2026-08-30T08:57:28+00:00",
-      "summary": "I remember that maybe 3 years ago they polled NeurIPS attendees about how far LLMs would go. Would be interested in seeing more recent polls (limited to people with relevant expertise). Have there been any such polls lately? I wonder how the average opinion changed, over time. &#",
+      "published": "2026-08-30T11:55:38+00:00",
+      "summary": "Abstract: We study autonomous mathematical discovery in the Station, an open-world multi-agent environment in which AI agents from different model families pursue a shared research goal without a central coordinator or scripted pipeline. Agents choose their own research direction",
       "phases": [
-        "p1",
-        "p2"
+        "p3"
       ],
-      "category": "community",
+      "category": "research",
       "weight": 1
     },
     {
@@ -1712,6 +1684,32 @@
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "b6edaf7b0dd8",
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "source": "VentureBeat",
+      "published": "2026-08-27T12:01:00+00:00",
+      "summary": "Presented by EDB As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never a",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "7e1703c40fda",
+      "title": "AI agents meant to replace Meta workers made \u201clarge-scale, disruptive actions\u201d",
+      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "source": "Ars Technica",
+      "published": "2026-08-26T21:25:27+00:00",
+      "summary": "Report shows Meta's challenges replacing people with AI agents.",
+      "phases": [
+        "p3"
       ],
       "category": "models",
       "weight": 1
