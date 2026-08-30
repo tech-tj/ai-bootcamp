@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30T15:38:33.007015+00:00",
+  "generated": "2026-08-30T20:12:31.189537+00:00",
   "count": 120,
   "articles": [
     {
@@ -1361,6 +1361,23 @@
       "weight": 2
     },
     {
+      "id": "2d61e9ba08d6",
+      "title": "NeurIPS accepted papers leaked? [D]",
+      "url": "t3_1w2r1f3",
+      "source": "r/ML",
+      "published": "2026-08-30T19:34:25+00:00",
+      "summary": "I found this GitHub link, and the HTML file contains ~7k papers. Some are anonymized, and the details seem pretty accurate. It looks like these might actually be the accepted papers. https://github.com/xll0328/NIPS26- Can someone confirm whether this list is legit? I\u2019m hoping it\u2019",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
       "id": "c3c3be7db3ad",
       "title": "Reconstructing 3D bone geometry from 2 X-ray silhouettes using a statistical shape model + differentiable rendering [P]",
       "url": "t3_1w2go6l",
@@ -1523,7 +1540,7 @@
       "url": "t3_1w16jwj",
       "source": "r/ML",
       "published": "2026-08-28T23:37:24+00:00",
-      "summary": "I&#39;m trying to understand what a world model is. I understand it has cognitive science and reinforcement learning. I understand at least at the moment what most people are building which they call world models are fancy video generation models. But what actually counts. Does a",
+      "summary": "I&#39;m trying to understand what a world model is. I understand it has its roots in cognitive science and reinforcement learning. I understand at least at the moment what most people are building which they call world models are fancy video generation models. But what actually c",
       "phases": [
         "p1",
         "p2",
@@ -1695,19 +1712,6 @@
       "source": "VentureBeat",
       "published": "2026-08-27T12:01:00+00:00",
       "summary": "Presented by EDB As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never a",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "7e1703c40fda",
-      "title": "AI agents meant to replace Meta workers made \u201clarge-scale, disruptive actions\u201d",
-      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "source": "Ars Technica",
-      "published": "2026-08-26T21:25:27+00:00",
-      "summary": "Report shows Meta's challenges replacing people with AI agents.",
       "phases": [
         "p3"
       ],
