@@ -1,7 +1,20 @@
 {
-  "generated": "2026-08-31T12:02:08.179873+00:00",
+  "generated": "2026-08-31T22:08:02.662084+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "7aa1f68e6fa5",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "OpenAI",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "57a3b900535e",
       "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -72,12 +85,12 @@
       "weight": 3
     },
     {
-      "id": "6d0a59326d05",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
+      "id": "7e008cb73ab3",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "source": "OpenAI",
       "published": "2026-08-26T10:00:00+00:00",
-      "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "phases": [
         "p1"
       ],
@@ -85,12 +98,12 @@
       "weight": 3
     },
     {
-      "id": "7e008cb73ab3",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "id": "6d0a59326d05",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI",
       "published": "2026-08-26T10:00:00+00:00",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "phases": [
         "p1"
       ],
@@ -212,19 +225,6 @@
       "id": "dce66a3115a9",
       "title": "Introducing Intelligence Age",
       "url": "https://openai.com/index/introducing-intelligence-age",
-      "source": "OpenAI",
-      "published": "2026-08-20T07:00:00+00:00",
-      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "2e8bfa2782e5",
-      "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-ai-futures",
       "source": "OpenAI",
       "published": "2026-08-20T07:00:00+00:00",
       "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
@@ -640,19 +640,6 @@
       "weight": 3
     },
     {
-      "id": "2400bb772f76",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "url": "https://openai.com/index/zapier",
-      "source": "OpenAI",
-      "published": "2026-08-10T00:00:00+00:00",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "f7be8d43b299",
       "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
       "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
@@ -662,6 +649,19 @@
       "phases": [
         "p1",
         "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "2400bb772f76",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
+      "source": "OpenAI",
+      "published": "2026-08-10T00:00:00+00:00",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -841,6 +841,37 @@
       ],
       "category": "tools",
       "weight": 3
+    },
+    {
+      "id": "e985a8c11fb3",
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "source": "MIT Tech Review",
+      "published": "2026-08-31T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you\u2019ve probably heard about last month\u2019s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the A",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "8fcf5dfd394c",
+      "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
+      "url": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+      "source": "Import AI",
+      "published": "2026-08-31T13:31:06+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe now Import AI reader giveaway! Upcoming event: Fiction and the Future with Robin SloanI\u2019ll be chatting",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
     },
     {
       "id": "7a2290160795",
@@ -1630,34 +1661,6 @@
       "phases": [
         "p1",
         "p2",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "67ad33f7af19",
-      "title": "String: An Agentic OS Where Every App Is a Markdown File",
-      "url": "https://arxiv.org/abs/2608.28027",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-31T00:00:00-04:00",
-      "summary": "arXiv:2608.28027v1 Announce Type: new Abstract: LLM agents have become a new class of software user, but every surface they work through was designed for someone else. Pages are built for human eyes, which can skim and ignore; tool schemas for programs, which pay nothing to carry",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "868e530f1d64",
-      "title": "WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents",
-      "url": "https://arxiv.org/abs/2608.28062",
-      "source": "ArXiv cs.AI",
-      "published": "2026-08-31T00:00:00-04:00",
-      "summary": "arXiv:2608.28062v1 Announce Type: new Abstract: Multimodal search agents extend parametric knowledge with newly emerging and long-tail evidence from the open web. Yet many existing agentic search environments often expose retrieved evidence only as text and omit tool-returned ima",
-      "phases": [
-        "p1",
         "p3"
       ],
       "category": "research",
