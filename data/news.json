@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T10:06:25.638764+00:00",
+  "generated": "2026-09-02T15:30:41.915659+00:00",
   "count": 120,
   "articles": [
     {
@@ -918,17 +918,55 @@
       "weight": 3
     },
     {
-      "id": "3ce791ab7446",
-      "title": "Inside our 353,000-person vibe coding course",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "source": "Google AI",
-      "published": "2026-08-03T15:00:00+00:00",
-      "summary": "Kaggle\u2019s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "id": "c0e30f013c2a",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-02T14:00:00+00:00",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate res",
       "phases": [
-        "p3"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 2
+    },
+    {
+      "id": "d23fc469a2f7",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "source": "HuggingFace",
+      "published": "2026-09-02T13:49:14+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
+    },
+    {
+      "id": "fdfd47cb2716",
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-02T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. Th",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "855a8993a88d",
@@ -1655,34 +1693,6 @@
       "phases": [
         "p1",
         "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "0e5e3e9a7450",
-      "title": "Residual Sparsification via Output Importance for Compressing Mixture-of-Experts LLMs",
-      "url": "https://arxiv.org/abs/2609.00575",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-02T00:00:00-04:00",
-      "summary": "arXiv:2609.00575v1 Announce Type: new Abstract: Mixture-of-experts (MoE) architectures scale large language models efficiently, but they demand massive GPU memory. To cope with such demand, models are commonly compressed to reduce their memory footprint. Residual sparsification i",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "5f7918bc8ed4",
-      "title": "Consistency Without Alignment: Item-Sensitive Language Models Indistinguishable From Random",
-      "url": "https://arxiv.org/abs/2609.00576",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-02T00:00:00-04:00",
-      "summary": "arXiv:2609.00576v1 Announce Type: new Abstract: Item-sensitivity, defined as whether a model's choice depends on the specific input rather than on its own output prior, is widely reported as evidence of task competence. We show this evidence is necessary but not sufficient using ",
-      "phases": [
-        "p1",
         "p4"
       ],
       "category": "models",
