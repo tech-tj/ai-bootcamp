@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T15:23:52.635284+00:00",
+  "generated": "2026-09-03T20:14:18.459276+00:00",
   "count": 120,
   "articles": [
     {
@@ -890,20 +890,6 @@
       "weight": 3
     },
     {
-      "id": "899f3cac4020",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "source": "OpenAI",
-      "published": "2026-08-04T19:00:00+00:00",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "aad76210e0dc",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "url": "https://huggingface.co/blog/Hcompany/neomme",
@@ -1697,6 +1683,19 @@
         "p5"
       ],
       "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "c53731e456a8",
+      "title": "Door-in-the-Face Requests and Refusal Behaviour in Large Language Models",
+      "url": "https://arxiv.org/abs/2609.02707",
+      "source": "ArXiv cs.AI",
+      "published": "2026-09-03T00:00:00-04:00",
+      "summary": "arXiv:2609.02707v1 Announce Type: new Abstract: Does the door-in-the-face technique work on language models? In humans, a large request that is refused makes a smaller follow-up request more likely to be granted. We test this on nine production models from three providers: each m",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
       "weight": 2
     }
   ]
