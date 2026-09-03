@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T10:17:18.633424+00:00",
+  "generated": "2026-09-03T15:23:52.635284+00:00",
   "count": 120,
   "articles": [
     {
@@ -904,12 +904,39 @@
       "weight": 3
     },
     {
-      "id": "34a7f3824c27",
-      "title": "The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "source": "Google AI",
-      "published": "2026-08-04T13:00:00+00:00",
-      "summary": "Here are Google\u2019s latest AI updates from July 2026",
+      "id": "aad76210e0dc",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "source": "HuggingFace",
+      "published": "2026-09-03T13:13:48+00:00",
+      "summary": "",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "77da68a92e11",
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-03T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they\u2019re in",
+      "phases": [
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "e9a223db9eef",
+      "title": "Agriculture relies on fossil fuels. It\u2019s costing us.",
+      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-03T10:00:00+00:00",
+      "summary": "If you\u2019ve had to fill up your vehicle\u2019s gas tank or buy a plane ticket lately, you\u2019ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread.",
       "phases": [
         "p1",
         "p2",
@@ -918,7 +945,7 @@
         "p5"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
       "id": "85cb7c596d40",
@@ -1670,33 +1697,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c53731e456a8",
-      "title": "Door-in-the-Face Requests and Refusal Behaviour in Large Language Models",
-      "url": "https://arxiv.org/abs/2609.02707",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-03T00:00:00-04:00",
-      "summary": "arXiv:2609.02707v1 Announce Type: new Abstract: Does the door-in-the-face technique work on language models? In humans, a large request that is refused makes a smaller follow-up request more likely to be granted. We test this on nine production models from three providers: each m",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e934e0811031",
-      "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
-      "url": "https://arxiv.org/abs/2609.02749",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-03T00:00:00-04:00",
-      "summary": "arXiv:2609.02749v1 Announce Type: new Abstract: Autonomous agents are beginning to carry out machine-learning (ML) research end to end. These agents combine a model backbone with a harness for planning, execution, memory, and verification, but this architecture still leaves domai",
-      "phases": [
-        "p3",
-        "p5"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
