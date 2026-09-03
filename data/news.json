@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T20:13:19.514071+00:00",
+  "generated": "2026-09-03T01:52:59.094749+00:00",
   "count": 120,
   "articles": [
     {
@@ -17,6 +17,19 @@
         "p5"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "21f8b896917e",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI",
+      "published": "2026-09-02T12:00:00+00:00",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -745,19 +758,6 @@
       "weight": 3
     },
     {
-      "id": "dd3ed843f279",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "source": "OpenAI",
-      "published": "2026-08-10T10:00:00+00:00",
-      "summary": "Approved Daybreak partners can use OpenAI\u2019s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "d570d2706121",
       "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
       "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
@@ -771,14 +771,28 @@
       "weight": 3
     },
     {
-      "id": "2400bb772f76",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "url": "https://openai.com/index/zapier",
+      "id": "dd3ed843f279",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
       "source": "OpenAI",
-      "published": "2026-08-10T00:00:00+00:00",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "published": "2026-08-10T10:00:00+00:00",
+      "summary": "Approved Daybreak partners can use OpenAI\u2019s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
       "phases": [
         "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "f7be8d43b299",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "source": "OpenAI",
+      "published": "2026-08-10T00:00:00+00:00",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "phases": [
+        "p1",
+        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -797,15 +811,14 @@
       "weight": 3
     },
     {
-      "id": "f7be8d43b299",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "id": "2400bb772f76",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
       "source": "OpenAI",
       "published": "2026-08-10T00:00:00+00:00",
-      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
       "phases": [
-        "p1",
-        "p3"
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -903,33 +916,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "26f5b739d7f8",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "source": "OpenAI",
-      "published": "2026-08-04T00:00:00+00:00",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K\u201312 teachers, college educators, and students learn, teach, research, and build.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "39d4fd006a36",
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "source": "OpenAI",
-      "published": "2026-08-03T22:00:00+00:00",
-      "summary": "OpenAI addresses Apple\u2019s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "phases": [
-        "p1",
-        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -1698,6 +1684,21 @@
         "p4"
       ],
       "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "c3cc1184a341",
+      "title": "VoiceLongMemEval: Do Assistants Remember How You Sounded?",
+      "url": "https://arxiv.org/abs/2609.00570",
+      "source": "ArXiv cs.AI",
+      "published": "2026-09-02T00:00:00-04:00",
+      "summary": "arXiv:2609.00570v1 Announce Type: new Abstract: With the growing scale of multi-agent architectures and large language models, deployed AI assistants are increasingly tasked with reasoning over long, continuous, multi-session conversation histories. Current benchmarks evaluate th",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
       "weight": 2
     }
   ]
