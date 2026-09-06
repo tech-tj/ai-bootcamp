@@ -1,7 +1,38 @@
 {
-  "generated": "2026-09-06T14:32:26.385889+00:00",
+  "generated": "2026-09-06T19:42:14.152661+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "08d94691e993",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI",
+      "published": "2026-09-06T09:00:00+00:00",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "2b36e6dbb8e7",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI",
+      "published": "2026-09-06T08:00:00+00:00",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 3
+    },
     {
       "id": "30eec5aa5b07",
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
@@ -16,19 +47,6 @@
       "weight": 3
     },
     {
-      "id": "9a8f1e3af0e0",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "d54e7a3a2a74",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
@@ -39,6 +57,19 @@
         "p1",
         "p2",
         "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "9a8f1e3af0e0",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-03T12:00:00+00:00",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -297,12 +328,12 @@
       "weight": 3
     },
     {
-      "id": "6d0a59326d05",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
+      "id": "7e008cb73ab3",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "source": "OpenAI",
       "published": "2026-08-26T10:00:00+00:00",
-      "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "phases": [
         "p1"
       ],
@@ -310,12 +341,12 @@
       "weight": 3
     },
     {
-      "id": "7e008cb73ab3",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "id": "6d0a59326d05",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI",
       "published": "2026-08-26T10:00:00+00:00",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "phases": [
         "p1"
       ],
@@ -747,19 +778,6 @@
       "weight": 3
     },
     {
-      "id": "16251d7b149e",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI",
-      "published": "2026-08-11T10:00:00+00:00",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "ca8161387cd4",
       "title": "Daybreak models are now available on AWS",
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
@@ -769,6 +787,19 @@
       "phases": [
         "p1",
         "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "16251d7b149e",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-08-11T10:00:00+00:00",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -887,20 +918,6 @@
       "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "93f793ec8172",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source": "OpenAI",
-      "published": "2026-08-07T15:20:00+00:00",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we\u2019re taking to strengthen safeguards and security controls.",
-      "phases": [
-        "p1",
-        "p4"
       ],
       "category": "models",
       "weight": 3
@@ -1503,6 +1520,85 @@
       "weight": 2
     },
     {
+      "id": "547054ee2c9e",
+      "title": "Proposed architecture for inferencing sparse MOE models increasing Active parameters using layered + linear decay. Succinct reasoning without any model training or fine tune. [p]",
+      "url": "t3_1w94dtn",
+      "source": "r/ML",
+      "published": "2026-09-06T18:41:34+00:00",
+      "summary": "I ported MoE expert expansion to llama.cpp \ud83d\ude80 Run MoE models with MORE routed experts than the native top-K (8-&gt;x), adaptive threshold, 99\u219250% influence decay, layer range. Runtime-only, all backends. Tested on Qwen 3.6 35B A4B+ https://github.com/vagrillo/llama.cpp/blob/moe-ex",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "2a27350b9f47",
+      "title": "Point density, not architecture, was the bottleneck for a 5-class radar-only object [P]",
+      "url": "t3_1w934ew",
+      "source": "r/ML",
+      "published": "2026-09-06T17:55:31+00:00",
+      "summary": "Hello all, TL;DR: point density, not model architecture, was the real bottleneck for a 5-class radar-only classifier on RadarScenes. Going from 1 to 5 points per instance roughly doubles macro F1 (0.381 \u2192 0.764), while a whole set of architecture and feature changes all landed in",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "645928d51ae7",
+      "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
+      "url": "t3_1w92eis",
+      "source": "r/ML",
+      "published": "2026-09-06T17:29:39+00:00",
+      "summary": "I feel that reproducibility is now a lost cause in machine learning research for three reasons: Many research is moving towards the physical AI territory, where you need expensive hardwares or even entire laboratories with high-speed cameras, in order to perform an experiment. Yo",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "d114d9ce1fea",
+      "title": "I built a local-first hybrid router for AI Agent Skills (sub-20ms, zero tokens, runs on CPU) [P]",
+      "url": "t3_1w90x3i",
+      "source": "r/ML",
+      "published": "2026-09-06T16:34:23+00:00",
+      "summary": "If you use agentic workflows with custom skills or rules (Cursor rules, Claude Code slash commands, OpenCode, etc.), you have probably run into the routing trade-off: Stuff every skill definition into the system prompt (destroys your context window and degrades instruction-follow",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "3bec5538e62b",
+      "title": "[D] IJCNLP-AACL 2026: Paper Commitment Results (ARR May 2026 Cycle) [D]",
+      "url": "t3_1w8zzja",
+      "source": "r/ML",
+      "published": "2026-09-06T15:59:50+00:00",
+      "summary": "AACL-IJCNLP 2026 acceptance results will be released in a few hours. Feel free to share your thoughts and feelings! How did you do? &#32; submitted by &#32; /u/Starscream-11813 [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "713843c1c051",
       "title": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]",
       "url": "t3_1w8repz",
@@ -1613,99 +1709,6 @@
       "summary": "&#32; submitted by &#32; /u/Winter_Mistake_3185 [link] &#32; [comments]",
       "phases": [
         "p2"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "70ccac914955",
-      "title": "What is the general design of these new math solving systems? [D]",
-      "url": "t3_1w7glyo",
-      "source": "r/ML",
-      "published": "2026-09-04T20:55:18+00:00",
-      "summary": "From what I&#39;ve seen online so far, the description of these systems is roughly: They asked the model (often Aster) to generate statements in LEAN and then submit those to a LEAN compiler to be checked. Based on the results of attempting the LEAN compilation, they somehow add ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "1cde205acada",
-      "title": "Gpt 5,6,7: Does it even matter? The (ghost) productivity question. [D]",
-      "url": "t3_1w7f6kq",
-      "source": "r/ML",
-      "published": "2026-09-04T20:02:03+00:00",
-      "summary": "an observation : GPT-5-class models are genuinely capable(They are) of doing a substantial fraction of knowledge work, why haven\u2019t we seen a noticeable productivity shock in the real economy yet? Is AI actually less economically useful than the benchmarks suggest\u2014or are organizat",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "1e7da4782464",
-      "title": "GPT-6 is released [N]",
-      "url": "t3_1w6v0ig",
-      "source": "r/ML",
-      "published": "2026-09-04T05:13:42+00:00",
-      "summary": "Benchmark scores: https://preview.redd.it/dgumcg67ggnh1.png?width=1378&amp;format=png&amp;auto=webp&amp;s=fae8fb006ef46fcdebb0876717fc977a905baa89 https://openai.com/index/gpt-6-astra/ Above, GPT-6 uses a harness for ARC-AGI-3, and is at about 60% without one: https://preview.red",
-      "phases": [
-        "p1",
-        "p2",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "004dd00b7955",
-      "title": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]",
-      "url": "t3_1w6kcp6",
-      "source": "r/ML",
-      "published": "2026-09-03T21:12:36+00:00",
-      "summary": "Has anyone else received an AAAI-27 desk rejection related to modifications to the title or abstract between the abstract-registration deadline and the full-paper deadline? What I\u2019m trying to understand is how the modification rule is being applied in practice. The AAAI-27 modifi",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "79b6717982a2",
-      "title": "Mol-JEPA - Multimodal molecular foundation model [R]",
-      "url": "t3_1w6i8pr",
-      "source": "r/ML",
-      "published": "2026-09-03T19:56:27+00:00",
-      "summary": "Hi everyone, I just quickly wanted to share a paper I was working on for around a year now. I created this summary website with key results: https://flogrammer.github.io/moljepa/ TL;DR: its a multimodal JEPA model for molecules. There will be more work to do to improve performanc",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "5a2590c57e68",
-      "title": "NeurIPS Sydney SOLD OUT in minutes [N]",
-      "url": "t3_1w6gwni",
-      "source": "r/ML",
-      "published": "2026-09-03T19:09:48+00:00",
-      "summary": "Three weeks from decisions even. I wonder what percentage is industry and VC funded AI labs looking to mingle and recruit. &#32; submitted by &#32; /u/alrojo [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 1
