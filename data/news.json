@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T19:42:14.152661+00:00",
+  "generated": "2026-09-07T01:40:01.168302+00:00",
   "count": 120,
   "articles": [
     {
@@ -1520,6 +1520,140 @@
       "weight": 2
     },
     {
+      "id": "a0ea00846ccd",
+      "title": "LayerStoRm open-source expert streaming: 1M context GLM-5.3-Flash [UD-Q4_K_XL] at 24.5 tok/s @8k on just 2\u00d7 RTX 5090 + 2\u00d7 RTX 5080 (186 GiB MoE on 96 GB VRAM)",
+      "url": "t3_1w9dzn8",
+      "source": "r/LocalLLaMA",
+      "published": "2026-09-07T01:14:07+00:00",
+      "summary": "LayerStoRm: GLM-5.3-Flash UD-Q4_K_XL (186 GiB) at 1M context on 2\u00d7 RTX 5090 + 2\u00d7 RTX 5080 (96 GB VRAM total) using RAM for the pinned experts. LayerStoRm is a (still experimental) MIT-licensed continuous expert-streaming inference engine: it runs MoE models far larger than your V",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "ba0be2333a2c",
+      "title": "New Benchmark: The Struggle Bench",
+      "url": "t3_1w9dlf1",
+      "source": "r/LocalLLaMA",
+      "published": "2026-09-07T00:55:28+00:00",
+      "summary": "How it works. The model being tested is given a server capable of running it&#39;s weights and full context. That server is placed in a median priced apartment. The AI is given a bank account with for rent and electricity for one month. Finally the AI is given the system prompt: ",
+      "phases": [
+        "p1",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "8ee91c7a986a",
+      "title": "4xRadeon AI Pro R9700 people, how are your benchmarks?",
+      "url": "t3_1w9c8u7",
+      "source": "r/LocalLLaMA",
+      "published": "2026-09-06T23:54:46+00:00",
+      "summary": "Was considering choosing a 4xRadeon AI Pro R9700 build for a office AI server. Curious to know what results you guys are getting? Mainly considering DeepSeek V4 flash and Qwen 3.8 Flash with offloading or heavily quantized. &#32; submitted by &#32; /u/sayamss [link] &#32; [commen",
+      "phases": [
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "c4c6fccc2d2c",
+      "title": "Trying to create my own server and consuming it for code with my phone remotely (Mac OS)",
+      "url": "t3_1w9bz4i",
+      "source": "r/LocalLLaMA",
+      "published": "2026-09-06T23:42:24+00:00",
+      "summary": "Hi there! I need some help with this. I have a 32gb Macbook Pro with the latest available update of Tahoe. I&#39;m using LMStudio with MLX to serve a local model and I want to expose it so that I can consume it with my phone to code and review stuff when I&#39;m commuting to plac",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "551fda97ef4e",
+      "title": "vllm + p2p driver hack + qwen 3.8 27B vs llamacpp + qwen flash next ?",
+      "url": "t3_1w9b1eg",
+      "source": "r/LocalLLaMA",
+      "published": "2026-09-06T23:00:49+00:00",
+      "summary": "Hi everyone I&#39;m running four rtx 4090, 64GB ram, on a threadripper pro motherboard so all PCIe x16 ports, as a homelab machine for coding. I was migrating from vllm + qwen 3.8 27B (fp8+256k kv cache) to llamacpp + qwen flash next iq4xs + 8 bit cache 200k kv cache... until som",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "88f114024cfb",
+      "title": "I built an LLM benchmark harness that lets you browse and compare how models answered each question",
+      "url": "t3_1w9ad9q",
+      "source": "r/LocalLLaMA",
+      "published": "2026-09-06T22:32:07+00:00",
+      "summary": "Hello everyone. I felt current LLM benchmark harnesses hand you headline numbers but offer no tooling to see how models actually answered each question (they dump everything to a JSONL or Parquet file, so you end up writing custom code just to read the answers). So I built lm-eva",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "1a3be7f3df89",
+      "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]",
+      "url": "t3_1w9a2i7",
+      "source": "r/ML",
+      "published": "2026-09-06T22:19:27+00:00",
+      "summary": "When I first started working in scientific machine learning, I understood the physics much better than the coding. Every time I wanted to try a new physics-informed neural network problem, I had to start almost from scratch: changing the PDE, updating boundary conditions, modifyi",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "434c53f2be0c",
+      "title": "What is the correct way to vibe-code Machine Learning projects?[p]",
+      "url": "t3_1w98h2p",
+      "source": "r/ML",
+      "published": "2026-09-06T21:14:51+00:00",
+      "summary": "I&#39;m currently learning Machine Learning through a course, and I want to start building projects alongside it. My main goal right now is simply to build several good ML projects and get familiar with the complete project development process . I want to use AI coding tools such",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "7b197c87d7d7",
+      "title": "DeepSeek-V4-Flash-Vision Q8 vs Qwen3.8-Flash-Next Q8",
+      "url": "t3_1w96xoi",
+      "source": "r/LocalLLaMA",
+      "published": "2026-09-06T20:15:38+00:00",
+      "summary": "I&#39;m using DS-V4-Flash-Vision with Q8_K_XL quantization locally as my everyday engine, and for some time now I&#39;ve been doing a lot of comparisons with Qwen3.8-Flash-Next, also with Q8_K_XL quantization. It took me quite a while to get Q3.8FN to work reasonably well, and he",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "547054ee2c9e",
       "title": "Proposed architecture for inferencing sparse MOE models increasing Active parameters using layered + linear decay. Succinct reasoning without any model training or fine tune. [p]",
       "url": "t3_1w94dtn",
@@ -1529,6 +1663,32 @@
       "phases": [
         "p1",
         "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "421d2334ccc0",
+      "title": "Best model + setup for remote deployment.",
+      "url": "t3_1w94cj4",
+      "source": "r/LocalLLaMA",
+      "published": "2026-09-06T18:40:14+00:00",
+      "summary": "Hi everybody, I am in a tricky situation. My grandfather + grandmother live in a remote village in asia, and were visiting us in the city. My grandfather has absolutely fallen in love with AI, and it is completely new for him. He loves how he can talk to it, and get information f",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "1421b993db11",
+      "title": "Expert expansion with llama.cpp",
+      "url": "t3_1w9404e",
+      "source": "r/LocalLLaMA",
+      "published": "2026-09-06T18:27:45+00:00",
+      "summary": "With the help of Glm 5.3 flash I built a custom branch of llama.cpp in order to support Expert expansion with MOE models, I&#39;ve tested only on metal and It works better than my DS4 version , i need feedback from other platforms, and different models. moex-expansion &#32; submi",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 1
@@ -1546,169 +1706,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "645928d51ae7",
-      "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
-      "url": "t3_1w92eis",
-      "source": "r/ML",
-      "published": "2026-09-06T17:29:39+00:00",
-      "summary": "I feel that reproducibility is now a lost cause in machine learning research for three reasons: Many research is moving towards the physical AI territory, where you need expensive hardwares or even entire laboratories with high-speed cameras, in order to perform an experiment. Yo",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "d114d9ce1fea",
-      "title": "I built a local-first hybrid router for AI Agent Skills (sub-20ms, zero tokens, runs on CPU) [P]",
-      "url": "t3_1w90x3i",
-      "source": "r/ML",
-      "published": "2026-09-06T16:34:23+00:00",
-      "summary": "If you use agentic workflows with custom skills or rules (Cursor rules, Claude Code slash commands, OpenCode, etc.), you have probably run into the routing trade-off: Stuff every skill definition into the system prompt (destroys your context window and degrades instruction-follow",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "3bec5538e62b",
-      "title": "[D] IJCNLP-AACL 2026: Paper Commitment Results (ARR May 2026 Cycle) [D]",
-      "url": "t3_1w8zzja",
-      "source": "r/ML",
-      "published": "2026-09-06T15:59:50+00:00",
-      "summary": "AACL-IJCNLP 2026 acceptance results will be released in a few hours. Feel free to share your thoughts and feelings! How did you do? &#32; submitted by &#32; /u/Starscream-11813 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "713843c1c051",
-      "title": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]",
-      "url": "t3_1w8repz",
-      "source": "r/ML",
-      "published": "2026-09-06T09:23:59+00:00",
-      "summary": "I&#39;ve been working on a practical implementation of Sliding Window Attention (SWA) for pretrained Hugging Face causal LLMs. The idea is simple: instead of allowing every generated token to attend to the complete historical KV cache, maintain a bounded cache consisting of: atte",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "96f39b8de884",
-      "title": "Is designing a memory graph around known data structure \u201coverfitting\u201d if I never touch the questions? [D]",
-      "url": "t3_1w8ph8b",
-      "source": "r/ML",
-      "published": "2026-09-06T07:33:50+00:00",
-      "summary": "building a missing data infrastructure and started benchmarking long multi-session conversations (LoCoMo). I know the data looks like: people, facts, claims, events, timestamps, relations. So I extract those into a graph. I did not look at the QA pairs while building extractors o",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "716a62b105e7",
-      "title": "AIStats 2027 Questions [D]",
-      "url": "t3_1w8l0hn",
-      "source": "r/ML",
-      "published": "2026-09-06T03:33:12+00:00",
-      "summary": "Hi All, Was reading AIStats&#39; website and it seems like abstract submission is due in 3 weeks. Does anyone know where to find the LaTex template for 2027? It seems like very little information is available on their website. Another question, is a Quant Finance paper a better f",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "a5c90c9634de",
-      "title": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]",
-      "url": "t3_1w8g1gk",
-      "source": "r/ML",
-      "published": "2026-09-05T23:33:49+00:00",
-      "summary": "I ran a side-by-side ML text-processing and model-training workflow using Fable 5.1 vs. Astra (both on xhigh), and the results could not have been more different. Warning, long post. TL;DR -- Astra codes more agentically, Fable more coherently. Fable writes better and follows dir",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "96e591e411b4",
-      "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
-      "url": "t3_1w89m36",
-      "source": "r/ML",
-      "published": "2026-09-05T19:11:16+00:00",
-      "summary": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techniques. TIP attacks exploit the model\u2019s reasoning/instruction-following behaviour",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "d111586c9dd5",
-      "title": "NeurIPS 2026 Automatic Reference Checker [R]",
-      "url": "t3_1w7sljy",
-      "source": "r/ML",
-      "published": "2026-09-05T06:14:53+00:00",
-      "summary": "Just received an email about the automatic reference/citation checker. Did anyone receive a follow up email about whether the checker was included in the paper&#39;s decision making too, along with the general instructional email? &#32; submitted by &#32; /u/Emergency_Plate241 [l",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "e6222750facd",
-      "title": "Language Models Can Control Their Own Attention [R]",
-      "url": "t3_1w7sgf3",
-      "source": "r/ML",
-      "published": "2026-09-05T06:07:09+00:00",
-      "summary": "Abstract Language models spend most of their attention on a small fraction of context, yet they read the entire KV cache to find the few tokens that matter. If the user asks about a previous detail in a 1M-token conversation, global attention layers must scan the full context to ",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "6b37c13eae93",
-      "title": "Implementing Embedding Gemma from scratch in PyTorch [P]",
-      "url": "t3_1w7scxc",
-      "source": "r/ML",
-      "published": "2026-09-05T06:01:57+00:00",
-      "summary": "&#32; submitted by &#32; /u/Winter_Mistake_3185 [link] &#32; [comments]",
-      "phases": [
-        "p2"
       ],
       "category": "models",
       "weight": 1
