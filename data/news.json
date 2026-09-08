@@ -1,7 +1,20 @@
 {
-  "generated": "2026-09-08T15:33:52.267140+00:00",
+  "generated": "2026-09-08T20:25:15.978218+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "48232c1c3bd8",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI",
+      "published": "2026-09-08T17:00:00+00:00",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "6c888c96cade",
       "title": "The Work Now Within Reach",
@@ -20,6 +33,50 @@
       "weight": 3
     },
     {
+      "id": "c76ec6f9b7b6",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source": "OpenAI",
+      "published": "2026-09-08T11:30:00+00:00",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "4b61789c249a",
+      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "source": "OpenAI",
+      "published": "2026-09-08T10:00:00+00:00",
+      "summary": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "c34d7a764f86",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "source": "OpenAI",
+      "published": "2026-09-08T09:00:00+00:00",
+      "summary": "Apply now for OpenAI\u2019s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 3
+    },
+    {
       "id": "8c676d139375",
       "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
       "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
@@ -30,6 +87,19 @@
         "p1"
       ],
       "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "fddf04f3238a",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "url": "https://openai.com/index/1password",
+      "source": "OpenAI",
+      "published": "2026-09-08T00:00:00+00:00",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
       "weight": 3
     },
     {
@@ -90,19 +160,6 @@
       "weight": 3
     },
     {
-      "id": "9a8f1e3af0e0",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "d54e7a3a2a74",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
@@ -113,6 +170,19 @@
         "p1",
         "p2",
         "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "9a8f1e3af0e0",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-03T12:00:00+00:00",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1587,6 +1657,20 @@
       "weight": 2
     },
     {
+      "id": "d828f92b3914",
+      "title": "OpenAl Says It Has Cracked One of Math's \u201cMillennium Problems\u201d (Navier-Stokes) [N]",
+      "url": "t3_1wavdi7",
+      "source": "r/ML",
+      "published": "2026-09-08T17:42:57+00:00",
+      "summary": "As reported by the New York Times: https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?smid=nytcore-ios-share OpenAI\u2019s announcement: https://openai.com/index/navier-stokes-solution/ &#32; submitted by &#32; /u/Shizuka_Kuze [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "401f6f5602da",
       "title": "Is anyone working on wave-superposition-based pattern recognition instead of neural-network weights? [R]",
       "url": "t3_1wanr4p",
@@ -1614,94 +1698,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "1c0cbcdf51a9",
-      "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
-      "url": "t3_1waewc3",
-      "source": "r/ML",
-      "published": "2026-09-08T05:01:04+00:00",
-      "summary": "this is the kinda debugging case i find rlly annoying/ everything says success. no exceptions no failed tool calls. no obvious timeout the workflow completes but the final result is still wrong when that happens, what\u2019s your first move? do you guys usually: start from the final o",
-      "phases": [
-        "p3"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "9ae4cdd71116",
-      "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
-      "url": "t3_1wabmm7",
-      "source": "r/ML",
-      "published": "2026-09-08T02:16:23+00:00",
-      "summary": "So I&#39;ve been messinga round with embedding models for a bit, and I think they are interesting enough to experiment with. They are useful for rag, especially in a localllm sense because you can ground your answers in truth. But what happens if you have a billion documents, and",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "5e2043e1c027",
-      "title": "I reduced image-processing token usage by ~95% compared with GPT-4o direct vision, while maintaining roughly the same accuracy.How significant is that?[P]",
-      "url": "t3_1wab7ui",
-      "source": "r/ML",
-      "published": "2026-09-08T01:57:19+00:00",
-      "summary": "I&#39;m testing a new approach for reducing the cost of image-based LLM inference. I evaluated it on the MOMA Graph benchmark , using 1,315 questions . Compared with using GPT-4o to process the original images directly, I observed approximately: ~95% lower token usage roughly the",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "cddd94374dab",
-      "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
-      "url": "t3_1wa8rub",
-      "source": "r/ML",
-      "published": "2026-09-08T00:05:37+00:00",
-      "summary": "A few weeks ago, I saw this post where the author trained a SIREN MLP to implicitly memorize Bad Apple as a coordinate function: (t, y, x) to pixel. That got me curious about a slightly different formulation: instead of handing the network a timestamp t , could a small recurrent ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "812bd6847911",
-      "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
-      "url": "t3_1w9xlyi",
-      "source": "r/ML",
-      "published": "2026-09-07T16:54:55+00:00",
-      "summary": "I used an LLM to iteratively evolve an optimization algorithm rather than solve the packing directly. Starting from a simple seed solver, the LLM proposes algorithmic changes guided by a scoreboard of results and a history of prior attempts, and each candidate is scored by an ind",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "6e98870e5d03",
-      "title": "[UPDATE - EIC confirmed ghost reviewer]How to get rejected by IEEE T-PAMI with 'Excellent' scores?[D]",
-      "url": "t3_1w9v43o",
-      "source": "r/ML",
-      "published": "2026-09-07T15:22:35+00:00",
-      "summary": "Background : Our T-PAMI submission was rejected despite receiving three highly favorable reviews. The AE inadvertently revealed that the decision relied on negative comments attributed to a \u201cfourth reviewer.\u201d However, the actual fourth reviewer had submitted a positive review, wh",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 1
     }
   ]
