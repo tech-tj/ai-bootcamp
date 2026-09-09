@@ -1,7 +1,55 @@
 {
-  "generated": "2026-09-09T15:28:24.557356+00:00",
+  "generated": "2026-09-09T20:09:08.242902+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "bb894e920169",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI",
+      "published": "2026-09-09T17:00:00+00:00",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "43d2948c369a",
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "source": "Google AI",
+      "published": "2026-09-09T16:00:00+00:00",
+      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "32522e85f743",
+      "title": "Recreating a 70-year love story frame by frame",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "Google AI",
+      "published": "2026-09-09T16:00:00+00:00",
+      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "48232c1c3bd8",
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
@@ -918,17 +966,21 @@
       "weight": 3
     },
     {
-      "id": "1b4a121cfec6",
-      "title": "What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source": "OpenAI",
-      "published": "2026-08-10T17:00:00+00:00",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "id": "0e4c70248969",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "source": "HuggingFace",
+      "published": "2026-09-09T15:36:24+00:00",
+      "summary": "",
       "phases": [
-        "p1"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
       "id": "b5781936fd6d",
@@ -1650,46 +1702,6 @@
       "source": "ArXiv cs.AI",
       "published": "2026-09-09T00:00:00-04:00",
       "summary": "arXiv:2609.06063v1 Announce Type: new Abstract: AI Agents are increasingly deployed in real-world settings, where they interact with external tools and make sequential decisions with limited human oversight. This creates a pressing need for reliable and auditable explanations of ",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "78c4ce1f8d19",
-      "title": "Generating Instance Generators in PDDL Planning",
-      "url": "https://arxiv.org/abs/2609.06071",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-09T00:00:00-04:00",
-      "summary": "arXiv:2609.06071v1 Announce Type: new Abstract: PDDL, the de-facto standard language in the AI Planning community, is designed to specify planning domains: sets of instances that share the same predicates and action schemas. Yet it does not provide any means to specify the actual",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "a26400e031c7",
-      "title": "LayerRoute: Action-Conditioned Mixture-of-Layers Routing for Vision-Language-Action Policies",
-      "url": "https://arxiv.org/abs/2609.06079",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-09T00:00:00-04:00",
-      "summary": "arXiv:2609.06079v1 Announce Type: new Abstract: Vision-Language-Action (VLA) policies leverage pretrained vision-language models (VLMs) to guide action generation for robot control. VLMs provide hierarchical visual-semantic representations that evolve across layers, from local vi",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "617408dfe6e1",
-      "title": "SAP: State-Guided Data Synthesis with Argument Provenance for Multi-Turn Tool Use",
-      "url": "https://arxiv.org/abs/2609.06124",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-09T00:00:00-04:00",
-      "summary": "arXiv:2609.06124v1 Announce Type: new Abstract: High-quality multi-turn tool-use data is essential for training agentic models, yet existing data synthesis methods often underrepresent the argument-level dependencies that are critical to long-horizon tool use. As a result, even w",
       "phases": [
         "p3"
       ],
