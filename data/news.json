@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T10:17:32.732246+00:00",
+  "generated": "2026-09-09T15:28:24.557356+00:00",
   "count": 120,
   "articles": [
     {
@@ -931,43 +931,18 @@
       "weight": 3
     },
     {
-      "id": "34b94057b7c1",
-      "title": "Evolve your marketing with new AI tools",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "source": "Google AI",
-      "published": "2026-08-10T14:30:00+00:00",
-      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+      "id": "b5781936fd6d",
+      "title": "The Download: OpenAI\u2019s turning point for math and a battery record",
+      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-09T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI\u2019s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important op",
       "phases": [
+        "p1",
         "p3"
       ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "56292896a5d5",
-      "title": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "source": "OpenAI",
-      "published": "2026-08-10T14:00:00+00:00",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "phases": [
-        "p1"
-      ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "52b9c6e06b63",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "source": "OpenAI",
-      "published": "2026-08-10T12:00:00+00:00",
-      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
       "id": "deb348052ceb",
@@ -1688,6 +1663,33 @@
       "source": "ArXiv cs.AI",
       "published": "2026-09-09T00:00:00-04:00",
       "summary": "arXiv:2609.06071v1 Announce Type: new Abstract: PDDL, the de-facto standard language in the AI Planning community, is designed to specify planning domains: sets of instances that share the same predicates and action schemas. Yet it does not provide any means to specify the actual",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "a26400e031c7",
+      "title": "LayerRoute: Action-Conditioned Mixture-of-Layers Routing for Vision-Language-Action Policies",
+      "url": "https://arxiv.org/abs/2609.06079",
+      "source": "ArXiv cs.AI",
+      "published": "2026-09-09T00:00:00-04:00",
+      "summary": "arXiv:2609.06079v1 Announce Type: new Abstract: Vision-Language-Action (VLA) policies leverage pretrained vision-language models (VLMs) to guide action generation for robot control. VLMs provide hierarchical visual-semantic representations that evolve across layers, from local vi",
+      "phases": [
+        "p1",
+        "p2"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "617408dfe6e1",
+      "title": "SAP: State-Guided Data Synthesis with Argument Provenance for Multi-Turn Tool Use",
+      "url": "https://arxiv.org/abs/2609.06124",
+      "source": "ArXiv cs.AI",
+      "published": "2026-09-09T00:00:00-04:00",
+      "summary": "arXiv:2609.06124v1 Announce Type: new Abstract: High-quality multi-turn tool-use data is essential for training agentic models, yet existing data synthesis methods often underrepresent the argument-level dependencies that are critical to long-horizon tool use. As a result, even w",
       "phases": [
         "p3"
       ],
