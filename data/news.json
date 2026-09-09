@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T20:25:15.978218+00:00",
+  "generated": "2026-09-09T01:56:55.736689+00:00",
   "count": 120,
   "articles": [
     {
@@ -160,6 +160,19 @@
       "weight": 3
     },
     {
+      "id": "9a8f1e3af0e0",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-03T12:00:00+00:00",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "d54e7a3a2a74",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
@@ -170,19 +183,6 @@
         "p1",
         "p2",
         "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "9a8f1e3af0e0",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -891,19 +891,6 @@
       "weight": 3
     },
     {
-      "id": "16251d7b149e",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI",
-      "published": "2026-08-11T10:00:00+00:00",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "ca8161387cd4",
       "title": "Daybreak models are now available on AWS",
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
@@ -913,6 +900,19 @@
       "phases": [
         "p1",
         "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "16251d7b149e",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-08-11T10:00:00+00:00",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -989,46 +989,6 @@
       "source": "OpenAI",
       "published": "2026-08-10T10:00:00+00:00",
       "summary": "Approved Daybreak partners can use OpenAI\u2019s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "f7be8d43b299",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "source": "OpenAI",
-      "published": "2026-08-10T00:00:00+00:00",
-      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "2400bb772f76",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "url": "https://openai.com/index/zapier",
-      "source": "OpenAI",
-      "published": "2026-08-10T00:00:00+00:00",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "70ce1451328e",
-      "title": "Premium seats are coming to ChatGPT Business",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "source": "OpenAI",
-      "published": "2026-08-10T00:00:00+00:00",
-      "summary": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
       "phases": [
         "p1"
       ],
@@ -1643,18 +1603,38 @@
       "weight": 2
     },
     {
-      "id": "89474050a4cd",
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "url": "https://huggingface.co/blog/muse-glimmer",
-      "source": "HuggingFace",
-      "published": "2026-08-10T00:00:00+00:00",
-      "summary": "",
+      "id": "5e00d64b97a6",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "source": "Ars Technica",
+      "published": "2026-09-08T21:11:46+00:00",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
       "phases": [
         "p1",
-        "p3"
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
-      "category": "tools",
-      "weight": 2
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "b422c3de88f8",
+      "title": "ECCV 2026 Social Groups [D]",
+      "url": "t3_1wb0k5w",
+      "source": "r/ML",
+      "published": "2026-09-08T20:44:10+00:00",
+      "summary": "Hi. I&#39;m visiting ECCV in Malmo and was wondering if there&#39;s any medium, like discord, whatsapp etc where people are discussing social activities. I couldn&#39;t find a way to connect to people on the official app to discuss common interests, research or otherwise. It&#39;",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
     },
     {
       "id": "d828f92b3914",
@@ -1666,19 +1646,6 @@
       "phases": [
         "p1",
         "p2"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "401f6f5602da",
-      "title": "Is anyone working on wave-superposition-based pattern recognition instead of neural-network weights? [R]",
-      "url": "t3_1wanr4p",
-      "source": "r/ML",
-      "published": "2026-09-08T13:00:10+00:00",
-      "summary": "I\u2019ve been thinking about an alternative way of doing low-level AI perception, and I\u2019m curious whether anyone here is already working on something similar. The basic idea is to use waves and physical superposition/interference as the computational substrate , instead of doing most",
-      "phases": [
-        "p5"
       ],
       "category": "models",
       "weight": 1
@@ -1698,6 +1665,50 @@
         "p5"
       ],
       "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "1c0cbcdf51a9",
+      "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
+      "url": "t3_1waewc3",
+      "source": "r/ML",
+      "published": "2026-09-08T05:01:04+00:00",
+      "summary": "this is the kinda debugging case i find rlly annoying/ everything says success. no exceptions no failed tool calls. no obvious timeout the workflow completes but the final result is still wrong when that happens, what\u2019s your first move? do you guys usually: start from the final o",
+      "phases": [
+        "p3"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "9ae4cdd71116",
+      "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
+      "url": "t3_1wabmm7",
+      "source": "r/ML",
+      "published": "2026-09-08T02:16:23+00:00",
+      "summary": "So I&#39;ve been messinga round with embedding models for a bit, and I think they are interesting enough to experiment with. They are useful for rag, especially in a localllm sense because you can ground your answers in truth. But what happens if you have a billion documents, and",
+      "phases": [
+        "p1",
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "cddd94374dab",
+      "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
+      "url": "t3_1wa8rub",
+      "source": "r/ML",
+      "published": "2026-09-08T00:05:37+00:00",
+      "summary": "A few weeks ago, I saw this post where the author trained a SIREN MLP to implicitly memorize Bad Apple as a coordinate function: (t, y, x) to pixel. That got me curious about a slightly different formulation: instead of handing the network a timestamp t , could a small recurrent ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
       "weight": 1
     }
   ]
