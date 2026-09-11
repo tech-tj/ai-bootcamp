@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T20:10:41.097977+00:00",
+  "generated": "2026-09-11T01:51:59.899677+00:00",
   "count": 120,
   "articles": [
     {
@@ -73,19 +73,6 @@
       "weight": 3
     },
     {
-      "id": "031421652db5",
-      "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "source": "OpenAI",
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "96db0e24a08a",
       "title": "Introducing the Agents API",
       "url": "https://openai.com/index/introducing-the-agents-api",
@@ -97,6 +84,19 @@
         "p3"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "031421652db5",
+      "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI",
+      "published": "2026-09-10T00:00:00+00:00",
+      "summary": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -1033,19 +1033,6 @@
       "weight": 3
     },
     {
-      "id": "dc35058bee54",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
-      "source": "OpenAI",
-      "published": "2026-08-12T00:00:00+00:00",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "15f72ba463ca",
       "title": "The Download: a \u201cGod-driven\u201d cryptocurrency and a solar engineering roadmap",
       "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
@@ -1719,6 +1706,21 @@
         "p4"
       ],
       "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "84376b6bdd73",
+      "title": "RAP: Research Attention Prediction Reveals Target-Conditioned Evidence Acquisition Biases",
+      "url": "https://arxiv.org/abs/2609.10092",
+      "source": "ArXiv cs.AI",
+      "published": "2026-09-10T00:00:00-04:00",
+      "summary": "arXiv:2609.10092v1 Announce Type: new Abstract: Large language models (LLMs) increasingly act as research agents, yet their ability to track shifts in research attention is difficult to evaluate because reviews and research ideas lack uniquely verifiable outcomes. We introduce Re",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "research",
       "weight": 2
     }
   ]
