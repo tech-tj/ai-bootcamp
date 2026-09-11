@@ -1,7 +1,22 @@
 {
-  "generated": "2026-09-11T15:25:54.020541+00:00",
+  "generated": "2026-09-11T20:09:52.723650+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "ebb4b1b0f124",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "source": "OpenAI",
+      "published": "2026-09-11T10:00:00+00:00",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "phases": [
+        "p1",
+        "p2",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
     {
       "id": "8e610a2233c8",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -1692,19 +1707,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "b6f3a221d8a8",
-      "title": "What Should an Agent Forget? Separating What Is Stored from What Is Used",
-      "url": "https://arxiv.org/abs/2609.10263",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-11T00:00:00-04:00",
-      "summary": "arXiv:2609.10263v1 Announce Type: new Abstract: Persistent language agents need stored experience to remain available across time, while each answer requires evidence suited to a particular question. A superseded fact can mislead a current-state answer and still be essential for ",
-      "phases": [
-        "p3"
       ],
       "category": "research",
       "weight": 2
