@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T09:43:11.223102+00:00",
+  "generated": "2026-09-12T14:33:34.566927+00:00",
   "count": 120,
   "articles": [
     {
@@ -1020,33 +1020,6 @@
       "weight": 3
     },
     {
-      "id": "3e500ccae6c7",
-      "title": "The builder\u2019s guide to GPT\u20115.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI",
-      "published": "2026-08-13T11:00:00+00:00",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "b66fa57c04f1",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "source": "OpenAI",
-      "published": "2026-08-13T10:00:00+00:00",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14\u00d7 faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "fc7d853f8a19",
       "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
       "url": "https://arxiv.org/abs/2609.10584",
@@ -1699,6 +1672,32 @@
       "source": "ArXiv cs.AI",
       "published": "2026-09-12T00:00:00-04:00",
       "summary": "arXiv:2609.11341v1 Announce Type: new Abstract: Multimodal brain state decoding has largely focused on fusing paired modalities for prediction, but has rarely explored how their correspondence can be further exploited to enrich training data and improve multimodal representation ",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "7bf8e9bbb3a2",
+      "title": "Portable Semantics, Private Dialects: Reuse and Negative Transfer in Latent Communication Between Language-Model Cells",
+      "url": "https://arxiv.org/abs/2609.11365",
+      "source": "ArXiv cs.AI",
+      "published": "2026-09-12T00:00:00-04:00",
+      "summary": "arXiv:2609.11365v1 Announce Type: new Abstract: In shared-genome language-model societies, restricted evidence visibility favors reusable, value-indexed latent packet interfaces, whereas the sole high-performing globally visible model in the parent study learned an episode-entang",
+      "phases": [
+        "p2"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "85b423ab4671",
+      "title": "RAMamba-Net: A Reliability-Aware and Mamba-Based Multimodal Fusion Network for Auditory Attention Detection",
+      "url": "https://arxiv.org/abs/2609.11372",
+      "source": "ArXiv cs.AI",
+      "published": "2026-09-12T00:00:00-04:00",
+      "summary": "arXiv:2609.11372v1 Announce Type: new Abstract: Auditory attention decoding (AAD) identifies the attended speaker from physiological signals, supporting neuro-steered hearing devices and natural human-machine interaction. Electroencephalography (EEG) is the dominant modality for ",
       "phases": [
         "p1"
       ],
