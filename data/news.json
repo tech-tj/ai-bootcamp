@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13T10:44:35.215237+00:00",
+  "generated": "2026-09-13T15:13:11.087134+00:00",
   "count": 120,
   "articles": [
     {
@@ -1510,6 +1510,23 @@
       "weight": 2
     },
     {
+      "id": "d5c7b3c278f9",
+      "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
+      "url": "t3_1wf611v",
+      "source": "r/ML",
+      "published": "2026-09-13T12:12:39+00:00",
+      "summary": "I\u2019ve been working on a small research project about whether sub-million-parameter models can learn to generate executable drawing programs for constrained hardware. The current system is an 825k-parameter autoregressive transformer which generates ~100 bytes of drawing bytecode r",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "0a66ad1b31aa",
       "title": "Zachery Lipton: \"CS academia broke the system...perhaps all that it takes for the system to rebuild is for it to burn to the ground\" [D]",
       "url": "t3_1wf4b5g",
@@ -1541,23 +1558,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "706b8bde381b",
-      "title": "Getting Mac Air m2/m3/m4 is it good [D]",
-      "url": "t3_1wewuw5",
-      "source": "r/ML",
-      "published": "2026-09-13T03:41:17+00:00",
-      "summary": "So want to switch to macbook after running epochs on my run down vivobook which still works pretty well thanks to its rtx 3050. Now my budget us nearly 80,000-1lac rupees(800-1000$) and buying it second hand is also an option. I could have asked this in any apple Reddit pages but",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "community",
       "weight": 1
     },
     {
