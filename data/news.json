@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13T15:13:11.087134+00:00",
+  "generated": "2026-09-13T19:57:29.321309+00:00",
   "count": 120,
   "articles": [
     {
@@ -1510,6 +1510,36 @@
       "weight": 2
     },
     {
+      "id": "72779bedf721",
+      "title": "Got scipy's KD-tree to handle inserts and deletes without rebuilding. Three things I learned [P]",
+      "url": "t3_1wfg8e3",
+      "source": "r/ML",
+      "published": "2026-09-13T18:54:18+00:00",
+      "summary": "I built a small library called whitetree for exact Mahalanobis nearest-neighbour search on low-dimensional sensor data that keeps arriving. The idea is old. Whiten with the Cholesky factor of the covariance so Mahalanobis becomes Euclidean, then keep several scipy cKDTrees instea",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "a5cb4f38ca01",
+      "title": "[Upcoming AMA] Waymo AI Team AMA \u2013 Drop Your Questions Early! [D]",
+      "url": "t3_1wfesc0",
+      "source": "r/ML",
+      "published": "2026-09-13T18:01:03+00:00",
+      "summary": "Hi r/MachineLearning , Join our AI leads as they answer your questions on foundation models, simulation, and scaling the Waymo Driver. Our AMA thread is officially open, and you can start dropping your questions now. From multimodality and end-to-end architectures to the realitie",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "d5c7b3c278f9",
       "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
       "url": "t3_1wf611v",
@@ -1689,36 +1719,6 @@
       "summary": "I have a few web projects with pretty good UI/UX and I\u2019m wondering if there\u2019s any tool or workflow that can turn an existing codebase into a dataset for fine tuning. For example, given a React/Next.js project with components, pages, styling, etc. or a static html site, I\u2019d like t",
       "phases": [
         "p3"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "f00dbe58b667",
-      "title": "Why is TMLR so slow in recent times [D]",
-      "url": "t3_1wd5mki",
-      "source": "r/ML",
-      "published": "2026-09-11T04:09:09+00:00",
-      "summary": "A final-year PhD student here. A few months back, I submitted a solo-authored paper to TMLR. The reviewers were on time and extremely positive, with some minor revisions. After submitting the revised version, there was absolute silence from the reviewers, with just one acknowledg",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "bef60b3d7438",
-      "title": "Anybody working on Test Time Training over here? Lemme work with u pls [D]",
-      "url": "t3_1wcjn2b",
-      "source": "r/ML",
-      "published": "2026-09-10T13:44:25+00:00",
-      "summary": "I&#39;m an undergrad student who got a taste of research. I love it. I currently have a draft, which me and my mentor have planned for TMLR, and plan to submit it by next month for the first round of review. It was some work on self explanation methods of LLM models. We are confi",
-      "phases": [
-        "p1"
       ],
       "category": "research",
       "weight": 1
