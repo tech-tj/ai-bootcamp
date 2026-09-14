@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13T19:57:29.321309+00:00",
+  "generated": "2026-09-14T02:08:04.893428+00:00",
   "count": 120,
   "articles": [
     {
@@ -1510,6 +1510,36 @@
       "weight": 2
     },
     {
+      "id": "95d1356326ab",
+      "title": "Pacing the Frontier \u2013 Tahuna: AI Training Infrastructure, Now Open Source [P]",
+      "url": "t3_1wfnbap",
+      "source": "r/ML",
+      "published": "2026-09-13T23:38:28+00:00",
+      "summary": "Dario says we need to pace the frontier. Good news: we\u2019ve been pacing Tahuna for months. Today, Tahuna is open source\u2014as promised back in April. We built it so small teams could train models, run inference, orchestrate GPUs, and experiment with autonomous research without first b",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "d5a91a92734e",
+      "title": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]",
+      "url": "t3_1wfivb2",
+      "source": "r/ML",
+      "published": "2026-09-13T20:32:22+00:00",
+      "summary": "Hi \ud83d\udc4b long time lurker It\u2019s been a few years since the last post about Horse Racing within this sub. A few years ago I was reading a popular science book and came across the story Bill Benter and the statistical models his team developed for Hong Kong racing. What stayed with me w",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "72779bedf721",
       "title": "Got scipy's KD-tree to handle inserts and deletes without rebuilding. Three things I learned [P]",
       "url": "t3_1wfg8e3",
@@ -1693,32 +1723,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "d9b08bdc3c79",
-      "title": "ACL Sustainable Reviewing Policy [D]",
-      "url": "t3_1wd7b83",
-      "source": "r/ML",
-      "published": "2026-09-11T05:38:02+00:00",
-      "summary": "ACL just announced on X how they are planning to handle the increased submission numbers. Interestingly enough, they call it &quot;the proposal&quot;. My understanding is that, in a nutshell, each submission should come with someone who can review, otherwise it may only get a slo",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "4904d0886bdd",
-      "title": "Any tools to turn a codebase into a fine tuning dataset? [D]",
-      "url": "t3_1wd5zkk",
-      "source": "r/ML",
-      "published": "2026-09-11T04:27:12+00:00",
-      "summary": "I have a few web projects with pretty good UI/UX and I\u2019m wondering if there\u2019s any tool or workflow that can turn an existing codebase into a dataset for fine tuning. For example, given a React/Next.js project with components, pages, styling, etc. or a static html site, I\u2019d like t",
-      "phases": [
-        "p3"
       ],
       "category": "research",
       "weight": 1
