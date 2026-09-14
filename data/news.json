@@ -1,7 +1,24 @@
 {
-  "generated": "2026-09-14T17:10:19.389427+00:00",
+  "generated": "2026-09-14T21:08:07.827588+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "a46be6ddc0e0",
+      "title": "Watch astronaut Christina Koch and Google\u2019s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "source": "Google AI",
+      "published": "2026-09-14T19:00:00+00:00",
+      "summary": "Christina Koch sits down with James Manyika, Google\u2019s Senior Vice President of Research, Labs, Technology & Society.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 3
+    },
     {
       "id": "f8a70a087364",
       "title": "DevFest is back",
@@ -142,6 +159,19 @@
       "weight": 3
     },
     {
+      "id": "031421652db5",
+      "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI",
+      "published": "2026-09-10T00:00:00+00:00",
+      "summary": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "96db0e24a08a",
       "title": "Introducing the Agents API",
       "url": "https://openai.com/index/introducing-the-agents-api",
@@ -153,19 +183,6 @@
         "p3"
       ],
       "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "031421652db5",
-      "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "source": "OpenAI",
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -1035,6 +1052,19 @@
       "weight": 3
     },
     {
+      "id": "f4964ed02dfb",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-14T17:54:22+00:00",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "ecdb99b46200",
       "title": "Donated livers can be made biologically younger",
       "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
@@ -1667,37 +1697,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "d19bb02c3fef",
-      "title": "Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving",
-      "url": "https://arxiv.org/abs/2609.12606",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-14T00:00:00-04:00",
-      "summary": "arXiv:2609.12606v1 Announce Type: new Abstract: While multimodal reasoning has advanced rapidly, solving complex geometry problems critically hinges on active visual assistance, such as constructing auxiliary lines, spurring the rise of Visual Chain-of-Thought (VCoT). However, ex",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "005bbc574410",
-      "title": "SteerDuplex: Steerable Duplex Speech Dialogue Models",
-      "url": "https://arxiv.org/abs/2609.12623",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-14T00:00:00-04:00",
-      "summary": "arXiv:2609.12623v1 Announce Type: new Abstract: Full-duplex spoken dialogue models support low-latency turn taking, interruption handling, and backchanneling, yet a key capability remains underexplored: steerability, the ability to reliably shift conversational behavior along att",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
