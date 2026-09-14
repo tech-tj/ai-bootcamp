@@ -1,7 +1,35 @@
 {
-  "generated": "2026-09-14T11:08:28.421970+00:00",
+  "generated": "2026-09-14T17:10:19.389427+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "f8a70a087364",
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "source": "Google AI",
+      "published": "2026-09-14T16:00:00+00:00",
+      "summary": "DevFest 2026 is back and here\u2019s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "231875069979",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "source": "OpenAI",
+      "published": "2026-09-14T12:00:00+00:00",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user\u2019s voice.",
+      "phases": [
+        "p1",
+        "p3",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "ea5b19333782",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -373,19 +401,6 @@
       "weight": 3
     },
     {
-      "id": "9a8f1e3af0e0",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "d54e7a3a2a74",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
@@ -396,6 +411,19 @@
         "p1",
         "p2",
         "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "9a8f1e3af0e0",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-03T12:00:00+00:00",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1005,6 +1033,54 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "ecdb99b46200",
+      "title": "Donated livers can be made biologically younger",
+      "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-14T16:11:42+00:00",
+      "summary": "Once an organ is removed from a donor\u2019s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice\u2014where it immediately starts to degrade. The team has a matter of hours to get it into a recipient\u2019s body. There\u2019s anoth",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "4ca5a8ed3801",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-14T16:00:00+00:00",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions\u2014when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researc",
+      "phases": [
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "77e5d5723a5e",
+      "title": "The Download: AI\u2019s real extinction threat and age-reversal tech for eyes",
+      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-14T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibili",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "edd77bf80093",
@@ -1622,81 +1698,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "9467edea5cd6",
-      "title": "Generative AI Use Cases In Real Estate Marketing: Adoption and Constraints in Germany",
-      "url": "https://arxiv.org/abs/2609.12684",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-14T00:00:00-04:00",
-      "summary": "arXiv:2609.12684v1 Announce Type: new Abstract: Generative artificial intelligence (GenAI) is changing how work is organized and performed. Real estate marketing is a prime example of this, yet evidence of GenAI in real estate agents' day-to-day practice remains scarce. In this w",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "5e4dec1e0dd2",
-      "title": "Residual Vector-based Reconstruction as Long-Context Recall Regardless of Context Window Size",
-      "url": "https://arxiv.org/abs/2609.12686",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-14T00:00:00-04:00",
-      "summary": "arXiv:2609.12686v1 Announce Type: new Abstract: Large language models (LLMs) process long contexts, including long documents and lengthy conversations, but face token-level memory usage that increases proportionally to input length. Although model optimization and lossy prompt co",
-      "phases": [
-        "p1",
-        "p2",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "32c17fb9ab15",
-      "title": "I Am AdMan: A Pipeline for Automatic Generation of Personalized Advertising Imagery",
-      "url": "https://arxiv.org/abs/2609.12694",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-14T00:00:00-04:00",
-      "summary": "arXiv:2609.12694v1 Announce Type: new Abstract: Personalized marketing can increase customer engagement, satisfaction, and conversion. While existing personalization approaches have become effective at matching the right product to the right customer, the visual representation of",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "d5eb510d8762",
-      "title": "Enabling and Understanding Personalization in AI-Generated Advertising Imagery",
-      "url": "https://arxiv.org/abs/2609.12697",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-14T00:00:00-04:00",
-      "summary": "arXiv:2609.12697v1 Announce Type: new Abstract: Personalized marketing traditionally matches static products to customers, while dynamic creative optimization focuses mainly on AI-driven text personalization or basic product image modifications. We address this gap by developing ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "95b5ca219e47",
-      "title": "Implicit Personality Representations in Humans and LLMs",
-      "url": "https://arxiv.org/abs/2609.12704",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-14T00:00:00-04:00",
-      "summary": "arXiv:2609.12704v1 Announce Type: new Abstract: A century of psychology has found that the trait words people use to describe one another vary, but the relational structure among those traits, which ones go together and which oppose, is strikingly consistent across raters and cul",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
