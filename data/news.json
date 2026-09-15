@@ -1,7 +1,58 @@
 {
-  "generated": "2026-09-15T15:50:39.901724+00:00",
+  "generated": "2026-09-15T20:34:41.487836+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "a56de3e90322",
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "source": "Google AI",
+      "published": "2026-09-15T16:00:00+00:00",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "b5ab0b9d7814",
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "source": "Google AI",
+      "published": "2026-09-15T16:00:00+00:00",
+      "summary": "The true measure of AI is who it helps. Here\u2019s how it\u2019s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress \u2026",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "02a684446e86",
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "source": "Google AI",
+      "published": "2026-09-15T16:00:00+00:00",
+      "summary": "We\u2019re moving beyond traditional text translation to build models that understand the world\u2019s rich, living languages exactly as they are expressed.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "7c45bd626bd2",
       "title": "New insights from Google\u2019s AI & Economy ATLAS",
@@ -716,12 +767,12 @@
       "weight": 3
     },
     {
-      "id": "7e008cb73ab3",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "id": "6d0a59326d05",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI",
       "published": "2026-08-26T10:00:00+00:00",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "phases": [
         "p1"
       ],
@@ -729,12 +780,12 @@
       "weight": 3
     },
     {
-      "id": "6d0a59326d05",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
+      "id": "7e008cb73ab3",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "source": "OpenAI",
       "published": "2026-08-26T10:00:00+00:00",
-      "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "phases": [
         "p1"
       ],
@@ -1067,6 +1118,36 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "c733aaf01135",
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-15T17:47:51+00:00",
+      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: wh",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "5236dbdf1644",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "HuggingFace",
+      "published": "2026-09-15T16:00:44+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "4b8958bcf8ff",
@@ -1629,76 +1710,6 @@
       "published": "2026-09-15T00:00:00-04:00",
       "summary": "arXiv:2609.13716v1 Announce Type: new Abstract: Ad Hoc Teamwork (AHT) addresses the challenge of designing agents capable of coordinating with novel partners without prior coordination. However, progress in the field is hindered by the prohibitive computational cost of the AHT re",
       "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "d99bff2d0aa8",
-      "title": "MANAS-2: Constrained Reconstruction for EEG Foundation Models",
-      "url": "https://arxiv.org/abs/2609.13717",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-15T00:00:00-04:00",
-      "summary": "arXiv:2609.13717v1 Announce Type: new Abstract: Masked reconstruction is widely used for EEG foundation models, but optimizing reconstruction on low-SNR waveforms does not necessarily produce the most useful latent representation. We introduce MANAS-2, a new EEG foundation model ",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "405adca69e88",
-      "title": "IBBench-Light: A Paired Evaluation of Task-Conditioned Responses to External Directives",
-      "url": "https://arxiv.org/abs/2609.13725",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-15T00:00:00-04:00",
-      "summary": "arXiv:2609.13725v1 Announce Type: new Abstract: An external record may contain a procedure to apply or text to read, depending on the user's request. IBBench-Light tests both uses against the same record. Twelve semantic bases yield 144 matched pairs per model; four quantized ins",
-      "phases": [
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "0a5c601f1158",
-      "title": "Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges",
-      "url": "https://arxiv.org/abs/2609.13731",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-15T00:00:00-04:00",
-      "summary": "arXiv:2609.13731v1 Announce Type: new Abstract: The transition from passive foundation models to autonomous, goal-directed agentic AI systems has introduced unprecedented capabilities by coupling recursive cognitive reasoning loops, persistent memory architectures, live tool exec",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "63cf8ca1c559",
-      "title": "How Many Thoughts Can a Vector Hold? The Capacity of Reasoning by Superposition",
-      "url": "https://arxiv.org/abs/2609.13747",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-15T00:00:00-04:00",
-      "summary": "arXiv:2609.13747v1 Announce Type: new Abstract: Large language models solve hard problems through intermediate computations across multi-step reasoning. Traditional chain-of-thought encodes these computations as tokens. Recent continuous and recurrent methods instead move partial",
-      "phases": [
-        "p1",
-        "p2",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c90d74067883",
-      "title": "Positioning manuscripts in the scientific landscape with agentic AI",
-      "url": "https://arxiv.org/abs/2609.13760",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-15T00:00:00-04:00",
-      "summary": "arXiv:2609.13760v1 Announce Type: new Abstract: Publishing a research manuscript is a routine yet demanding part of scientific life: time-consuming, stressful, and often uncertain in outcome. Recent advances in large language model (LLM)-based agentic AI have shown promise across",
-      "phases": [
-        "p1",
         "p3"
       ],
       "category": "research",
