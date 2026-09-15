@@ -1,7 +1,24 @@
 {
-  "generated": "2026-09-15T10:36:52.934288+00:00",
+  "generated": "2026-09-15T15:50:39.901724+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "7c45bd626bd2",
+      "title": "New insights from Google\u2019s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "source": "Google AI",
+      "published": "2026-09-15T13:00:00+00:00",
+      "summary": "We\u2019ve translated ATLAS\u2019s millions of global data points into an interactive, open-access experience.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "a46be6ddc0e0",
       "title": "Watch astronaut Christina Koch and Google\u2019s James Manyika discuss space, technology, and discovery.",
@@ -1052,8 +1069,34 @@
       "weight": 3
     },
     {
+      "id": "4b8958bcf8ff",
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-15T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly ",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "f3c2d25299c7",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-15T12:00:00+00:00",
+      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory fil",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "03f235e72691",
-      "title": "What must happen for AI\u2019s trillion-dollar gamble to pay off",
+      "title": "What\u2019s at stake in AI\u2019s trillion-dollar gamble",
       "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
       "source": "MIT Tech Review",
       "published": "2026-09-15T10:00:00+00:00",
@@ -1657,45 +1700,6 @@
       "phases": [
         "p1",
         "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "4ec3dab87438",
-      "title": "Homeostatic Continual Learning",
-      "url": "https://arxiv.org/abs/2609.13771",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-15T00:00:00-04:00",
-      "summary": "arXiv:2609.13771v1 Announce Type: new Abstract: In this paper, I formulate a Continual Learning problem and propose a method named \"Homeostatic Continual Learning\" that enables an AI agent to learn continuously in a changing environment without catastrophic forgetting. The core o",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "79185243185f",
-      "title": "Surprising Effectiveness of Self-Demonstrations in Enhancing Schema-Ontology Mapping with LLMs",
-      "url": "https://arxiv.org/abs/2609.13776",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-15T00:00:00-04:00",
-      "summary": "arXiv:2609.13776v1 Announce Type: new Abstract: Integrating heterogeneous relational databases into a centralized ontology remains a persistent challenge in enterprise knowledge representation, primarily due to semantic heterogeneity, cryptic schema naming, missing metadata, and ",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "3d84fc73a4a8",
-      "title": "Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection",
-      "url": "https://arxiv.org/abs/2609.13785",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-15T00:00:00-04:00",
-      "summary": "arXiv:2609.13785v1 Announce Type: new Abstract: Oracle-style quantities, including virtual best solvers, selected-portfolio VBS, virtual-best encodings, and best-in-family summaries, are widely reported as upper bounds on what a deployable selector could achieve. In decomposed al",
-      "phases": [
-        "p5"
       ],
       "category": "research",
       "weight": 2
