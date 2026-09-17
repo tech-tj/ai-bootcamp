@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T10:35:28.626026+00:00",
+  "generated": "2026-09-17T15:48:17.339808+00:00",
   "count": 120,
   "articles": [
     {
@@ -834,12 +834,12 @@
       "weight": 3
     },
     {
-      "id": "7e008cb73ab3",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "id": "6d0a59326d05",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI",
       "published": "2026-08-26T10:00:00+00:00",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "phases": [
         "p1"
       ],
@@ -847,12 +847,12 @@
       "weight": 3
     },
     {
-      "id": "6d0a59326d05",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
+      "id": "7e008cb73ab3",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "source": "OpenAI",
       "published": "2026-08-26T10:00:00+00:00",
-      "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "phases": [
         "p1"
       ],
@@ -1067,45 +1067,21 @@
       "weight": 3
     },
     {
-      "id": "f7788bfa76bc",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "source": "OpenAI",
-      "published": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "1204bd549a14",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source": "OpenAI",
-      "published": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "id": "4b73a7a5520c",
+      "title": "The Download: mice with part-human brains and climate tech innovators",
+      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-17T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A ",
       "phases": [
         "p1",
+        "p2",
+        "p3",
         "p4",
         "p5"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "48f9d5cfe56c",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "source": "OpenAI",
-      "published": "2026-08-18T11:00:00+00:00",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
       "id": "82f2f82c7664",
@@ -1725,6 +1701,33 @@
       "phases": [
         "p2",
         "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "63d5349fb074",
+      "title": "BENCHCOMPASS: From Scores to Signals for Training and Harness Decisions in Payment-Domain LLMs",
+      "url": "https://arxiv.org/abs/2609.18270",
+      "source": "ArXiv cs.AI",
+      "published": "2026-09-17T00:00:00-04:00",
+      "summary": "arXiv:2609.18270v1 Announce Type: new Abstract: Payment operations are a critical financial infrastructure, but the value of large language models in this domain remains unclear because payment rules change quickly, evidence is fragmented, and decisions depend on transaction stat",
+      "phases": [
+        "p1",
+        "p2"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "b4bdc68ea957",
+      "title": "Who Audits Whom, on What Substrate, with What Evidence? An Independence-Graded Audit Protocol for Agentic AI",
+      "url": "https://arxiv.org/abs/2609.18272",
+      "source": "ArXiv cs.AI",
+      "published": "2026-09-17T00:00:00-04:00",
+      "summary": "arXiv:2609.18272v1 Announce Type: new Abstract: Agentic AI systems plan, invoke tools and act with limited supervision; they are now both the subject of audits and, increasingly, the auditor. Independence, the foundation of assurance,is still applied to them as a binary. We argue",
+      "phases": [
+        "p3"
       ],
       "category": "research",
       "weight": 2
