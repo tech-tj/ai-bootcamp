@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T14:58:14.419866+00:00",
+  "generated": "2026-09-19T19:43:10.561535+00:00",
   "count": 120,
   "articles": [
     {
@@ -1514,17 +1514,35 @@
       "weight": 2
     },
     {
-      "id": "b1eabc16d142",
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "HuggingFace",
-      "published": "2026-08-20T16:52:57+00:00",
-      "summary": "",
+      "id": "9a262a050c17",
+      "title": "Experimenting with hypersurface-constrained dynamic weight updating [P]",
+      "url": "t3_1wksamz",
+      "source": "r/ML",
+      "published": "2026-09-19T17:34:49+00:00",
+      "summary": "Hey everyone! I want to share the results of a small language model architecture experiment I\u2019ve been running as a side project. The ultimate goal is to test an approach to reduce the number of the model&#39;s training parameters, since the main bottleneck in training is VRAM. Th",
       "phases": [
-        "p1"
+        "p1",
+        "p5"
       ],
       "category": "models",
-      "weight": 2
+      "weight": 1
+    },
+    {
+      "id": "5f03c970ce97",
+      "title": "ICLR 2027 submission 50k+[D]",
+      "url": "t3_1wks0dv",
+      "source": "r/ML",
+      "published": "2026-09-19T17:23:30+00:00",
+      "summary": "Its 13 hours for the closure of abstract submission, my submission # is close to 51k. OMG &#32; submitted by &#32; /u/Invariant_n_Cauchy [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
     },
     {
       "id": "2122563a4780",
@@ -1739,19 +1757,6 @@
         "p4"
       ],
       "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "35cb1838bc98",
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "source": "Ars Technica",
-      "published": "2026-09-17T18:33:13+00:00",
-      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
       "weight": 1
     }
   ]
