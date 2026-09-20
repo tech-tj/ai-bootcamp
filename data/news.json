@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T15:01:37.700055+00:00",
+  "generated": "2026-09-20T19:54:43.995635+00:00",
   "count": 120,
   "articles": [
     {
@@ -1487,6 +1487,67 @@
       "weight": 2
     },
     {
+      "id": "d57949acbe3d",
+      "title": "How is your experience with ICLR LLM Feedback? [D]",
+      "url": "t3_1wllbz0",
+      "source": "r/ML",
+      "published": "2026-09-20T16:19:10+00:00",
+      "summary": "Besides the ridiculous number of submissions, interesting to hear your experience with it. For me it had 1-2 valid points, and 3 pages of nitpicking. I have the time, so I can address both types of issues, but wonder if that\u2019s your experience as well. Overall, I think it is an in",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "dcebba44e1b3",
+      "title": "Zero-shot Neural Style Transfer (NST) App [P]",
+      "url": "t3_1wll52g",
+      "source": "r/ML",
+      "published": "2026-09-20T16:11:44+00:00",
+      "summary": "Hi everyone! I spent the last 6 days (today included) developing and deploying a zero-shot nueral style transfer (NST) application using AdaIN (Huang and Belongie, 2017). Feeling kinda proud of it :) if y&#39;all would like to give it a spin you can find it at stylyze.app . Just ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "f87330fc4b31",
+      "title": "Autograd project [P]",
+      "url": "t3_1wlj8vv",
+      "source": "r/ML",
+      "published": "2026-09-20T14:57:56+00:00",
+      "summary": "Hello, I&#39;m a 3rd year Highschooler interested in machine learning and for the last few weeks have been working on a small project meant to learn the basics of machine learning. I have implemented a simple tensor library and autograd in c++. It&#39;s very simple but i want som",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "4668573d7b60",
+      "title": "Why decontamination reports can't fix benchmark contamination, and what an evaluator has to do instead [D]",
+      "url": "t3_1wlimaj",
+      "source": "r/ML",
+      "published": "2026-09-20T14:31:49+00:00",
+      "summary": "In February OpenAI stopped reporting SWE-bench Verified and recommended other labs stop too. Every frontier model they tested could reproduce the human-written reference fix, or verbatim details of the problem statement, for some tasks. Progress had slowed to six points in six mo",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "400fa7cae2ba",
       "title": "Inside sanoTTS \u2014 a 294,279-parameter TTS system [P]",
       "url": "t3_1wlbhw8",
@@ -1501,23 +1562,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "dc08a3d90e39",
-      "title": "Jev to retrieve memories is a game changer [P]",
-      "url": "t3_1wl31tp",
-      "source": "r/ML",
-      "published": "2026-09-20T01:06:20+00:00",
-      "summary": "Check it out here: https://github.com/samdotmak/jev-recall &#32; submitted by &#32; /u/hungryillini [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "tools",
       "weight": 1
     },
     {
@@ -1564,6 +1608,36 @@
       "weight": 1
     },
     {
+      "id": "bf8b66134c9d",
+      "title": "Can conference review infrastructure keep up with the increasing volume of NON-SLOP research due to agentic tools? [D]",
+      "url": "t3_1wkwha7",
+      "source": "r/ML",
+      "published": "2026-09-19T20:19:49+00:00",
+      "summary": "AI tools have given us a lot of slop research, but I&#39;m not talking about that. I&#39;m talking about real productivity acceleration due to AI tools (E.g. iterating ideas that would&#39;ve taken multiple days of tedious coding gets done in a few hours, quick refactoring of lat",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "7f503aa7f63f",
+      "title": "World Models From Scratch 2: Model Training and Dreaming [P]",
+      "url": "t3_1wkvuen",
+      "source": "r/ML",
+      "published": "2026-09-19T19:54:50+00:00",
+      "summary": "I am adding self-contained and accessible videos on how World Models work as well as how you can create one! This is part 2 which gets you to the exciting place where you can play a gameboy goy entirely in a world model! &#32; submitted by &#32; /u/Available_Pressure47 [link] &#3",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "9a262a050c17",
       "title": "Experimenting with hypersurface-constrained dynamic weight updating [P]",
       "url": "t3_1wksamz",
@@ -1573,6 +1647,20 @@
       "phases": [
         "p1",
         "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "323c34878408",
+      "title": "Reproduce it, or it doesn't count: why training-side decontamination can't be verified, and what an evaluation-side rule looks like [D]",
+      "url": "t3_1wks8db",
+      "source": "r/ML",
+      "published": "2026-09-19T17:32:20+00:00",
+      "summary": "Since OpenAI retired SWE-bench Verified in February (every frontier model tested could reproduce reference fixes for some tasks; underspecified tests rewarded knowing the intended fix), I&#39;ve been trying to write down precisely what a decontamination report can and can&#39;t e",
+      "phases": [
+        "p1",
+        "p4"
       ],
       "category": "models",
       "weight": 1
@@ -1660,104 +1748,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "d146a84b556e",
-      "title": "How is RLCD (jev) RL? [D]",
-      "url": "t3_1wk6iei",
-      "source": "r/ML",
-      "published": "2026-09-18T23:54:25+00:00",
-      "summary": "Just saw the YouTube presentation and I was left wondering this question. If jev only outputs Choice, Score, or Noul \u2026 well those are all perfectly differentiable. (Cross entropy or mse) I don\u2019t know if I\u2019m missing something or if adding RL is just for marketing. Like what would ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "3b74cb210799",
-      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-      "source": "Ars Technica",
-      "published": "2026-09-18T20:26:33+00:00",
-      "summary": "But the military's overall use of AI seems to be accelerating.",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "91c09688812c",
-      "title": "ICLR SUBMISSION 47647 how that possible? [D]",
-      "url": "t3_1wjzgng",
-      "source": "r/ML",
-      "published": "2026-09-18T19:12:42+00:00",
-      "summary": "I just submitted my paper number to ICLR, and my id number is 47k &#32; submitted by &#32; /u/Practical_Pomelo_636 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "a879614dfadd",
-      "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
-      "url": "t3_1wjuki0",
-      "source": "r/ML",
-      "published": "2026-09-18T16:13:30+00:00",
-      "summary": "Hi r/MachineLearning ! I&#39;m James Gung, a principal applied scientist at AWS. I joined Amazon in 2021 and have since worked on AI services like Lex, Bedrock, Q Business, and Amazon Quick (an AI assistant for work). In that time, I&#39;ve done research on topics like task-orien",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "a7c612079b01",
-      "title": "Classifying coronary heart disease risk from NHANES survey data (2011-2018), with a full leakage audit and calibration check [P]",
-      "url": "t3_1wjp062",
-      "source": "r/ML",
-      "published": "2026-09-18T12:36:07+00:00",
-      "summary": "Github repo : https://github.com/YouCele/nhanes-chd-classification I built a project that predicts self-reported, physician-diagnosed coronary heart disease using four cycles of NHANES data (2011-2012 to 2017-2018), about 21,500 adults after cleaning. It compares logistic regress",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "6b340bfaaf01",
-      "title": "How competitive are journals compared to top ai conferences? [D]",
-      "url": "t3_1wjnruv",
-      "source": "r/ML",
-      "published": "2026-09-18T11:36:57+00:00",
-      "summary": "Hi everyone, The NeurIPS results aren\u2019t out yet, but I\u2019m expecting my paper to be rejected, so I\u2019m considering submitting it to a journal instead. My scores were 2/3/3 (3/4/4). I feel like I would probably get a similar outcome if I submitted the paper to ICLR or CVPR, so at this",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 1
     }
   ]
