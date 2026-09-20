@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T02:07:23.153072+00:00",
+  "generated": "2026-09-20T10:13:42.881139+00:00",
   "count": 120,
   "articles": [
     {
@@ -1487,6 +1487,23 @@
       "weight": 2
     },
     {
+      "id": "400fa7cae2ba",
+      "title": "Inside sanoTTS \u2014 a 294,279-parameter TTS system [P]",
+      "url": "t3_1wlbhw8",
+      "source": "r/ML",
+      "published": "2026-09-20T08:30:48+00:00",
+      "summary": "How sanoTTS works? I have vibe coded this site to show what&#39;s inside sanoTTS? Every tensor shown on the page is a real intermediate value captured from the shipped int8 model while it synthesized an actual sentence; no mock-ups, no stand-in data. Just check this out: https://",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "dc08a3d90e39",
       "title": "Jev to retrieve memories is a game changer [P]",
       "url": "t3_1wl31tp",
@@ -1733,23 +1750,6 @@
       "source": "r/ML",
       "published": "2026-09-18T11:36:57+00:00",
       "summary": "Hi everyone, The NeurIPS results aren\u2019t out yet, but I\u2019m expecting my paper to be rejected, so I\u2019m considering submitting it to a journal instead. My scores were 2/3/3 (3/4/4). I feel like I would probably get a similar outcome if I submitted the paper to ICLR or CVPR, so at this",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "0db1c6445195",
-      "title": "augmenting large datasets to have more edge case data for training [D]",
-      "url": "t3_1wjnj4a",
-      "source": "r/ML",
-      "published": "2026-09-18T11:24:11+00:00",
-      "summary": "I have this idea I&#39;d like feedback on. most camera footage for training, is sunny daytime, because that&#39;s what cameras record most of the time. The edge cases models actually struggles with, like night, fog, rain or glare, are rare in the data - the idea is to augment it ",
       "phases": [
         "p1",
         "p2",
