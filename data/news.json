@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T19:43:10.561535+00:00",
+  "generated": "2026-09-20T02:07:23.153072+00:00",
   "count": 120,
   "articles": [
     {
@@ -1487,31 +1487,64 @@
       "weight": 2
     },
     {
-      "id": "b00c3e470b5b",
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "url": "https://huggingface.co/blog/pwc-search",
-      "source": "HuggingFace",
-      "published": "2026-08-21T00:00:00+00:00",
-      "summary": "",
+      "id": "dc08a3d90e39",
+      "title": "Jev to retrieve memories is a game changer [P]",
+      "url": "t3_1wl31tp",
+      "source": "r/ML",
+      "published": "2026-09-20T01:06:20+00:00",
+      "summary": "Check it out here: https://github.com/samdotmak/jev-recall &#32; submitted by &#32; /u/hungryillini [link] &#32; [comments]",
       "phases": [
         "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "47dbf5d21dc5",
+      "title": "AI/ML and sensitive production data in fintech and healthcare? Where is the data going? Can it be made sense of? [D]",
+      "url": "t3_1wl2kho",
+      "source": "r/ML",
+      "published": "2026-09-20T00:43:46+00:00",
+      "summary": "Hi all! i am currently working as a software engineer for a pretty big enterprise fintech company here in the states. In the the last 12 months at my job there has been a huge push for developers to use ai and agentic program in our development cycle, first in our ide directly, t",
+      "phases": [
+        "p3"
+      ],
+      "category": "industry",
+      "weight": 1
+    },
+    {
+      "id": "db78e6af3489",
+      "title": "ProgramAsWeights: compile English function descriptions into neural programs that run locally [R]",
+      "url": "t3_1wl13eu",
+      "source": "r/ML",
+      "published": "2026-09-19T23:35:28+00:00",
+      "summary": "Given the recent interest in tools like Jev, I wanted to share ProgramAsWeights (PAW), an open-source research project I&#39;m working on at the University of Waterloo. You describe a text function in English, compile it into a reusable neural program, and run it locally, includi",
+      "phases": [
         "p5"
       ],
       "category": "research",
-      "weight": 2
+      "weight": 1
     },
     {
-      "id": "31b34c53c278",
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "source": "HuggingFace",
-      "published": "2026-08-21T00:00:00+00:00",
-      "summary": "",
+      "id": "82348ef5b52b",
+      "title": "I wanted to watch a neural network learn [P]",
+      "url": "t3_1wl0l7j",
+      "source": "r/ML",
+      "published": "2026-09-19T23:12:48+00:00",
+      "summary": "I wanted to really see how a neural network learns different functions, so built an interactive demo. You can change the architecture of the network and the function it will try to approximate. A fully-connected network with ReLU activations will create a piecewise linear functio",
       "phases": [
-        "p4"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
-      "weight": 2
+      "weight": 1
     },
     {
       "id": "9a262a050c17",
@@ -1723,38 +1756,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "b21ae139677f",
-      "title": "AAAI-27 Phase 1 Results [D]",
-      "url": "t3_1wjhiyu",
-      "source": "r/ML",
-      "published": "2026-09-18T05:36:32+00:00",
-      "summary": "AAAI-27 Phase 1 results are expected on September 24. Anyone else waiting for the decision? Would be useful to keep this thread for updates when people start receiving notifications. &#32; submitted by &#32; /u/BeneficialFish04 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "07bf5a0b7a84",
-      "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
-      "url": "t3_1wj7ltg",
-      "source": "r/ML",
-      "published": "2026-09-17T21:55:47+00:00",
-      "summary": "I&#39;m at a crossroads with two grad school options that would take me in somewhat different research directions, and I wanted some general advice on these fields, their growth, and industry alignment. I&#39;m leaving out the specifics of the programs since I&#39;m tryna compare",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
       ],
       "category": "research",
       "weight": 1
