@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T19:54:43.995635+00:00",
+  "generated": "2026-09-21T02:08:11.570965+00:00",
   "count": 120,
   "articles": [
     {
@@ -1487,6 +1487,19 @@
       "weight": 2
     },
     {
+      "id": "f5ff5f54b6ee",
+      "title": "Hemmingway-1, an Apache-2.0 27B creative-writing fine-tune (Qwen3.8-27B base, EQ-Bench 4 1330)[R]",
+      "url": "t3_1wlr1w5",
+      "source": "r/ML",
+      "published": "2026-09-20T19:54:30+00:00",
+      "summary": "we&#39;re a small lab (switzerland + south africa) and just open-sourced our first model: a 27b fine-tune of qwen3.8-27b specialized for creative writing and short-form personal text (stories, dialogue, roleplay, texts, emails). apache-2.0, plain weights on huggingface, 54.7 gb b",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "d57949acbe3d",
       "title": "How is your experience with ICLR LLM Feedback? [D]",
       "url": "t3_1wllbz0",
@@ -1495,23 +1508,6 @@
       "summary": "Besides the ridiculous number of submissions, interesting to hear your experience with it. For me it had 1-2 valid points, and 3 pages of nitpicking. I have the time, so I can address both types of issues, but wonder if that\u2019s your experience as well. Overall, I think it is an in",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "dcebba44e1b3",
-      "title": "Zero-shot Neural Style Transfer (NST) App [P]",
-      "url": "t3_1wll52g",
-      "source": "r/ML",
-      "published": "2026-09-20T16:11:44+00:00",
-      "summary": "Hi everyone! I spent the last 6 days (today included) developing and deploying a zero-shot nueral style transfer (NST) application using AdaIN (Huang and Belongie, 2017). Feeling kinda proud of it :) if y&#39;all would like to give it a spin you can find it at stylyze.app . Just ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 1
@@ -1700,6 +1696,23 @@
       "weight": 1
     },
     {
+      "id": "fe376c63edaa",
+      "title": "OpenTrainDNN: An interactive, zero-dependency browser tool for visualizing backpropagation in neural networks. [P]",
+      "url": "t3_1wkh4s7",
+      "source": "r/ML",
+      "published": "2026-09-19T08:59:02+00:00",
+      "summary": "Hi r/MachineLearning , I built OpenTrainDNN , a browser-based tool designed to visually show how backpropagation and neural network training actually work step-by-step. Why I built it While there are theoretical guides on backpropagation, it can be hard to build an intuitive ment",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
       "id": "5edac849a97f",
       "title": "ACM TAPS moved my camera-ready to support, deadline is in 2 days. Anyone been through this? [D]",
       "url": "t3_1wkgx2y",
@@ -1723,23 +1736,6 @@
       "source": "r/ML",
       "published": "2026-09-19T05:41:20+00:00",
       "summary": "&#32; submitted by &#32; /u/Winter_Mistake_3185 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "0a6ada425627",
-      "title": "JMLR submission experience [D]",
-      "url": "t3_1wk9hwm",
-      "source": "r/ML",
-      "published": "2026-09-19T02:11:32+00:00",
-      "summary": "Hi just wondering has anyone submitted anything to JMLR before? Especially in the last 2 years? What is the experience like? Background: I am a Comp Sci PhD student, but my secondary supervisor (the one who is actually looking after me) is from the Stats faculty. He has 0 Comp Sc",
       "phases": [
         "p1",
         "p2",
