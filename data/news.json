@@ -1,7 +1,60 @@
 {
-  "generated": "2026-09-21T17:19:28.157287+00:00",
+  "generated": "2026-09-21T21:19:33.249911+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "aba8f8622ca0",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "7a457bd9c5b4",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "25363ac68687",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "source": "OpenAI",
+      "published": "2026-09-21T10:00:00+00:00",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "cbe71413925c",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source": "OpenAI",
+      "published": "2026-09-21T07:00:00+00:00",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "07a9efb9a155",
       "title": "How V7 gives AI agents institutional memory",
@@ -954,12 +1007,12 @@
       "weight": 3
     },
     {
-      "id": "6d0a59326d05",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
+      "id": "7e008cb73ab3",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "source": "OpenAI",
       "published": "2026-08-26T10:00:00+00:00",
-      "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "phases": [
         "p1"
       ],
@@ -967,12 +1020,12 @@
       "weight": 3
     },
     {
-      "id": "7e008cb73ab3",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "id": "6d0a59326d05",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI",
       "published": "2026-08-26T10:00:00+00:00",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "phases": [
         "p1"
       ],
@@ -1672,60 +1725,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "cab21fa551ba",
-      "title": "One Prompt Does Not Fit All: Self-Meta-Evolve for Personalized Information Extraction",
-      "url": "https://arxiv.org/abs/2609.21626",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-21T00:00:00-04:00",
-      "summary": "arXiv:2609.21626v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed for enterprise information extraction (IE), where the same document must be reorganized differently for each user. Existing prompt optimization methods, however, rely on a singl",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "79ebda734b68",
-      "title": "Accelerating Dense LLMs via L0-regularized Mixture-of-Experts",
-      "url": "https://arxiv.org/abs/2609.21672",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-21T00:00:00-04:00",
-      "summary": "arXiv:2609.21672v1 Announce Type: new Abstract: Large language models (LLMs) achieve strong performance but suffer from slow and costly inference. Existing acceleration methods often lead to noticeable performance degradation, while Mixture-of-Experts (MoE) models require extensi",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "b732c81b0ff1",
-      "title": "GUARD: Natural Forgetting in Large Reasoning Models via Guided Answer-Reasoning Distillation",
-      "url": "https://arxiv.org/abs/2609.21677",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-21T00:00:00-04:00",
-      "summary": "arXiv:2609.21677v1 Announce Type: new Abstract: Recent advances in large reasoning models (LRMs) have made machine unlearning more challenging, as protected facts or unsafe rationales may surface in intermediate chain-of-thought (CoT) traces before the final answer is produced. E",
-      "phases": [
-        "p3",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "7fd92c734015",
-      "title": "Listen Before You Speak: Response Planning from Listener Facial Reactions for Conversational Speech Generation",
-      "url": "https://arxiv.org/abs/2609.21683",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-21T00:00:00-04:00",
-      "summary": "arXiv:2609.21683v1 Announce Type: new Abstract: Conversational speech depends on dialogue context and the listener's immediately preceding behavior. We propose ReACT-TTS, a two-stage framework that uses a one-second pre-response listener facial sequence to plan the next utterance",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
