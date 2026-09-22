@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T10:29:19.350383+00:00",
+  "generated": "2026-09-22T15:52:49.831665+00:00",
   "count": 120,
   "articles": [
     {
@@ -1144,6 +1144,49 @@
       "weight": 3
     },
     {
+      "id": "fbbb2f4877db",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-22T13:42:05+00:00",
+      "summary": "The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented ov",
+      "phases": [
+        "p2"
+      ],
+      "category": "industry",
+      "weight": 2
+    },
+    {
+      "id": "69b662349cd9",
+      "title": "The Download: why AI\u2019s latest breakthroughs and fears may be more hype than reality",
+      "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-22T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don\u2019t be fooled by this summer of AI hype&#160; \u2014Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR),",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "d185f661c7d1",
+      "title": "Don\u2019t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-22T11:04:51+00:00",
+      "summary": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI\u2013Hugging Face hacking incident, after which Anthropic (proudly) and Meta (r",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "1fd552e184ab",
       "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
       "url": "https://arxiv.org/abs/2609.20971",
@@ -1662,46 +1705,6 @@
       "summary": "arXiv:2609.21683v1 Announce Type: new Abstract: Conversational speech depends on dialogue context and the listener's immediately preceding behavior. We propose ReACT-TTS, a two-stage framework that uses a one-second pre-response listener facial sequence to plan the next utterance",
       "phases": [
         "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "c811f9c6a010",
-      "title": "World Modeling in Transformers",
-      "url": "https://arxiv.org/abs/2609.21748",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-22T00:00:00-04:00",
-      "summary": "arXiv:2609.21748v1 Announce Type: new Abstract: Behavioral failures can make a transformer appear to lack a world model even when it has learned faithful representations of its environment. We demonstrate this in TaxiGPT, a transformer trained on random walks through Manhattan wh",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "420c2a8455d0",
-      "title": "ECG Mirage: Revealing and Mitigating the Underutilisation of ECGs in Vision-Language Models for Clinical Prediction",
-      "url": "https://arxiv.org/abs/2609.21755",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-22T00:00:00-04:00",
-      "summary": "arXiv:2609.21755v1 Announce Type: new Abstract: Emergency department (ED) decision-making relies on heterogeneous clinical information, including patient history, vital signs, laboratory results, and electrocardiograms (ECGs). Vision--language models (VLMs) can jointly process th",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "91c0b5f6e77c",
-      "title": "LLM-Generated Feature Pools for Time Series Anomaly Detection",
-      "url": "https://arxiv.org/abs/2609.21801",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-22T00:00:00-04:00",
-      "summary": "arXiv:2609.21801v1 Announce Type: new Abstract: We study how far a simple statistical pipeline can go on univariate time series anomaly detection under a strict selection protocol. The method extracts a small pool of statistics over sliding windows, scores each window with a tran",
-      "phases": [
-        "p1"
       ],
       "category": "research",
       "weight": 2
