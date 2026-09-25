@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T10:44:29.073562+00:00",
+  "generated": "2026-09-25T16:03:47.951122+00:00",
   "count": 120,
   "articles": [
     {
@@ -1211,12 +1211,29 @@
       "weight": 3
     },
     {
+      "id": "b0fa98e8b274",
+      "title": "The Download: the Pentagon\u2019s AI-powered lie detector and young organ limits",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-25T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next fi",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "b50925bd3c97",
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
       "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
       "source": "MIT Tech Review",
       "published": "2026-09-25T09:16:25+00:00",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called \u201cPolygraph+\u201d or \u201cPolygraph Next\u201d, will focus on scoring algorithms that use artificial intelligenc",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence an",
       "phases": [
         "p1",
         "p2",
@@ -1696,23 +1713,6 @@
       "summary": "arXiv:2609.29140v1 Announce Type: new Abstract: Repeated evaluation can estimate a benchmark score accurately while still requiring replication to certify narrow uncertainty. We characterize that requirement on a fixed grid of $M$ tasks with $L$ binary paths per task under the ha",
       "phases": [
         "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c321972abb78",
-      "title": "Scope Before You Persist: Preventing Cross-Family Interference in Agent Memory",
-      "url": "https://arxiv.org/abs/2609.29144",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-25T00:00:00-04:00",
-      "summary": "arXiv:2609.29144v1 Announce Type: new Abstract: Persistent memory lets language-model agents improve prompts and skills without updating model weights. We show that matching retrieval scope to certification scope enables these edits to support reliable repeated adaptation across ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 2
