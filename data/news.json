@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T15:56:02.156486+00:00",
+  "generated": "2026-09-27T20:32:50.364697+00:00",
   "count": 120,
   "articles": [
     {
@@ -1588,6 +1588,23 @@
       "weight": 2
     },
     {
+      "id": "806ac382ba93",
+      "title": "Are there machine learning subfields that are becoming irrelevant (or is irrelevant)? [D]",
+      "url": "t3_1wrqoxp",
+      "source": "r/ML",
+      "published": "2026-09-27T17:51:22+00:00",
+      "summary": "I was reading a paper that surveyed the field of neural architecture search , where it said within 5 years, around 3000+ new models were proposed. The amount of compute and resources spent on this is absolutely astronomical. However, the transformer was notably not one of the mod",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "522471fcf562",
       "title": "ClashRoyaleAi: an open-source, deterministic Clash Royale simulator for RL, with recurrent PPO, lookahead search and expert iteration [P]",
       "url": "t3_1wrj0t3",
@@ -1718,19 +1735,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "586f7944dedb",
-      "title": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]",
-      "url": "t3_1wqk0x2",
-      "source": "r/ML",
-      "published": "2026-09-26T07:10:45+00:00",
-      "summary": "Distributed Training and Inference both involves having a fundamental understanding of how distributed systems work in general Distributed Parallelism Tensor Parallelism Pipeline Parallelism Model Parallelism Reading and reading and reading or even worse, not knowing where to sta",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
       "weight": 1
     }
   ]
