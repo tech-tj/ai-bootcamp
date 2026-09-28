@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T20:32:50.364697+00:00",
+  "generated": "2026-09-28T02:21:58.884493+00:00",
   "count": 120,
   "articles": [
     {
@@ -1588,6 +1588,19 @@
       "weight": 2
     },
     {
+      "id": "6cdc1daf93f3",
+      "title": "Two-stage shelf audit: YOLO finds the products, embeddings can't tell sibling SKUS apart. What should Stage 2 be? [P]",
+      "url": "t3_1wrxabu",
+      "source": "r/ML",
+      "published": "2026-09-27T22:13:14+00:00",
+      "summary": "Help: Project l&#39;m building a shelf audit tool. A photo goes through YOLO, which crops each product, and then I embed the crop and search a small gallery of reference photos to get the SKU. New products should be addable by just dropping in photos, no detector retrain. Detecti",
+      "phases": [
+        "p2"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
       "id": "806ac382ba93",
       "title": "Are there machine learning subfields that are becoming irrelevant (or is irrelevant)? [D]",
       "url": "t3_1wrqoxp",
@@ -1658,23 +1671,6 @@
         "p3"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "fd9fe9238b11",
-      "title": "NeurIPS 2026 - How is the guaranteed author registration for each accepted paper provided? [D]",
-      "url": "t3_1wr87w6",
-      "source": "r/ML",
-      "published": "2026-09-27T02:16:26+00:00",
-      "summary": "Hello everyone, I am currently a final-year undergrad and I luckily got my first first-author paper accepted to NeurIPS. I would really like to come to Sydney to present my work. However, I am not sure I can attend yet, since my final exam period is around the same time as the co",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 1
     },
     {
