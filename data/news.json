@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T11:43:49.042737+00:00",
+  "generated": "2026-09-29T17:10:49.688447+00:00",
   "count": 120,
   "articles": [
     {
@@ -1241,6 +1241,53 @@
       "weight": 3
     },
     {
+      "id": "6af8dd1a3e49",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source": "HuggingFace",
+      "published": "2026-09-29T15:30:38+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "9179e4753ddd",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "HuggingFace",
+      "published": "2026-09-29T13:07:00+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "b77e9af7e42f",
+      "title": "The Download: climate tech companies to watch and AI\u2019s discovery problem",
+      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-29T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 \u00b0C of warming, climate policies being un",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "3a0cc922f159",
       "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
       "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
@@ -1661,47 +1708,6 @@
         "p3"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "296b20bb7481",
-      "title": "GameBoyWorlds: A Testbed for Self-Improvement in Embodied Video Games",
-      "url": "https://arxiv.org/abs/2609.32093",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-29T00:00:00-04:00",
-      "summary": "arXiv:2609.32093v1 Announce Type: new Abstract: Powered by expert guidance, agents can operate in interactive environments; however, it is unclear whether they can learn autonomously from their own experience. To evaluate such self-improvement methods, we introduce GameBoyWorlds,",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "1f182d3caae1",
-      "title": "Residual Streams Read, Recurrent States Remember: The Global Workspace in Mamba Models",
-      "url": "https://arxiv.org/abs/2609.32102",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-29T00:00:00-04:00",
-      "summary": "arXiv:2609.32102v1 Announce Type: new Abstract: Can the global-workspace account of transformer representations extend to state-space language models? We fit Jacobian lenses to the residual streams and recurrent states of Mamba-1, Mamba-2 and Mamba-3, using the original 1000-prom",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "822e81c2c836",
-      "title": "Escaping Alignment: A Physical Trap Model of Best-of-N Jailbreaking",
-      "url": "https://arxiv.org/abs/2609.32116",
-      "source": "ArXiv cs.AI",
-      "published": "2026-09-29T00:00:00-04:00",
-      "summary": "arXiv:2609.32116v1 Announce Type: new Abstract: Best-of-$N$ jailbreaking (BoN) bypasses safeguards of aligned models by drawing $N$ independent augmentations of an unsafe prompt and sampling $M$ completions of each. Previous works have shown that the attack success rate (ASR) see",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
