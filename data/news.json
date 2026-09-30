@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T21:36:22.827103+00:00",
+  "generated": "2026-09-30T02:47:45.816874+00:00",
   "count": 120,
   "articles": [
     {
@@ -34,20 +34,7 @@
       "url": "https://openai.com/index/introducing-dots",
       "source": "OpenAI",
       "published": "2026-09-29T00:00:00+00:00",
-      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "2c968f6bfde3",
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "source": "OpenAI",
-      "published": "2026-09-28T19:00:00+00:00",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "phases": [
         "p1"
       ],
@@ -65,6 +52,19 @@
         "p4"
       ],
       "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "2c968f6bfde3",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI",
+      "published": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -98,19 +98,6 @@
       "weight": 3
     },
     {
-      "id": "d7db80e019a5",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-28T00:00:00+00:00",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "f8842226a05e",
       "title": "Are you a Codex Original?",
       "url": "https://openai.com/form/codex-originals",
@@ -125,6 +112,19 @@
         "p5"
       ],
       "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "d7db80e019a5",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-28T00:00:00+00:00",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -184,14 +184,15 @@
       "weight": 3
     },
     {
-      "id": "01d0ed630f34",
-      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "id": "7c9a1180e3e3",
+      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
-      "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "phases": [
-        "p1"
+        "p1",
+        "p4"
       ],
       "category": "models",
       "weight": 3
@@ -211,20 +212,6 @@
       "weight": 3
     },
     {
-      "id": "7c9a1180e3e3",
-      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "c24a6e6fac61",
       "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
       "url": "https://openai.com/index/ringg",
@@ -234,6 +221,19 @@
       "phases": [
         "p1",
         "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "01d0ed630f34",
+      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -345,12 +345,12 @@
       "weight": 3
     },
     {
-      "id": "7a457bd9c5b4",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "id": "aba8f8622ca0",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "source": "OpenAI",
       "published": "2026-09-21T12:00:00+00:00",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
       "phases": [
         "p1"
       ],
@@ -358,12 +358,12 @@
       "weight": 3
     },
     {
-      "id": "aba8f8622ca0",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "id": "7a457bd9c5b4",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "source": "OpenAI",
       "published": "2026-09-21T12:00:00+00:00",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
       "phases": [
         "p1"
       ],
@@ -1068,6 +1068,19 @@
       "weight": 3
     },
     {
+      "id": "9a8f1e3af0e0",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-03T12:00:00+00:00",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "d54e7a3a2a74",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
@@ -1078,19 +1091,6 @@
         "p1",
         "p2",
         "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "9a8f1e3af0e0",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
