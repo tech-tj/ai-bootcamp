@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T21:37:01.614799+00:00",
+  "generated": "2026-10-01T02:53:57.713784+00:00",
   "count": 120,
   "articles": [
     {
@@ -1254,19 +1254,6 @@
       "weight": 3
     },
     {
-      "id": "8e955ff5c005",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "source": "OpenAI",
-      "published": "2026-09-01T01:00:00+00:00",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "a65fe8c40ccc",
       "title": "The Download: OpenAI\u2019s chief research officer explains its hacking response",
       "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
@@ -1708,6 +1695,20 @@
         "p3"
       ],
       "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "ef7fc9e97440",
+      "title": "CoRe: Co-Evolving Reward Models for Mitigating Latent Reward Hacking in Video Diffusion Models",
+      "url": "https://arxiv.org/abs/2609.36245",
+      "source": "ArXiv cs.AI",
+      "published": "2026-09-30T00:00:00-04:00",
+      "summary": "arXiv:2609.36245v1 Announce Type: new Abstract: Latent reward models (LRMs) enable efficient alignment of video diffusion models by scoring intermediate states directly in latent space. However, we find that optimizing against a fixed latent reward rapidly leads to latent reward ",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
       "weight": 2
     }
   ]
