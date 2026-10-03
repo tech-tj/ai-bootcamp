@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T10:45:38.047457+00:00",
+  "generated": "2026-10-03T15:21:23.239851+00:00",
   "count": 120,
   "articles": [
     {
@@ -1171,60 +1171,6 @@
       "weight": 3
     },
     {
-      "id": "30eec5aa5b07",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI",
-      "published": "2026-09-03T13:15:00+00:00",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "9a8f1e3af0e0",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "d54e7a3a2a74",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "8b954ea26b8f",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "source": "OpenAI",
-      "published": "2026-09-03T11:00:00+00:00",
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "ed9dd57bde82",
       "title": "Redefining enterprise intelligence with autonomous AI",
       "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
@@ -1618,17 +1564,34 @@
       "weight": 2
     },
     {
-      "id": "aad76210e0dc",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "HuggingFace",
-      "published": "2026-09-03T13:13:48+00:00",
-      "summary": "",
+      "id": "ce22b937be0c",
+      "title": "What\u2019s next after Jev? Metacache: Reasoning by Construction [D]",
+      "url": "t3_1wwocvg",
+      "source": "r/ML",
+      "published": "2026-10-03T14:17:05+00:00",
+      "summary": "Jev has made a profound mark on the AI industry; this article offers a glimpse into what lies ahead. Jev shows where the industry is heading: away from monolithic models, and toward compound systems where small AI agents each do a narrow job and an orchestration layer decides how",
       "phases": [
-        "p1"
+        "p3"
       ],
       "category": "models",
-      "weight": 2
+      "weight": 1
+    },
+    {
+      "id": "bc7ede0518a0",
+      "title": "NeurIPS Free Passes [D]",
+      "url": "t3_1wwkiay",
+      "source": "r/ML",
+      "published": "2026-10-03T11:03:24+00:00",
+      "summary": "Over the last few years, a subset of NeurIPS area chairs received complimentary passes for their service. I\u2019ll admit that I wasn\u2019t super organized about registering on day one because I was semi-consciously hoping for a complimentary pass. Now that the conference is sold out, I\u2019m",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
     },
     {
       "id": "75d76a54aa99",
@@ -1727,6 +1690,57 @@
         "p5"
       ],
       "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "6269a04010d9",
+      "title": "For academia/industry, do HuggingFace model downloads mean anything for academic job market? [D]",
+      "url": "t3_1wvg09c",
+      "source": "r/ML",
+      "published": "2026-10-02T00:36:57+00:00",
+      "summary": "I am applying to academic jobs. We are told to include a section on &quot;impact&quot;. I am wondering if the total number of HuggingFace downloads of custom models I have trained would be considered legit impact, or if people would think this was all bots. Relatedly, for industr",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "7ae23b085562",
+      "title": "What's up with AAAI round 2 reviews? [D]",
+      "url": "t3_1wv4yji",
+      "source": "r/ML",
+      "published": "2026-10-01T17:03:08+00:00",
+      "summary": "Has anyone received papers to review for round 2? &#32; submitted by &#32; /u/coconut-wasabi [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "6c08f4cc37ec",
+      "title": "With most information hidden, the game Stratego had stumped AI\u2014until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "source": "Ars Technica",
+      "published": "2026-10-01T16:28:04+00:00",
+      "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
       "weight": 1
     }
   ]
