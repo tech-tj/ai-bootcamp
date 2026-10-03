@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T15:21:23.239851+00:00",
+  "generated": "2026-10-03T20:19:33.826010+00:00",
   "count": 120,
   "articles": [
     {
@@ -1564,16 +1564,37 @@
       "weight": 2
     },
     {
-      "id": "ce22b937be0c",
-      "title": "What\u2019s next after Jev? Metacache: Reasoning by Construction [D]",
-      "url": "t3_1wwocvg",
+      "id": "dfa75834a7e5",
+      "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
+      "url": "t3_1wwtpg6",
       "source": "r/ML",
-      "published": "2026-10-03T14:17:05+00:00",
-      "summary": "Jev has made a profound mark on the AI industry; this article offers a glimpse into what lies ahead. Jev shows where the industry is heading: away from monolithic models, and toward compound systems where small AI agents each do a narrow job and an orchestration layer decides how",
+      "published": "2026-10-03T18:04:32+00:00",
+      "summary": "I recently finished The Principles of Diffusion Models , and honestly I think it\u2019s exceptional. The authors strike a really good balance between mathematical rigor and intuition, with dedicated appendices for anyone who wants to go deeper into the math. It\u2019s aimed at researchers,",
       "phases": [
-        "p3"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "50191dc91cfe",
+      "title": "ICLR 2027 Reviewing Scores [D]",
+      "url": "t3_1wwqzxy",
+      "source": "r/ML",
+      "published": "2026-10-03T16:10:08+00:00",
+      "summary": "I got my three papers to review, and it seems like they have changed the review score range again this year? It is now: \u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013 Based on your overall assessment of the submission, what is your recommended decision? Consider the paper\u2019s overall soundne",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
       "weight": 1
     },
     {
@@ -1724,23 +1745,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "6c08f4cc37ec",
-      "title": "With most information hidden, the game Stratego had stumped AI\u2014until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "source": "Ars Technica",
-      "published": "2026-10-01T16:28:04+00:00",
-      "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 1
     }
   ]
