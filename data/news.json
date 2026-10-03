@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T02:42:12.272065+00:00",
+  "generated": "2026-10-03T10:45:38.047457+00:00",
   "count": 120,
   "articles": [
     {
@@ -1315,54 +1315,12 @@
       "weight": 2
     },
     {
-      "id": "928178331eed",
-      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
-      "url": "https://arxiv.org/abs/2610.00010",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "0e46fd6278b8",
-      "title": "When Do Causal World Models Help Modular LLM Agents",
-      "url": "https://arxiv.org/abs/2610.00012",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observationa",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "5d81d066e9cb",
-      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
-      "url": "https://arxiv.org/abs/2610.00015",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00015v1 Announce Type: new Abstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We present Praxa, an agent harness that represents these states ex",
-      "phases": [
-        "p3",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "34c2fadc426f",
-      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
-      "url": "https://arxiv.org/abs/2610.00018",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00018v1 Announce Type: new Abstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger support assessment, or a new failure surface. We introduce a messa",
+      "id": "94a1f180da3f",
+      "title": "The Download: AI \u201cmind-reading\u201d and creative uses for small batteries",
+      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-01T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain scan A new AI tool can guess what you\u2019re looking",
       "phases": [
         "p1",
         "p2",
@@ -1370,59 +1328,16 @@
         "p4",
         "p5"
       ],
-      "category": "research",
+      "category": "tools",
       "weight": 2
     },
     {
-      "id": "2fa035ea94f6",
-      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
-      "url": "https://arxiv.org/abs/2610.00025",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "baa198c5c935",
-      "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
-      "url": "https://arxiv.org/abs/2610.00047",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00047v1 Announce Type: new Abstract: Diversity collapse in parallel chain-of-thought has motivated inference-time interventions built on a natural design: when a process reward model (PRM) prunes a chain, its high-PRM prefix is extracted and grafted verbatim as an in-c",
-      "phases": [
-        "p1",
-        "p2",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "f958eb218196",
-      "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
-      "url": "https://arxiv.org/abs/2610.00061",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00061v1 Announce Type: new Abstract: Personalizing large language models (LLMs) requires aligning generation behavior with user-specific preferences rather than aggregate quality. While Direct Preference Optimization (DPO) provides a stable framework for preference lea",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "e36bd8f0cf98",
-      "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
-      "url": "https://arxiv.org/abs/2610.00074",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00074v1 Announce Type: new Abstract: K-Dense BYOK (bring your own keys) is a free, open-source AI research assistant for scientists in any field that runs on the researcher's own computer. The researcher supplies access to a model of their choice, hosted or running loc",
+      "id": "e49f8e259be3",
+      "title": "An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at from a brain scan",
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-01T10:32:24+00:00",
+      "summary": "A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and re-create that image with remarkable precision. It can go the other way, too, and predict a person\u2019s brain activity based on what they\u2019re looking at.&#160; In the image above, for example, the l",
       "phases": [
         "p1",
         "p2",
@@ -1430,31 +1345,29 @@
         "p4",
         "p5"
       ],
-      "category": "research",
+      "category": "tools",
       "weight": 2
     },
     {
-      "id": "c9d2db03a1df",
-      "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
-      "url": "https://arxiv.org/abs/2610.00084",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00084v1 Announce Type: new Abstract: Detailed profession-specific system prompts raise token use and estimated cost per response without a consistent accuracy gain. We evaluate Scientific Agents, an open-source corpus of 503 profession-specific AGENTS.md profiles, with",
+      "id": "b6fc6006183d",
+      "title": "How smaller, distributed batteries could help the grid",
+      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-01T10:00:00+00:00",
+      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That\u2019s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use",
       "phases": [
-        "p1",
-        "p3",
-        "p4"
+        "p2"
       ],
-      "category": "research",
+      "category": "industry",
       "weight": 2
     },
     {
-      "id": "aa6d14e9eb63",
-      "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
-      "url": "https://arxiv.org/abs/2610.00197",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00197v1 Announce Type: new Abstract: We investigate automated rewards for training language models in conversational humor, focusing on reward exploits and countermeasures. Two approaches aim to capture understandable surprise and predicted audience amusement. Controll",
+      "id": "a65fe8c40ccc",
+      "title": "The Download: OpenAI\u2019s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-30T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. \u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer Two months after OpenAI\u2019s",
       "phases": [
         "p1"
       ],
@@ -1462,59 +1375,39 @@
       "weight": 2
     },
     {
-      "id": "f7e890f9689c",
-      "title": "EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs",
-      "url": "https://arxiv.org/abs/2610.00212",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00212v1 Announce Type: new Abstract: Public-service recommendations require evidence that matches the requested service, scope, and date. Yet treating every missing detail as decisive can withhold useful recommendations. We introduce EviGraph, which distinguishes criti",
+      "id": "249c91905a11",
+      "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-30T10:40:30+00:00",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the sp",
       "phases": [
         "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
+        "p3"
       ],
       "category": "research",
       "weight": 2
     },
     {
-      "id": "5f3b2a51ac20",
-      "title": "Build2SPARQL: A Large-Scale Text-to-SPARQL Benchmark Dataset for Building Knowledge Graph Querying",
-      "url": "https://arxiv.org/abs/2610.00224",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00224v1 Announce Type: new Abstract: Building automation systems are increasingly represented as semantic knowledge graphs (KGs) using ontologies such as Brick and ASHRAE 223P, creating a machine-readable substrate for artificial-intelligence applications. One promisin",
+      "id": "30ddd413a7e7",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "HuggingFace",
+      "published": "2026-09-30T00:00:00+00:00",
+      "summary": "",
       "phases": [
         "p4"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "80da909af458",
-      "title": "Robust Is Salient: An Informed Adversary Moves the Optimal Signal onto the Salience Pole",
-      "url": "https://arxiv.org/abs/2610.00233",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00233v1 Announce Type: new Abstract: When an informed adversary shares the audience of a constrained signalling channel, the signal that best protects the truth is the signal that best describes it. On 108 confirmatory items, the adversary-robust optimum aligns exactly",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "a07dfdeb5bfc",
-      "title": "Conflicting Supervision Moves Commitment, Not Capability: A 12.29{\\sigma} arrangement effect that is exactly zero under a convention-agnostic score",
-      "url": "https://arxiv.org/abs/2610.00234",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00234v1 Announce Type: new Abstract: \"Train a model on the same problems written under two incompatible conventions, both correct, and ask what the ordering of that data writes into the parameters. The learning-rate schedule is not a background condition for that quest",
+      "id": "6af8dd1a3e49",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source": "HuggingFace",
+      "published": "2026-09-29T15:30:38+00:00",
+      "summary": "",
       "phases": [
         "p1",
         "p2",
@@ -1526,52 +1419,42 @@
       "weight": 2
     },
     {
-      "id": "238dc87ff06f",
-      "title": "Knowing When to Yield: Grounded Arbitration of User Corrections in Text-Based Embodied Agents",
-      "url": "https://arxiv.org/abs/2610.00282",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00282v1 Announce Type: new Abstract: How should an embodied agent respond when a person's correction may be wrong? We formulate grounded correction arbitration as a choice among accepting, rejecting, inspecting the world, and asking the speaker. GAVA implements this in",
+      "id": "9179e4753ddd",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "HuggingFace",
+      "published": "2026-09-29T13:07:00+00:00",
+      "summary": "",
       "phases": [
         "p3"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "218d82c59629",
-      "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
-      "url": "https://arxiv.org/abs/2610.00313",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00313v1 Announce Type: new Abstract: Scientific coding agents receive equations, boundary conditions, and output requirements in writing, then must assess the programs they revise. Rules to Tools (R2T) supplies prepared executable checks of public scientific requiremen",
+      "id": "b77e9af7e42f",
+      "title": "The Download: climate tech companies to watch and AI\u2019s discovery problem",
+      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "source": "MIT Tech Review",
+      "published": "2026-09-29T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 \u00b0C of warming, climate policies being un",
       "phases": [
         "p1",
-        "p3"
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "03f2240558f9",
-      "title": "Predictive Credit: Measuring What Scientific Explanations Add to Experimental Forecasts",
-      "url": "https://arxiv.org/abs/2610.00314",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00314v1 Announce Type: new Abstract: Research agents explain planned experiments. We measure predictive credit with paired forecasts sharing an intervention, forecaster, and outcome while varying description, matched explanation, and donor context. Five checks track co",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "542109f79215",
-      "title": "ContractRL: Shielded Group-Relative Policy Optimization for Auditable Tool-Call Repair",
-      "url": "https://arxiv.org/abs/2610.00328",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00328v1 Announce Type: new Abstract: Structured tool calls often fail after only a small number of fields violate a schema or an execution contract. Regenerating the complete object enlarges the action surface and makes repeated repair difficult to audit. We introduce ",
+      "id": "c5c9c0902fb6",
+      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "url": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
+      "source": "Import AI",
+      "published": "2026-09-28T12:32:03+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe now Are minds patterns from a Platonic space, with bodies and machines as their interfaces, Michael Le",
       "phases": [
         "p1",
         "p2",
@@ -1583,39 +1466,38 @@
       "weight": 2
     },
     {
-      "id": "73000a0cb6d2",
-      "title": "Mathematical Transfer in LLMs Follows Reasoning Approach More Than Topic",
-      "url": "https://arxiv.org/abs/2610.00331",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00331v1 Announce Type: new Abstract: When selecting mathematical training data for LLMs, a natural organizing principle is topic: probability examples for probability targets. An alternative is reasoning approach: worked solutions that share a solution method with the ",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "1d09382c982e",
-      "title": "Fault-Tolerant Budget Conservation in Distributed Multi-Agent Delegation",
-      "url": "https://arxiv.org/abs/2610.00349",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00349v1 Announce Type: new Abstract: Resource limits are becoming an authorization boundary for AI agents that delegate work across concurrent and failure-prone workers. Parent-child allocation constraints, affine objects, and distributed escrow do not by themselves pr",
+      "id": "6766f31e569a",
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "HuggingFace",
+      "published": "2026-09-28T09:44:05+00:00",
+      "summary": "",
       "phases": [
         "p3"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "76d64e8de60d",
-      "title": "JusticeAxis: Benchmarking Legal Judgment between Rigid Rule Application and Ungrounded Discretion",
-      "url": "https://arxiv.org/abs/2610.00353",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00353v1 Announce Type: new Abstract: A sound judgment applies the law to established facts and weighs the circumstances in which they arose. However, existing methods swing between rigid statute matching and ungrounded discretion, benchmarks score a label or a rubric, ",
+      "id": "a3267440cd69",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "source": "HuggingFace",
+      "published": "2026-09-24T14:08:57+00:00",
+      "summary": "",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "137c5833ddb8",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "HuggingFace",
+      "published": "2026-09-22T00:00:00+00:00",
+      "summary": "",
       "phases": [
         "p4"
       ],
@@ -1623,85 +1505,111 @@
       "weight": 2
     },
     {
-      "id": "ca5c2a98dbf2",
-      "title": "What Should an Agent Remember? Disentangling Retention from Retrieval in Bounded-Memory Evaluation",
-      "url": "https://arxiv.org/abs/2610.00366",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00366v1 Announce Type: new Abstract: A persistent agent must decide both what to retain as information arrives and what to surface once a query appears, yet memory evaluations can confound these decisions by comparing methods that differ in both retention and selection",
+      "id": "6aa8c26a533f",
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "source": "HuggingFace",
+      "published": "2026-09-22T00:00:00+00:00",
+      "summary": "",
       "phases": [
-        "p2",
-        "p3",
-        "p4"
+        "p1"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "532022baa2f0",
-      "title": "When Harnesses Lose the Signal: Causal Evaluation of Recovery in LLM Agents",
-      "url": "https://arxiv.org/abs/2610.00372",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00372v1 Announce Type: new Abstract: Large language model agents rely on external harnesses to pass information between the model and its environment and to recover from execution errors. Yet recovery is usually judged only by average task success. This hides an import",
+      "id": "c5f86512fa7d",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "source": "HuggingFace",
+      "published": "2026-09-22T00:00:00+00:00",
+      "summary": "",
       "phases": [
         "p1",
         "p2",
         "p3",
-        "p4"
+        "p4",
+        "p5"
+      ],
+      "category": "community",
+      "weight": 2
+    },
+    {
+      "id": "dfcc4fcb68b5",
+      "title": "Import AI 473: The US\u2019s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "url": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
+      "source": "Import AI",
+      "published": "2026-09-21T12:31:04+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all options open:\u2026It\u2019s not clear exactly wh",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "87a2ea6346f8",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "source": "HuggingFace",
+      "published": "2026-09-21T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 2
     },
     {
-      "id": "e3d6be044284",
-      "title": "Benchmarking Prompt Optimization of Large Language Models With Chess",
-      "url": "https://arxiv.org/abs/2610.00416",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00416v1 Announce Type: new Abstract: Evaluating large language models becomes increasingly challenging as their capabilities advance: benchmarks can saturate, public test sets risk contamination, and assessing harder tasks can require expensive grading or execution inf",
+      "id": "5236dbdf1644",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "HuggingFace",
+      "published": "2026-09-15T16:00:44+00:00",
+      "summary": "",
       "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "0f499e90abdc",
-      "title": "JevSpawn: Adaptive Agentic Inference through Compositional Action Spaces",
-      "url": "https://arxiv.org/abs/2610.00437",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00437v1 Announce Type: new Abstract: LLM agents generate intermediate reasoning and actions token by token, making extended interactions slow and computationally expensive. Jev-style models offer fast probabilistic predictions over finite fields, but require those fiel",
-      "phases": [
-        "p1",
         "p3"
       ],
       "category": "models",
       "weight": 2
     },
     {
-      "id": "79fcc9a88c33",
-      "title": "Frozen Scenes, Shifting Winners: Configuration Fragility in Text-to-3D Evaluation",
-      "url": "https://arxiv.org/abs/2610.00447",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00447v1 Announce Type: new Abstract: Can a text-to-3D leaderboard change when every generated scene stays fixed? We audit this question for rendered-image evaluation, where camera settings and caption wording become part of the measurement protocol. Across 300 frozen s",
+      "id": "c7496952360c",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "source": "HuggingFace",
+      "published": "2026-09-10T00:00:00+00:00",
+      "summary": "",
       "phases": [
-        "p2",
-        "p4"
+        "p5"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "8ecb121c47da",
-      "title": "Before Agents Decide: Epistemic Action in LLM-Based Systems",
-      "url": "https://arxiv.org/abs/2610.00511",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00511v1 Announce Type: new Abstract: Before a difficult decision, people often act simply to understand the situation better. We turn an object to see another side, place alternatives next to each other, or change one condition and observe what happens. These actions m",
+      "id": "549549603105",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "HuggingFace",
+      "published": "2026-09-10T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "6ff3abde1747",
+      "title": "Import AI 472: DeepMind\u2019s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+      "url": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+      "source": "Import AI",
+      "published": "2026-09-07T12:26:31+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe now Researchers discover another OpenAI agent emergent communication incident:\u2026Less severe, but worryi",
       "phases": [
         "p1",
         "p3"
@@ -1710,18 +1618,116 @@
       "weight": 2
     },
     {
-      "id": "3d701d7aede1",
-      "title": "Ontology-Based Contextual AI Evaluations (OB-CAIE) Methodology",
-      "url": "https://arxiv.org/abs/2610.00529",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-02T00:00:00-04:00",
-      "summary": "arXiv:2610.00529v1 Announce Type: new Abstract: The ontology-based contextual AI evaluation (OB-CAIE) methodology was developed to address a lack of scientific rigor that arises from unclear testing coverage, to balance human expertise and automations, and to address a lack of re",
+      "id": "aad76210e0dc",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "source": "HuggingFace",
+      "published": "2026-09-03T13:13:48+00:00",
+      "summary": "",
       "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "75d76a54aa99",
+      "title": "[R] Would you keep a robot demonstration if hand tracking missed the moment the plug went in?",
+      "url": "t3_1ww5ijc",
+      "source": "r/ML",
+      "published": "2026-10-02T21:18:22+00:00",
+      "summary": "Suppose you\u2019re recording a human plugging a cable into a socket to collect demonstrations for robot learning. The hand tracker captures the approach accurately. Then occlusion causes the hand estimates to disappear during insertion. Tracking returns after the connector is already",
+      "phases": [
+        "p1",
         "p2",
-        "p4"
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "4b41a75d2d7e",
+      "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
+      "url": "t3_1wvwodf",
+      "source": "r/ML",
+      "published": "2026-10-02T15:25:22+00:00",
+      "summary": "In our #NeurIPS2026 paper \u201c Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction \u201d (preprint: https://arxiv.org/abs/2606.22969 ) we try to address a fundamental issue in dynamical systems reconstruction (DSR) and time series forecasting (TSF): Many recent ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "research",
-      "weight": 2
+      "weight": 1
+    },
+    {
+      "id": "9d0f490691d2",
+      "title": "Adding memory to search instead of sampling in reward maximization tasks [R]",
+      "url": "t3_1wvs12j",
+      "source": "r/ML",
+      "published": "2026-10-02T12:04:05+00:00",
+      "summary": "I am one of the authors of FLEET - an algorithm that enhances Best-of-N generation by attributing external rewards to particular tokens and then uses MCTS to adjust logits during the next run. I find it rather funny that most of the tasks where repetitive sampling is widely used ",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "c6056ca64d72",
+      "title": "A video about Adversarial Objectives [P]",
+      "url": "t3_1wvk3cw",
+      "source": "r/ML",
+      "published": "2026-10-02T04:02:56+00:00",
+      "summary": "I made this video about adversarial objectives, which I used to do research on back in the day. I&#39;m trying to explore how adversarial approaches transcend GANs and self-play into modern technology. https://youtu.be/W7CiAeQ0f5w?si=g0tLrQn2wuFzuN2M &#32; submitted by &#32; /u/m",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "ebec4a75e34d",
+      "title": "[D] Self-Promotion Thread",
+      "url": "t3_1wvi1j8",
+      "source": "r/ML",
+      "published": "2026-10-02T02:15:05+00:00",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links. -- Any abuse of",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "industry",
+      "weight": 1
+    },
+    {
+      "id": "688def515bba",
+      "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
+      "url": "t3_1wvg7yc",
+      "source": "r/ML",
+      "published": "2026-10-02T00:47:10+00:00",
+      "summary": "&#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
     }
   ]
 }
