@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T03:14:05.252050+00:00",
+  "generated": "2026-10-04T11:27:36.174234+00:00",
   "count": 120,
   "articles": [
     {
@@ -1577,6 +1577,81 @@
       "weight": 2
     },
     {
+      "id": "e06124207941",
+      "title": "Top ARC-\u0391GI-3 scores on Kaggle just went from 7% to 56% [N]",
+      "url": "t3_1wxcd4k",
+      "source": "r/ML",
+      "published": "2026-10-04T10:24:58+00:00",
+      "summary": "https://preview.redd.it/gkjgii48gfth1.png?width=575&amp;format=png&amp;auto=webp&amp;s=4e1c35bdacf41d18a6409baedcddc9432ec79814 This happened over the past 30 days. So smallish local models (Kagglers can only use those), in a harness, just started beating average humans at a benc",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "813324a23457",
+      "title": "Working with an AI Company That Does Things You Disagree With [D]",
+      "url": "t3_1wxar4x",
+      "source": "r/ML",
+      "published": "2026-10-04T08:41:09+00:00",
+      "summary": "I&#39;m a PhD student in machine learning in the EU and was looking for internships at exciting companies. I shortlisted few and applied by reaching out to people and now reading project descriptions sent by the recruiters. I don&#39;t want to name the company but their marketing",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "industry",
+      "weight": 1
+    },
+    {
+      "id": "e2e92edf24cf",
+      "title": "Nonobench: an open benchmark of 49 LLMs on nonogram puzzles, public and open source [P]",
+      "url": "t3_1wxa2bs",
+      "source": "r/ML",
+      "published": "2026-10-04T07:57:28+00:00",
+      "summary": "Nonobench measures how well LLMs solve nonograms (picross). Each model gets the row and column clues once and returns the full grid. No tools, one attempt per puzzle. Method: - Standard mode: 30 puzzles from 5x5 to 15x15 (from the Nonograms dataset by Moy\u00e0-Alcover, CC BY 4.0). - ",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "b9fc64d7cf8a",
+      "title": "TMLR desk rejecting two years of work [D]",
+      "url": "t3_1wx7wc8",
+      "source": "r/ML",
+      "published": "2026-10-04T05:43:15+00:00",
+      "summary": "TMLR desk rejected two years of work/efforts. What could be the possible reason? No reason was given in the desk rejection. The work is related to continual motion generation. &#32; submitted by &#32; /u/Intrepid_Discount_67 [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "af820b74b4e7",
+      "title": "Here are some pictures of a robot costume wearing high-specularity edge-case mirror suit, a dataset (425 RAW/JPEGs) for benchmarking CV & depth-estimation algorithms against extreme mirror reflections [D]",
+      "url": "t3_1wx7jg6",
+      "source": "r/ML",
+      "published": "2026-10-04T05:21:35+00:00",
+      "summary": "Purpose-built to stress-test computer vision models, depth cameras, and spatial AI against severe specular glare and geometric reflections. This 425-asset production archive features a custom faceted mirror suit captured in high-contrast outdoor environments to trigger bounding-b",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "5b083a6213e5",
       "title": "Jev: Not Frontier, But Still Worth Your Attention [R]",
       "url": "t3_1wx1knr",
@@ -1613,7 +1688,7 @@
       "url": "t3_1wwtpg6",
       "source": "r/ML",
       "published": "2026-10-03T18:04:32+00:00",
-      "summary": "I recently finished The Principles of Diffusion Models , and honestly I think it\u2019s exceptional. The authors strike a really good balance between mathematical rigor and intuition, with dedicated appendices for anyone who wants to go deeper into the math. It\u2019s aimed at researchers,",
+      "summary": "I recently finished The Principles of Diffusion Models , and honestly I think it\u2019s exceptional. The authors strike a really good balance between mathematical rigor and intuition , with dedicated appendices for anyone who wants to go deeper into the math. It\u2019s aimed at researchers",
       "phases": [
         "p1",
         "p2",
@@ -1656,88 +1731,6 @@
         "p5"
       ],
       "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "75d76a54aa99",
-      "title": "[R] Would you keep a robot demonstration if hand tracking missed the moment the plug went in?",
-      "url": "t3_1ww5ijc",
-      "source": "r/ML",
-      "published": "2026-10-02T21:18:22+00:00",
-      "summary": "Suppose you\u2019re recording a human plugging a cable into a socket to collect demonstrations for robot learning. The hand tracker captures the approach accurately. Then occlusion causes the hand estimates to disappear during insertion. Tracking returns after the connector is already",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "4b41a75d2d7e",
-      "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
-      "url": "t3_1wvwodf",
-      "source": "r/ML",
-      "published": "2026-10-02T15:25:22+00:00",
-      "summary": "In our #NeurIPS2026 paper \u201c Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction \u201d (preprint: https://arxiv.org/abs/2606.22969 ) we try to address a fundamental issue in dynamical systems reconstruction (DSR) and time series forecasting (TSF): Many recent ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "9d0f490691d2",
-      "title": "Adding memory to search instead of sampling in reward maximization tasks [R]",
-      "url": "t3_1wvs12j",
-      "source": "r/ML",
-      "published": "2026-10-02T12:04:05+00:00",
-      "summary": "I am one of the authors of FLEET - an algorithm that enhances Best-of-N generation by attributing external rewards to particular tokens and then uses MCTS to adjust logits during the next run. I find it rather funny that most of the tasks where repetitive sampling is widely used ",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "c6056ca64d72",
-      "title": "A video about Adversarial Objectives [P]",
-      "url": "t3_1wvk3cw",
-      "source": "r/ML",
-      "published": "2026-10-02T04:02:56+00:00",
-      "summary": "I made this video about adversarial objectives, which I used to do research on back in the day. I&#39;m trying to explore how adversarial approaches transcend GANs and self-play into modern technology. https://youtu.be/W7CiAeQ0f5w?si=g0tLrQn2wuFzuN2M &#32; submitted by &#32; /u/m",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "ebec4a75e34d",
-      "title": "[D] Self-Promotion Thread",
-      "url": "t3_1wvi1j8",
-      "source": "r/ML",
-      "published": "2026-10-02T02:15:05+00:00",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links. -- Any abuse of",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "industry",
       "weight": 1
     }
   ]
