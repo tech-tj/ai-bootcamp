@@ -1,7 +1,20 @@
 {
-  "generated": "2026-10-05T12:54:13.152175+00:00",
+  "generated": "2026-10-05T23:25:55.096397+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "f9545c4ec00f",
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI",
+      "published": "2026-10-05T15:00:00+00:00",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 3
+    },
     {
       "id": "b0c4983426b3",
       "title": "Building advertising for the way people use AI",
@@ -270,6 +283,19 @@
       "weight": 3
     },
     {
+      "id": "cb77334e6690",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
+      "source": "OpenAI",
+      "published": "2026-09-25T00:00:00+00:00",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "1862986a9b3d",
       "title": "Google Beam expands with new regions, partners, and customers",
       "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -327,20 +353,6 @@
       "weight": 3
     },
     {
-      "id": "32b5509ca9a6",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "7c9a1180e3e3",
       "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
       "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
@@ -350,6 +362,20 @@
       "phases": [
         "p1",
         "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "32b5509ca9a6",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "phases": [
+        "p1",
+        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -474,12 +500,12 @@
       "weight": 3
     },
     {
-      "id": "7a457bd9c5b4",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "id": "aba8f8622ca0",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "source": "OpenAI",
       "published": "2026-09-21T12:00:00+00:00",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
       "phases": [
         "p1"
       ],
@@ -487,12 +513,12 @@
       "weight": 3
     },
     {
-      "id": "aba8f8622ca0",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "id": "7a457bd9c5b4",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "source": "OpenAI",
       "published": "2026-09-21T12:00:00+00:00",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
       "phases": [
         "p1"
       ],
@@ -1184,6 +1210,33 @@
       "weight": 3
     },
     {
+      "id": "16ad415e0c7f",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-05T15:47:52+00:00",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "10d6f4f6fd7b",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-05T13:29:32+00:00",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts\u2014that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The fronti",
+      "phases": [
+        "p3",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "a9f048f810e1",
       "title": "The Download: AI\u2019s popularity paradox and EmTech Future 2026",
       "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
@@ -1657,63 +1710,6 @@
       "summary": "arXiv:2610.02599v1 Announce Type: new Abstract: Sustainable protein discovery lacks the fast computational proxies, analogous to molecular docking or density functional theory, that accelerate drug and materials discovery. Evaluating whether a novel food tastes like its animal-ba",
       "phases": [
         "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "2858fd24c476",
-      "title": "Time Series Forecasting Benchmarks Need Scenario-Grounded Stress Testing",
-      "url": "https://arxiv.org/abs/2610.02608",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-05T00:00:00-04:00",
-      "summary": "arXiv:2610.02608v1 Announce Type: new Abstract: Time series forecasting (TSF) increasingly drives decisions in transportation, energy, finance, healthcare, and infrastructure, yet current evaluation remains overly narrow: standard benchmarks reward low held-out error, while robus",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "0578bf21770a",
-      "title": "VERSE: Verified Self-Evolving Optimizer for Agent Harnesses",
-      "url": "https://arxiv.org/abs/2610.02616",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-05T00:00:00-04:00",
-      "summary": "arXiv:2610.02616v1 Announce Type: new Abstract: Harness evolution improves an LLM agent's prompts, tools, and workflow, while the optimizer's own tools and procedures often remain fixed. We study whether an optimizer can improve another agent more effectively by also improving ho",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "515694f4b227",
-      "title": "CuBEs: Culturally-Situated Behavioral Evaluations and the Limitations of Culture-Blind LLM Judges",
-      "url": "https://arxiv.org/abs/2610.02622",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-05T00:00:00-04:00",
-      "summary": "arXiv:2610.02622v1 Announce Type: new Abstract: Evaluating the occurrence and triggers of large language model (LLM) behaviors - such as sycophancy, self-preference, or over-confidence - is critical for predicting real-world model deployment risks. However, existing situated beha",
-      "phases": [
-        "p1",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "dcbf4bcb4d56",
-      "title": "Lost in the Request: How Communication Variation Disrupts Retrieval and Action in Email Agents",
-      "url": "https://arxiv.org/abs/2610.02627",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-05T00:00:00-04:00",
-      "summary": "arXiv:2610.02627v1 Announce Type: new Abstract: An email assistant should not complete less work simply because a user phrases the same request differently. Yet most benchmarks test each task with only one canonical request, leaving this form of robustness largely unmeasured. We ",
-      "phases": [
-        "p2",
-        "p3",
         "p4"
       ],
       "category": "models",
