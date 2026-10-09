@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:13:08.241679+00:00",
+  "generated": "2026-10-09T21:57:40.942829+00:00",
   "count": 120,
   "articles": [
     {
@@ -14,6 +14,20 @@
         "p5"
       ],
       "category": "industry",
+      "weight": 3
+    },
+    {
+      "id": "dc4e32e77a50",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -328,19 +342,6 @@
       "weight": 3
     },
     {
-      "id": "dd3f81de3324",
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "66cfd105295e",
       "title": "DevDay 2026 Recap",
       "url": "https://openai.com/index/devday-2026-recap",
@@ -351,6 +352,19 @@
         "p1"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "dd3f81de3324",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI",
+      "published": "2026-09-29T10:00:00+00:00",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -423,19 +437,6 @@
       "weight": 3
     },
     {
-      "id": "d7db80e019a5",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-28T00:00:00+00:00",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "f8842226a05e",
       "title": "Are you a Codex Original?",
       "url": "https://openai.com/form/codex-originals",
@@ -453,12 +454,38 @@
       "weight": 3
     },
     {
+      "id": "d7db80e019a5",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-28T00:00:00+00:00",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "0192a09d7c87",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "url": "https://openai.com/index/proaction",
       "source": "OpenAI",
       "published": "2026-09-25T19:00:00+00:00",
       "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "30bb99bf9a0b",
+      "title": "Lowe\u2019s answers millions of home improvement questions with OpenAI",
+      "url": "https://openai.com/index/lowes",
+      "source": "OpenAI",
+      "published": "2026-09-25T07:00:00+00:00",
+      "summary": "Lowe\u2019s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward.",
       "phases": [
         "p1"
       ],
@@ -522,6 +549,20 @@
       "weight": 3
     },
     {
+      "id": "c24a6e6fac61",
+      "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "01d0ed630f34",
       "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
       "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
@@ -530,20 +571,6 @@
       "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "phases": [
         "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "7c9a1180e3e3",
-      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "phases": [
-        "p1",
-        "p4"
       ],
       "category": "models",
       "weight": 3
@@ -563,15 +590,15 @@
       "weight": 3
     },
     {
-      "id": "c24a6e6fac61",
-      "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
+      "id": "7c9a1180e3e3",
+      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "phases": [
         "p1",
-        "p3"
+        "p4"
       ],
       "category": "models",
       "weight": 3
@@ -1174,26 +1201,12 @@
       "weight": 3
     },
     {
-      "id": "bb894e920169",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI",
-      "published": "2026-09-09T17:00:00+00:00",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "43d2948c369a",
-      "title": "Get ready for the game with new football features in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "source": "Google AI",
-      "published": "2026-09-09T16:00:00+00:00",
-      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "id": "ebb9e1a46a89",
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "HuggingFace",
+      "published": "2026-10-09T15:20:29+00:00",
+      "summary": "",
       "phases": [
         "p1",
         "p2",
@@ -1202,37 +1215,21 @@
         "p5"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
-      "id": "32522e85f743",
-      "title": "Recreating a 70-year love story frame by frame",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "source": "Google AI",
-      "published": "2026-09-09T16:00:00+00:00",
-      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "id": "0334faf72ea9",
+      "title": "The Download: AI\u2019s refusal problem and weight-loss drug side effects",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-09T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We\u2019re putting too much faith in AI\u2019s ability to say no Today\u2019s AI models are trained to refuse a vast number of prompts. If you as",
       "phases": [
         "p1",
-        "p2",
-        "p3",
-        "p4",
         "p5"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "e50720e57461",
-      "title": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "source": "OpenAI",
-      "published": "2026-09-09T13:00:00+00:00",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
       "id": "12d2afa3a1ac",
