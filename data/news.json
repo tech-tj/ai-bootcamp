@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T22:36:10.679348+00:00",
+  "generated": "2026-10-09T03:28:12.513492+00:00",
   "count": 120,
   "articles": [
     {
@@ -25,6 +25,23 @@
       "summary": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "phases": [
         "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "7229588990ae",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "source": "OpenAI",
+      "published": "2026-10-08T12:00:00+00:00",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 3
@@ -297,19 +314,6 @@
       "weight": 3
     },
     {
-      "id": "66cfd105295e",
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "source": "OpenAI",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
       "id": "dd3f81de3324",
       "title": "Introducing GPT-6.1 Sol",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
@@ -323,25 +327,25 @@
       "weight": 3
     },
     {
+      "id": "66cfd105295e",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI",
+      "published": "2026-09-29T10:00:00+00:00",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
+    {
       "id": "f806dd97b317",
       "title": "Introducing dots",
       "url": "https://openai.com/index/introducing-dots",
       "source": "OpenAI",
       "published": "2026-09-29T00:00:00+00:00",
       "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "2c968f6bfde3",
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "source": "OpenAI",
-      "published": "2026-09-28T19:00:00+00:00",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
       "phases": [
         "p1"
       ],
@@ -359,6 +363,19 @@
         "p4"
       ],
       "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "2c968f6bfde3",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI",
+      "published": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -491,20 +508,6 @@
       "weight": 3
     },
     {
-      "id": "32b5509ca9a6",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "7c9a1180e3e3",
       "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
       "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
@@ -519,15 +522,15 @@
       "weight": 3
     },
     {
-      "id": "c24a6e6fac61",
-      "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
+      "id": "32b5509ca9a6",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
       "phases": [
         "p1",
-        "p3"
+        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -541,6 +544,20 @@
       "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "phases": [
         "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "c24a6e6fac61",
+      "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "phases": [
+        "p1",
+        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -1218,6 +1235,23 @@
       "weight": 3
     },
     {
+      "id": "080bc68c6b73",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-09T00:08:24+00:00",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-generated life, bu",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "6d8881292dc0",
       "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
       "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
@@ -1333,7 +1367,7 @@
       "url": "https://arxiv.org/abs/2610.08875",
       "source": "ArXiv cs.AI",
       "published": "2026-10-08T00:00:00-04:00",
-      "summary": "arXiv:2610.08875v1 Announce Type: new Abstract: Agent Skills package procedural guidance and resources for reuse, but a relevant Skill does not necessarily improve task performance. Existing studies characterize Skill content and evaluate downstream performance, yet provide limit",
+      "summary": "arXiv:2610.08875v2 Announce Type: new Abstract: Agent Skills package procedural guidance and resources for reuse, but a relevant Skill does not necessarily improve task performance. Existing studies characterize Skill content and evaluate downstream performance, yet provide limit",
       "phases": [
         "p3",
         "p4"
@@ -1364,7 +1398,7 @@
       "url": "https://arxiv.org/abs/2610.08900",
       "source": "ArXiv cs.AI",
       "published": "2026-10-08T00:00:00-04:00",
-      "summary": "arXiv:2610.08900v1 Announce Type: new Abstract: Agentic coding makes code generation cheap, but reliable completion remains difficult: the agent that writes the code is a weak judge of whether it is done. We present Humanize, a multi-agent orchestration workflow for agentic codin",
+      "summary": "arXiv:2610.08900v2 Announce Type: new Abstract: Agentic coding makes code generation cheap, but reliable completion remains difficult: the agent that writes the code is a weak judge of whether it is done. We present Humanize, a multi-agent orchestration workflow for agentic codin",
       "phases": [
         "p1",
         "p3"
@@ -1435,7 +1469,7 @@
       "url": "https://arxiv.org/abs/2610.08966",
       "source": "ArXiv cs.AI",
       "published": "2026-10-08T00:00:00-04:00",
-      "summary": "arXiv:2610.08966v1 Announce Type: new Abstract: Humans perceive far more in a scene than what is explicitly depicted: a single glance captures past causes and future trajectories; a quick peek determines if a vehicle can fit between two parked cars; a few seconds of video reveals",
+      "summary": "arXiv:2610.08966v2 Announce Type: new Abstract: Humans perceive far more in a scene than what is explicitly depicted: a single glance captures past causes and future trajectories; a quick peek determines if a vehicle can fit between two parked cars; a few seconds of video reveals",
       "phases": [
         "p1",
         "p3",
@@ -1681,35 +1715,6 @@
       "phases": [
         "p3",
         "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "7f2e04e9efd0",
-      "title": "GeoNatureAgent (GNA): A Framework and Benchmark for Pre-Production Evaluation of Tool-Using Agents on Geospatial and Environmental Tasks",
-      "url": "https://arxiv.org/abs/2610.09112",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-08T00:00:00-04:00",
-      "summary": "arXiv:2610.09112v1 Announce Type: new Abstract: Before tool-using LLM agents are deployed in environmental and geospatial workflows, teams need evidence that an agent reliably selects the right operations against real APIs. We introduce GeoNatureAgent (GNA), a framework for pre-p",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "tools",
-      "weight": 2
-    },
-    {
-      "id": "86e21c9ac192",
-      "title": "From Uncertainty to Action: Learning to Steer LLM Agents",
-      "url": "https://arxiv.org/abs/2610.09115",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-08T00:00:00-04:00",
-      "summary": "arXiv:2610.09115v1 Announce Type: new Abstract: Steering an LLM agent means deciding whether to correct it, at which step, and with which mechanism. Uncertainty is often used to decide when to correct an agent, but whether it can guide these decisions remains unclear. We steer ag",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "research",
       "weight": 2
