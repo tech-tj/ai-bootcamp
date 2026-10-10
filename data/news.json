@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T21:57:40.942829+00:00",
+  "generated": "2026-10-10T03:07:59.433671+00:00",
   "count": 120,
   "articles": [
     {
@@ -1174,33 +1174,6 @@
       "weight": 3
     },
     {
-      "id": "031421652db5",
-      "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "source": "OpenAI",
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "96db0e24a08a",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "source": "OpenAI",
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
       "id": "ebb9e1a46a89",
       "title": "Impactful scheduling for GPU clusters",
       "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
@@ -1701,6 +1674,37 @@
       "summary": "arXiv:2610.11268v1 Announce Type: new Abstract: Agents combine reasoning with tools to interact with external systems and complete real-world tasks. Early agents typically interleave reasoning and actions along a single execution chain. On complex tasks, this chain becomes unreli",
       "phases": [
         "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "643573597d47",
+      "title": "Open-ended Scientific Discovery with Possibilistic Reasoning",
+      "url": "https://arxiv.org/abs/2610.11289",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-09T00:00:00-04:00",
+      "summary": "arXiv:2610.11289v1 Announce Type: new Abstract: Autonomous scientific discovery with LLMs requires generating and testing hypotheses adaptively as evidence accumulates while maintaining statistical validity. Existing anytime-valid methods can handle data-dependent hypotheses, but",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "494c6b1d6623",
+      "title": "ORDO: Operation-level Round-aware Dynamic Ordering for MIP Presolve",
+      "url": "https://arxiv.org/abs/2610.11294",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-09T00:00:00-04:00",
+      "summary": "arXiv:2610.11294v1 Announce Type: new Abstract: Presolve strongly affects mixed-integer programming (MIP) performance, yet learning-based methods only optimize parameter configurations and cannot express the non-commutative temporal dependencies among actions, whose default order",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "research",
       "weight": 2
