@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T11:30:55.218794+00:00",
+  "generated": "2026-10-10T16:30:58.078590+00:00",
   "count": 120,
   "articles": [
     {
@@ -1104,50 +1104,6 @@
       "weight": 3
     },
     {
-      "id": "8e610a2233c8",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "source": "OpenAI",
-      "published": "2026-09-10T16:00:00+00:00",
-      "summary": "C\u00e9sar de la Fuente\u2019s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "afc832aa3a2b",
-      "title": "3 ways to prep for your next big race with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "source": "Google AI",
-      "published": "2026-09-10T16:00:00+00:00",
-      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "d86fa96aa31a",
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI",
-      "published": "2026-09-10T15:00:00+00:00",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "3459dc51c7e5",
       "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
       "url": "https://arxiv.org/abs/2610.10541",
@@ -1699,6 +1655,47 @@
         "p5"
       ],
       "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "02d001719b52",
+      "title": "SynCo: Data Synthesis Co-Training for Self-Evolving LLMs via Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.11345",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-10T00:00:00-04:00",
+      "summary": "arXiv:2610.11345v1 Announce Type: new Abstract: Self-evolving LLM agents promise to improve autonomously through continual interaction and learning, reducing their dependence on manually curated supervision. Realizing this promise requires not only updating the agent, but also ev",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "a545f0cdfe84",
+      "title": "RL-ARC: Calibrating Large Reasoning Models via Reasoning-guided Uncertainty",
+      "url": "https://arxiv.org/abs/2610.11352",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-10T00:00:00-04:00",
+      "summary": "arXiv:2610.11352v1 Announce Type: new Abstract: Language models (LMs) are commonly trained with Reinforcement Learning with Verifiable Rewards (RLVR) to enhance their reasoning capabilities. However, since RLVR does not explicitly account for calibration during training, it can l",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "a33dc5e4f0d0",
+      "title": "Writing for the Reviewer: Defensive Writing in GPT Models",
+      "url": "https://arxiv.org/abs/2610.11355",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-10T00:00:00-04:00",
+      "summary": "arXiv:2610.11355v1 Announce Type: new Abstract: Researchers increasingly use ChatGPT to revise their papers, and recent GPT versions often narrow or even retract the authors' claims. We call such changes defensive writing when the given material does not support them, and we test",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
       "weight": 2
     }
   ]
