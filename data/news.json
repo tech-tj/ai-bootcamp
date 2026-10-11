@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T11:44:18.945471+00:00",
+  "generated": "2026-10-11T16:55:45.486387+00:00",
   "count": 120,
   "articles": [
     {
@@ -1076,19 +1076,6 @@
       "weight": 3
     },
     {
-      "id": "bb3fa770c597",
-      "title": "Cognition helps Devin test its own work with GPT\u20116 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-11T16:00:00+00:00",
-      "summary": "GPT\u20116 Astra improves Devin\u2019s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "ebb9e1a46a89",
       "title": "Impactful scheduling for GPU clusters",
       "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
@@ -1473,6 +1460,77 @@
       "weight": 2
     },
     {
+      "id": "461fa3581cbd",
+      "title": "Is a second MSc worth it? [D]",
+      "url": "t3_1x3a37d",
+      "source": "r/ML",
+      "published": "2026-10-11T14:48:55+00:00",
+      "summary": "I\u2019m an AI research engineer based in Africa with about 3 YoEs in RL, LLMs, post-training, and systems efficiency (CUDA/vLLM). However, on a smaller scale because of compute limits. My undergrad and Master\u2019s are both in communications engineering. I did a 5th-year Master&#39;s at ",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "0def9eba7e9c",
+      "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
+      "url": "t3_1x39uu6",
+      "source": "r/ML",
+      "published": "2026-10-11T14:39:01+00:00",
+      "summary": "Palette Atlas ( https://itzik123.github.io/PaletteAtlas/ ) searches public-domain paintings by color scheme. Each image is reduced to 128 colors of equal weight, so the natural distance is the Earth Mover&#39;s Distance, which is too slow for nearest-neighbor search over 48,695 i",
+      "phases": [
+        "p2",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "6588292f2d63",
+      "title": "NeurIPS 2026 Paris complimentary registration already full. Did any Top Reviewers get a spot? [D]",
+      "url": "t3_1x39t3h",
+      "source": "r/ML",
+      "published": "2026-10-11T14:37:01+00:00",
+      "summary": "Hi everyone, I was selected as a NeurIPS 2026 Top Reviewer and awarded complimentary registration. As far as I understand, registration opened in batches: first for SACs, then ACs, and finally reviewers. However, when I received the email and tried to register, I found that the P",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "0172005eda63",
+      "title": "I trained a 414k-parameter transformer to fly a boids flock, then tested whether the rules a probe can read are the ones it uses [P]",
+      "url": "t3_1x39jlu",
+      "source": "r/ML",
+      "published": "2026-10-11T14:25:59+00:00",
+      "summary": "I wrote a small boid simulator (12 birds), recorded it flying, and trained a transformer to predict each bird&#39;s next move without it knowing about any boid rules. (built in Python and PyTorch: a transformer written from scratch, one token per bird, two attention layers, about",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "471130cfb7c3",
+      "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
+      "url": "t3_1x38qpy",
+      "source": "r/ML",
+      "published": "2026-10-11T13:51:34+00:00",
+      "summary": "&#32; submitted by &#32; /u/moschles [link] &#32; [comments]",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "1f082921d997",
       "title": "[P] Pecision models that score every allowed label from the logits: Jebadiah v2.1 (27B, 9B), open weights and self-run benchmark results [P]",
       "url": "t3_1x33wgz",
@@ -1655,34 +1713,6 @@
       "weight": 1
     },
     {
-      "id": "e6be9911a653",
-      "title": "I built ALHR: A tree based sparse attention system that achieves sub-quadratic inference while retaining accuracy. [P]",
-      "url": "t3_1x1lem3",
-      "source": "r/ML",
-      "published": "2026-10-09T13:29:43+00:00",
-      "summary": "ALHR - Adaptive Learnable Hierarchical Routing, uses static binary trees and learnable functions to minimize the amount of keys to be read. It does use a dense teacher while phase 1 of training however. MQAR TEST AT 1024 TOKENS - Average keys read per query by dense - 512 Keys Av",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "72469d71380c",
-      "title": "[2610.08927] Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
-      "url": "t3_1x1lbrm",
-      "source": "r/ML",
-      "published": "2026-10-09T13:26:15+00:00",
-      "summary": "Abstract: Recent AI systems have made rapid progress in scientific discovery when given well-defined metrics, but whether they can autonomously undertake open-ended scientific discovery remains unclear. We investigate AI&#39;s ability to tackle open-ended tasks in Station, an ope",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
       "id": "1f70921d33d3",
       "title": "ARR Oct Discussion [D]",
       "url": "t3_1x1ke20",
@@ -1697,36 +1727,6 @@
         "p5"
       ],
       "category": "community",
-      "weight": 1
-    },
-    {
-      "id": "938d7bc3724f",
-      "title": "SAC tickets non-transferable? [D]",
-      "url": "t3_1x1h3xr",
-      "source": "r/ML",
-      "published": "2026-10-09T09:45:38+00:00",
-      "summary": "NeurIPS says in the past they made the SAC tickets transferable. But apparently this time not? Or does anyone have a transferable one? &#32; submitted by &#32; /u/Other-Today4852 [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "ab05263333da",
-      "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
-      "url": "t3_1x1fjrv",
-      "source": "r/ML",
-      "published": "2026-10-09T08:05:23+00:00",
-      "summary": "I built MaRN (Mapping Networks) , a PyTorch library that lets you optimize a compact latent representation instead of directly training every model parameter. Some results from my current benchmarks: MNIST CNN: Reduced a 537,748-parameter CNN to 4,080 trainable parameters ( 131.8",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
       "weight": 1
     }
   ]
