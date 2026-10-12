@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T21:10:14.661917+00:00",
+  "generated": "2026-10-12T03:03:52.697004+00:00",
   "count": 120,
   "articles": [
     {
@@ -1460,6 +1460,19 @@
       "weight": 2
     },
     {
+      "id": "4b8185e01b36",
+      "title": "I built a browser tool to visualize how a small LLM picks its next word and see what it's attending to [P]",
+      "url": "t3_1x3lgnz",
+      "source": "r/ML",
+      "published": "2026-10-11T22:30:50+00:00",
+      "summary": "I made a little thing that visualizes attention. It runs SmolLM2-135M fully in the browser (onnxruntime-web, int8, no server, works on my phone). You give it a prompt, it generates one token at a time, and for each step you get the next-token candidates with probabilities, plus t",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
       "id": "ccb91a33961c",
       "title": "What's up with google scholar citations ? [D]",
       "url": "t3_1x3fbv4",
@@ -1710,23 +1723,6 @@
         "p3"
       ],
       "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "c38cf0ed6c54",
-      "title": "Clarification ARR Commitment [D]",
-      "url": "t3_1x1lkln",
-      "source": "r/ML",
-      "published": "2026-10-09T13:36:48+00:00",
-      "summary": "I want to commit my ARR paper to EACL 2027 and I see I have to attach a pdf. Should I address the reviewer comments/suggestions (minor things) in this version already or wait for camera ready if accepted? I thought I just had to provide the link to the reviews but now I am confus",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
       "weight": 1
     }
   ]
