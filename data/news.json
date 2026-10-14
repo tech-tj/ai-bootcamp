@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T22:02:38.600802+00:00",
+  "generated": "2026-10-14T02:30:40.518858+00:00",
   "count": 120,
   "articles": [
     {
@@ -1089,19 +1089,6 @@
       "weight": 3
     },
     {
-      "id": "ea5b19333782",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-14T00:00:00+00:00",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "aba8264d5bfb",
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -1485,12 +1472,12 @@
       "weight": 2
     },
     {
-      "id": "768aaf0ab8bf",
-      "title": "Introducing pytest-torch [P]",
-      "url": "t3_1x58zje",
+      "id": "a4495d92c7ba",
+      "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
+      "url": "t3_1x5dc8f",
       "source": "r/ML",
-      "published": "2026-10-13T21:15:13+00:00",
-      "summary": "I built pytest-torch to make testing PyTorch models easier Writing the same device setup, reproducibility checks, and output comparisons across projects gets repetitive, so I built pytest-torch, an open-source pytest plugin. It includes inference checks, compile/export parity, ch",
+      "published": "2026-10-14T00:28:26+00:00",
+      "summary": "I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to read. Unfortunately, I imagine this is common among &quot;top&quot; conference subm",
       "phases": [
         "p1"
       ],
@@ -1576,21 +1563,6 @@
         "p1"
       ],
       "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "dafc92f7860b",
-      "title": "Is human evaluation through surveys common in ML research?[R][D]",
-      "url": "t3_1x4zear",
-      "source": "r/ML",
-      "published": "2026-10-13T15:16:50+00:00",
-      "summary": "Hi, I am a master&#39;s student working on a project where our fine-tuned AI model provides feedback on images. We are also comparing its feedback with outputs from Qwen/OpenAI APIs on the same images. My postdoc and PhD mentors suggested creating a Google Form where participants",
-      "phases": [
-        "p1",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 1
     },
     {
@@ -1738,6 +1710,32 @@
         "p5"
       ],
       "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "2a8f31354aef",
+      "title": "learnc: fit the constants in existing C code to data (9.1% smaller JPEGs, +4.9 F1 on WebRTC VAD) [P]",
+      "url": "t3_1x4dlbm",
+      "source": "r/ML",
+      "published": "2026-10-12T20:51:32+00:00",
+      "summary": "learnc tunes named constants in unmodified C code against a score function you write in C, and writes the same file back with new values. Results, both on held-out data: JPEG, stb_image_write.h (128 quantization-table entries, tuned on 12 Kodak images, tested on the other 12): 9.",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "6629e47b00aa",
+      "title": "What is the strongest mechanistic argument that next token prediction plus reinforcement learning can produce open-ended general intelligence? [D]",
+      "url": "t3_1x4awlk",
+      "source": "r/ML",
+      "published": "2026-10-12T19:09:27+00:00",
+      "summary": "Most conversations I see on various AI subreddits start from the assumption that AGI/RSI/ASI is possible, we&#39;re on the way right now, and that things will be incredibly different afterward. The only question is what the post-AGI world looks like. I&#39;d like to start one log",
+      "phases": [
+        "p1"
+      ],
+      "category": "community",
       "weight": 1
     }
   ]
