@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T15:53:50.400971+00:00",
+  "generated": "2026-10-15T20:38:38.880450+00:00",
   "count": 120,
   "articles": [
     {
@@ -1060,55 +1060,17 @@
       "weight": 3
     },
     {
-      "id": "a56de3e90322",
-      "title": "AI for Societal Impact",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "source": "Google AI",
-      "published": "2026-09-15T16:00:00+00:00",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "id": "fe5649d96d8a",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "HuggingFace",
+      "published": "2026-10-15T20:34:01+00:00",
+      "summary": "",
       "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
         "p5"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "b5ab0b9d7814",
-      "title": "Building AI to accelerate science and improve lives",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "source": "Google AI",
-      "published": "2026-09-15T16:00:00+00:00",
-      "summary": "The true measure of AI is who it helps. Here\u2019s how it\u2019s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress \u2026",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "02a684446e86",
-      "title": "AI for everyone in every language",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "source": "Google AI",
-      "published": "2026-09-15T16:00:00+00:00",
-      "summary": "We\u2019re moving beyond traditional text translation to build models that understand the world\u2019s rich, living languages exactly as they are expressed.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
       "id": "4dc555334ce0",
@@ -1705,6 +1667,32 @@
       "summary": "arXiv:2610.14625v1 Announce Type: new Abstract: Recursive self-improvement (RSI) offers a route to AI systems that participate in their own continued development. Recent methods allow language agents to retain changes to their parameters, memory, skills, and code for subsequent e",
       "phases": [
         "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "7f32594f49d6",
+      "title": "PEARL: Process-Experience Aware Reinforcement Learning for Multi-Turn Agents",
+      "url": "https://arxiv.org/abs/2610.14636",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-15T00:00:00-04:00",
+      "summary": "arXiv:2610.14636v1 Announce Type: new Abstract: Terminal rewards make multi-turn agents trainable without step-level annotations, but group-relative advantages provide little guidance about which intermediate decisions to adjust. Failed trajectories also contain reasonable action",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "601996decc32",
+      "title": "AegisVox: Factorized Privacy and Clinical Preservation for Long-Form Speech",
+      "url": "https://arxiv.org/abs/2610.14643",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-15T00:00:00-04:00",
+      "summary": "arXiv:2610.14643v1 Announce Type: new Abstract: Clinical speech reveals identity through both spoken identifiers and voice, yet its pauses, delivery, and speaker roles can also carry useful clinical evidence. Protecting that speech therefore requires more than preserving its word",
+      "phases": [
+        "p5"
       ],
       "category": "research",
       "weight": 2
