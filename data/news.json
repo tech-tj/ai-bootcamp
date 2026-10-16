@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T10:16:55.890039+00:00",
+  "generated": "2026-10-16T15:42:08.508728+00:00",
   "count": 120,
   "articles": [
     {
@@ -1032,45 +1032,21 @@
       "weight": 3
     },
     {
-      "id": "d2e2a131de12",
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI",
-      "published": "2026-09-16T13:00:00+00:00",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "id": "482e4b85ac53",
+      "title": "The Download: failed social media bans, and extending pets\u2019 lives",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-16T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That\u2019s not a problem we need to solve. \u2014Michal Luria, Aliya Bhatia, and Danah Boyd Social ",
       "phases": [
         "p1",
-        "p3"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "7d19d74e67f6",
-      "title": "Hex turns complex analysis into visual reports with GPT\u20116 Astra",
-      "url": "https://openai.com/index/hex-gpt-6-astra",
-      "source": "OpenAI",
-      "published": "2026-09-16T12:00:00+00:00",
-      "summary": "GPT-6 Astra helps Hex\u2019s data agents turn answers into interactive visualizations that employees are proud to share.",
-      "phases": [
-        "p1",
-        "p3"
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "ddf43229688c",
-      "title": "How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI",
-      "published": "2026-09-16T12:00:00+00:00",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
       "id": "c9d6e5886da0",
@@ -1694,6 +1670,35 @@
         "p5"
       ],
       "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "9c01782ac491",
+      "title": "All-in-One Memory: Process-Rewarded Reinforcement Learning for Memory Agents",
+      "url": "https://arxiv.org/abs/2610.21147",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-16T00:00:00-04:00",
+      "summary": "arXiv:2610.21147v1 Announce Type: new Abstract: Large language models increasingly rely on external memory to answer queries grounded in long-horizon histories such as multi-session dialogues and lengthy documents. However, existing memory methods often optimize retrieval and mem",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "fcf82c23ebc8",
+      "title": "GRADS: Graph-Regulated Agentic Data Synthesis with Controllable Difficulty",
+      "url": "https://arxiv.org/abs/2610.21167",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-16T00:00:00-04:00",
+      "summary": "arXiv:2610.21167v1 Announce Type: new Abstract: Deep research agents are increasingly deployed to retrieve precise information from large corpora, yet multi-hop, long-horizon tasks remain challenging. Synthetic data generation has emerged as a scalable solution, with existing pip",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
       "weight": 2
     }
   ]
