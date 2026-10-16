@@ -1,7 +1,20 @@
 {
-  "generated": "2026-10-15T20:38:38.880450+00:00",
+  "generated": "2026-10-16T02:02:05.109341+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "0d2e925aac0b",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI",
+      "published": "2026-10-15T19:00:00+00:00",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "eef09eb5dfce",
       "title": "Teaching students to think and learn through questions",
@@ -17,6 +30,19 @@
         "p5"
       ],
       "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "8ec6278a3e32",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "source": "OpenAI",
+      "published": "2026-10-15T00:00:00+00:00",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
       "weight": 3
     },
     {
@@ -673,15 +699,14 @@
       "weight": 3
     },
     {
-      "id": "c24a6e6fac61",
-      "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
+      "id": "01d0ed630f34",
+      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "phases": [
-        "p1",
-        "p3"
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -701,14 +726,15 @@
       "weight": 3
     },
     {
-      "id": "01d0ed630f34",
-      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "id": "c24a6e6fac61",
+      "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
-      "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "phases": [
-        "p1"
+        "p1",
+        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -820,12 +846,12 @@
       "weight": 3
     },
     {
-      "id": "aba8f8622ca0",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "id": "7a457bd9c5b4",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "source": "OpenAI",
       "published": "2026-09-21T12:00:00+00:00",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
       "phases": [
         "p1"
       ],
@@ -833,12 +859,12 @@
       "weight": 3
     },
     {
-      "id": "7a457bd9c5b4",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "id": "aba8f8622ca0",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "source": "OpenAI",
       "published": "2026-09-21T12:00:00+00:00",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
       "phases": [
         "p1"
       ],
@@ -1060,6 +1086,19 @@
       "weight": 3
     },
     {
+      "id": "bf51e8166946",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "HuggingFace",
+      "published": "2026-10-16T01:44:47+00:00",
+      "summary": "",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
       "id": "fe5649d96d8a",
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
@@ -1096,23 +1135,6 @@
       "source": "MIT Tech Review",
       "published": "2026-10-15T10:00:00+00:00",
       "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there\u2019s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the U",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "8a9b433bc9d8",
-      "title": "Apertus 1.5 Release Notes",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "source": "HuggingFace",
-      "published": "2026-10-15T09:08:45+00:00",
-      "summary": "",
       "phases": [
         "p1",
         "p2",
@@ -1667,32 +1689,6 @@
       "summary": "arXiv:2610.14625v1 Announce Type: new Abstract: Recursive self-improvement (RSI) offers a route to AI systems that participate in their own continued development. Recent methods allow language agents to retain changes to their parameters, memory, skills, and code for subsequent e",
       "phases": [
         "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "7f32594f49d6",
-      "title": "PEARL: Process-Experience Aware Reinforcement Learning for Multi-Turn Agents",
-      "url": "https://arxiv.org/abs/2610.14636",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-15T00:00:00-04:00",
-      "summary": "arXiv:2610.14636v1 Announce Type: new Abstract: Terminal rewards make multi-turn agents trainable without step-level annotations, but group-relative advantages provide little guidance about which intermediate decisions to adjust. Failed trajectories also contain reasonable action",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "601996decc32",
-      "title": "AegisVox: Factorized Privacy and Clinical Preservation for Long-Form Speech",
-      "url": "https://arxiv.org/abs/2610.14643",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-15T00:00:00-04:00",
-      "summary": "arXiv:2610.14643v1 Announce Type: new Abstract: Clinical speech reveals identity through both spoken identifiers and voice, yet its pauses, delivery, and speaker roles can also carry useful clinical evidence. Protecting that speech therefore requires more than preserving its word",
-      "phases": [
-        "p5"
       ],
       "category": "research",
       "weight": 2
