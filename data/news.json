@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T01:56:29.743820+00:00",
+  "generated": "2026-10-17T09:50:48.550776+00:00",
   "count": 120,
   "articles": [
     {
@@ -31,6 +31,23 @@
         "p3"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "570b98dc3ba2",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
       "weight": 3
     },
     {
@@ -548,19 +565,6 @@
       "weight": 3
     },
     {
-      "id": "f95544b597e0",
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI",
-      "published": "2026-09-28T19:00:00+00:00",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "phases": [
-        "p4"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
       "id": "2c968f6bfde3",
       "title": "How we will do better for Australia",
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
@@ -571,6 +575,19 @@
         "p1"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "f95544b597e0",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI",
+      "published": "2026-09-28T19:00:00+00:00",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "phases": [
+        "p4"
+      ],
+      "category": "research",
       "weight": 3
     },
     {
@@ -604,6 +621,19 @@
       "weight": 3
     },
     {
+      "id": "d7db80e019a5",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-28T00:00:00+00:00",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f8842226a05e",
       "title": "Are you a Codex Original?",
       "url": "https://openai.com/form/codex-originals",
@@ -618,19 +648,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "d7db80e019a5",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-28T00:00:00+00:00",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -716,28 +733,15 @@
       "weight": 3
     },
     {
-      "id": "01d0ed630f34",
-      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "id": "7c9a1180e3e3",
+      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
-      "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "c24a6e6fac61",
-      "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "phases": [
         "p1",
-        "p3"
+        "p4"
       ],
       "category": "models",
       "weight": 3
@@ -757,15 +761,28 @@
       "weight": 3
     },
     {
-      "id": "7c9a1180e3e3",
-      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "id": "c24a6e6fac61",
+      "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "phases": [
         "p1",
-        "p4"
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "01d0ed630f34",
+      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1022,126 +1039,11 @@
       "weight": 3
     },
     {
-      "id": "57c41972947e",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-16T18:00:00+00:00",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-genera",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "482e4b85ac53",
-      "title": "The Download: failed social media bans, and extending pets\u2019 lives",
-      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-16T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That\u2019s not a problem we need to solve. \u2014Michal Luria, Aliya Bhatia, and Danah Boyd Social ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c9d6e5886da0",
-      "title": "This implant can restore sight for patients with macular degeneration",
-      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-16T09:00:00+00:00",
-      "summary": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, cha",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "2aaa2b1efe1d",
-      "title": "Love is infrastructure",
-      "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-16T09:00:00+00:00",
-      "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren\u2019t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flu",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "6ae330c33fcd",
-      "title": "Can\u2019t bear to say goodbye to your pet? Biotech\u2019s got you covered.",
-      "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-16T09:00:00+00:00",
-      "summary": "I don\u2019t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister\u2019s cot. That\u2019s about it. What I do",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "75b7073ca7e1",
-      "title": "Kids are outsmarting social media bans. That\u2019s not a problem we need to solve.",
-      "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-16T07:56:32+00:00",
-      "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media\u2014barring children under 15 from major platforms, before the ban was blocked by the country\u2019s top court on human rights grounds. The UK aims to forbid kids under 16",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "bf51e8166946",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "HuggingFace",
-      "published": "2026-10-16T01:44:47+00:00",
-      "summary": "",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
       "id": "581a985ab08c",
       "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
       "url": "https://arxiv.org/abs/2610.20665",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with ",
       "phases": [
         "p1",
@@ -1156,7 +1058,7 @@
       "title": "Evaluating Model Capabilities After Benchmark Saturation",
       "url": "https://arxiv.org/abs/2610.20667",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and ",
       "phases": [
         "p1",
@@ -1170,7 +1072,7 @@
       "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
       "url": "https://arxiv.org/abs/2610.20669",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require addition",
       "phases": [
         "p4"
@@ -1183,7 +1085,7 @@
       "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
       "url": "https://arxiv.org/abs/2610.20675",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior",
       "phases": [
         "p3"
@@ -1196,7 +1098,7 @@
       "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
       "url": "https://arxiv.org/abs/2610.20676",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on 12 ",
       "phases": [
         "p1",
@@ -1213,7 +1115,7 @@
       "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
       "url": "https://arxiv.org/abs/2610.20679",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20679v1 Announce Type: new Abstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a risk score means or when it should be trusted. We introduce Co",
       "phases": [
         "p1",
@@ -1227,7 +1129,7 @@
       "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
       "url": "https://arxiv.org/abs/2610.20681",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent, an agentic framework combining LLM reasoning with symbolic",
       "phases": [
         "p1",
@@ -1241,7 +1143,7 @@
       "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
       "url": "https://arxiv.org/abs/2610.20685",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20685v1 Announce Type: new Abstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate over a candidate with the right structure. We propose L2G-S",
       "phases": [
         "p1"
@@ -1254,7 +1156,7 @@
       "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
       "url": "https://arxiv.org/abs/2610.20764",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20764v1 Announce Type: new Abstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality change before an intelligent system can no longer reliably perceive, r",
       "phases": [
         "p1",
@@ -1271,7 +1173,7 @@
       "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
       "url": "https://arxiv.org/abs/2610.20780",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20780v1 Announce Type: new Abstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task. Diagnosing completed runs or repeatedly re-executing them to search for corrections d",
       "phases": [
         "p1",
@@ -1285,7 +1187,7 @@
       "title": "Open-world AI: a Tale of Three Requirements",
       "url": "https://arxiv.org/abs/2610.20782",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20782v1 Announce Type: new Abstract: The closed world asks AI for specialized competence and lets it manufacture the iid data its theory assumes: a fixed criterion licenses collecting examples until the task is covered. The open world asks for versatility --- taking up",
       "phases": [
         "p1",
@@ -1302,7 +1204,7 @@
       "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
       "url": "https://arxiv.org/abs/2610.20786",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20786v1 Announce Type: new Abstract: Multi-modal agents have made significant progress in interacting with open worlds. However, their ability to self-evolve remains limited. Supervised fine-tuning enables imitation but not active experience organization, while outcome",
       "phases": [
         "p3",
@@ -1316,7 +1218,7 @@
       "title": "When Reasoning Traces Conflict with Evidence: How Answer Configuration Shapes Evidence Following",
       "url": "https://arxiv.org/abs/2610.20805",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20805v1 Announce Type: new Abstract: A reasoning trace retained at answer time plays two roles: it can raise accuracy, and it can compete with the current evidence when the two disagree. We disentangle these roles by crossing verified evidence versions with the traces ",
       "phases": [
         "p3"
@@ -1329,7 +1231,7 @@
       "title": "A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering",
       "url": "https://arxiv.org/abs/2610.20809",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20809v1 Announce Type: new Abstract: A self-improving agent has to decide which new skills to keep, and in practice it keeps whatever earns a high reward, convinces a judge model, or compresses its library, even when the skill is wrong. That is fine until the answers h",
       "phases": [
         "p3"
@@ -1342,7 +1244,7 @@
       "title": "Temporal Specification Guidance for Text-to-Video Generation",
       "url": "https://arxiv.org/abs/2610.20822",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20822v1 Announce Type: new Abstract: Text-to-video models often generate the visual concepts requested in natural language prompts but fail to satisfy their intended ordering, timing, and persistence requirements. We propose representing these requirements as specifica",
       "phases": [
         "p1"
@@ -1355,7 +1257,7 @@
       "title": "Confidence-Calibrated Inference Expansion for Evaluator-Guided Test-Time Reasoning",
       "url": "https://arxiv.org/abs/2610.20836",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20836v1 Announce Type: new Abstract: Evaluator-guided reasoning presents a local control problem at every step: trust the current answer, return a fallback, or spend more inference. We formulate this choice as a compute-aware three-action controller, scoring terminal a",
       "phases": [
         "p1",
@@ -1370,7 +1272,7 @@
       "title": "Evolving Together, Failing Apart: The Skill-Policy Co-evolution Trap in Self-Improving Agents",
       "url": "https://arxiv.org/abs/2610.20845",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20845v1 Announce Type: new Abstract: Skill-policy co-evolution, in which an agent's policy model and its skill bank improve each other during training, is a promising paradigm for self-improving agents. Current evaluations score the co-evolved policy on the final bank ",
       "phases": [
         "p3",
@@ -1384,7 +1286,7 @@
       "title": "Anticipatory Commonsense with Moving Objects: An ASP-Based Framework for Predictive Reasoning with Interacting Trajectories",
       "url": "https://arxiv.org/abs/2610.20867",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20867v1 Announce Type: new Abstract: We present a general declarative framework for anticipatory reasoning about interactive motion in complex dynamic environments. Our focus is on (explainable) anticipatory space-time mental model formation at a semantic level to heur",
       "phases": [
         "p3"
@@ -1397,7 +1299,7 @@
       "title": "A Multi-Tiered AI Accessibility Model (MAIAM): Proportionate Access and Capability Limits for Comprehensive Frontier AI Safety",
       "url": "https://arxiv.org/abs/2610.20921",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20921v1 Announce Type: new Abstract: Most debate about releasing capable AI systems treats the choice as binary: keep the model behind an API, or publish the weights. That framing runs together two separate decisions. One is how capable a system may become. The other i",
       "phases": [
         "p1",
@@ -1412,7 +1314,7 @@
       "title": "Defining and Generating Compositional Structure",
       "url": "https://arxiv.org/abs/2610.20922",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20922v1 Announce Type: new Abstract: Compositional structure is pervasive in nature and across scales: atoms combine into molecules, molecules into cells, and cells into organisms, while further compositional hierarchies appear within each level. More broadly, composit",
       "phases": [
         "p1",
@@ -1429,7 +1331,7 @@
       "title": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
       "url": "https://arxiv.org/abs/2610.20926",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20926v1 Announce Type: new Abstract: Agent skills turn procedural knowledge into reusable artifacts, allowing LLM agents to accumulate and refine expertise through experience. Building on this, skill evolution iteratively improves skills using execution feedback. Howev",
       "phases": [
         "p1",
@@ -1443,7 +1345,7 @@
       "title": "RAC: A Relational Agent Contract for Constraint-Governed Engineering Tasks",
       "url": "https://arxiv.org/abs/2610.20935",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20935v1 Announce Type: new Abstract: Engineering agents must produce artifacts that satisfy exact, coupled constraints. Existing solutions often require agents to make semantic decisions and also derive consequences such as precise geometry or timing from those decisio",
       "phases": [
         "p3"
@@ -1456,7 +1358,7 @@
       "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
       "url": "https://arxiv.org/abs/2610.20939",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20939v1 Announce Type: new Abstract: Online reinforcement learning (RL) with verifiable rewards has driven rapid progress in mathematics, coding, and tool use, but scaling this success to GUI agents remains challenging due to the high cost of interactive environments a",
       "phases": [
         "p1",
@@ -1471,7 +1373,7 @@
       "title": "LEV: Thinking Fast and Deep with Looped Decision Models",
       "url": "https://arxiv.org/abs/2610.20951",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20951v1 Announce Type: new Abstract: Decision models answer typed questions about an input with one probability per option, computed in a single forward pass without generating text. Like the fast System 1 of dual-process theory, they answer at once, but their depth is",
       "phases": [
         "p1",
@@ -1488,7 +1390,7 @@
       "title": "StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning",
       "url": "https://arxiv.org/abs/2610.20960",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20960v1 Announce Type: new Abstract: Safety in agentic systems is inherently sequential: whether an action is safe depends on prior actions, tool outputs, information disclosures, and interactions among agents. Recent work has shifted agent safety guardrails from post-",
       "phases": [
         "p3",
@@ -1502,7 +1404,7 @@
       "title": "MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data",
       "url": "https://arxiv.org/abs/2610.20965",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.20965v1 Announce Type: new Abstract: Large multimodal models have achieved remarkable progress by scaling model capacity and training on massive paired multimodal data. However, this paradigm introduces a fundamental bottleneck: aligned multimodal datasets are expensiv",
       "phases": [
         "p1"
@@ -1515,7 +1417,7 @@
       "title": "Deep Reinforcement Learning for HPC Job Scheduling: A Statistical Evaluation",
       "url": "https://arxiv.org/abs/2610.21008",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21008v1 Announce Type: new Abstract: Deep Reinforcement Learning (DRL) offers learned job selection for High-Performance Computing (HPC), but performance against heuristics alone does not establish value beyond action masking. Six DRL treatments are compared: Proximal ",
       "phases": [
         "p4"
@@ -1528,7 +1430,7 @@
       "title": "Failure Is the Mother of Success: Recovering Supervision with Grounding Hindsight",
       "url": "https://arxiv.org/abs/2610.21018",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21018v1 Announce Type: new Abstract: When every rollout for a problem fails, GRPO receives neither a successful exemplar nor a nonzero group-relative advantage, so it learns nothing from exactly the problems it most needs to learn. The failed reasoning can nevertheless",
       "phases": [
         "p3"
@@ -1541,7 +1443,7 @@
       "title": "Recursive Reward Improvement via Adversarial Meta-Prompt Evolution",
       "url": "https://arxiv.org/abs/2610.21040",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21040v1 Announce Type: new Abstract: Recursive Self-Improvement (RSI) has gained wide attention for its ability to work with limited data. In a proposer-solver loop, a proposer model writes training tasks and a solver model learns to solve them through reinforcement le",
       "phases": [
         "p1"
@@ -1554,7 +1456,7 @@
       "title": "Learning When to Withdraw: Curriculum Coverage and Rule-Specific Failures in Fine-Tuned Language Agents",
       "url": "https://arxiv.org/abs/2610.21045",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21045v1 Announce Type: new Abstract: Tool-using language agents must revise prepared actions when evidence changes or authority is revoked. Selective withdrawal means suspending affected actions, preserving supported work, and resuming only after sufficient repair. We ",
       "phases": [
         "p2",
@@ -1569,7 +1471,7 @@
       "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research",
       "url": "https://arxiv.org/abs/2610.21055",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21055v1 Announce Type: new Abstract: Recursive self-improvement, in which AI systems build stronger AI systems, is one promising route to superintelligence. We study a weaker form that can be measured today: frontier agents post-training a small raw base model with pub",
       "phases": [
         "p1",
@@ -1583,7 +1485,7 @@
       "title": "OmicsBench: a long-horizon multi-turn benchmark of AI agents on research-study-scale bioinformatics",
       "url": "https://arxiv.org/abs/2610.21074",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21074v1 Announce Type: new Abstract: Computational biologists increasingly delegate substantial analyses to AI agents in long-horizon, multi-turn sessions, yet most benchmarks of agents' bioinformatics capabilities pose a single short task with a single-shot prompt. We",
       "phases": [
         "p1",
@@ -1598,7 +1500,7 @@
       "title": "Sci$\\Pi$vot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
       "url": "https://arxiv.org/abs/2610.21082",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21082v1 Announce Type: new Abstract: Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scientific judgment is difficult beca",
       "phases": [
         "p1",
@@ -1613,7 +1515,7 @@
       "title": "Probe-and-Resume: When and How to Evaluate Agent Execution",
       "url": "https://arxiv.org/abs/2610.21088",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21088v1 Announce Type: new Abstract: Test-time search can improve agent performance by exploring alternative actions and using a critic to select promising branches. We study this approach in terminal-based computer-use environments, which expose only a partial view of",
       "phases": [
         "p3",
@@ -1627,7 +1529,7 @@
       "title": "MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning",
       "url": "https://arxiv.org/abs/2610.21091",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21091v1 Announce Type: new Abstract: Agent memory enables large language model (LLM) agents to reuse past experiences without updating their parameters. However, semantic similarity alone does not guarantee memory usefulness: downstream performance depends on how memor",
       "phases": [
         "p1",
@@ -1641,7 +1543,7 @@
       "title": "Planning Commitment of LLM under Partial Observability",
       "url": "https://arxiv.org/abs/2610.21108",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21108v1 Announce Type: new Abstract: LLM-based planning agents commit to plans of different lengths before interacting with a partially observable environment. Some aggressively commit to a long plan based on assumptions about unobserved states, while others conservati",
       "phases": [
         "p1",
@@ -1655,7 +1557,7 @@
       "title": "Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows",
       "url": "https://arxiv.org/abs/2610.21109",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21109v1 Announce Type: new Abstract: When humans collaborate with AI agents on long-horizon tasks, what happens to the agents' contributions? For solving long-horizon tasks, humans place greater importance on ongoing interaction with AI agents (e.g., revising plans) th",
       "phases": [
         "p3",
@@ -1669,7 +1571,7 @@
       "title": "CleanRM: Reward Modeling from Noisy Feedback with a Few Clean Feedback for RLHF",
       "url": "https://arxiv.org/abs/2610.21138",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21138v1 Announce Type: new Abstract: Feedback noise is pervasive in preference data, arising from subjective human judgments, annotation mistakes, and imperfect LLM judges. Standard reward modeling trained on such feedback yields a biased estimate of the clean risk. Al",
       "phases": [
         "p1",
@@ -1684,7 +1586,7 @@
       "title": "All-in-One Memory: Process-Rewarded Reinforcement Learning for Memory Agents",
       "url": "https://arxiv.org/abs/2610.21147",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21147v1 Announce Type: new Abstract: Large language models increasingly rely on external memory to answer queries grounded in long-horizon histories such as multi-session dialogues and lengthy documents. However, existing memory methods often optimize retrieval and mem",
       "phases": [
         "p1",
@@ -1700,12 +1602,96 @@
       "title": "GRADS: Graph-Regulated Agentic Data Synthesis with Controllable Difficulty",
       "url": "https://arxiv.org/abs/2610.21167",
       "source": "ArXiv cs.AI",
-      "published": "2026-10-16T00:00:00-04:00",
+      "published": "2026-10-17T00:00:00-04:00",
       "summary": "arXiv:2610.21167v1 Announce Type: new Abstract: Deep research agents are increasingly deployed to retrieve precise information from large corpora, yet multi-hop, long-horizon tasks remain challenging. Synthetic data generation has emerged as a scalable solution, with existing pip",
       "phases": [
         "p3"
       ],
       "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "214302b940ff",
+      "title": "MemScope: Evolving Agent Memory Architectures through Localized Code Repair",
+      "url": "https://arxiv.org/abs/2610.21170",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-17T00:00:00-04:00",
+      "summary": "arXiv:2610.21170v1 Announce Type: new Abstract: Agent memory architectures define how LLM agents store and reuse experience across tasks, but they are typically fixed after deployment, limiting their adaptability across task types. Recent self-evolving approaches instead adapt th",
+      "phases": [
+        "p1",
+        "p3",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "a614cacfb65a",
+      "title": "AgentEval: Evidence-Bounded Assessment of Stateful Agents",
+      "url": "https://arxiv.org/abs/2610.21177",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-17T00:00:00-04:00",
+      "summary": "arXiv:2610.21177v1 Announce Type: new Abstract: Task completion alone does not determine whether a stateful agent satisfied its obligations, and a recorded judgment does not guarantee that its supporting evidence remains valid. We present AgentEval, a system that carries a contra",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "413fbc62f7a6",
+      "title": "Does Latent Chain-of-Thought Actually Reason? A Single, Unifying Taxonomy for Latent Reasoning",
+      "url": "https://arxiv.org/abs/2610.21182",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-17T00:00:00-04:00",
+      "summary": "arXiv:2610.21182v1 Announce Type: new Abstract: Latent chain-of-thought replaces written reasoning steps with continuous hidden states, giving models additional steps to compute before answering. It remains unclear what computation these steps actually perform. High task accuracy",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "48d8656dc0ed",
+      "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
+      "url": "https://arxiv.org/abs/2610.21185",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-17T00:00:00-04:00",
+      "summary": "arXiv:2610.21185v1 Announce Type: new Abstract: Modern generative models produce high-quality individual outputs but struggle to sample diversely, even when explicitly instructed to do so. We introduce MINE-SAMPLE-RENDER (MSR), a test-time approach that externalizes the diversity",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "63eb4e4eaf65",
+      "title": "Condition-Contrastive Extrapolation for On-Policy Distillation of Language Models",
+      "url": "https://arxiv.org/abs/2610.21195",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-17T00:00:00-04:00",
+      "summary": "arXiv:2610.21195v1 Announce Type: new Abstract: On-policy distillation (OPD) improves a student language model by training on its own generated trajectories with supervision from a stronger teacher. However, when conditioned on student-generated prefixes, the teacher can favor in",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "49aef9ede51d",
+      "title": "Who May Release an Agent's Promise? Standing over Commitments in Multi-Party Chat",
+      "url": "https://arxiv.org/abs/2610.21203",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-17T00:00:00-04:00",
+      "summary": "arXiv:2610.21203v1 Announce Type: new Abstract: When an assistant serving a team makes a promise to Alice, who may cancel it? We call this standing: only the creditor (the person owed) or someone the creditor or operator policy authorizes may release a commitment, regardless of r",
+      "phases": [
+        "p3",
+        "p5"
+      ],
+      "category": "models",
       "weight": 2
     }
   ]
