@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T19:47:10.142321+00:00",
+  "generated": "2026-10-18T01:55:40.287391+00:00",
   "count": 120,
   "articles": [
     {
@@ -1009,23 +1009,6 @@
       "weight": 3
     },
     {
-      "id": "b7fa72fd1998",
-      "title": "Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI",
-      "published": "2026-09-17T20:00:00+00:00",
-      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
       "id": "581a985ab08c",
       "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
       "url": "https://arxiv.org/abs/2610.20665",
@@ -1690,6 +1673,21 @@
       "summary": "arXiv:2610.21204v1 Announce Type: new Abstract: When a speaker says ``some students passed'', listeners infer that not all of them did. Reasoning models now let users decide how long a model thinks before it answers, but we do not know what extra thinking does to such everyday in",
       "phases": [
         "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "68657b2ac2ca",
+      "title": "Rubric Judgments Lack Uncertainty: Conformal Weighting for LLM Evaluation",
+      "url": "https://arxiv.org/abs/2610.21214",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-17T00:00:00-04:00",
+      "summary": "arXiv:2610.21214v1 Announce Type: new Abstract: Rubric-based evaluation is widely used to assess large language model (LLM) outputs by decomposing quality into multiple criteria and assigning each a binary judgment from an LLM verifier. However, judgment certainty varies substant",
+      "phases": [
+        "p1",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 2
