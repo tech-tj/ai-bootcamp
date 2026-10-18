@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T10:02:06.671418+00:00",
+  "generated": "2026-10-18T15:01:26.582485+00:00",
   "count": 120,
   "articles": [
     {
@@ -961,54 +961,6 @@
       "weight": 3
     },
     {
-      "id": "3dd23fb96608",
-      "title": "New experts join Google\u2019s AI & Economy team",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI",
-      "published": "2026-09-18T14:00:00+00:00",
-      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "abcde6029873",
-      "title": "Co-creating the future of fashion with Google",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google AI",
-      "published": "2026-09-18T13:00:00+00:00",
-      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "48d4db25a29d",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "source": "OpenAI",
-      "published": "2026-09-18T12:00:00+00:00",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "57c41972947e",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
@@ -1455,6 +1407,36 @@
       "weight": 2
     },
     {
+      "id": "9375fc924a93",
+      "title": "ICLR 2027: Reciprocal reviewer with 0 paper assignments\u2014should I be concerned? [D]",
+      "url": "t3_1x94heh",
+      "source": "r/ML",
+      "published": "2026-10-18T14:24:16+00:00",
+      "summary": "Hi, I was wondering if any other reciprocal reviewers still haven&#39;t received paper assignments for ICLR 2027. I haven&#39;t been assigned any papers to review yet and am a bit confused. Is anyone else in the same situation? Thanks for any insight! &#32; submitted by &#32; /u/",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "41be5dec4fd3",
+      "title": "[P] asmsense: 228k stripped x86-64 functions with source-aware labels, and a map of the data we still lack. [P]",
+      "url": "t3_1x91a47",
+      "source": "r/ML",
+      "published": "2026-10-18T11:49:21+00:00",
+      "summary": "asmsense is a dataset and a small model (Qwen3-8B + LoRA) for naming and describing functions in stripped binaries. I compiled permissively licensed C projects myself, so every function has its real name and source. Right now it has 228,177 functions from 341 projects, compiled a",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "8fcd4accb9fa",
       "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
       "url": "t3_1x8xxmv",
@@ -1464,19 +1446,6 @@
       "phases": [
         "p1",
         "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "b5d8a7affa15",
-      "title": "Built a search engine for debugging which is not a wrapper [P]",
-      "url": "t3_1x8uwbg",
-      "source": "r/ML",
-      "published": "2026-10-18T05:18:51+00:00",
-      "summary": "TLDR: I built a search engine that reads a bug report (or lets you define it) and points to the exact file (93%) and to the exact function (79.4%) you need to fix. Hey everyone, I recently made a new project while trying to get into RAG and automation. Odin is more than a search ",
-      "phases": [
-        "p2"
       ],
       "category": "models",
       "weight": 1
@@ -1714,25 +1683,57 @@
       "weight": 1
     },
     {
-      "id": "9883c46954b2",
-      "title": "How artificial neural networks build their own learning machinery [R]",
-      "url": "t3_1x6hmyg",
-      "source": "r/ML",
-      "published": "2026-10-15T10:01:47+00:00",
-      "summary": "MIT coverage (13 October 2026): https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013 Paper: \u201cHow Biological Synapses Self-Assemble Gradient Learning\u201d (PNAS, 9 October): https://www.pnas.org/doi/10.1073/pnas.2606245123 According to the M",
-      "phases": [
-        "p2"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
       "id": "23989772ec36",
       "title": "University GPU cluster is holding my research hostage. Can I use my internship company\u2019s GPUs instead? \ud83d\udc80 [D]",
       "url": "t3_1x6dytx",
       "source": "r/ML",
       "published": "2026-10-15T06:06:50+00:00",
       "summary": "PhD student here. My university\u2019s GPU cluster has apparently become a luxury resort. I submit a job requesting a couple of GPUs, and it takes 3\u20134 business days just to START running. Meanwhile, my internship company has some pretty sweet compute sitting there, and the intrusive t",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "bf88b3d1ed62",
+      "title": "I made a Wordle-style word guessing game to teach students how vector embeddings work [P]",
+      "url": "t3_1x6d829",
+      "source": "r/ML",
+      "published": "2026-10-15T05:22:11+00:00",
+      "summary": "Hey r/MachineLearning I&#39;m Abdur-Rahman Butler, a machine learning engineer at Isaacus. I made an interactive write-up that walks you through the A to Z of vector embeddings, inspired by Brendan Bycroft&#39;s incredible interactive LLM visualisation guide (see here - https://b",
+      "phases": [
+        "p1",
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "d4637e556574",
+      "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
+      "url": "t3_1x5zd2m",
+      "source": "r/ML",
+      "published": "2026-10-14T18:40:18+00:00",
+      "summary": "I was curious about OpenResearch by alphaXiv. &quot;Turn your coding agents into research agents&quot;? Sounds great! Just what I needed to save time on my experiments. So I copy pasted their repo into Claude and asked what it thought. Here were the first 4 lines: &quot;Silent fe",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "db8a4bfb05e2",
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "source": "Ars Technica",
+      "published": "2026-10-14T17:10:15+00:00",
+      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
       "phases": [
         "p1",
         "p2",
