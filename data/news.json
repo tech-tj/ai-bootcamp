@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T15:01:26.582485+00:00",
+  "generated": "2026-10-18T19:48:16.612799+00:00",
   "count": 120,
   "articles": [
     {
@@ -1407,6 +1407,49 @@
       "weight": 2
     },
     {
+      "id": "2f2d4be2ed30",
+      "title": "Beating Warcraft III\u2019s insane AI with self-play reinforcement learning on one desktop [P]",
+      "url": "t3_1x9c5ty",
+      "source": "r/ML",
+      "published": "2026-10-18T19:34:36+00:00",
+      "summary": "&#32; submitted by &#32; /u/ToraxXx [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "2212dea1e958",
+      "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
+      "url": "t3_1x97v19",
+      "source": "r/ML",
+      "published": "2026-10-18T16:43:58+00:00",
+      "summary": "Accepted at NeurIPS 2026 TLDR: The paper presents a library of synthetic time series generators and augmentations to train time series foundation models, in their case a DeltaProduct based linear RNN. The synthetic data has already been used in Toto-2 and TS-ICL. Arxiv: https://a",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "43c6db3eec0b",
+      "title": "Proof Before Reuse: showing agents only what later sessions reproduced keeps a poisoned skill out of procedural memory [R]",
+      "url": "t3_1x975ea",
+      "source": "r/ML",
+      "published": "2026-10-18T16:14:59+00:00",
+      "summary": "Small case study on poisoning in agent procedural memory, with all data released. Setup: a coding agent learns skills from sessions whose tests passed. One learning session is poisoned (a new file, an unrelated line, or one line fused into the real fix), followed by three clean s",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "9375fc924a93",
       "title": "ICLR 2027: Reciprocal reviewer with 0 paper assignments\u2014should I be concerned? [D]",
       "url": "t3_1x94heh",
@@ -1689,51 +1732,6 @@
       "source": "r/ML",
       "published": "2026-10-15T06:06:50+00:00",
       "summary": "PhD student here. My university\u2019s GPU cluster has apparently become a luxury resort. I submit a job requesting a couple of GPUs, and it takes 3\u20134 business days just to START running. Meanwhile, my internship company has some pretty sweet compute sitting there, and the intrusive t",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "bf88b3d1ed62",
-      "title": "I made a Wordle-style word guessing game to teach students how vector embeddings work [P]",
-      "url": "t3_1x6d829",
-      "source": "r/ML",
-      "published": "2026-10-15T05:22:11+00:00",
-      "summary": "Hey r/MachineLearning I&#39;m Abdur-Rahman Butler, a machine learning engineer at Isaacus. I made an interactive write-up that walks you through the A to Z of vector embeddings, inspired by Brendan Bycroft&#39;s incredible interactive LLM visualisation guide (see here - https://b",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "d4637e556574",
-      "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
-      "url": "t3_1x5zd2m",
-      "source": "r/ML",
-      "published": "2026-10-14T18:40:18+00:00",
-      "summary": "I was curious about OpenResearch by alphaXiv. &quot;Turn your coding agents into research agents&quot;? Sounds great! Just what I needed to save time on my experiments. So I copy pasted their repo into Claude and asked what it thought. Here were the first 4 lines: &quot;Silent fe",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "db8a4bfb05e2",
-      "title": "Researchers use AI to design proteins that cut up other proteins",
-      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-      "source": "Ars Technica",
-      "published": "2026-10-14T17:10:15+00:00",
-      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
       "phases": [
         "p1",
         "p2",
