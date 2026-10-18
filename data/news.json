@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T01:55:40.287391+00:00",
+  "generated": "2026-10-18T10:02:06.671418+00:00",
   "count": 120,
   "articles": [
     {
@@ -1009,67 +1009,12 @@
       "weight": 3
     },
     {
-      "id": "581a985ab08c",
-      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-      "url": "https://arxiv.org/abs/2610.20665",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with ",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "b34459c79e23",
-      "title": "Evaluating Model Capabilities After Benchmark Saturation",
-      "url": "https://arxiv.org/abs/2610.20667",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and ",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "04373c7136bb",
-      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
-      "url": "https://arxiv.org/abs/2610.20669",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require addition",
-      "phases": [
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e2ff56d8789a",
-      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
-      "url": "https://arxiv.org/abs/2610.20675",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "7b574e2d662d",
-      "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
-      "url": "https://arxiv.org/abs/2610.20676",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on 12 ",
+      "id": "57c41972947e",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-16T18:00:00+00:00",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-genera",
       "phases": [
         "p1",
         "p2",
@@ -1077,44 +1022,101 @@
         "p4",
         "p5"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "2b8c47ac539c",
-      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
-      "url": "https://arxiv.org/abs/2610.20679",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20679v1 Announce Type: new Abstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a risk score means or when it should be trusted. We introduce Co",
+      "id": "482e4b85ac53",
+      "title": "The Download: failed social media bans, and extending pets\u2019 lives",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-16T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That\u2019s not a problem we need to solve. \u2014Michal Luria, Aliya Bhatia, and Danah Boyd Social ",
       "phases": [
         "p1",
-        "p4"
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 2
     },
     {
-      "id": "a5c68aea8723",
-      "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
-      "url": "https://arxiv.org/abs/2610.20681",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent, an agentic framework combining LLM reasoning with symbolic",
+      "id": "c9d6e5886da0",
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-16T09:00:00+00:00",
+      "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in ",
       "phases": [
         "p1",
-        "p3"
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "e551922e8645",
-      "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
-      "url": "https://arxiv.org/abs/2610.20685",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20685v1 Announce Type: new Abstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate over a candidate with the right structure. We propose L2G-S",
+      "id": "2aaa2b1efe1d",
+      "title": "Love is infrastructure",
+      "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-16T09:00:00+00:00",
+      "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren\u2019t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flu",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "6ae330c33fcd",
+      "title": "Can\u2019t bear to say goodbye to your pet? Biotech\u2019s got you covered.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-16T09:00:00+00:00",
+      "summary": "I don\u2019t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister\u2019s cot. That\u2019s about it. What I do",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "75b7073ca7e1",
+      "title": "Kids are outsmarting social media bans. That\u2019s not a problem we need to solve.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-16T07:56:32+00:00",
+      "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media\u2014barring children under 15 from major platforms, before the ban was blocked by the country\u2019s top court on human rights grounds. The UK aims to forbid kids under 16",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "bf51e8166946",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "HuggingFace",
+      "published": "2026-10-16T01:44:47+00:00",
+      "summary": "",
       "phases": [
         "p1"
       ],
@@ -1122,12 +1124,12 @@
       "weight": 2
     },
     {
-      "id": "4aa6fe2739ed",
-      "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
-      "url": "https://arxiv.org/abs/2610.20764",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20764v1 Announce Type: new Abstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality change before an intelligent system can no longer reliably perceive, r",
+      "id": "752ec58d0f63",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "source": "HuggingFace",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "",
       "phases": [
         "p1",
         "p2",
@@ -1135,30 +1137,29 @@
         "p4",
         "p5"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "8074142982b0",
-      "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2610.20780",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20780v1 Announce Type: new Abstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task. Diagnosing completed runs or repeatedly re-executing them to search for corrections d",
+      "id": "fe5649d96d8a",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "HuggingFace",
+      "published": "2026-10-15T20:34:01+00:00",
+      "summary": "",
       "phases": [
-        "p1",
-        "p3"
+        "p5"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "fc4f605bfadc",
-      "title": "Open-world AI: a Tale of Three Requirements",
-      "url": "https://arxiv.org/abs/2610.20782",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20782v1 Announce Type: new Abstract: The closed world asks AI for specialized competence and lets it manufacture the iid data its theory assumes: a fixed criterion licenses collecting examples until the task is covered. The open world asks for versatility --- taking up",
+      "id": "4dc555334ce0",
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-15T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were \u201cfrozen\u201d for a year have been brought back to life Pig kidneys that were cooled to -150 \u00b0C and stored in a f",
       "phases": [
         "p1",
         "p2",
@@ -1166,43 +1167,115 @@
         "p4",
         "p5"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "f60032d80bdc",
-      "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
-      "url": "https://arxiv.org/abs/2610.20786",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20786v1 Announce Type: new Abstract: Multi-modal agents have made significant progress in interacting with open worlds. However, their ability to self-evolve remains limited. Supervised fine-tuning enables imitation but not active experience organization, while outcome",
+      "id": "69ce4f566de7",
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-15T10:00:00+00:00",
+      "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there\u2019s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the U",
       "phases": [
+        "p1",
+        "p2",
         "p3",
+        "p4",
         "p5"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "489708f4dbb1",
-      "title": "When Reasoning Traces Conflict with Evidence: How Answer Configuration Shapes Evidence Following",
-      "url": "https://arxiv.org/abs/2610.20805",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20805v1 Announce Type: new Abstract: A reasoning trace retained at answer time plays two roles: it can raise accuracy, and it can compete with the current evidence when the two disagree. We disentangle these roles by crossing verified evidence versions with the traces ",
+      "id": "e2a15ea3bcdb",
+      "title": "Six wild ideas for perpetuating your mind",
+      "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-15T09:00:00+00:00",
+      "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it\u2019s a lot trickier to explain why we have a sense of self-awareness or ",
       "phases": [
-        "p3"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "60a65f3acd04",
-      "title": "A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering",
-      "url": "https://arxiv.org/abs/2610.20809",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20809v1 Announce Type: new Abstract: A self-improving agent has to decide which new skills to keep, and in practice it keeps whatever earns a high reward, convinces a judge model, or compresses its library, even when the skill is wrong. That is fine until the answers h",
+      "id": "1cca4afa3914",
+      "title": "Pig kidneys that were \u201cfrozen\u201d for a year have been brought back to life",
+      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-15T08:43:24+00:00",
+      "summary": "Pig kidneys that were cooled to -150 \u00b0C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys\u2014which are similar in size to human ones\u2014were l",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "9b9420b910a0",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "HuggingFace",
+      "published": "2026-10-15T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "b59b01e3e8a7",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "HuggingFace",
+      "published": "2026-10-15T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "9d6590d692b3",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "HuggingFace",
+      "published": "2026-10-14T16:12:42+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "aba8264d5bfb",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "HuggingFace",
+      "published": "2026-10-13T17:05:48+00:00",
+      "summary": "",
       "phases": [
         "p3"
       ],
@@ -1210,12 +1283,141 @@
       "weight": 2
     },
     {
-      "id": "ea560c4fa852",
-      "title": "Temporal Specification Guidance for Text-to-Video Generation",
-      "url": "https://arxiv.org/abs/2610.20822",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20822v1 Announce Type: new Abstract: Text-to-video models often generate the visual concepts requested in natural language prompts but fail to satisfy their intended ordering, timing, and persistence requirements. We propose representing these requirements as specifica",
+      "id": "e2b8feac4839",
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "HuggingFace",
+      "published": "2026-10-08T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "6b0f9fee5e2b",
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "HuggingFace",
+      "published": "2026-10-07T13:21:03+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "016378578c1d",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "HuggingFace",
+      "published": "2026-10-03T22:56:48+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "87e5762e9583",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "HuggingFace",
+      "published": "2026-10-02T04:01:31+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "30ddd413a7e7",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "HuggingFace",
+      "published": "2026-09-30T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "9179e4753ddd",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "HuggingFace",
+      "published": "2026-09-29T13:07:00+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "6766f31e569a",
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "HuggingFace",
+      "published": "2026-09-28T09:44:05+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "e4ee4743f14e",
+      "title": "Welcome RL Environments to the hub",
+      "url": "https://huggingface.co/blog/rl-environments",
+      "source": "HuggingFace",
+      "published": "2026-09-28T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "137c5833ddb8",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "HuggingFace",
+      "published": "2026-09-22T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "6aa8c26a533f",
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "source": "HuggingFace",
+      "published": "2026-09-22T00:00:00+00:00",
+      "summary": "",
       "phases": [
         "p1"
       ],
@@ -1223,69 +1425,12 @@
       "weight": 2
     },
     {
-      "id": "5c205c40519c",
-      "title": "Confidence-Calibrated Inference Expansion for Evaluator-Guided Test-Time Reasoning",
-      "url": "https://arxiv.org/abs/2610.20836",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20836v1 Announce Type: new Abstract: Evaluator-guided reasoning presents a local control problem at every step: trust the current answer, return a fallback, or spend more inference. We formulate this choice as a compute-aware three-action controller, scoring terminal a",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "0a41e1c993f5",
-      "title": "Evolving Together, Failing Apart: The Skill-Policy Co-evolution Trap in Self-Improving Agents",
-      "url": "https://arxiv.org/abs/2610.20845",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20845v1 Announce Type: new Abstract: Skill-policy co-evolution, in which an agent's policy model and its skill bank improve each other during training, is a promising paradigm for self-improving agents. Current evaluations score the co-evolved policy on the final bank ",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "a4fd46298a7c",
-      "title": "Anticipatory Commonsense with Moving Objects: An ASP-Based Framework for Predictive Reasoning with Interacting Trajectories",
-      "url": "https://arxiv.org/abs/2610.20867",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20867v1 Announce Type: new Abstract: We present a general declarative framework for anticipatory reasoning about interactive motion in complex dynamic environments. Our focus is on (explainable) anticipatory space-time mental model formation at a semantic level to heur",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c2bae3f45263",
-      "title": "A Multi-Tiered AI Accessibility Model (MAIAM): Proportionate Access and Capability Limits for Comprehensive Frontier AI Safety",
-      "url": "https://arxiv.org/abs/2610.20921",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20921v1 Announce Type: new Abstract: Most debate about releasing capable AI systems treats the choice as binary: keep the model behind an API, or publish the weights. That framing runs together two separate decisions. One is how capable a system may become. The other i",
-      "phases": [
-        "p1",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "1a9423b8aa23",
-      "title": "Defining and Generating Compositional Structure",
-      "url": "https://arxiv.org/abs/2610.20922",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20922v1 Announce Type: new Abstract: Compositional structure is pervasive in nature and across scales: atoms combine into molecules, molecules into cells, and cells into organisms, while further compositional hierarchies appear within each level. More broadly, composit",
+      "id": "c5f86512fa7d",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "source": "HuggingFace",
+      "published": "2026-09-22T00:00:00+00:00",
+      "summary": "",
       "phases": [
         "p1",
         "p2",
@@ -1293,404 +1438,310 @@
         "p4",
         "p5"
       ],
-      "category": "research",
+      "category": "community",
       "weight": 2
     },
     {
-      "id": "53a83deb13dc",
-      "title": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
-      "url": "https://arxiv.org/abs/2610.20926",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20926v1 Announce Type: new Abstract: Agent skills turn procedural knowledge into reusable artifacts, allowing LLM agents to accumulate and refine expertise through experience. Building on this, skill evolution iteratively improves skills using execution feedback. Howev",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "62f404c39908",
-      "title": "RAC: A Relational Agent Contract for Constraint-Governed Engineering Tasks",
-      "url": "https://arxiv.org/abs/2610.20935",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20935v1 Announce Type: new Abstract: Engineering agents must produce artifacts that satisfy exact, coupled constraints. Existing solutions often require agents to make semantic decisions and also derive consequences such as precise geometry or timing from those decisio",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "9c3e50df5570",
-      "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
-      "url": "https://arxiv.org/abs/2610.20939",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20939v1 Announce Type: new Abstract: Online reinforcement learning (RL) with verifiable rewards has driven rapid progress in mathematics, coding, and tool use, but scaling this success to GUI agents remains challenging due to the high cost of interactive environments a",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "fd4112b5cb77",
-      "title": "LEV: Thinking Fast and Deep with Looped Decision Models",
-      "url": "https://arxiv.org/abs/2610.20951",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20951v1 Announce Type: new Abstract: Decision models answer typed questions about an input with one probability per option, computed in a single forward pass without generating text. Like the fast System 1 of dual-process theory, they answer at once, but their depth is",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "81583c73e43a",
-      "title": "StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning",
-      "url": "https://arxiv.org/abs/2610.20960",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20960v1 Announce Type: new Abstract: Safety in agentic systems is inherently sequential: whether an action is safe depends on prior actions, tool outputs, information disclosures, and interactions among agents. Recent work has shifted agent safety guardrails from post-",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "db41c0de22d7",
-      "title": "MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data",
-      "url": "https://arxiv.org/abs/2610.20965",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.20965v1 Announce Type: new Abstract: Large multimodal models have achieved remarkable progress by scaling model capacity and training on massive paired multimodal data. However, this paradigm introduces a fundamental bottleneck: aligned multimodal datasets are expensiv",
+      "id": "87a2ea6346f8",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "source": "HuggingFace",
+      "published": "2026-09-21T00:00:00+00:00",
+      "summary": "",
       "phases": [
         "p1"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "494a34a8052d",
-      "title": "Deep Reinforcement Learning for HPC Job Scheduling: A Statistical Evaluation",
-      "url": "https://arxiv.org/abs/2610.21008",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21008v1 Announce Type: new Abstract: Deep Reinforcement Learning (DRL) offers learned job selection for High-Performance Computing (HPC), but performance against heuristics alone does not establish value beyond action masking. Six DRL treatments are compared: Proximal ",
+      "id": "8fcd4accb9fa",
+      "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
+      "url": "t3_1x8xxmv",
+      "source": "r/ML",
+      "published": "2026-10-18T08:23:02+00:00",
+      "summary": "I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory. I have published the implementation and a detailed write-up, and would appreciate feedback on the methodology. Setup: pretrained GPT-2 sma",
       "phases": [
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "072e66829537",
-      "title": "Failure Is the Mother of Success: Recovering Supervision with Grounding Hindsight",
-      "url": "https://arxiv.org/abs/2610.21018",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21018v1 Announce Type: new Abstract: When every rollout for a problem fails, GRPO receives neither a successful exemplar nor a nonzero group-relative advantage, so it learns nothing from exactly the problems it most needs to learn. The failed reasoning can nevertheless",
-      "phases": [
+        "p1",
         "p3"
       ],
-      "category": "research",
-      "weight": 2
+      "category": "models",
+      "weight": 1
     },
     {
-      "id": "a06a5b56ae6c",
-      "title": "Recursive Reward Improvement via Adversarial Meta-Prompt Evolution",
-      "url": "https://arxiv.org/abs/2610.21040",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21040v1 Announce Type: new Abstract: Recursive Self-Improvement (RSI) has gained wide attention for its ability to work with limited data. In a proposer-solver loop, a proposer model writes training tasks and a solver model learns to solve them through reinforcement le",
+      "id": "b5d8a7affa15",
+      "title": "Built a search engine for debugging which is not a wrapper [P]",
+      "url": "t3_1x8uwbg",
+      "source": "r/ML",
+      "published": "2026-10-18T05:18:51+00:00",
+      "summary": "TLDR: I built a search engine that reads a bug report (or lets you define it) and points to the exact file (93%) and to the exact function (79.4%) you need to fix. Hey everyone, I recently made a new project while trying to get into RAG and automation. Odin is more than a search ",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "424c6ca1ac48",
+      "title": "What is wrong with AI writing - ICLR edition [D]",
+      "url": "t3_1x8oksb",
+      "source": "r/ML",
+      "published": "2026-10-17T23:40:03+00:00",
+      "summary": "I&#39;m sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I&#39;ll try to create an anonymized version from a paper I&#39;m reviewing, though it&#39;s hard to match Claude on this: outperforms the best baseline costing no more at none of si",
       "phases": [
         "p1"
       ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "33ceee4ba356",
-      "title": "Learning When to Withdraw: Curriculum Coverage and Rule-Specific Failures in Fine-Tuned Language Agents",
-      "url": "https://arxiv.org/abs/2610.21045",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21045v1 Announce Type: new Abstract: Tool-using language agents must revise prepared actions when evidence changes or authority is revoked. Selective withdrawal means suspending affected actions, preserving supported work, and resuming only after sufficient repair. We ",
-      "phases": [
-        "p2",
-        "p3",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e61d0a642b9b",
-      "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research",
-      "url": "https://arxiv.org/abs/2610.21055",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21055v1 Announce Type: new Abstract: Recursive self-improvement, in which AI systems build stronger AI systems, is one promising route to superintelligence. We study a weaker form that can be measured today: frontier agents post-training a small raw base model with pub",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "deb324c8bfd3",
-      "title": "OmicsBench: a long-horizon multi-turn benchmark of AI agents on research-study-scale bioinformatics",
-      "url": "https://arxiv.org/abs/2610.21074",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21074v1 Announce Type: new Abstract: Computational biologists increasingly delegate substantial analyses to AI agents in long-horizon, multi-turn sessions, yet most benchmarks of agents' bioinformatics capabilities pose a single short task with a single-shot prompt. We",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "2f54152d8ad4",
-      "title": "Sci$\\Pi$vot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
-      "url": "https://arxiv.org/abs/2610.21082",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21082v1 Announce Type: new Abstract: Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scientific judgment is difficult beca",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
       "category": "models",
-      "weight": 2
+      "weight": 1
     },
     {
-      "id": "f2eff24b3e85",
-      "title": "Probe-and-Resume: When and How to Evaluate Agent Execution",
-      "url": "https://arxiv.org/abs/2610.21088",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21088v1 Announce Type: new Abstract: Test-time search can improve agent performance by exploring alternative actions and using a critic to select promising branches. We study this approach in terminal-based computer-use environments, which expose only a partial view of",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "33dc42f48448",
-      "title": "MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.21091",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21091v1 Announce Type: new Abstract: Agent memory enables large language model (LLM) agents to reuse past experiences without updating their parameters. However, semantic similarity alone does not guarantee memory usefulness: downstream performance depends on how memor",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "ede8338b39a8",
-      "title": "Planning Commitment of LLM under Partial Observability",
-      "url": "https://arxiv.org/abs/2610.21108",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21108v1 Announce Type: new Abstract: LLM-based planning agents commit to plans of different lengths before interacting with a partially observable environment. Some aggressively commit to a long plan based on assumptions about unobserved states, while others conservati",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "533344fb8431",
-      "title": "Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows",
-      "url": "https://arxiv.org/abs/2610.21109",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21109v1 Announce Type: new Abstract: When humans collaborate with AI agents on long-horizon tasks, what happens to the agents' contributions? For solving long-horizon tasks, humans place greater importance on ongoing interaction with AI agents (e.g., revising plans) th",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "4be4475e0643",
-      "title": "CleanRM: Reward Modeling from Noisy Feedback with a Few Clean Feedback for RLHF",
-      "url": "https://arxiv.org/abs/2610.21138",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21138v1 Announce Type: new Abstract: Feedback noise is pervasive in preference data, arising from subjective human judgments, annotation mistakes, and imperfect LLM judges. Standard reward modeling trained on such feedback yields a biased estimate of the clean risk. Al",
-      "phases": [
-        "p1",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "9c01782ac491",
-      "title": "All-in-One Memory: Process-Rewarded Reinforcement Learning for Memory Agents",
-      "url": "https://arxiv.org/abs/2610.21147",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21147v1 Announce Type: new Abstract: Large language models increasingly rely on external memory to answer queries grounded in long-horizon histories such as multi-session dialogues and lengthy documents. However, existing memory methods often optimize retrieval and mem",
+      "id": "bac083d40da1",
+      "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+      "url": "t3_1x8j8kg",
+      "source": "r/ML",
+      "published": "2026-10-17T19:41:19+00:00",
+      "summary": "&#32; submitted by &#32; /u/Civil-Demand555 [link] &#32; [comments]",
       "phases": [
         "p1",
         "p2",
         "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "fcf82c23ebc8",
-      "title": "GRADS: Graph-Regulated Agentic Data Synthesis with Controllable Difficulty",
-      "url": "https://arxiv.org/abs/2610.21167",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21167v1 Announce Type: new Abstract: Deep research agents are increasingly deployed to retrieve precise information from large corpora, yet multi-hop, long-horizon tasks remain challenging. Synthetic data generation has emerged as a scalable solution, with existing pip",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "214302b940ff",
-      "title": "MemScope: Evolving Agent Memory Architectures through Localized Code Repair",
-      "url": "https://arxiv.org/abs/2610.21170",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21170v1 Announce Type: new Abstract: Agent memory architectures define how LLM agents store and reuse experience across tasks, but they are typically fixed after deployment, limiting their adaptability across task types. Recent self-evolving approaches instead adapt th",
-      "phases": [
-        "p1",
-        "p3",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "a614cacfb65a",
-      "title": "AgentEval: Evidence-Bounded Assessment of Stateful Agents",
-      "url": "https://arxiv.org/abs/2610.21177",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21177v1 Announce Type: new Abstract: Task completion alone does not determine whether a stateful agent satisfied its obligations, and a recorded judgment does not guarantee that its supporting evidence remains valid. We present AgentEval, a system that carries a contra",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "413fbc62f7a6",
-      "title": "Does Latent Chain-of-Thought Actually Reason? A Single, Unifying Taxonomy for Latent Reasoning",
-      "url": "https://arxiv.org/abs/2610.21182",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21182v1 Announce Type: new Abstract: Latent chain-of-thought replaces written reasoning steps with continuous hidden states, giving models additional steps to compute before answering. It remains unclear what computation these steps actually perform. High task accuracy",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "48d8656dc0ed",
-      "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
-      "url": "https://arxiv.org/abs/2610.21185",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21185v1 Announce Type: new Abstract: Modern generative models produce high-quality individual outputs but struggle to sample diversely, even when explicitly instructed to do so. We introduce MINE-SAMPLE-RENDER (MSR), a test-time approach that externalizes the diversity",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "63eb4e4eaf65",
-      "title": "Condition-Contrastive Extrapolation for On-Policy Distillation of Language Models",
-      "url": "https://arxiv.org/abs/2610.21195",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21195v1 Announce Type: new Abstract: On-policy distillation (OPD) improves a student language model by training on its own generated trajectories with supervision from a stronger teacher. However, when conditioned on student-generated prefixes, the teacher can favor in",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "49aef9ede51d",
-      "title": "Who May Release an Agent's Promise? Standing over Commitments in Multi-Party Chat",
-      "url": "https://arxiv.org/abs/2610.21203",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21203v1 Announce Type: new Abstract: When an assistant serving a team makes a promise to Alice, who may cancel it? We call this standing: only the creditor (the person owed) or someone the creditor or operator policy authorizes may release a commitment, regardless of r",
-      "phases": [
-        "p3",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "e5905050264c",
-      "title": "Entertain, then Cancel: How Thinking Makes Reasoning Models Read Some and Or Literally",
-      "url": "https://arxiv.org/abs/2610.21204",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21204v1 Announce Type: new Abstract: When a speaker says ``some students passed'', listeners infer that not all of them did. Reasoning models now let users decide how long a model thinks before it answers, but we do not know what extra thinking does to such everyday in",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "68657b2ac2ca",
-      "title": "Rubric Judgments Lack Uncertainty: Conformal Weighting for LLM Evaluation",
-      "url": "https://arxiv.org/abs/2610.21214",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-17T00:00:00-04:00",
-      "summary": "arXiv:2610.21214v1 Announce Type: new Abstract: Rubric-based evaluation is widely used to assess large language model (LLM) outputs by decomposing quality into multiple criteria and assigning each a binary judgment from an LLM verifier. However, judgment certainty varies substant",
-      "phases": [
-        "p1",
         "p4",
         "p5"
       ],
       "category": "models",
-      "weight": 2
+      "weight": 1
+    },
+    {
+      "id": "34904280a7eb",
+      "title": "EMNLP main presentation[D]",
+      "url": "t3_1x8ey1m",
+      "source": "r/ML",
+      "published": "2026-10-17T16:45:33+00:00",
+      "summary": "Hello everyone, I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, but I have seen other projects with times. Is this normal on underline, or should I contact them? &#32;",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "8f4ca1b60183",
+      "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
+      "url": "t3_1x8c2sq",
+      "source": "r/ML",
+      "published": "2026-10-17T14:48:25+00:00",
+      "summary": "Hello r/MachineLearning , I wanted to share EpochGo , an open-source, local-first AutoML system built to tackle two major bottlenecks in applied machine learning: 1. Cloud API inference costs and data privacy risks: Traditional agentic ML frameworks rely heavily on cloud APIs (GP",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "f868deb9852d",
+      "title": "Learn what's inside AI Agent Interactively in 3D [P]",
+      "url": "t3_1x8bhpm",
+      "source": "r/ML",
+      "published": "2026-10-17T14:22:57+00:00",
+      "summary": "Try it here: https://aiengineeringfromscratch.com/inside-an-ai-agent &#32; submitted by &#32; /u/SeveralSeat2176 [link] &#32; [comments]",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "4005859d0483",
+      "title": "Go to neurIPS just for a workshop. [D]",
+      "url": "t3_1x86e17",
+      "source": "r/ML",
+      "published": "2026-10-17T09:56:53+00:00",
+      "summary": "Hi, I just finished my masters and got a neurIPS workshop acception. Unfortunately the lab I did it with do not want to fund neither the registration nor flights and accommodation. I am thinking about getting the workshop only ticket and pay for it myself. Would you say it is wor",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "1e000edbb588",
+      "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
+      "url": "t3_1x84udt",
+      "source": "r/ML",
+      "published": "2026-10-17T08:17:31+00:00",
+      "summary": "Basically the title. Due to the nonsensical situation of NeurIPS being fully sold out before the results were even released, I couldn&#39;t get workshop registration (my paper is in the main track, which apparently doesn&#39;t have any sort of gaurantee for registrations in other",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "3484b1485285",
+      "title": "How many of you have seen this honest ICLR submission? [D]",
+      "url": "t3_1x819z7",
+      "source": "r/ML",
+      "published": "2026-10-17T04:43:32+00:00",
+      "summary": "Makes me think how many submissions are just better than this one by quietly removing that line... &#32; submitted by &#32; /u/fighraccoon [link] &#32; [comments]",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "0fe77c4ae49a",
+      "title": "A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]",
+      "url": "t3_1x7tj60",
+      "source": "r/ML",
+      "published": "2026-10-16T22:09:10+00:00",
+      "summary": "For the past 4 weeks I\u2019ve been training models of the Drosophila brain to control a car in a drag racing simulator. To make the training watchable, I turned it into a racing league and stream it live on Twitch. How it works Each \u201cpilot\u201d is a fly brain model of ~2,400 neurons [bas",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "0fadef308b8f",
+      "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM \u2014 Introducing ORL (fully open source) [R]",
+      "url": "t3_1x7qgr0",
+      "source": "r/ML",
+      "published": "2026-10-16T20:03:32+00:00",
+      "summary": "Hey r/MachineLearning ! We&#39;re excited to share ORL (On-Policy Residual Learning) , our new research on making diffusion language models (dLLMs) significantly faster without sacrificing generation quality. With ORL and our custom inference engine dlmrt , we&#39;ve achieved: 2,",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "d6dff04f70ab",
+      "title": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
+      "url": "t3_1x7ojxo",
+      "source": "r/ML",
+      "published": "2026-10-16T18:49:12+00:00",
+      "summary": "hey, CS student here. for the past few days I&#39;ve been building DenseCore, a small deep learning framework in rust with a pytorch-like python API. the thing I&#39;m kind of proud of: if you point `import torch` at it and run karpathy&#39;s nanoGPT unchanged, you get the exact ",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 1
+    },
+    {
+      "id": "58ed96e25814",
+      "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
+      "url": "t3_1x7f6ft",
+      "source": "r/ML",
+      "published": "2026-10-16T12:41:41+00:00",
+      "summary": "The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here. Nowadays I do the review, and I upload my review to an AI to ask for second thoughts. I don&#39;t ever upload a paper I&#39;m reviewing, though. T",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "10e73b913376",
+      "title": "How many of your paper (either paper you authored or reviewed) are desk rejected? [D]",
+      "url": "t3_1x75edb",
+      "source": "r/ML",
+      "published": "2026-10-16T03:13:24+00:00",
+      "summary": "Just spend 4h reviewing a paper while I was sick, gave it a 3/4. This morning got an email saying it&#39;s desk rejected. I saw many people around me also have many papers desk rejected. I heard, though idk how true it is, some people use multiple accounts to bypass the 20 paper ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "408ead682a82",
+      "title": "Resources for learning to write production grade python code [N]",
+      "url": "t3_1x6yg7s",
+      "source": "r/ML",
+      "published": "2026-10-15T21:41:08+00:00",
+      "summary": "I am a data scientist with a very strong background in Stats and ML algos. I am struggling with the production ready code. Though I can build models which are awesome and tuned to perfection and address highly complex business problems, the problem is that they are all done in a ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "fa16b8a86601",
+      "title": "NeurIPS 2026 - waitlist [R]",
+      "url": "t3_1x6p42z",
+      "source": "r/ML",
+      "published": "2026-10-15T15:42:47+00:00",
+      "summary": "Hey everyone, I am trying to register for NeurIPS 2026 in Sydney, they mentioned more tickets would be out mid October and I am registered for the waitlist, however I still haven&#39;t heard from them. Anyone on the waitlist for Sydney has managed to get tickets or has been conta",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "9883c46954b2",
+      "title": "How artificial neural networks build their own learning machinery [R]",
+      "url": "t3_1x6hmyg",
+      "source": "r/ML",
+      "published": "2026-10-15T10:01:47+00:00",
+      "summary": "MIT coverage (13 October 2026): https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013 Paper: \u201cHow Biological Synapses Self-Assemble Gradient Learning\u201d (PNAS, 9 October): https://www.pnas.org/doi/10.1073/pnas.2606245123 According to the M",
+      "phases": [
+        "p2"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "23989772ec36",
+      "title": "University GPU cluster is holding my research hostage. Can I use my internship company\u2019s GPUs instead? \ud83d\udc80 [D]",
+      "url": "t3_1x6dytx",
+      "source": "r/ML",
+      "published": "2026-10-15T06:06:50+00:00",
+      "summary": "PhD student here. My university\u2019s GPU cluster has apparently become a luxury resort. I submit a job requesting a couple of GPUs, and it takes 3\u20134 business days just to START running. Meanwhile, my internship company has some pretty sweet compute sitting there, and the intrusive t",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
     }
   ]
 }
