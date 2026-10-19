@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T11:27:03.827753+00:00",
+  "generated": "2026-10-19T17:53:29.804548+00:00",
   "count": 120,
   "articles": [
     {
@@ -961,6 +961,37 @@
       "weight": 3
     },
     {
+      "id": "e7a08d8bbd49",
+      "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-19T17:45:55+00:00",
+      "summary": "\u201cI think I have good news about the nature of neural networks.\u201d With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautiou",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "d3cd0305ae98",
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-19T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon \u2014James Temple In July 2021, a wildfire burned through ",
+      "phases": [
+        "p3",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
       "id": "1d00f4700f69",
       "title": "Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon",
       "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
@@ -1688,36 +1719,6 @@
         "p1"
       ],
       "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "ba23a9861230",
-      "title": "Batched Contextual Reinforcement II: Does RLVR Need Long Rollout Windows?",
-      "url": "https://arxiv.org/abs/2610.22887",
-      "source": "ArXiv cs.LG",
-      "published": "2026-10-19T00:00:00-04:00",
-      "summary": "arXiv:2610.22887v1 Announce Type: new Abstract: Long rollout windows make reinforcement learning with verifiable rewards (RLVR) expensive, yet simply shortening them can remove the correctness signal: when every single-problem rollout truncates before an answer, group-relative ac",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "b8a63a2da786",
-      "title": "What Accuracy Hides In Learned Transformer Programs",
-      "url": "https://arxiv.org/abs/2610.22891",
-      "source": "ArXiv cs.LG",
-      "published": "2026-10-19T00:00:00-04:00",
-      "summary": "arXiv:2610.22891v1 Announce Type: new Abstract: Transformer Programs (TP) (Friedman et al., 2023) constrain a Transformer's architecture so that its learned computation can be extracted as readable Python code. TP expose learned computations, but token accuracy can hide incorrect",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
       "weight": 2
     }
   ]
