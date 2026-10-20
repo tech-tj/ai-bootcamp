@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T10:33:32.878117+00:00",
+  "generated": "2026-10-20T15:57:31.529562+00:00",
   "count": 120,
   "articles": [
     {
@@ -975,6 +975,66 @@
       "weight": 3
     },
     {
+      "id": "eb9c98f8c73a",
+      "title": "The new economics of enterprise AI",
+      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-20T15:20:25+00:00",
+      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency \u2014 consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "industry",
+      "weight": 2
+    },
+    {
+      "id": "8f295aae143e",
+      "title": "ALTK-Evolve: How learned memory tops the \u03c4\u00b2-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "source": "HuggingFace",
+      "published": "2026-10-20T15:19:48+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "1064d47d80e1",
+      "title": "The Download: the claim shaking up AI and the internet\u2019s agent problem",
+      "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-20T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. \u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world \u201cI think I have good news about the nature of neura",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "254f1995dd63",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-20T12:00:00+00:00",
+      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption\u2013tech is just the first industry in line. As generative AI and automation tools matu",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 2
+    },
+    {
       "id": "be8f776d8535",
       "title": "How to study a swiftly melting climate disaster",
       "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
@@ -1637,66 +1697,6 @@
         "p1"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "3f730001e26b",
-      "title": "Pluralistic Alignment in Language Models: Objectives, Human References, and Preference Representations",
-      "url": "https://arxiv.org/abs/2610.24471",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-20T00:00:00-04:00",
-      "summary": "arXiv:2610.24471v1 Announce Type: new Abstract: Pluralistic alignment aims to represent meaningful variation in human preferences rather than collapse heterogeneous judgments into a single target. Yet existing work often mixes three distinct questions: what pluralistic behavior a",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c75394d088df",
-      "title": "ConCI: A Controlled Counterfactual Benchmark for Contextual Integrity in LLMs",
-      "url": "https://arxiv.org/abs/2610.24494",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-20T00:00:00-04:00",
-      "summary": "arXiv:2610.24494v1 Announce Type: new Abstract: Contextual integrity (CI) holds that the appropriateness of sharing personal information depends on the context of the information flow, not on the information alone. However, existing CI benchmarks often use independent scenarios t",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "267a43d13614",
-      "title": "$M^2Net$: Unifying Scale-Specific Structures and Prototype Decomposition for Spatial-Temporal Forecasting",
-      "url": "https://arxiv.org/abs/2610.24516",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-20T00:00:00-04:00",
-      "summary": "arXiv:2610.24516v1 Announce Type: new Abstract: Spatial-temporal forecasting is pivotal for intelligent urban management yet remains challenging due to the intricate coupling of spatial dynamics and temporal non-stationarity. Existing approaches, while effective, often overlook t",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "759e9cba1349",
-      "title": "Axiomatic World Modeling for Physics Reasoning",
-      "url": "https://arxiv.org/abs/2610.24519",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-20T00:00:00-04:00",
-      "summary": "arXiv:2610.24519v1 Announce Type: new Abstract: Recent research-level physics-reasoning benchmarks for LLMs reveal a failure mode that lies not in knowledge or execution, but in modeling the world being reasoned about. Models often silently alter given quantities, fabricate laws,",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
