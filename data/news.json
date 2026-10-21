@@ -1,7 +1,74 @@
 {
-  "generated": "2026-10-21T10:45:50.199843+00:00",
+  "generated": "2026-10-21T16:14:14.550319+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "8f9e95c0804b",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI",
+      "published": "2026-10-21T13:00:00+00:00",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "707234813354",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI",
+      "published": "2026-10-21T12:00:00+00:00",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini\u2019s Model Garden, available through Google Cloud Marketplace.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "6d72427cd4b8",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source": "OpenAI",
+      "published": "2026-10-21T07:00:00+00:00",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "3dac179b5263",
+      "title": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "source": "OpenAI",
+      "published": "2026-10-21T07:00:00+00:00",
+      "summary": "Learn how OpenAI built ChatGPT\u2019s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "c29efc53a85f",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source": "OpenAI",
+      "published": "2026-10-21T04:50:00+00:00",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 3
+    },
     {
       "id": "aec1886eb4d5",
       "title": "Southeast Asia\u2019s digital economy to hit $368 billion",
@@ -93,20 +160,6 @@
       "weight": 3
     },
     {
-      "id": "0f8250f16796",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "570b98dc3ba2",
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
@@ -121,6 +174,20 @@
         "p5"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "0f8250f16796",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -638,19 +705,6 @@
       "weight": 3
     },
     {
-      "id": "f95544b597e0",
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI",
-      "published": "2026-09-28T19:00:00+00:00",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "phases": [
-        "p4"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
       "id": "2c968f6bfde3",
       "title": "How we will do better for Australia",
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
@@ -661,6 +715,19 @@
         "p1"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "f95544b597e0",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI",
+      "published": "2026-09-28T19:00:00+00:00",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "phases": [
+        "p4"
+      ],
+      "category": "research",
       "weight": 3
     },
     {
@@ -694,6 +761,19 @@
       "weight": 3
     },
     {
+      "id": "d7db80e019a5",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-28T00:00:00+00:00",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f8842226a05e",
       "title": "Are you a Codex Original?",
       "url": "https://openai.com/form/codex-originals",
@@ -708,19 +788,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "d7db80e019a5",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-28T00:00:00+00:00",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -819,20 +886,6 @@
       "weight": 3
     },
     {
-      "id": "32b5509ca9a6",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "c24a6e6fac61",
       "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
       "url": "https://openai.com/index/ringg",
@@ -856,6 +909,20 @@
       "phases": [
         "p1",
         "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "32b5509ca9a6",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "phases": [
+        "p1",
+        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -967,157 +1034,49 @@
       "weight": 3
     },
     {
-      "id": "7a457bd9c5b4",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "aba8f8622ca0",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "source": "OpenAI",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "2db044ee810a",
-      "title": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
+      "id": "352c7669f0da",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
       "source": "HuggingFace",
-      "published": "2026-10-21T10:41:36+00:00",
+      "published": "2026-10-21T16:04:43+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "08a293d0b0e3",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "HuggingFace",
+      "published": "2026-10-21T14:58:18+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "b5deda84c80e",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "source": "HuggingFace",
+      "published": "2026-10-21T12:51:24+00:00",
       "summary": "",
       "phases": [
         "p2",
-        "p3",
         "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "1baeecbeab58",
-      "title": "We can do impossible things",
-      "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "I\u2019d wager everyone has a rehearsed response to what\u2019s absolutely one of the world\u2019s worst interview questions: \u201cWhat\u2019s your biggest weakness?\u201d Whenever I\u2019ve gotten it, I take a slow\u2014even pensive\u2014breath and rattle off my line: \u201cI say no to myself too much.\u201d&#160; I won\u2019t lie. It\u2019s",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "f47c3d900ca6",
-      "title": "Nuclear-powered spaceships",
-      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-\u00adpowered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "41ca0cbaed52",
-      "title": "Exercise in a pill",
-      "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks\u2014without the workout. The idea isn\u2019t to repl",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "09b335133eb7",
-      "title": "Interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that \u201canimals a",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "d5fc26d81bbe",
-      "title": "Cleaning up PFAS",
-      "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances\u2014a.k.a. PFAS or forever chemicals\u2014could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to increased risks of fertility challenges,",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "8b3de4681a3d",
-      "title": "Solid-state batteries",
-      "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who\u2019s boarded a plane in the last decade could tell you, storing and pumping out energy",
-      "phases": [
-        "p2"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "3322b6b43d97",
-      "title": "Eliminating traffic deaths",
-      "url": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
-      "source": "MIT Tech Review",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "Every year, traffic crashes kill more than one million people, and they\u2019re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local streets. \u201cTraffic deaths are a leading ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 2
@@ -1712,6 +1671,34 @@
         "p5"
       ],
       "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "0cfd23b50e93",
+      "title": "ProMemAgent: Long-Horizon Proactive Assistance with Context-Aware Prospective Memory from Sensory Perceptions",
+      "url": "https://arxiv.org/abs/2610.27400",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-21T00:00:00-04:00",
+      "summary": "arXiv:2610.27400v1 Announce Type: new Abstract: Large language model (LLM) agents are moving beyond reactive responses toward proactive assistance that anticipates user needs without explicit requests. However, existing proactive agents primarily address immediate needs, while ma",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "1ae05a0c1f1e",
+      "title": "More Memory, Worse Agents: Error Reproduction and Anti-Persistence in LLM Agents",
+      "url": "https://arxiv.org/abs/2610.27406",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-21T00:00:00-04:00",
+      "summary": "arXiv:2610.27406v1 Announce Type: new Abstract: LLM agents can improve across tasks without updating model parameters by storing experience from their own executions in external memory and reusing it to guide later decisions. A central design question is whether to retain only ob",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
       "weight": 2
     }
   ]
