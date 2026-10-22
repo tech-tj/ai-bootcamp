@@ -1,7 +1,20 @@
 {
-  "generated": "2026-10-22T10:46:43.704800+00:00",
+  "generated": "2026-10-22T16:12:53.114980+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "f4d7439583ad",
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "source": "OpenAI",
+      "published": "2026-10-22T06:00:00+00:00",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "432aef26f737",
       "title": "Broad access through consistent standards",
@@ -718,19 +731,6 @@
       "weight": 3
     },
     {
-      "id": "dd3f81de3324",
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "66cfd105295e",
       "title": "DevDay 2026 Recap",
       "url": "https://openai.com/index/devday-2026-recap",
@@ -741,6 +741,19 @@
         "p1"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "dd3f81de3324",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI",
+      "published": "2026-09-29T10:00:00+00:00",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -813,6 +826,19 @@
       "weight": 3
     },
     {
+      "id": "d7db80e019a5",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-28T00:00:00+00:00",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "f8842226a05e",
       "title": "Are you a Codex Original?",
       "url": "https://openai.com/form/codex-originals",
@@ -827,19 +853,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "d7db80e019a5",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-28T00:00:00+00:00",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -925,6 +938,33 @@
       "weight": 3
     },
     {
+      "id": "7c9a1180e3e3",
+      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "01d0ed630f34",
+      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "c24a6e6fac61",
       "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
       "url": "https://openai.com/index/ringg",
@@ -948,33 +988,6 @@
       "phases": [
         "p1",
         "p2"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "7c9a1180e3e3",
-      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "01d0ed630f34",
-      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "phases": [
-        "p1"
       ],
       "category": "models",
       "weight": 3
@@ -1058,18 +1071,34 @@
       "weight": 3
     },
     {
-      "id": "81928ec12dd8",
-      "title": "Parallel cut research time and cost in half with GPT\u20116 Astra",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-22T12:00:00+00:00",
-      "summary": "GPT\u20116 Astra allowed Parallel\u2019s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "id": "ea32a3cab37f",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "source": "HuggingFace",
+      "published": "2026-10-22T16:11:31+00:00",
+      "summary": "",
       "phases": [
-        "p1",
-        "p3"
+        "p2"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
+    },
+    {
+      "id": "18fd054694f0",
+      "title": "The Download: computing\u2019s next leap and permafrost\u2019s climate threat",
+      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-22T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called \u201cThere\u2019s Plenty ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "a1d8d4720756",
@@ -1661,34 +1690,6 @@
         "p1",
         "p3",
         "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "a32fc22d986e",
-      "title": "ARCANA: A Benchmark for Abstraction and Analogical Reasoning",
-      "url": "https://arxiv.org/abs/2610.29271",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-22T00:00:00-04:00",
-      "summary": "arXiv:2610.29271v1 Announce Type: new Abstract: Analogical reasoning is widely considered a fundamental component of human intelligence. Few benchmarks are designed to explicitly test far analogical reasoning - reasoning between domains that are superficially dissimilar yet share",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "40069780c2ad",
-      "title": "Same Probabilities, Different Advice: Gain-Loss Framing Effects in High-Stakes LLM Decision Support",
-      "url": "https://arxiv.org/abs/2610.29294",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-22T00:00:00-04:00",
-      "summary": "arXiv:2610.29294v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to support consequential decisions, yet their reliability under equivalent representations of uncertainty remains unclear. Existing work has documented prompt sensitivity, cognitive",
-      "phases": [
-        "p1",
-        "p2"
       ],
       "category": "models",
       "weight": 2
