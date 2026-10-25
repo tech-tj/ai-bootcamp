@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T15:10:55.104618+00:00",
+  "generated": "2026-10-25T20:06:06.397968+00:00",
   "count": 120,
   "articles": [
     {
@@ -925,19 +925,6 @@
       "weight": 3
     },
     {
-      "id": "0192a09d7c87",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "source": "OpenAI",
-      "published": "2026-09-25T19:00:00+00:00",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "c8f212640f72",
       "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
       "url": "https://huggingface.co/blog/allenai/litpivot",
@@ -1488,6 +1475,34 @@
       "weight": 2
     },
     {
+      "id": "318e7138e13c",
+      "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
+      "url": "t3_1xfa17z",
+      "source": "r/ML",
+      "published": "2026-10-25T18:35:21+00:00",
+      "summary": "I&#39;m interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I&#39;m curious about the data side of the process. Finding edge cases: How do you identif",
+      "phases": [
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "93b3064c5ec1",
+      "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
+      "url": "t3_1xf6x35",
+      "source": "r/ML",
+      "published": "2026-10-25T16:32:44+00:00",
+      "summary": "Nanbeige released Nanbeige4.3-33B as the teacher for its planned smaller agents, including an upcoming 3B model. the weights are Apache 2.0, and the model card lists a 512K context window. the team reports 80.9 on Terminal-Bench 2.1 versus 73.0 for Qwen3.8-27B, using the same har",
+      "phases": [
+        "p1",
+        "p3",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "c0378affef8c",
       "title": "ICLR 2027 is still handing out desk rejects [N]",
       "url": "t3_1xeu2z1",
@@ -1746,23 +1761,6 @@
         "p1",
         "p2",
         "p4"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "e94e955edd55",
-      "title": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
-      "url": "t3_1xcbqdm",
-      "source": "r/ML",
-      "published": "2026-10-22T07:10:18+00:00",
-      "summary": "I&#39;m training text2asmr, a text-to-ASMR model (whispering plus trigger sounds like tapping, crinkling, brushing). The generator needs every training clip tagged with the sounds in it, and there are about 126k recordings, so I tried frontier models as labellers. They were much ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "models",
       "weight": 1
