@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T20:06:06.397968+00:00",
+  "generated": "2026-10-26T02:07:32.472843+00:00",
   "count": 120,
   "articles": [
     {
@@ -1475,6 +1475,20 @@
       "weight": 2
     },
     {
+      "id": "389dadd46632",
+      "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
+      "url": "t3_1xfgf1w",
+      "source": "r/ML",
+      "published": "2026-10-25T22:57:33+00:00",
+      "summary": "everything here ran on my own hardware, an M5 Max MacBook Pro with 64GB. blind test of self-hosted AI agents, every one on Qwen 3.8 27B uncensored Q4_K_M in llama.cpp, same 5 everyday tasks like counting log errors and renaming a function. names hidden, results below, take a gues",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
       "id": "318e7138e13c",
       "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
       "url": "t3_1xfa17z",
@@ -1746,21 +1760,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 1
-    },
-    {
-      "id": "fb9cad8861e9",
-      "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
-      "url": "t3_1xchayq",
-      "source": "r/ML",
-      "published": "2026-10-22T12:32:56+00:00",
-      "summary": "Carbon-X is a 14.8B parameter decoder-only model that takes raw DNA in a normal chat and answers in English. It shares one token stream for text and DNA, using 6-mer tokens, and was mid-trained on 302B tokens. Hugging Face reports a 66.7% average across five DNA benchmarks with t",
-      "phases": [
-        "p1",
-        "p2",
-        "p4"
       ],
       "category": "models",
       "weight": 1
