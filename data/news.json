@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T17:48:11.507612+00:00",
+  "generated": "2026-10-26T22:01:14.614074+00:00",
   "count": 120,
   "articles": [
     {
@@ -20,12 +20,79 @@
       "weight": 3
     },
     {
+      "id": "12c7a1020fa4",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "source": "OpenAI",
+      "published": "2026-10-26T13:45:00+00:00",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "38fe6a22544b",
+      "title": "ChatGPT\u2019s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "915861e8a796",
       "title": "How Fanatics and OpenAI streamline the fan experience",
       "url": "https://openai.com/index/fanatics-streamline-fan-experience",
       "source": "OpenAI",
       "published": "2026-10-26T07:00:00+00:00",
       "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "25e1b98740f4",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "source": "OpenAI",
+      "published": "2026-10-26T07:00:00+00:00",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "industry",
+      "weight": 3
+    },
+    {
+      "id": "6b6861f5dfdd",
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI",
+      "published": "2026-10-26T00:00:00+00:00",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "5664397e2812",
+      "title": "Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source": "OpenAI",
+      "published": "2026-10-26T00:00:00+00:00",
+      "summary": "Bringing fast and capable computer use to everyone",
       "phases": [
         "p1"
       ],
@@ -324,6 +391,20 @@
       "weight": 3
     },
     {
+      "id": "0f8250f16796",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "570b98dc3ba2",
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
@@ -338,20 +419,6 @@
         "p5"
       ],
       "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "0f8250f16796",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -491,20 +558,6 @@
       "weight": 3
     },
     {
-      "id": "dc4e32e77a50",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "38f5a2b46e3b",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
@@ -516,6 +569,20 @@
         "p5"
       ],
       "category": "industry",
+      "weight": 3
+    },
+    {
+      "id": "dc4e32e77a50",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -953,6 +1020,20 @@
       ],
       "category": "research",
       "weight": 3
+    },
+    {
+      "id": "57916c9fe918",
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-26T17:45:43+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays",
+      "phases": [
+        "p1",
+        "p2"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "dc28295c8480",
@@ -1606,90 +1687,6 @@
       "source": "ArXiv cs.AI",
       "published": "2026-10-26T00:00:00-04:00",
       "summary": "arXiv:2610.32305v1 Announce Type: new Abstract: Multi-stage analytical tasks require LLM agents to use intermediate evidence to decide whether to continue, redirect or stop. Self-reflection, in which an agent critiques its output, is widely studied, yet a critique does not show w",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "f8277bf44bfc",
-      "title": "Solvent: Long-Horizon Reasoning for Multi-Step Retrosynthesis",
-      "url": "https://arxiv.org/abs/2610.32308",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-26T00:00:00-04:00",
-      "summary": "arXiv:2610.32308v1 Announce Type: new Abstract: Multi-step retrosynthesis requires recursively transforming a target molecule through successive reaction steps into purchasable building blocks, and recent work has begun to draw on large language model (LLM) reasoning to tackle th",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c9a8ee6fa9fc",
-      "title": "Beyond Gain: Measuring Skill Internalization for Agent Skill Retirement",
-      "url": "https://arxiv.org/abs/2610.32322",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-26T00:00:00-04:00",
-      "summary": "arXiv:2610.32322v1 Announce Type: new Abstract: LLM agents retrieve skills from public hubs that hold up to about 100,000 entries and serve many models. As models improve, a hub must find the skills a given model has internalized, meaning it can do without them, and retire them f",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "b9b8e637ef5f",
-      "title": "From Visual Affinity to Learning Credit in Multimodal Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.32324",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-26T00:00:00-04:00",
-      "summary": "arXiv:2610.32324v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) improves multimodal reasoning, but uniformly assigning a single response-level advantage to all tokens overlooks the distinct roles of visual observations and subsequent reasonin",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "d4561a74b0df",
-      "title": "TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent",
-      "url": "https://arxiv.org/abs/2610.32326",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-26T00:00:00-04:00",
-      "summary": "arXiv:2610.32326v1 Announce Type: new Abstract: Large Language Model (LLM) agents have enabled automated code evolution for algorithm discovery. However, current recursive self-improvement (RSI) research for sequential recommendation faces a dilemma: general-purpose frameworks la",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "62c9f1b015e1",
-      "title": "FOCUS: A Lightweight Mamba-2 Model for EEG-Based Cognitive Workload Classification",
-      "url": "https://arxiv.org/abs/2610.32361",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-26T00:00:00-04:00",
-      "summary": "arXiv:2610.32361v1 Announce Type: new Abstract: Cognitive workload estimation from physiological signals is increasingly relevant in high-risk environments, where continuous and unobtrusive monitoring can inform adaptive systems and safety interventions. This paper presents FOCUS",
-      "phases": [
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "f801dc45ce72",
-      "title": "Adaptive Control of Scientific Instruments with Nonstationary Responses through Multimodal Agents",
-      "url": "https://arxiv.org/abs/2610.32370",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-26T00:00:00-04:00",
-      "summary": "arXiv:2610.32370v1 Announce Type: new Abstract: Controlling scientific instruments requires parameters to be adjusted progressively in response to feedback from successive operations. When unobserved operating conditions evolve with operational history, responses become nonstatio",
       "phases": [
         "p1",
         "p3"
