@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T16:58:15.870006+00:00",
+  "generated": "2026-10-27T21:32:46.294639+00:00",
   "count": 120,
   "articles": [
     {
@@ -14,6 +14,19 @@
         "p3"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "150f1b29aeaf",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI",
+      "published": "2026-10-27T00:00:00+00:00",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
       "weight": 3
     },
     {
@@ -1033,19 +1046,6 @@
       "weight": 3
     },
     {
-      "id": "d7db80e019a5",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-28T00:00:00+00:00",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "f8842226a05e",
       "title": "Are you a Codex Original?",
       "url": "https://openai.com/form/codex-originals",
@@ -1061,6 +1061,32 @@
       ],
       "category": "research",
       "weight": 3
+    },
+    {
+      "id": "d7db80e019a5",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-28T00:00:00+00:00",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "8a86ff04276d",
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "HuggingFace",
+      "published": "2026-10-27T17:16:52+00:00",
+      "summary": "",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "91bb99f4b7e5",
@@ -1663,33 +1689,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "4e779df791e3",
-      "title": "Minimum Description Length Unsupervisedly Separates Law-Grade from Statistical-Grade Knowledge in a Self-Improving Science Agent - and Reveals 86% of Its Own Discoveries Are Statistical",
-      "url": "https://arxiv.org/abs/2610.32245",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-27T00:00:00-04:00",
-      "summary": "arXiv:2610.32245v1 Announce Type: new Abstract: AI systems that discover scientific relations now generate candidate \"laws\" at scale, but the bottleneck has shifted from generation to vetting: which candidates deserve belief? We show that a deployed self-improving science agent -",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "d86875f27a01",
-      "title": "RSIHub: A Composable Framework for Agent-Evolution Methods",
-      "url": "https://arxiv.org/abs/2610.32253",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-27T00:00:00-04:00",
-      "summary": "arXiv:2610.32253v1 Announce Type: new Abstract: Agent-evolution methods use execution feedback to improve prompts, skills, tools, and orchestration, but their implementations often rebuild the same experimental machinery. We present RSIHub, an open-source framework for building, ",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "tools",
       "weight": 2
     }
   ]
