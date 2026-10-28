@@ -1,11 +1,25 @@
 {
-  "generated": "2026-10-28T11:46:07.781876+00:00",
+  "generated": "2026-10-28T17:33:07.398997+00:00",
   "count": 120,
   "articles": [
     {
       "id": "87c30b1210a8",
       "title": "Legora is building the agentic operating system for legal work",
       "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "source": "OpenAI",
+      "published": "2026-10-28T09:30:00+00:00",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "43a392c7fc8c",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
       "source": "OpenAI",
       "published": "2026-10-28T09:30:00+00:00",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
@@ -1046,19 +1060,6 @@
       "weight": 3
     },
     {
-      "id": "f95544b597e0",
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI",
-      "published": "2026-09-28T19:00:00+00:00",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "phases": [
-        "p4"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
       "id": "2c968f6bfde3",
       "title": "How we will do better for Australia",
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
@@ -1069,6 +1070,19 @@
         "p1"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "f95544b597e0",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI",
+      "published": "2026-09-28T19:00:00+00:00",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "phases": [
+        "p4"
+      ],
+      "category": "research",
       "weight": 3
     },
     {
@@ -1087,6 +1101,53 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "1a2fcc5f3d88",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "HuggingFace",
+      "published": "2026-10-28T14:58:17+00:00",
+      "summary": "",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "625cd70e8749",
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-28T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he did",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "2b0a5d044d7f",
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "source": "MIT Tech Review",
+      "published": "2026-10-28T12:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "24ac74729b93",
@@ -1645,67 +1706,6 @@
       "phases": [
         "p1",
         "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c4040a9e6461",
-      "title": "Follow the Herd: A Data-Driven Approach for Actionable Recourse",
-      "url": "https://arxiv.org/abs/2610.36580",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-28T00:00:00-04:00",
-      "summary": "arXiv:2610.36580v1 Announce Type: new Abstract: As machine learning systems make increasingly greater decisions about people's lives, it is critical to provide users with actionable recourse about how they can achieve their desired outcomes. This problem is currently tackled by r",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "674bc4041b4f",
-      "title": "InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?",
-      "url": "https://arxiv.org/abs/2610.36589",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-28T00:00:00-04:00",
-      "summary": "arXiv:2610.36589v1 Announce Type: new Abstract: Coding agents are beginning to develop the production-grade AI infrastructure that trains and serves large models, yet existing benchmarks cover only single kernels or single-GPU tasks, and grade with tests and prompts that misjudge",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "74622f8cbba9",
-      "title": "Learning to Formalize: Bridging Open-Ended Workloads and Fast Decision Models",
-      "url": "https://arxiv.org/abs/2610.36595",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-28T00:00:00-04:00",
-      "summary": "arXiv:2610.36595v1 Announce Type: new Abstract: Decision models offer fast choices over sup- plied alternatives, while general-purpose large language models interpret open-ended tasks through flexible generation and reasoning at the cost of sequential decoding. Many work- loads e",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "b9d1982954fe",
-      "title": "God Does Not Play Dice: Enforcing Batch Invariance in Agentic Kernel Generation",
-      "url": "https://arxiv.org/abs/2610.36623",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-28T00:00:00-04:00",
-      "summary": "arXiv:2610.36623v1 Announce Type: new Abstract: Large language model (LLM) serving systems dynamically batch user requests for GPU execution, so the same request may be processed alongside different requests across runs. If the GPU kernels lack batch invariance (BI), this changin",
-      "phases": [
-        "p1",
-        "p3",
-        "p5"
       ],
       "category": "models",
       "weight": 2
