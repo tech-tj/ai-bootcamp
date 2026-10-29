@@ -1,7 +1,21 @@
 {
-  "generated": "2026-10-29T17:43:43.136869+00:00",
+  "generated": "2026-10-29T22:09:04.864708+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "aaf5e6791aaf",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI",
+      "published": "2026-10-29T17:00:00+00:00",
+      "summary": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "4745ac4816a8",
       "title": "How we detect frontier model misalignment",
@@ -14,6 +28,20 @@
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "eb2bd3b12e17",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI",
+      "published": "2026-10-29T07:00:00+00:00",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "phases": [
+        "p1",
+        "p2"
       ],
       "category": "models",
       "weight": 3
@@ -1690,35 +1718,6 @@
         "p5"
       ],
       "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "674bc4041b4f",
-      "title": "InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?",
-      "url": "https://arxiv.org/abs/2610.36589",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-29T00:00:00-04:00",
-      "summary": "arXiv:2610.36589v1 Announce Type: new Abstract: Coding agents are beginning to develop the production-grade AI infrastructure that trains and serves large models, yet existing benchmarks cover only single kernels or single-GPU tasks, and grade with tests and prompts that misjudge",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "74622f8cbba9",
-      "title": "Learning to Formalize: Bridging Open-Ended Workloads and Fast Decision Models",
-      "url": "https://arxiv.org/abs/2610.36595",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-29T00:00:00-04:00",
-      "summary": "arXiv:2610.36595v1 Announce Type: new Abstract: Decision models offer fast choices over sup- plied alternatives, while general-purpose large language models interpret open-ended tasks through flexible generation and reasoning at the cost of sequential decoding. Many work- loads e",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
       "weight": 2
     }
   ]
