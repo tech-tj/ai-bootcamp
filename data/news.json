@@ -1,7 +1,20 @@
 {
-  "generated": "2026-10-30T17:23:29.615690+00:00",
+  "generated": "2026-10-30T21:45:31.739134+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "14b39e2399e0",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "published": "2026-10-30T09:30:00+00:00",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
+      "weight": 3
+    },
     {
       "id": "de97c2c5f0bf",
       "title": "Community safety report and new protections for teens",
@@ -576,20 +589,6 @@
       "weight": 3
     },
     {
-      "id": "e078abfded80",
-      "title": "How Localiza reorganized work around generative AI",
-      "url": "https://openai.com/index/localiza-generative-ai",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "bf9122d8d2a3",
       "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
       "url": "https://openai.com/index/grupo-boticario",
@@ -603,12 +602,12 @@
       "weight": 3
     },
     {
-      "id": "0f8250f16796",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "e078abfded80",
+      "title": "How Localiza reorganized work around generative AI",
+      "url": "https://openai.com/index/localiza-generative-ai",
       "source": "OpenAI",
       "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
+      "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
       "phases": [
         "p1",
         "p3"
@@ -631,6 +630,20 @@
         "p5"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "0f8250f16796",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -770,20 +783,6 @@
       "weight": 3
     },
     {
-      "id": "dc4e32e77a50",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "38f5a2b46e3b",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
@@ -795,6 +794,20 @@
         "p5"
       ],
       "category": "industry",
+      "weight": 3
+    },
+    {
+      "id": "dc4e32e77a50",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -1079,6 +1092,23 @@
       ],
       "category": "models",
       "weight": 3
+    },
+    {
+      "id": "82860a279019",
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "HuggingFace",
+      "published": "2026-10-30T17:57:24+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
     },
     {
       "id": "fccdd8518019",
@@ -1652,36 +1682,6 @@
       "summary": "arXiv:2610.38245v1 Announce Type: new Abstract: Retrosynthesis planning seeks synthesis routes from purchasable starting materials to a target molecule. Search over predicted reactions can connect a target to available materials, yet an infeasible reaction can invalidate the resu",
       "phases": [
         "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "df67c43b3c5f",
-      "title": "Inner-Learning: From Hand-Coded Beliefs to Declarative Knowledge in Trick-Taking Games",
-      "url": "https://arxiv.org/abs/2610.38304",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-30T00:00:00-04:00",
-      "summary": "arXiv:2610.38304v1 Announce Type: new Abstract: We present a declarative approach to belief-state modeling in trick-taking card games. Starting from a state-of-the-art Skat player, we automatically extract its hand-coded inference rules into a domain-specific language built on th",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "d4ef6f0a06f6",
-      "title": "Game-Theoretic Foundations for Undiscounted Bisimulation Metrics",
-      "url": "https://arxiv.org/abs/2610.38313",
-      "source": "ArXiv cs.AI",
-      "published": "2026-10-30T00:00:00-04:00",
-      "summary": "arXiv:2610.38313v1 Announce Type: new Abstract: Bisimulation metrics offer a principled notion of task-relevant state similarity in reinforcement learning, but existing constructions and methods are largely confined to discounted MDPs, where contraction arguments ensure well-defi",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
       ],
       "category": "research",
       "weight": 2
