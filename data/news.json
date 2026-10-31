@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T11:21:51.750462+00:00",
+  "generated": "2026-10-31T16:27:09.940585+00:00",
   "count": 120,
   "articles": [
     {
@@ -1081,19 +1081,6 @@
       "weight": 3
     },
     {
-      "id": "0582363bf91e",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "source": "OpenAI",
-      "published": "2026-10-01T16:00:00+00:00",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "58e1091d3a99",
       "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
       "url": "https://arxiv.org/abs/2610.37720",
@@ -1685,6 +1672,20 @@
         "p4"
       ],
       "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "d4d1449cd906",
+      "title": "Can LLMs Faithfully Solve Ontology Engineering Tasks? A Mechanistic Interpretability Study",
+      "url": "https://arxiv.org/abs/2610.38326",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-31T00:00:00-04:00",
+      "summary": "arXiv:2610.38326v1 Announce Type: new Abstract: Ontological knowledge underpins large language model (LLM) performance on knowledge-intensive tasks. However, existing evaluations of LLMs' ontological understanding largely rely on behavioral correctness, leaving the underlying mec",
+      "phases": [
+        "p1",
+        "p4"
+      ],
+      "category": "research",
       "weight": 2
     }
   ]
