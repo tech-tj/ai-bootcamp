@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T20:44:59.927798+00:00",
+  "generated": "2026-11-01T02:58:25.526556+00:00",
   "count": 120,
   "articles": [
     {
@@ -602,6 +602,20 @@
       "weight": 3
     },
     {
+      "id": "e078abfded80",
+      "title": "How Localiza reorganized work around generative AI",
+      "url": "https://openai.com/index/localiza-generative-ai",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "bf9122d8d2a3",
       "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
       "url": "https://openai.com/index/grupo-boticario",
@@ -615,12 +629,12 @@
       "weight": 3
     },
     {
-      "id": "e078abfded80",
-      "title": "How Localiza reorganized work around generative AI",
-      "url": "https://openai.com/index/localiza-generative-ai",
+      "id": "0f8250f16796",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "source": "OpenAI",
       "published": "2026-10-16T00:00:00+00:00",
-      "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
       "phases": [
         "p1",
         "p3"
@@ -643,20 +657,6 @@
         "p5"
       ],
       "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "0f8250f16796",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -796,20 +796,6 @@
       "weight": 3
     },
     {
-      "id": "38f5a2b46e3b",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "source": "OpenAI",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "industry",
-      "weight": 3
-    },
-    {
       "id": "dc4e32e77a50",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "url": "https://openai.com/index/asana-browser-agent",
@@ -821,6 +807,20 @@
         "p3"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "38f5a2b46e3b",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "source": "OpenAI",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "industry",
       "weight": 3
     },
     {
@@ -1045,20 +1045,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "f5331f1181a0",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI",
-      "published": "2026-10-02T00:00:00+00:00",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "models",
       "weight": 3
@@ -1683,6 +1669,20 @@
         "p4"
       ],
       "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "f3132ae0c674",
+      "title": "Encode Once, Answer Many: Internalizing Context via Parametric Flow",
+      "url": "https://arxiv.org/abs/2610.38356",
+      "source": "ArXiv cs.AI",
+      "published": "2026-10-31T00:00:00-04:00",
+      "summary": "arXiv:2610.38356v1 Announce Type: new Abstract: Large language models are typically adapted to a task either by placing knowledge in the input context, which keeps it external and re-encodes it on every call, or by fine-tuning, which internalizes it but demands a costly round of ",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "models",
       "weight": 2
     }
   ]
