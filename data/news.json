@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T12:12:31.859062+00:00",
+  "generated": "2026-11-01T21:26:56.303363+00:00",
   "count": 120,
   "articles": [
     {
@@ -1019,37 +1019,6 @@
       "weight": 3
     },
     {
-      "id": "d8bea22f6536",
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI",
-      "published": "2026-10-02T16:15:00+00:00",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "bfe2b156957e",
-      "title": "The latest AI news we announced in September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI",
-      "published": "2026-10-02T15:00:00+00:00",
-      "summary": "Here are Google\u2019s latest AI updates from September 2026",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "82860a279019",
       "title": "nemotron-halloween",
       "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -1632,6 +1601,81 @@
       "weight": 2
     },
     {
+      "id": "4c7aed95a752",
+      "title": "I animated what GPT-4o's tokenizer does to \"strawberry\": real token ids, a tiny BPE run, and why the space belongs to the word (6 min video) [D]",
+      "url": "t3_1xl9sv7",
+      "source": "r/ML",
+      "published": "2026-11-01T18:01:28+00:00",
+      "summary": "I made this explainer for my small channel and would like feedback from people learning this, especially if anything is wrong. It follows one word the whole way: &quot;How many r&#39;s are in strawberry?&quot; is 8 tokens in o200k_base (the GPT-4o / GPT-5 tokenizer). &quot; straw",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "b261ed1439b6",
+      "title": "Why do all NN optimizers have weird names? [d]",
+      "url": "t3_1xl7yv0",
+      "source": "r/ML",
+      "published": "2026-11-01T16:51:18+00:00",
+      "summary": "SOAP, Shampoo, FOAM. Muon is a bit better but it has the same name as the particle from physics. Whenever I want to search about these tones of completely irrelevant results come up because of their non-unqiue names. Adam would have the same problem if it wasn&#39;t so famous. Th",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "1f15c1e3bce1",
+      "title": "[D] Simple Questions Thread",
+      "url": "t3_1xl6og2",
+      "source": "r/ML",
+      "published": "2026-11-01T16:00:36+00:00",
+      "summary": "Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so keep posting after the date in the title. Thanks to everyone for answering questions in the previou",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 1
+    },
+    {
+      "id": "e43f24ee007f",
+      "title": "Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]",
+      "url": "t3_1xl1uba",
+      "source": "r/ML",
+      "published": "2026-11-01T12:28:22+00:00",
+      "summary": "For context, I am a new postgraduate student in machine learning (but not a very good one). I have produced some augmented datasets (TIFF files where each file contains one object to be detected / classified) which I used in training deep learning models. I used fairly aggressive",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
+      "id": "e84c797cf704",
+      "title": "LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]",
+      "url": "t3_1xkzwz9",
+      "source": "r/ML",
+      "published": "2026-11-01T10:38:34+00:00",
+      "summary": "I&#39;m an undergraduate researcher working independently on conversational memory systems. I developed LSREP to evaluate how persistent memory accumulates, changes and retrieves information over the course of an evolving conversation. Instead of relying only on isolated endpoint",
+      "phases": [
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
       "id": "727c11a4a3dd",
       "title": "Best option for local models [D]",
       "url": "t3_1xkwrp3",
@@ -1690,54 +1734,6 @@
         "p2"
       ],
       "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "f09683aa930c",
-      "title": "I built a scikit-learn for RSI [P]",
-      "url": "t3_1xkeq7d",
-      "source": "r/ML",
-      "published": "2026-10-31T16:33:26+00:00",
-      "summary": "After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently? Evaluation: How do we know a new variant actually improves the agent? Diversity: How do we avoid converging too ea",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "4aa14cf45f2a",
-      "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
-      "url": "t3_1xkcy83",
-      "source": "r/ML",
-      "published": "2026-10-31T15:21:39+00:00",
-      "summary": "&#32; submitted by &#32; /u/rottoneuro [link] &#32; [comments]",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "tools",
-      "weight": 1
-    },
-    {
-      "id": "45938d5c54f6",
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "url": "t3_1xjyo89",
-      "source": "r/ML",
-      "published": "2026-10-31T02:30:21+00:00",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you&#39;re looking for] For Those looking for jobs please use this template Want to be Hired: [Location], Salary Expectatio",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
       "weight": 1
     }
   ]
