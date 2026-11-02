@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T21:26:56.303363+00:00",
+  "generated": "2026-11-02T03:07:43.159981+00:00",
   "count": 120,
   "articles": [
     {
@@ -1601,6 +1601,23 @@
       "weight": 2
     },
     {
+      "id": "0e5f3bf407fe",
+      "title": "UnEZ: A fully unsupervised, directly interpretable neural network [R]",
+      "url": "t3_1xlkj9m",
+      "source": "r/ML",
+      "published": "2026-11-02T01:40:48+00:00",
+      "summary": "Had this paper come up on my arxiv mailing list and wanted to hear your thoughts on it. Bit of a longer read but as far as I can tell it\u2019s similar to an autoencoder but with a directly interpretable latent space rather than an abstract one. Anyone aware of other models that perfo",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 1
+    },
+    {
       "id": "4c7aed95a752",
       "title": "I animated what GPT-4o's tokenizer does to \"strawberry\": real token ids, a tiny BPE run, and why the space belongs to the word (6 min video) [D]",
       "url": "t3_1xl9sv7",
@@ -1718,20 +1735,6 @@
         "p3",
         "p4",
         "p5"
-      ],
-      "category": "research",
-      "weight": 1
-    },
-    {
-      "id": "c160532d89b3",
-      "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
-      "url": "t3_1xkgtly",
-      "source": "r/ML",
-      "published": "2026-10-31T17:57:22+00:00",
-      "summary": "Hey everyone! I&#39;ve built and trained a small LLM (~8M parameters) from scratch using PyTorch, mainly as an experimental lab where I can implement and test ideas from different research papers. I&#39;ve been documenting the whole journey through casual blogs, including my mist",
-      "phases": [
-        "p1",
-        "p2"
       ],
       "category": "research",
       "weight": 1
