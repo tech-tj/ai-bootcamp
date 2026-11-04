@@ -1,7 +1,60 @@
 {
-  "generated": "2026-11-04T13:25:23.036518+00:00",
+  "generated": "2026-11-04T22:57:50.806487+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "8ccb12fff18a",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI",
+      "published": "2026-11-04T14:30:00+00:00",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "30ad2e480e6f",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI",
+      "published": "2026-11-04T08:00:00+00:00",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "b9febe6c65ab",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI",
+      "published": "2026-11-04T07:00:00+00:00",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "47bc864ef0d2",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "OpenAI",
+      "published": "2026-11-04T00:00:00+00:00",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "f98ffa6f91b4",
       "title": "Accelerating engineering for the physical world",
@@ -807,20 +860,6 @@
       "weight": 3
     },
     {
-      "id": "0f8250f16796",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "570b98dc3ba2",
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
@@ -835,6 +874,20 @@
         "p5"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "0f8250f16796",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -1171,17 +1224,81 @@
       "weight": 3
     },
     {
-      "id": "f9545c4ec00f",
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI",
-      "published": "2026-10-05T15:00:00+00:00",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "id": "f95b3a80fa8b",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-04T18:50:55+00:00",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won",
       "phases": [
-        "p1"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
-      "category": "research",
-      "weight": 3
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "e831baecc2f7",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-04T18:21:40+00:00",
+      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going\u2014even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conver",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "a61cb2852817",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "HuggingFace",
+      "published": "2026-11-04T17:50:10+00:00",
+      "summary": "",
+      "phases": [
+        "p2"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "9198ceda22d6",
+      "title": "What\u2019s next for US energy policy after the midterm elections?",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-04T17:08:00+00:00",
+      "summary": "I\u2019ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn\u2019t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "966745d9c7f0",
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-04T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope \u201cblended\u201d food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students",
+      "phases": [
+        "p3"
+      ],
+      "category": "industry",
+      "weight": 2
     },
     {
       "id": "5a5d2de4de04",
@@ -1570,124 +1687,6 @@
       "phases": [
         "p1",
         "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "874b06cdc036",
-      "title": "Recursa: Toward Recursively Self-Improving Foundation Model Systems",
-      "url": "https://arxiv.org/abs/2611.04035",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-04T00:00:00-05:00",
-      "summary": "arXiv:2611.04035v1 Announce Type: new Abstract: Foundation models in changing environments can encounter unfamiliar domain knowledge that their original training did not cover. However, new domains rarely provide large amounts of expert-created training data or reliable superviso",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "dab4c58789eb",
-      "title": "Exploit or conform? How norm utility prompting changes the way LLMs use community beliefs",
-      "url": "https://arxiv.org/abs/2611.04048",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-04T00:00:00-05:00",
-      "summary": "arXiv:2611.04048v1 Announce Type: new Abstract: Large Language Models (LLMs) serve both as tools for aiding human decision-making in everyday life and as models of human agents in experimental simulation studies. Alignment on prototypical social decisions -- such as whether to co",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "bbe7c7bab882",
-      "title": "Forgetting to Improve: Principled Data Removal in Active Learning",
-      "url": "https://arxiv.org/abs/2611.04054",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-04T00:00:00-05:00",
-      "summary": "arXiv:2611.04054v1 Announce Type: new Abstract: The uncertainty of a statistical model is most commonly factorized into an aleatoric and an epistemic part. This factorization changes how predictions are interpreted in downstream decision tasks. Importantly, except for the idealis",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "d9fe280647c4",
-      "title": "HybridSpec: Throughput-Aware Speculative Decoding for Hybrid GDN-MoE Models",
-      "url": "https://arxiv.org/abs/2611.04055",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-04T00:00:00-05:00",
-      "summary": "arXiv:2611.04055v1 Announce Type: new Abstract: In speculative decoding, parallel drafters such as DFlash make drafting cheap, so target verification dominates each round. A central choice is the verification length, the number of tokens that the target processes in each round. V",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "47da64f76f4f",
-      "title": "Look Before You Launch: Learned Throughput Prediction for Hardware Selection in a Production Training Fleet",
-      "url": "https://arxiv.org/abs/2611.04057",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-04T00:00:00-05:00",
-      "summary": "arXiv:2611.04057v1 Announce Type: new Abstract: In mixed-vendor accelerator fleets, many training jobs can run on several hardware types, and the best choice depends on each job's throughput on each type. Routing a job needs a throughput estimate for every candidate type before t",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "1e8652ca7635",
-      "title": "Query-based Submodular Data Selection for Efficient Instruction Tuning",
-      "url": "https://arxiv.org/abs/2611.04059",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-04T00:00:00-05:00",
-      "summary": "arXiv:2611.04059v1 Announce Type: new Abstract: As large language models are fine-tuned for increasingly specialized tasks, their performance depends more on which training examples are selected than on how many. Given a large heterogeneous training pool and a small target set sp",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "ee813694c165",
-      "title": "On the Primacy Bias in RLVR Training",
-      "url": "https://arxiv.org/abs/2611.04061",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-04T00:00:00-05:00",
-      "summary": "arXiv:2611.04061v1 Announce Type: new Abstract: Reinforcement Learning with Verifiable Reward (RLVR) has emerged as a promising approach for enhancing the reasoning capabilities of large language models. However, it still remains unclear whether RLVR can extend reasoning capabili",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "2d3e1f708413",
-      "title": "AlgoPilot: Cross-Paradigm Reasoning in Language Models via Strategy Selection and Guidance",
-      "url": "https://arxiv.org/abs/2611.04079",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-04T00:00:00-05:00",
-      "summary": "arXiv:2611.04079v1 Announce Type: new Abstract: Real-world problems span diverse domains, including program synthesis, symbolic reasoning, planning, and optimization, and often require fundamentally different solution paradigms. A central challenge for LLM-based reasoning is twof",
-      "phases": [
-        "p1",
-        "p3"
       ],
       "category": "models",
       "weight": 2
