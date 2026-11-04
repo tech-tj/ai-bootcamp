@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T22:39:12.083820+00:00",
+  "generated": "2026-11-04T03:43:13.451729+00:00",
   "count": 120,
   "articles": [
     {
@@ -56,19 +56,6 @@
       "weight": 3
     },
     {
-      "id": "8e75a62f19b3",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI",
-      "published": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "4524e83e3abb",
       "title": "Rewarding defenders with bigger bug bounties",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
@@ -79,6 +66,19 @@
         "p1"
       ],
       "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "8e75a62f19b3",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI",
+      "published": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -780,20 +780,6 @@
       "weight": 3
     },
     {
-      "id": "e078abfded80",
-      "title": "How Localiza reorganized work around generative AI",
-      "url": "https://openai.com/index/localiza-generative-ai",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "bf9122d8d2a3",
       "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
       "url": "https://openai.com/index/grupo-boticario",
@@ -807,12 +793,12 @@
       "weight": 3
     },
     {
-      "id": "0f8250f16796",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "e078abfded80",
+      "title": "How Localiza reorganized work around generative AI",
+      "url": "https://openai.com/index/localiza-generative-ai",
       "source": "OpenAI",
       "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
+      "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
       "phases": [
         "p1",
         "p3"
@@ -835,6 +821,20 @@
         "p5"
       ],
       "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "0f8250f16796",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
