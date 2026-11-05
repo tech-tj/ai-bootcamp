@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T22:57:50.806487+00:00",
+  "generated": "2026-11-05T04:01:16.902793+00:00",
   "count": 120,
   "articles": [
     {
@@ -35,6 +35,19 @@
       "source": "OpenAI",
       "published": "2026-11-04T07:00:00+00:00",
       "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "7a4bae13d7fa",
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI",
+      "published": "2026-11-04T00:00:00+00:00",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
       "phases": [
         "p1"
       ],
@@ -191,6 +204,19 @@
       "weight": 3
     },
     {
+      "id": "d0861db8fca9",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI",
+      "published": "2026-11-02T00:00:00+00:00",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "bc0ed259e6eb",
       "title": "Qodo builds context into AI code review with Codex",
       "url": "https://openai.com/index/qodo-codex-plugin",
@@ -205,19 +231,6 @@
         "p5"
       ],
       "category": "industry",
-      "weight": 3
-    },
-    {
-      "id": "d0861db8fca9",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "source": "OpenAI",
-      "published": "2026-11-02T00:00:00+00:00",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -833,6 +846,20 @@
       "weight": 3
     },
     {
+      "id": "e078abfded80",
+      "title": "How Localiza reorganized work around generative AI",
+      "url": "https://openai.com/index/localiza-generative-ai",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "bf9122d8d2a3",
       "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
       "url": "https://openai.com/index/grupo-boticario",
@@ -846,12 +873,12 @@
       "weight": 3
     },
     {
-      "id": "e078abfded80",
-      "title": "How Localiza reorganized work around generative AI",
-      "url": "https://openai.com/index/localiza-generative-ai",
+      "id": "0f8250f16796",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "source": "OpenAI",
       "published": "2026-10-16T00:00:00+00:00",
-      "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
       "phases": [
         "p1",
         "p3"
@@ -874,20 +901,6 @@
         "p5"
       ],
       "category": "tools",
-      "weight": 3
-    },
-    {
-      "id": "0f8250f16796",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -1027,20 +1040,6 @@
       "weight": 3
     },
     {
-      "id": "38f5a2b46e3b",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "source": "OpenAI",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "industry",
-      "weight": 3
-    },
-    {
       "id": "dc4e32e77a50",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "url": "https://openai.com/index/asana-browser-agent",
@@ -1052,6 +1051,20 @@
         "p3"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "38f5a2b46e3b",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "source": "OpenAI",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "industry",
       "weight": 3
     },
     {
@@ -1672,20 +1685,6 @@
         "p2",
         "p3",
         "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c95fa5ed8506",
-      "title": "ROCm InferaSim: Cut LLM Serving Trial Costs and Deploy the Best Configuration",
-      "url": "https://arxiv.org/abs/2611.04032",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-04T00:00:00-05:00",
-      "summary": "arXiv:2611.04032v1 Announce Type: new Abstract: Serving an LLM efficiently depends on the engine, how the model is split across GPUs, precision, scheduler settings, speculative decoding, KV-cache management, and prefill-decode disaggregation. The best configuration depends on the",
-      "phases": [
-        "p1",
         "p5"
       ],
       "category": "models",
