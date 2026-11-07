@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T22:28:53.706472+00:00",
+  "generated": "2026-11-07T03:34:57.494490+00:00",
   "count": 120,
   "articles": [
     {
@@ -1250,19 +1250,6 @@
       "weight": 3
     },
     {
-      "id": "fee7fc1eb27f",
-      "title": "Disrupting AI-enabled \u201cfalse front\u201d operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "source": "OpenAI",
-      "published": "2026-10-08T00:00:00+00:00",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "27984b16f9bc",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "url": "https://huggingface.co/blog/allenai/toyblocks",
@@ -1669,6 +1656,19 @@
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "c2f8bf7f4b82",
+      "title": "Redacting Personal Data: A Speed and Accuracy Comparison of Regex, Presidio and Hybrid Designs",
+      "url": "https://arxiv.org/abs/2611.07633",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-06T00:00:00-05:00",
+      "summary": "arXiv:2611.07633v1 Announce Type: new Abstract: Many enterprise projects now pass free text to large language models (LLMs), and that text often contains personally identifiable information (PII) such as names, phone numbers, email addresses, home addresses and dates of birth. On",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 2
