@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T03:05:12.373207+00:00",
+  "generated": "2026-11-08T12:21:25.810449+00:00",
   "count": 120,
   "articles": [
     {
@@ -1178,34 +1178,6 @@
       "weight": 3
     },
     {
-      "id": "dc4e32e77a50",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "38f5a2b46e3b",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "source": "OpenAI",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "phases": [
-        "p1",
-        "p5"
-      ],
-      "category": "industry",
-      "weight": 3
-    },
-    {
       "id": "27984b16f9bc",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "url": "https://huggingface.co/blog/allenai/toyblocks",
@@ -1708,6 +1680,40 @@
         "p5"
       ],
       "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "9fba733ce125",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "HuggingFace",
+      "published": "2026-10-19T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "752ec58d0f63",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "source": "HuggingFace",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
       "weight": 2
     }
   ]
