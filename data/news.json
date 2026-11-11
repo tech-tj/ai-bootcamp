@@ -1,7 +1,24 @@
 {
-  "generated": "2026-11-10T22:37:34.003006+00:00",
+  "generated": "2026-11-11T03:35:01.239382+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "49cf590dc337",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "8477a8159d48",
       "title": "Gemini Intelligence: New features, on more devices",
@@ -406,19 +423,6 @@
       "weight": 3
     },
     {
-      "id": "4524e83e3abb",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "source": "OpenAI",
-      "published": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
       "id": "8e75a62f19b3",
       "title": "Preparing our next security sprint to harden OpenAI",
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
@@ -429,6 +433,19 @@
         "p1"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "4524e83e3abb",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI",
+      "published": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
       "weight": 3
     },
     {
@@ -488,19 +505,6 @@
       "weight": 3
     },
     {
-      "id": "d0861db8fca9",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "source": "OpenAI",
-      "published": "2026-11-02T00:00:00+00:00",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "bc0ed259e6eb",
       "title": "Qodo builds context into AI code review with Codex",
       "url": "https://openai.com/index/qodo-codex-plugin",
@@ -515,6 +519,19 @@
         "p5"
       ],
       "category": "industry",
+      "weight": 3
+    },
+    {
+      "id": "d0861db8fca9",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI",
+      "published": "2026-11-02T00:00:00+00:00",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -1130,19 +1147,6 @@
       "weight": 3
     },
     {
-      "id": "bf9122d8d2a3",
-      "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
-      "url": "https://openai.com/index/grupo-boticario",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Almost 50 years after starting in a compounding pharmacy in Paran\u00e1, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers\u2019 operational requests\u2014enabling the sales force to take on an advisory role.",
-      "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "e078abfded80",
       "title": "How Localiza reorganized work around generative AI",
       "url": "https://openai.com/index/localiza-generative-ai",
@@ -1151,6 +1155,19 @@
       "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
       "phases": [
         "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "bf9122d8d2a3",
+      "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
+      "url": "https://openai.com/index/grupo-boticario",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Almost 50 years after starting in a compounding pharmacy in Paran\u00e1, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers\u2019 operational requests\u2014enabling the sales force to take on an advisory role.",
+      "phases": [
         "p3"
       ],
       "category": "models",
@@ -1656,20 +1673,6 @@
       "source": "ArXiv cs.AI",
       "published": "2026-11-10T00:00:00-05:00",
       "summary": "arXiv:2611.10265v1 Announce Type: new Abstract: LLMs are increasingly used to support decisions that require moral consideration. While LLMs perform well on morality benchmarks from psychology and philosophy, producing appropriate outputs on these benchmarks (moral performance) d",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "4fbf7475fb64",
-      "title": "Adversarial Evaluation of Large Language Models for Patient-Friendly Radiology Report Summarization",
-      "url": "https://arxiv.org/abs/2611.10277",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-10T00:00:00-05:00",
-      "summary": "arXiv:2611.10277v1 Announce Type: new Abstract: Purpose: To develop and validate a scalable adversarial evaluation framework for assessing the robustness of large language models (LLMs) that generate patient-friendly summaries of radiology reports. Methods: We introduced a clinic",
       "phases": [
         "p1",
         "p4"
