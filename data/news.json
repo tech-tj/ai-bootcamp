@@ -1,7 +1,50 @@
 {
-  "generated": "2026-11-16T03:36:21.839473+00:00",
+  "generated": "2026-11-16T14:11:40.681035+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "3e4a4b87c34f",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "source": "Google AI",
+      "published": "2026-11-16T14:00:00+00:00",
+      "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "b73c6d7b3972",
+      "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI",
+      "published": "2026-11-16T09:00:00+00:00",
+      "summary": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "2b4f9d829bf9",
+      "title": "The King\u2019s Trust and OpenAI launch \u00a31m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI",
+      "published": "2026-11-16T00:00:00+00:00",
+      "summary": "The King\u2019s Trust and OpenAI launch a \u00a31m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
     {
       "id": "df3e44b99410",
       "title": "A step toward defining the Standard Model on a lattice",
@@ -648,19 +691,6 @@
       "weight": 3
     },
     {
-      "id": "4524e83e3abb",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "source": "OpenAI",
-      "published": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "phases": [
-        "p1"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
       "id": "8e75a62f19b3",
       "title": "Preparing our next security sprint to harden OpenAI",
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
@@ -671,6 +701,19 @@
         "p1"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "4524e83e3abb",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI",
+      "published": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "phases": [
+        "p1"
+      ],
+      "category": "research",
       "weight": 3
     },
     {
@@ -1355,76 +1398,12 @@
       "weight": 3
     },
     {
-      "id": "70f1a0b616c3",
-      "title": "The Sequence Radar - Issue #972: Last Week in AI: The Invisible Hand Wore a Leather Jacket",
-      "url": "https://thesequence.substack.com/p/the-sequence-radar-issue-972-last",
-      "source": "TheSequence",
-      "published": "2026-11-15T12:01:06+00:00",
-      "summary": "Jensen Huang helped design and finance the AI market. Now it has to discover how much of its independence depended on him.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "9c47793813e0",
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "source": "HuggingFace",
-      "published": "2026-11-13T18:00:39+00:00",
-      "summary": "",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "e9d93e607b69",
-      "title": "XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "source": "HuggingFace",
-      "published": "2026-11-13T17:02:35+00:00",
-      "summary": "",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "1f76189be1ea",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "HuggingFace",
-      "published": "2026-11-13T14:05:22+00:00",
-      "summary": "",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "2f156a26578b",
-      "title": "The Download: Silicon Valley\u2019s blind spot and Nvidia\u2019s chip-tracking plan",
-      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "id": "b63d95711a10",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
       "source": "MIT Tech Review",
-      "published": "2026-11-13T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? \u2014Aaron Zamost, a tech communications consultant",
+      "published": "2026-11-16T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Imposs",
       "phases": [
         "p1",
         "p2",
@@ -1436,12 +1415,70 @@
       "weight": 2
     },
     {
-      "id": "704b61066362",
-      "title": "The Sequence Robotics - Issue #971: Robots Should Learn on the Job",
-      "url": "https://thesequence.substack.com/p/the-sequence-robotics-issue-971-robots",
-      "source": "TheSequence",
-      "published": "2026-11-13T11:43:48+00:00",
-      "summary": "Inside Tutor Intelligence&#8217;s attempt to turn useful work, human guidance, and simulated practice into better robot intelligence.",
+      "id": "789d923f5002",
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity interven",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "910f04591538",
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "url": "https://arxiv.org/abs/2611.17339",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship o",
+      "phases": [
+        "p1",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "f514627bdf0f",
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "url": "https://arxiv.org/abs/2611.17340",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complica",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "a9f5ac62e51a",
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and a",
+      "phases": [
+        "p2",
+        "p3",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "c8c59e0468e3",
+      "title": "An Operationalization of Opaque Serial Depth",
+      "url": "https://arxiv.org/abs/2611.17495",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17495v1 Announce Type: new Abstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize a measure that serves as a proxy for the amount of unverbal",
       "phases": [
         "p1",
         "p2",
@@ -1453,12 +1490,40 @@
       "weight": 2
     },
     {
-      "id": "27c20cf959b0",
-      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-13T10:00:00+00:00",
-      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to \u201cspeak.\u201d The people who volunteer for trials of those devices play a vital role in that research, an",
+      "id": "294bd9f5ecae",
+      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+      "url": "https://arxiv.org/abs/2611.17501",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17501v1 Announce Type: new Abstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate quant",
+      "phases": [
+        "p1",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "b8f4a30d8e13",
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "url": "https://arxiv.org/abs/2611.17515",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcript",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "7a50dc3d9b6c",
+      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+      "url": "https://arxiv.org/abs/2611.17524",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17524v1 Announce Type: new Abstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidatio",
       "phases": [
         "p1",
         "p2",
@@ -1470,187 +1535,12 @@
       "weight": 2
     },
     {
-      "id": "3d12bf3f82e2",
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-13T10:00:00+00:00",
-      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta\u2019s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google f",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "00fbeb28d23d",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-12T20:16:24+00:00",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group cla",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "f052c6845a6e",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "HuggingFace",
-      "published": "2026-11-12T19:07:35+00:00",
-      "summary": "",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "cfcba6f2e65c",
-      "title": "The Download: COP31\u2019s climate challenge and the quest for immortality",
-      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-12T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year\u2019s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turke",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "0ab0369c1f7e",
-      "title": "The Sequence Opinion - Issue #970: The Neocloud Financing Squeeze",
-      "url": "https://thesequence.substack.com/p/the-sequence-opinion-issue-970-the",
-      "source": "TheSequence",
-      "published": "2026-11-12T12:02:45+00:00",
-      "summary": "Why booming AI demand can coexist with fragile balance sheets",
-      "phases": [
-        "p2"
-      ],
-      "category": "community",
-      "weight": 2
-    },
-    {
-      "id": "d3916f44cf9c",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "HuggingFace",
-      "published": "2026-11-12T00:00:00+00:00",
-      "summary": "",
-      "phases": [
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "4e20a5f0cdfe",
-      "title": "What to know about this year\u2019s UN climate talks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-11T17:00:00+00:00",
-      "summary": "It\u2019s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "63c379e63905",
-      "title": "The Download: preserving minds and weighing open AI risks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-11T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we\u2019ve experienced, yet there\u2019s still undeniable contin",
-      "phases": [
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "e31443634a51",
-      "title": "The Sequence Learning Loop - Issue #969: Last Week in AI: Security Agents, Custom Models, and Editable Video",
-      "url": "https://thesequence.substack.com/p/the-sequence-learning-loop-issue-b13",
-      "source": "TheSequence",
-      "published": "2026-11-11T12:03:47+00:00",
-      "summary": "GPT-6 Cyber, Inkling 2 Small, and Gemini put feedback at the center of useful work",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "4c5ef8a2d9ea",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "HuggingFace",
-      "published": "2026-11-11T05:01:16+00:00",
-      "summary": "",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "542cd5af268e",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "source": "HuggingFace",
-      "published": "2026-11-11T00:00:00+00:00",
-      "summary": "",
-      "phases": [
-        "p1",
-        "p2"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "c31928bbebfd",
-      "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
-      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-10T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi\u2019s replacement is ready to regulate AI \u2014Grace Huckins As a California state senator, Scott Wiener authored legislation",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "2d5bc13d49d0",
-      "title": "Evolving metal extraction processes",
-      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-10T13:00:00+00:00",
-      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways t",
+      "id": "e1f17ed7fcab",
+      "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+      "url": "https://arxiv.org/abs/2611.17532",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17532v1 Announce Type: new Abstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is ",
       "phases": [
         "p1",
         "p2",
@@ -1662,37 +1552,131 @@
       "weight": 2
     },
     {
-      "id": "084af8f01668",
-      "title": "The Sequence Knowledge - Issue #968: Learning RSI: Mathematics as a Laboratory for Recursive Improvement",
-      "url": "https://thesequence.substack.com/p/the-sequence-knowledge-issue-968",
-      "source": "TheSequence",
-      "published": "2026-11-10T12:05:44+00:00",
-      "summary": "AlphaProof and the importance of a trustworthy learning signal",
+      "id": "5b03b4858f24",
+      "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+      "url": "https://arxiv.org/abs/2611.17539",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17539v1 Announce Type: new Abstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic search p",
       "phases": [
         "p1",
-        "p2",
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "436ad40789f8",
+      "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+      "url": "https://arxiv.org/abs/2611.17564",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17564v1 Announce Type: new Abstract: Governments are writing rules for artificial intelligence that decide what counts as an automated decision or a harm, often before the people they affect have a chance to question them. We introduce AI-Voyager, a public-interest sys",
+      "phases": [
+        "p3"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "ee7f42a56405",
+      "title": "When Does Less Information Pay? An Exact Finite Atlas of Representation, Payoff, and Cost",
+      "url": "https://arxiv.org/abs/2611.17583",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17583v1 Announce Type: new Abstract: A representation that retains one bit about a four-state world can solve a task perfectly, while another that retains 1.5 bits on average reaches only 75% accuracy. The difference lies in which distinctions each representation prese",
+      "phases": [
+        "p2"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "67c9b16f517d",
+      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+      "url": "https://arxiv.org/abs/2611.17610",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17610v1 Announce Type: new Abstract: Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empir",
+      "phases": [
+        "p1",
         "p3",
-        "p4",
-        "p5"
+        "p4"
       ],
       "category": "models",
       "weight": 2
     },
     {
-      "id": "992e8c410947",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "source": "HuggingFace",
-      "published": "2026-11-10T00:00:00+00:00",
-      "summary": "",
+      "id": "57603665a8aa",
+      "title": "LLM-Guided Cluster Lifecycle Management: Deciding When and How to Evolve Behavioral Clusters",
+      "url": "https://arxiv.org/abs/2611.17616",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17616v1 Announce Type: new Abstract: Behavioral clusters learned over user or item interactions drift as behavior evolves: some fragment into sub-behaviors, some converge, some disappear, and new patterns emerge. Two paradigms dominate the maintenance of evolving clust",
       "phases": [
         "p1",
         "p2",
-        "p3",
-        "p4",
         "p5"
       ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "26a626398988",
+      "title": "Safety Side Effects of Preventative Persona Steering: An Empirical Audit",
+      "url": "https://arxiv.org/abs/2611.17620",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17620v1 Announce Type: new Abstract: High-level behaviors such as sycophancy and hallucination correspond to directions in a model's activation space (Chen et al., 2025). These directions, known as persona vectors, can suppress undesirable traits either at inference ti",
+      "phases": [
+        "p1",
+        "p2",
+        "p4"
+      ],
       "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "03c9d1311f37",
+      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+      "url": "https://arxiv.org/abs/2611.17621",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17621v1 Announce Type: new Abstract: Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to ",
+      "phases": [
+        "p1",
+        "p3",
+        "p4"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "39259697ff06",
+      "title": "Generated Evaluation Suites as Diversity-Driven Search for Real Agent Regressions",
+      "url": "https://arxiv.org/abs/2611.17632",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17632v1 Announce Type: new Abstract: Generating an evaluation suite from an agent's specification is diversity-driven search: a generator fills a descriptor space (requirements $\\times$ personas $\\times$ scenario kinds), and the suite it emits is an archive, then score",
+      "phases": [
+        "p3",
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "fb334930cd4a",
+      "title": "What LLM Agents See and What Users Say",
+      "url": "https://arxiv.org/abs/2611.17639",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-16T00:00:00-05:00",
+      "summary": "arXiv:2611.17639v1 Announce Type: new Abstract: Before an LLM agent cancels a reservation or deletes a folder for a user, what stops it from acting on a false assumption: what its tools show, or what the user says? In this work, we study this gap with presupposition theory from l",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "research",
       "weight": 2
     }
   ]
