@@ -1,7 +1,37 @@
 {
-  "generated": "2026-11-16T14:11:40.681035+00:00",
+  "generated": "2026-11-17T01:14:04.004976+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "a8005cc7b595",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI",
+      "published": "2026-11-16T17:00:00+00:00",
+      "summary": "We\u2019re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "32c75522a0ea",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "source": "OpenAI",
+      "published": "2026-11-16T17:00:00+00:00",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
     {
       "id": "3e4a4b87c34f",
       "title": "New Ask Maps features to help with holiday travel and prep",
@@ -20,6 +50,20 @@
       "weight": 3
     },
     {
+      "id": "b0555ded3612",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "source": "OpenAI",
+      "published": "2026-11-16T12:00:00+00:00",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "b73c6d7b3972",
       "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
       "url": "https://openai.com/index/lvmh-media-division-partnership",
@@ -33,12 +77,67 @@
       "weight": 3
     },
     {
+      "id": "29025d7302d1",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "source": "OpenAI",
+      "published": "2026-11-16T08:00:00+00:00",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "phases": [
+        "p1",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "725ebed57025",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "OpenAI",
+      "published": "2026-11-16T06:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "350189c72083",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "source": "OpenAI",
+      "published": "2026-11-16T06:00:00+00:00",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "2b4f9d829bf9",
       "title": "The King\u2019s Trust and OpenAI launch \u00a31m partnership",
       "url": "https://openai.com/index/the-kings-trust-and-openai",
       "source": "OpenAI",
       "published": "2026-11-16T00:00:00+00:00",
       "summary": "The King\u2019s Trust and OpenAI launch a \u00a31m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "phases": [
+        "p1"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "e35ddbaadb49",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "source": "OpenAI",
+      "published": "2026-11-16T00:00:00+00:00",
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
       "phases": [
         "p1"
       ],
@@ -691,19 +790,6 @@
       "weight": 3
     },
     {
-      "id": "8e75a62f19b3",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI",
-      "published": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "4524e83e3abb",
       "title": "Rewarding defenders with bigger bug bounties",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
@@ -714,6 +800,19 @@
         "p1"
       ],
       "category": "research",
+      "weight": 3
+    },
+    {
+      "id": "8e75a62f19b3",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI",
+      "published": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -773,19 +872,6 @@
       "weight": 3
     },
     {
-      "id": "d0861db8fca9",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "source": "OpenAI",
-      "published": "2026-11-02T00:00:00+00:00",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "bc0ed259e6eb",
       "title": "Qodo builds context into AI code review with Codex",
       "url": "https://openai.com/index/qodo-codex-plugin",
@@ -800,6 +886,19 @@
         "p5"
       ],
       "category": "industry",
+      "weight": 3
+    },
+    {
+      "id": "d0861db8fca9",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI",
+      "published": "2026-11-02T00:00:00+00:00",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -1398,6 +1497,56 @@
       "weight": 3
     },
     {
+      "id": "6352fbce7f64",
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-16T18:38:47+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signa",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "78c3bdf8c94d",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-16T16:04:28+00:00",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it h",
+      "phases": [
+        "p1",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "0e16a9a4d2c4",
+      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "url": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/",
+      "source": "Import AI",
+      "published": "2026-11-16T14:01:15+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe now AI systems are getting good at sub-contracting to make themselves better:\u2026AI can now productively ",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
       "id": "b63d95711a10",
       "title": "The Download: testing tech promises and searching for cognitive immortality",
       "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
@@ -1410,6 +1559,19 @@
         "p3",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "0f553794f8a7",
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-16T13:00:00+00:00",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows ",
+      "phases": [
+        "p3"
       ],
       "category": "models",
       "weight": 2
@@ -1510,168 +1672,6 @@
       "source": "ArXiv cs.AI",
       "published": "2026-11-16T00:00:00-05:00",
       "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcript",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "7a50dc3d9b6c",
-      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
-      "url": "https://arxiv.org/abs/2611.17524",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-16T00:00:00-05:00",
-      "summary": "arXiv:2611.17524v1 Announce Type: new Abstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidatio",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "e1f17ed7fcab",
-      "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
-      "url": "https://arxiv.org/abs/2611.17532",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-16T00:00:00-05:00",
-      "summary": "arXiv:2611.17532v1 Announce Type: new Abstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is ",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "5b03b4858f24",
-      "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
-      "url": "https://arxiv.org/abs/2611.17539",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-16T00:00:00-05:00",
-      "summary": "arXiv:2611.17539v1 Announce Type: new Abstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic search p",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "436ad40789f8",
-      "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
-      "url": "https://arxiv.org/abs/2611.17564",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-16T00:00:00-05:00",
-      "summary": "arXiv:2611.17564v1 Announce Type: new Abstract: Governments are writing rules for artificial intelligence that decide what counts as an automated decision or a harm, often before the people they affect have a chance to question them. We introduce AI-Voyager, a public-interest sys",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "ee7f42a56405",
-      "title": "When Does Less Information Pay? An Exact Finite Atlas of Representation, Payoff, and Cost",
-      "url": "https://arxiv.org/abs/2611.17583",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-16T00:00:00-05:00",
-      "summary": "arXiv:2611.17583v1 Announce Type: new Abstract: A representation that retains one bit about a four-state world can solve a task perfectly, while another that retains 1.5 bits on average reaches only 75% accuracy. The difference lies in which distinctions each representation prese",
-      "phases": [
-        "p2"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "67c9b16f517d",
-      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
-      "url": "https://arxiv.org/abs/2611.17610",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-16T00:00:00-05:00",
-      "summary": "arXiv:2611.17610v1 Announce Type: new Abstract: Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empir",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "57603665a8aa",
-      "title": "LLM-Guided Cluster Lifecycle Management: Deciding When and How to Evolve Behavioral Clusters",
-      "url": "https://arxiv.org/abs/2611.17616",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-16T00:00:00-05:00",
-      "summary": "arXiv:2611.17616v1 Announce Type: new Abstract: Behavioral clusters learned over user or item interactions drift as behavior evolves: some fragment into sub-behaviors, some converge, some disappear, and new patterns emerge. Two paradigms dominate the maintenance of evolving clust",
-      "phases": [
-        "p1",
-        "p2",
-        "p5"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "26a626398988",
-      "title": "Safety Side Effects of Preventative Persona Steering: An Empirical Audit",
-      "url": "https://arxiv.org/abs/2611.17620",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-16T00:00:00-05:00",
-      "summary": "arXiv:2611.17620v1 Announce Type: new Abstract: High-level behaviors such as sycophancy and hallucination correspond to directions in a model's activation space (Chen et al., 2025). These directions, known as persona vectors, can suppress undesirable traits either at inference ti",
-      "phases": [
-        "p1",
-        "p2",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "03c9d1311f37",
-      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
-      "url": "https://arxiv.org/abs/2611.17621",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-16T00:00:00-05:00",
-      "summary": "arXiv:2611.17621v1 Announce Type: new Abstract: Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to ",
-      "phases": [
-        "p1",
-        "p3",
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "39259697ff06",
-      "title": "Generated Evaluation Suites as Diversity-Driven Search for Real Agent Regressions",
-      "url": "https://arxiv.org/abs/2611.17632",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-16T00:00:00-05:00",
-      "summary": "arXiv:2611.17632v1 Announce Type: new Abstract: Generating an evaluation suite from an agent's specification is diversity-driven search: a generator fills a descriptor space (requirements $\\times$ personas $\\times$ scenario kinds), and the suite it emits is an archive, then score",
-      "phases": [
-        "p3",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "fb334930cd4a",
-      "title": "What LLM Agents See and What Users Say",
-      "url": "https://arxiv.org/abs/2611.17639",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-16T00:00:00-05:00",
-      "summary": "arXiv:2611.17639v1 Announce Type: new Abstract: Before an LLM agent cancels a reservation or deletes a folder for a user, what stops it from acting on a false assumption: what its tools show, or what the user says? In this work, we study this gap with presupposition theory from l",
       "phases": [
         "p1",
         "p3"
