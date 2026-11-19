@@ -1,7 +1,97 @@
 {
-  "generated": "2026-11-19T14:51:01.478379+00:00",
+  "generated": "2026-11-19T23:58:56.780090+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "4c3ac0becb9b",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI",
+      "published": "2026-11-19T18:00:00+00:00",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4"
+      ],
+      "category": "tools",
+      "weight": 3
+    },
+    {
+      "id": "c1fbfa1ad327",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source": "Google AI",
+      "published": "2026-11-19T17:00:00+00:00",
+      "summary": "Walter Isaacson joins Google to discuss how history\u2019s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "6ea811258a46",
+      "title": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI",
+      "published": "2026-11-19T08:00:00+00:00",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "6ed6090c0942",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI",
+      "published": "2026-11-19T00:00:00+00:00",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "787cd7543718",
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI",
+      "published": "2026-11-19T00:00:00+00:00",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "2e76d5b4b679",
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI",
+      "published": "2026-11-19T00:00:00+00:00",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "d44535ff5d6c",
       "title": "The Gemini app is now available on lower-memory Android devices.",
@@ -30,6 +120,19 @@
       "weight": 3
     },
     {
+      "id": "c4029f8d3d08",
+      "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI",
+      "published": "2026-11-18T08:00:00+00:00",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "32f46a407aa3",
       "title": "Research acceleration: The jagged frontier",
       "url": "https://openai.com/index/research-acceleration-jagged-frontier",
@@ -41,19 +144,6 @@
         "p3"
       ],
       "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "c4029f8d3d08",
-      "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "source": "OpenAI",
-      "published": "2026-11-18T08:00:00+00:00",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
       "weight": 3
     },
     {
@@ -89,12 +179,12 @@
       "weight": 3
     },
     {
-      "id": "a2f695ac2f9b",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "id": "6cc0bdc2d009",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "source": "OpenAI",
       "published": "2026-11-18T00:00:00+00:00",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "summary": "OpenAI models optimized circuits used in Jalape\u00f1o silicon and improved RISC\u2011V core designs, showing progress in AI-assisted chip design with GPT\u20116 Astra.",
       "phases": [
         "p1"
       ],
@@ -102,12 +192,12 @@
       "weight": 3
     },
     {
-      "id": "6cc0bdc2d009",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "id": "a2f695ac2f9b",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
       "published": "2026-11-18T00:00:00+00:00",
-      "summary": "OpenAI models optimized circuits used in Jalape\u00f1o silicon and improved RISC\u2011V core designs, showing progress in AI-assisted chip design with GPT\u20116 Astra.",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
       "phases": [
         "p1"
       ],
@@ -296,6 +386,19 @@
       "weight": 3
     },
     {
+      "id": "725ebed57025",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "OpenAI",
+      "published": "2026-11-16T06:00:00+00:00",
+      "summary": "",
+      "phases": [
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
       "id": "350189c72083",
       "title": "More ways to move care forward with ChatGPT for Healthcare",
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
@@ -304,19 +407,6 @@
       "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
       "phases": [
         "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "725ebed57025",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "source": "OpenAI",
-      "published": "2026-11-16T06:00:00+00:00",
-      "summary": "",
-      "phases": [
         "p3"
       ],
       "category": "models",
@@ -1571,90 +1661,6 @@
         "p1"
       ],
       "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "707234813354",
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI",
-      "published": "2026-10-21T12:00:00+00:00",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini\u2019s Model Garden, available through Google Cloud Marketplace.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "6d72427cd4b8",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "source": "OpenAI",
-      "published": "2026-10-21T07:00:00+00:00",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "phases": [
-        "p3"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "3dac179b5263",
-      "title": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
-      "url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "source": "OpenAI",
-      "published": "2026-10-21T07:00:00+00:00",
-      "summary": "Learn how OpenAI built ChatGPT\u2019s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "c29efc53a85f",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "source": "OpenAI",
-      "published": "2026-10-21T04:50:00+00:00",
-      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "phases": [
-        "p1",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
-      "id": "aec1886eb4d5",
-      "title": "Southeast Asia\u2019s digital economy to hit $368 billion",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "source": "Google AI",
-      "published": "2026-10-21T04:00:00+00:00",
-      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "fa5b0957b522",
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "url": "https://openai.com/index/cloudflare-cyber",
-      "source": "OpenAI",
-      "published": "2026-10-21T00:00:00+00:00",
-      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-      "phases": [
-        "p1"
-      ],
-      "category": "industry",
       "weight": 3
     }
   ]
