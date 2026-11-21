@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T13:50:13.869543+00:00",
+  "generated": "2026-11-21T22:31:23.134468+00:00",
   "count": 120,
   "articles": [
     {
@@ -1641,19 +1641,6 @@
       "weight": 3
     },
     {
-      "id": "139683c4cb22",
-      "title": "Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
-      "source": "OpenAI",
-      "published": "2026-10-22T19:00:00+00:00",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "phases": [
-        "p1"
-      ],
-      "category": "tools",
-      "weight": 3
-    },
-    {
       "id": "725253bdc71e",
       "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
       "url": "https://arxiv.org/abs/2611.24999",
@@ -1662,6 +1649,21 @@
       "summary": "arXiv:2611.24999v1 Announce Type: new Abstract: Understanding how stable psychometric traits and time-varying states jointly inform behavior is an important problem in computational behavioral science. Existing personalized agents commonly condition actions directly on a static p",
       "phases": [
         "p3"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "d04f797c0c36",
+      "title": "Watch Where You Linearize: Predicting and Correcting Model-Merging Interference",
+      "url": "https://arxiv.org/abs/2611.25000",
+      "source": "ArXiv cs.LG",
+      "published": "2026-11-21T00:00:00-05:00",
+      "summary": "arXiv:2611.25000v1 Announce Type: new Abstract: Model merging combines separately fine-tuned models by adding their task vectors to a shared backbone. Interference is typically assessed only after constructing and evaluating a candidate merge, making coefficient search expensive.",
+      "phases": [
+        "p2",
+        "p4",
+        "p5"
       ],
       "category": "models",
       "weight": 2
