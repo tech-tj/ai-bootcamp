@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T22:31:23.134468+00:00",
+  "generated": "2026-11-22T03:52:25.857888+00:00",
   "count": 120,
   "articles": [
     {
@@ -1614,33 +1614,6 @@
       "weight": 3
     },
     {
-      "id": "27106abd312b",
-      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "url": "https://openai.com/index/anima",
-      "source": "OpenAI",
-      "published": "2026-10-23T00:00:00+00:00",
-      "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "39c8c1e08705",
-      "title": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI",
-      "published": "2026-10-23T00:00:00+00:00",
-      "summary": "OpenAI and Poland\u2019s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "phases": [
-        "p1",
-        "p4"
-      ],
-      "category": "research",
-      "weight": 3
-    },
-    {
       "id": "725253bdc71e",
       "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
       "url": "https://arxiv.org/abs/2611.24999",
@@ -1664,6 +1637,32 @@
         "p2",
         "p4",
         "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "24de3f106c2d",
+      "title": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
+      "url": "https://arxiv.org/abs/2611.25001",
+      "source": "ArXiv cs.LG",
+      "published": "2026-11-21T00:00:00-05:00",
+      "summary": "arXiv:2611.25001v1 Announce Type: new Abstract: Generator-based sparse adversarial attacks train encoder--decoder networks to produce transferable sparse perturbations for black-box robustness evaluation. Their perturbation density, however, is set only indirectly by a fixed spar",
+      "phases": [
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "e78c9e48a57f",
+      "title": "A Model of Diverse Sampling from Language Models",
+      "url": "https://arxiv.org/abs/2611.25003",
+      "source": "ArXiv cs.LG",
+      "published": "2026-11-21T00:00:00-05:00",
+      "summary": "arXiv:2611.25003v1 Announce Type: new Abstract: Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes. We formalize diverse generation as sampling a size-$K$ subset of complete strings from a d",
+      "phases": [
+        "p1"
       ],
       "category": "models",
       "weight": 2
