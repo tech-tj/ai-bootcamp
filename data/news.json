@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T03:52:25.857888+00:00",
+  "generated": "2026-11-22T13:43:23.057423+00:00",
   "count": 120,
   "articles": [
     {
@@ -1600,41 +1600,29 @@
       "weight": 3
     },
     {
-      "id": "759fe46ed90d",
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI",
-      "published": "2026-10-23T10:00:00+00:00",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "id": "b86580389642",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-20T18:15:15+00:00",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory\u2014but it also indicates that models aren\u2019t quite as good at tasks that require judgment as they are at coding. The report is an update to the",
       "phases": [
-        "p1",
         "p4"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
-      "id": "725253bdc71e",
-      "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
-      "url": "https://arxiv.org/abs/2611.24999",
-      "source": "ArXiv cs.LG",
-      "published": "2026-11-21T00:00:00-05:00",
-      "summary": "arXiv:2611.24999v1 Announce Type: new Abstract: Understanding how stable psychometric traits and time-varying states jointly inform behavior is an important problem in computational behavioral science. Existing personalized agents commonly condition actions directly on a static p",
-      "phases": [
-        "p3"
       ],
       "category": "models",
       "weight": 2
     },
     {
-      "id": "d04f797c0c36",
-      "title": "Watch Where You Linearize: Predicting and Correcting Model-Merging Interference",
-      "url": "https://arxiv.org/abs/2611.25000",
-      "source": "ArXiv cs.LG",
-      "published": "2026-11-21T00:00:00-05:00",
-      "summary": "arXiv:2611.25000v1 Announce Type: new Abstract: Model merging combines separately fine-tuned models by adding their task vectors to a shared backbone. Interference is typically assessed only after constructing and evaluating a candidate merge, making coefficient search expensive.",
+      "id": "258a045520db",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-20T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are ",
       "phases": [
+        "p1",
         "p2",
+        "p3",
         "p4",
         "p5"
       ],
@@ -1642,29 +1630,54 @@
       "weight": 2
     },
     {
-      "id": "24de3f106c2d",
-      "title": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
-      "url": "https://arxiv.org/abs/2611.25001",
-      "source": "ArXiv cs.LG",
-      "published": "2026-11-21T00:00:00-05:00",
-      "summary": "arXiv:2611.25001v1 Announce Type: new Abstract: Generator-based sparse adversarial attacks train encoder--decoder networks to produce transferable sparse perturbations for black-box robustness evaluation. Their perturbation density, however, is set only indirectly by a fixed spar",
+      "id": "c1386e2c0414",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "HuggingFace",
+      "published": "2026-11-20T00:00:00+00:00",
+      "summary": "",
       "phases": [
-        "p4"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
-      "category": "research",
+      "category": "models",
       "weight": 2
     },
     {
-      "id": "e78c9e48a57f",
-      "title": "A Model of Diverse Sampling from Language Models",
-      "url": "https://arxiv.org/abs/2611.25003",
-      "source": "ArXiv cs.LG",
-      "published": "2026-11-21T00:00:00-05:00",
-      "summary": "arXiv:2611.25003v1 Announce Type: new Abstract: Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes. We formalize diverse generation as sampling a size-$K$ subset of complete strings from a d",
+      "id": "d74af1cfb4b1",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "HuggingFace",
+      "published": "2026-11-20T00:00:00+00:00",
+      "summary": "",
       "phases": [
-        "p1"
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "511c0dc52d7f",
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-19T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they\u2019ve kept a human li",
+      "phases": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "research",
       "weight": 2
     }
   ]
