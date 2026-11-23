@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T04:31:30.048566+00:00",
+  "generated": "2026-11-23T16:43:49.732703+00:00",
   "count": 120,
   "articles": [
     {
@@ -1599,12 +1599,25 @@
       "weight": 3
     },
     {
-      "id": "b86580389642",
-      "title": "The most misunderstood graph in AI just got a major update",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "id": "8c674f38f9d9",
+      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab\u2019s AI science benchmark",
+      "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+      "source": "Import AI",
+      "published": "2026-11-23T14:11:17+00:00",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. Subscribe now Chinese researchers optimize Huawei chips with a kernel improvement benchmark:\u2026AscendGYM will help China do its own form of RSI\u2026Researchers with th",
+      "phases": [
+        "p4"
+      ],
+      "category": "research",
+      "weight": 2
+    },
+    {
+      "id": "dd1199899b51",
+      "title": "The Download: AI\u2019s judgment problem and carbon removal\u2019s crop threat",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
       "source": "MIT Tech Review",
-      "published": "2026-11-20T18:15:15+00:00",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory\u2014but it also indicates that models aren\u2019t quite as good at tasks that require judgment as they are at coding. The report is an update to the",
+      "published": "2026-11-23T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capa",
       "phases": [
         "p4"
       ],
@@ -1612,12 +1625,12 @@
       "weight": 2
     },
     {
-      "id": "258a045520db",
-      "title": "The Download: inside the quest to make our minds immortal",
-      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "id": "855fe82a9449",
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
       "source": "MIT Tech Review",
-      "published": "2026-11-20T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are ",
+      "published": "2026-11-23T11:00:00+00:00",
+      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and",
       "phases": [
         "p1",
         "p2",
@@ -1625,56 +1638,32 @@
         "p4",
         "p5"
       ],
-      "category": "models",
+      "category": "industry",
       "weight": 2
     },
     {
-      "id": "c1386e2c0414",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "source": "HuggingFace",
-      "published": "2026-11-20T00:00:00+00:00",
-      "summary": "",
+      "id": "fec02ded2ed3",
+      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+      "url": "https://arxiv.org/abs/2611.26663",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-23T00:00:00-05:00",
+      "summary": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavio",
       "phases": [
-        "p1",
         "p2",
-        "p3",
-        "p4",
-        "p5"
+        "p3"
       ],
-      "category": "models",
+      "category": "research",
       "weight": 2
     },
     {
-      "id": "d74af1cfb4b1",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "source": "HuggingFace",
-      "published": "2026-11-20T00:00:00+00:00",
-      "summary": "",
+      "id": "b84fd6411264",
+      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+      "url": "https://arxiv.org/abs/2611.26717",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-23T00:00:00-05:00",
+      "summary": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We stud",
       "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "511c0dc52d7f",
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-19T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they\u2019ve kept a human li",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
+        "p1"
       ],
       "category": "research",
       "weight": 2
