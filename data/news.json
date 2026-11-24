@@ -1,7 +1,61 @@
 {
-  "generated": "2026-11-23T16:43:49.732703+00:00",
+  "generated": "2026-11-24T03:33:34.707619+00:00",
   "count": 120,
   "articles": [
+    {
+      "id": "4dc6c6490d75",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "published": "2026-11-23T21:20:00+00:00",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "5353a3c7ac17",
+      "title": "A more tailored Google Search that\u2019s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI",
+      "published": "2026-11-23T17:00:00+00:00",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "4201990503e1",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source": "OpenAI",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Watch OpenAI\u2019s Stacey Wang and Craig Bruney, Mary O\u2019Carroll of LECG, and Cooley\u2019s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "a082949f03d8",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "phases": [
+        "p1",
+        "p3"
+      ],
+      "category": "models",
+      "weight": 3
+    },
     {
       "id": "d2fc1e262b4c",
       "title": "Perplexity and Intelligence",
@@ -105,20 +159,6 @@
       "weight": 3
     },
     {
-      "id": "556aee5cf74a",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI",
-      "published": "2026-11-19T00:00:00+00:00",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "phases": [
-        "p4",
-        "p5"
-      ],
-      "category": "industry",
-      "weight": 3
-    },
-    {
       "id": "787cd7543718",
       "title": "See PR scans in action",
       "url": "https://openai.com/business/learn/pr-scans-demo",
@@ -159,6 +199,20 @@
         "p3"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "556aee5cf74a",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source": "OpenAI",
+      "published": "2026-11-19T00:00:00+00:00",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "phases": [
+        "p4",
+        "p5"
+      ],
+      "category": "industry",
       "weight": 3
     },
     {
@@ -248,12 +302,12 @@
       "weight": 3
     },
     {
-      "id": "6cc0bdc2d009",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "id": "a2f695ac2f9b",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
       "published": "2026-11-18T00:00:00+00:00",
-      "summary": "OpenAI models optimized circuits used in Jalape\u00f1o silicon and improved RISC\u2011V core designs, showing progress in AI-assisted chip design with GPT\u20116 Astra.",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
       "phases": [
         "p1"
       ],
@@ -261,12 +315,12 @@
       "weight": 3
     },
     {
-      "id": "a2f695ac2f9b",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "id": "6cc0bdc2d009",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "source": "OpenAI",
       "published": "2026-11-18T00:00:00+00:00",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "summary": "OpenAI models optimized circuits used in Jalape\u00f1o silicon and improved RISC\u2011V core designs, showing progress in AI-assisted chip design with GPT\u20116 Astra.",
       "phases": [
         "p1"
       ],
@@ -326,19 +380,6 @@
       "weight": 3
     },
     {
-      "id": "fa0dad41f938",
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
-      "published": "2026-11-17T00:00:00+00:00",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "phases": [
-        "p1"
-      ],
-      "category": "industry",
-      "weight": 3
-    },
-    {
       "id": "f2812a4ba9a1",
       "title": "Astra for Law leads in legal intelligence",
       "url": "https://openai.com/index/astra-law-6-2",
@@ -350,6 +391,19 @@
         "p4"
       ],
       "category": "models",
+      "weight": 3
+    },
+    {
+      "id": "fa0dad41f938",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI",
+      "published": "2026-11-17T00:00:00+00:00",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "phases": [
+        "p1"
+      ],
+      "category": "industry",
       "weight": 3
     },
     {
@@ -1261,19 +1315,6 @@
       "weight": 3
     },
     {
-      "id": "d0861db8fca9",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "source": "OpenAI",
-      "published": "2026-11-02T00:00:00+00:00",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "phases": [
-        "p1"
-      ],
-      "category": "models",
-      "weight": 3
-    },
-    {
       "id": "bc0ed259e6eb",
       "title": "Qodo builds context into AI code review with Codex",
       "url": "https://openai.com/index/qodo-codex-plugin",
@@ -1288,6 +1329,19 @@
         "p5"
       ],
       "category": "industry",
+      "weight": 3
+    },
+    {
+      "id": "d0861db8fca9",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI",
+      "published": "2026-11-02T00:00:00+00:00",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "phases": [
+        "p1"
+      ],
+      "category": "models",
       "weight": 3
     },
     {
@@ -1599,73 +1653,16 @@
       "weight": 3
     },
     {
-      "id": "8c674f38f9d9",
-      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab\u2019s AI science benchmark",
-      "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
-      "source": "Import AI",
-      "published": "2026-11-23T14:11:17+00:00",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. Subscribe now Chinese researchers optimize Huawei chips with a kernel improvement benchmark:\u2026AscendGYM will help China do its own form of RSI\u2026Researchers with th",
-      "phases": [
-        "p4"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "dd1199899b51",
-      "title": "The Download: AI\u2019s judgment problem and carbon removal\u2019s crop threat",
-      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "id": "e3357160a21f",
+      "title": "A legendary philosopher isn\u2019t buying Anthropic\u2019s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
       "source": "MIT Tech Review",
-      "published": "2026-11-23T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capa",
-      "phases": [
-        "p4"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "855fe82a9449",
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-23T11:00:00+00:00",
-      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and",
-      "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
-      ],
-      "category": "industry",
-      "weight": 2
-    },
-    {
-      "id": "fec02ded2ed3",
-      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
-      "url": "https://arxiv.org/abs/2611.26663",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-23T00:00:00-05:00",
-      "summary": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavio",
-      "phases": [
-        "p2",
-        "p3"
-      ],
-      "category": "research",
-      "weight": 2
-    },
-    {
-      "id": "b84fd6411264",
-      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
-      "url": "https://arxiv.org/abs/2611.26717",
-      "source": "ArXiv cs.AI",
-      "published": "2026-11-23T00:00:00-05:00",
-      "summary": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We stud",
+      "published": "2026-11-23T17:36:08+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. G",
       "phases": [
         "p1"
       ],
-      "category": "research",
+      "category": "industry",
       "weight": 2
     }
   ]
