@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T01:15:23.914568+00:00",
+  "generated": "2026-11-26T15:56:41.857551+00:00",
   "count": 120,
   "articles": [
     {
@@ -1588,90 +1588,89 @@
       "weight": 3
     },
     {
-      "id": "8c368ae02674",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "source": "OpenAI",
-      "published": "2026-10-27T15:00:00+00:00",
-      "summary": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "id": "d6d5e4635fe4",
+      "title": "The Download: Better bionic hands and AI\u2019s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-26T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The next generation of bionic hands is here\u2014and they can feel Avi Davidson lost his left hand as a teenager. Since then, he&#8217;",
       "phases": [
         "p1",
+        "p2",
         "p3",
+        "p4",
+        "p5"
+      ],
+      "category": "models",
+      "weight": 2
+    },
+    {
+      "id": "bacf1389cf53",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "HuggingFace",
+      "published": "2026-11-26T11:37:17+00:00",
+      "summary": "",
+      "phases": [
+        "p1",
         "p4"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
-      "id": "866a8680f78e",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "OpenAI",
-      "published": "2026-10-27T07:00:00+00:00",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "id": "9e1edee22241",
+      "title": "The next generation of bionic hands is here\u2014and they can feel",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "source": "MIT Tech Review",
+      "published": "2026-11-26T09:59:00+00:00",
+      "summary": "Avi Davidson lost his left hand as a teenager. Since then, he\u2019s cycled through a few prosthetics. But his latest is different\u2014it\u2019s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle ",
       "phases": [
         "p1",
-        "p3"
+        "p2",
+        "p3",
+        "p4",
+        "p5"
       ],
       "category": "models",
-      "weight": 3
+      "weight": 2
     },
     {
-      "id": "085bba6f6fed",
-      "title": "Where scientists draw the line on AI agents",
-      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "id": "1fcdbabd38e1",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "source": "HuggingFace",
-      "published": "2026-11-25T18:52:55+00:00",
+      "published": "2026-11-26T05:05:36+00:00",
       "summary": "",
       "phases": [
-        "p3"
-      ],
-      "category": "models",
-      "weight": 2
-    },
-    {
-      "id": "a33de435eff5",
-      "title": "How data centers are driving a US natural-gas boom",
-      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-25T17:00:00+00:00",
-      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I\u2019ve lost count of how many times he\u2019s already been proved right. Sure, it\u2019s technically possible to meet the world\u2019s rising electricity de",
-      "phases": [
         "p1",
-        "p2",
-        "p3",
-        "p4",
         "p5"
       ],
       "category": "models",
       "weight": 2
     },
     {
-      "id": "4efa556b512f",
-      "title": "The Download: AI swamping open records, and firefighting for permafrost",
-      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-      "source": "MIT Tech Review",
-      "published": "2026-11-25T13:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America\u2019s open records systems AI has intensified investors&#8217; interest in public records. Over the last few y",
+      "id": "09410a217371",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-26T00:00:00-05:00",
+      "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readin",
       "phases": [
-        "p1",
-        "p2",
-        "p3",
-        "p4",
-        "p5"
+        "p1"
       ],
       "category": "research",
       "weight": 2
     },
     {
-      "id": "7b1bdc5dda43",
-      "title": "An Indic Voice Agent with CUGA",
-      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "source": "HuggingFace",
-      "published": "2026-11-25T10:22:09+00:00",
-      "summary": "",
+      "id": "64a6b8acf076",
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161",
+      "source": "ArXiv cs.AI",
+      "published": "2026-11-26T00:00:00-05:00",
+      "summary": "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mat",
       "phases": [
-        "p3"
+        "p1"
       ],
       "category": "models",
       "weight": 2
